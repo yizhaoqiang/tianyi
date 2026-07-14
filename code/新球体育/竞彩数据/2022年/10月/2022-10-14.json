@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2022-10-15 00:30",
+    "matchId": "2216360",
+    "league": "德乙",
+    "home": "菲尔特",
+    "away": "罗斯托克",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.00",
+        "d": "3.13",
+        "l": "3.15"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.35",
+        "d": "3.50",
+        "l": "1.61"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.13",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.61",
+      "score_result": "2:2",
+      "score_odds": "12.50",
+      "goal_result": "4",
+      "goal_odds": "6.00",
+      "half_full_result": "3-1",
+      "half_full_odds": "16.00"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2022-10-15 02:00",
+    "matchId": "2213316",
+    "league": "荷甲",
+    "home": "埃门",
+    "away": "福伦丹",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.73",
+        "d": "3.55",
+        "l": "3.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.22",
+        "d": "3.70",
+        "l": "1.80"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.55",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.80",
+      "score_result": "1:1",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.75",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.00"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2022-10-15 02:00",
+    "matchId": "2217282",
+    "league": "荷乙",
+    "home": "布雷达",
+    "away": "海牙",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.25",
+        "d": "3.30",
+        "l": "2.57"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.60",
+        "d": "4.25",
+        "l": "1.46"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.57",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.46",
+      "score_result": "1:2",
+      "score_odds": "9.00",
+      "goal_result": "3",
+      "goal_odds": "3.30",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.50"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2022-10-15 02:00",
+    "matchId": "2217284",
+    "league": "荷乙",
+    "home": "FC埃因霍温",
+    "away": "奥斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.47",
+        "d": "3.75",
+        "l": "5.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.70",
+        "d": "3.16",
+        "l": "2.22"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.47",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.16",
+      "score_result": "2:1",
+      "score_odds": "6.20",
+      "goal_result": "3",
+      "goal_odds": "2.95",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.02"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2022-10-15 02:30",
+    "matchId": "2215662",
+    "league": "德甲",
+    "home": "沙尔克04",
+    "away": "霍芬海姆",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.60",
+        "d": "3.70",
+        "l": "1.70"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.84",
+        "d": "3.65",
+        "l": "3.14"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.70",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.14",
+      "score_result": "0:3",
+      "score_odds": "15.00",
+      "goal_result": "3",
+      "goal_odds": "3.35",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.70"
+    }
+  }
+]

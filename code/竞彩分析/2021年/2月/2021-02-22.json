@@ -1,0 +1,308 @@
+{
+  "time": "2021-02-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_1-2_10875",
+        "handicap": "0_1_996",
+        "halfFull": "00_10_949",
+        "size": "3_3_1155"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-3_1-2_2-1_81562",
+        "handicap": "0_1_1_4184",
+        "halfFull": "00_10_13_5219",
+        "size": "3_3_3_4045"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_1-2_2-1_3-0_505687",
+        "handicap": "0_1_1_3_8577",
+        "halfFull": "00_10_13_33_7202",
+        "size": "3_3_3_3_13554"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_0_12951",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_0_0_27198",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_0_0_0_98458",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_0_0_0_0_188056",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_1-3_14625",
+        "handicap": "0_0_559",
+        "halfFull": "00_00_493",
+        "size": "3_4_1377"
+      },
+      "team": "001_008"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_1-2_0-2_1-3_763425",
+        "handicap": "0_1_0_0_6887",
+        "halfFull": "00_10_00_00_5048",
+        "size": "3_3_2_4_14045"
+      },
+      "team": "001_002_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2021-02-22 01:45",
+      "matchId": "1102826",
+      "league": "荷乙",
+      "home": "阿尔克马尔青年队",
+      "away": "前进之鹰",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.640",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.930",
+        "score_result": "0:3",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2021-02-22 03:00",
+      "matchId": "1114316",
+      "league": "葡超",
+      "home": "马里迪莫",
+      "away": "波尔图",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:2",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2021-02-22 03:30",
+      "matchId": "1107517",
+      "league": "德乙",
+      "home": "菲尔特",
+      "away": "基尔",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.330",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.200",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2021-02-22 03:45",
+      "matchId": "1116283",
+      "league": "意甲",
+      "home": "尤文图斯",
+      "away": "克罗托内",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "3:0",
+        "score_odds": "6.200",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.380"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2021-02-22 03:45",
+      "matchId": "1101821",
+      "league": "法乙",
+      "home": "甘冈",
+      "away": "卡昂",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "6.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2021-02-22 04:00",
+      "matchId": "1110191",
+      "league": "英超",
+      "home": "布赖顿",
+      "away": "水晶宫",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "1:2",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "0-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2021-02-22 04:00",
+      "matchId": "1114767",
+      "league": "西甲",
+      "home": "奥萨苏纳",
+      "away": "塞维利亚",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.740",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.620",
+        "score_result": "0:2",
+        "score_odds": "7.200",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2021-02-22 04:00",
+      "matchId": "1102828",
+      "league": "荷乙",
+      "home": "乌德勒支青年队",
+      "away": "坎布尔",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.910",
+        "score_result": "1:3",
+        "score_odds": "9.750",
+        "goal_result": "4",
+        "goal_odds": "4.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.900"
+      }
+    }
+  ]
+}

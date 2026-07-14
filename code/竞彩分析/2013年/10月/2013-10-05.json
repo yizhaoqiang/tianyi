@@ -1,0 +1,354 @@
+{
+  "time": "2013-10-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-1_9380",
+        "handicap": "0_3_580",
+        "halfFull": "11_13_2650",
+        "size": "2_4_1820"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_3-1_0-2_75040",
+        "handicap": "0_3_0_1428",
+        "halfFull": "11_13_00_5830",
+        "size": "2_4_2_6734"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-1_0-2_3-1_750400",
+        "handicap": "0_3_0_3_3485",
+        "halfFull": "11_13_00_13_24486",
+        "size": "2_4_2_4_33670"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_5750",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_3_15871",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_3_0_25712",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_3_0_3_48853",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_5-1_67000",
+        "handicap": "0_3_592",
+        "halfFull": "11_33_1616",
+        "size": "2_6_7350"
+      },
+      "team": "001_085"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-1_1-1_5-1_6566000",
+        "handicap": "0_3_0_3_5095",
+        "halfFull": "11_13_11_33_47686",
+        "size": "2_4_2_6_137591"
+      },
+      "team": "001_002_083_084"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2013-10-05 14:00",
+      "matchId": "591801",
+      "league": "J联赛",
+      "home": "磐田喜悦",
+      "away": "仙台维加泰",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "1:1",
+        "score_odds": "6.700",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2013-10-05 14:30",
+      "matchId": "591799",
+      "league": "J联赛",
+      "home": "新泻天鹅",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.010",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.820",
+        "score_result": "3:1",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2013-10-05 15:00",
+      "matchId": "591811",
+      "league": "J联赛",
+      "home": "大分三神",
+      "away": "大阪樱花",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.460",
+        "score_result": "0:2",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.200"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2013-10-05 15:00",
+      "matchId": "591773",
+      "league": "J联赛",
+      "home": "广岛三箭",
+      "away": "清水鼓动",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.440",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2013-10-05 15:00",
+      "matchId": "591810",
+      "league": "J联赛",
+      "home": "湘南海洋",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2013-10-05 15:00",
+      "matchId": "591777",
+      "league": "J联赛",
+      "home": "浦和红钻",
+      "away": "大宫松鼠",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.640",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.760",
+        "score_result": "4:0",
+        "score_odds": "25.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2013-10-05 18:00",
+      "matchId": "591807",
+      "league": "J联赛",
+      "home": "东京FC",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-2",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "1:4",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "7.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2013-10-05 18:00",
+      "matchId": "591766",
+      "league": "J联赛",
+      "home": "甲府风林",
+      "away": "横滨水手",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周六083",
+      "match_time": "2013-10-05 09:00",
+      "matchId": "589206",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "达拉斯FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.250",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.900"
+      }
+    },
+    {
+      "num": "周六084",
+      "match_time": "2013-10-05 10:00",
+      "matchId": "589203",
+      "league": "美职",
+      "home": "科罗拉多急流",
+      "away": "西雅图海湾人",
+      "result": {
+        "half": "4-0",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.020",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.900",
+        "score_result": "5:1",
+        "score_odds": "100.000",
+        "goal_result": "6",
+        "goal_odds": "21.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.050"
+      }
+    }
+  ]
+}

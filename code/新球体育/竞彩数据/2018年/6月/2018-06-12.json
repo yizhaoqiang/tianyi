@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周二101",
+    "match_time": "2018-06-12 21:05",
+    "matchId": "1543817",
+    "league": "国际友谊",
+    "home": "日本",
+    "away": "巴拉圭",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.20",
+        "d": "2.87",
+        "l": "2.14"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "8.25",
+        "d": "4.65",
+        "l": "1.26"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "4-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.20",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "8.25",
+      "score_result": "4:2",
+      "score_odds": "150.00",
+      "goal_result": "6",
+      "goal_odds": "42.00",
+      "half_full_result": "0-3",
+      "half_full_odds": "28.00"
+    }
+  },
+  {
+    "num": "周二102",
+    "match_time": "2018-06-13 08:30",
+    "matchId": "1509887",
+    "league": "巴西甲",
+    "home": "圣保罗",
+    "away": "维多利亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.27",
+        "d": "4.55",
+        "l": "8.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.07",
+        "d": "3.20",
+        "l": "3.00"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.27",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.07",
+      "score_result": "3:0",
+      "score_odds": "7.50",
+      "goal_result": "3",
+      "goal_odds": "3.30",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.76"
+    }
+  }
+]

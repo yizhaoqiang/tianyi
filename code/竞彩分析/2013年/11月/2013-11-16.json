@@ -1,0 +1,354 @@
+{
+  "time": "2013-11-16",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-1_15200",
+        "handicap": "0_1_1112",
+        "halfFull": "10_10_7980",
+        "size": "1_1_2565"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_0-1_1-3_273600",
+        "handicap": "0_1_0_1657",
+        "halfFull": "10_10_00_31920",
+        "size": "1_1_4_12825"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-1_1-3_1-1_1641600",
+        "handicap": "0_1_0_0_3248",
+        "halfFull": "10_10_00_11_159600",
+        "size": "1_1_4_2_41040"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_0_0_6008",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_0_0_1_21031",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_0_0_1_0_64776",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_0_0_1_0_0_90686",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-5_26600",
+        "handicap": "0_0_361",
+        "halfFull": "10_00_1904",
+        "size": "1_5_3705"
+      },
+      "team": "001_037"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-1_4-2_0-5_17024000",
+        "handicap": "0_1_3_0_4504",
+        "halfFull": "10_10_33_00_26046",
+        "size": "1_1_6_5_466830"
+      },
+      "team": "001_002_036_037"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2013-11-16 12:00",
+      "matchId": "662665",
+      "league": "天皇杯",
+      "home": "柏太阳神",
+      "away": "大分三神",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.680",
+        "score_result": "0:1",
+        "score_odds": "19.000",
+        "goal_result": "1",
+        "goal_odds": "5.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2013-11-16 12:00",
+      "matchId": "662666",
+      "league": "天皇杯",
+      "home": "清水鼓动",
+      "away": "仙台维加泰",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.330",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.150",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2013-11-16 14:00",
+      "matchId": "662667",
+      "league": "天皇杯",
+      "home": "鹿岛鹿角",
+      "away": "广岛三箭",
+      "result": {
+        "half": "0-3",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "1:3",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2013-11-16 14:30",
+      "matchId": "650588",
+      "league": "澳超",
+      "home": "珀斯光荣",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.960",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2013-11-16 16:00",
+      "matchId": "662664",
+      "league": "天皇杯",
+      "home": "大阪樱花",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.100"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2013-11-16 16:45",
+      "matchId": "612618",
+      "league": "澳超",
+      "home": "西悉尼漫步者",
+      "away": "墨尔本胜利",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2013-11-16 18:00",
+      "matchId": "662660",
+      "league": "天皇杯",
+      "home": "大宫松鼠",
+      "away": "东京FC",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.710",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.080",
+        "score_result": "0:3",
+        "score_odds": "16.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2013-11-16 19:00",
+      "matchId": "663776",
+      "league": "挪超",
+      "home": "兰赫姆",
+      "away": "萨尔普斯堡",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.320",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "0:2",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周六036",
+      "match_time": "2013-11-16 07:20",
+      "matchId": "619226",
+      "league": "阿甲",
+      "home": "圣洛伦索",
+      "away": "贝尔格拉诺",
+      "result": {
+        "half": "2-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.590",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.000",
+        "score_result": "4:2",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "28.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周六037",
+      "match_time": "2013-11-16 08:30",
+      "matchId": "663050",
+      "league": "友谊赛",
+      "home": "洪都拉斯",
+      "away": "巴西",
+      "result": {
+        "half": "0-1",
+        "full": "0-5",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "0:5",
+        "score_odds": "14.000",
+        "goal_result": "5",
+        "goal_odds": "6.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.360"
+      }
+    }
+  ]
+}

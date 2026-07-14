@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2022-07-16 01:00",
+    "matchId": "2225566",
+    "league": "俄超",
+    "home": "希姆基",
+    "away": "圣彼得堡泽尼特",
+    "finish_odds": {
+      "wdl": {
+        "w": "7.40",
+        "d": "4.75",
+        "l": "1.26"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.95",
+        "d": "3.45",
+        "l": "1.96"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.75",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.95",
+      "score_result": "1:1",
+      "score_odds": "8.50",
+      "goal_result": "2",
+      "goal_odds": "3.80",
+      "half_full_result": "0-1",
+      "half_full_odds": "19.00"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2022-07-16 02:30",
+    "matchId": "2216263",
+    "league": "德乙",
+    "home": "凯泽斯劳滕",
+    "away": "汉诺威96",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.34",
+        "d": "3.05",
+        "l": "2.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.17",
+        "d": "4.05",
+        "l": "1.43"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.34",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "4.05",
+      "score_result": "2:1",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.35",
+      "half_full_result": "3-3",
+      "half_full_odds": "4.25"
+    }
+  }
+]

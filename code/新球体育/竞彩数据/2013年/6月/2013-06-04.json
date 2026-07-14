@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周二001",
+    "match_time": "2013-06-04 18:30",
+    "matchId": "706895",
+    "league": "亚洲预选",
+    "home": "日本",
+    "away": "澳大利亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.94",
+        "d": "2.95",
+        "l": "3.75"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.90",
+        "d": "3.55",
+        "l": "1.72"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.95",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.72",
+      "score_result": "1:1",
+      "score_odds": "5.20",
+      "goal_result": "2",
+      "goal_odds": "3.10",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.10"
+    }
+  },
+  {
+    "num": "周二002",
+    "match_time": "2013-06-04 21:00",
+    "matchId": "706896",
+    "league": "亚洲预选",
+    "home": "阿曼",
+    "away": "伊拉克",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.35",
+        "d": "2.85",
+        "l": "2.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.10",
+        "d": "3.90",
+        "l": "1.50"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.35",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.90",
+      "score_result": "1:0",
+      "score_odds": "5.50",
+      "goal_result": "1",
+      "goal_odds": "3.20",
+      "half_full_result": "3-3",
+      "half_full_odds": "4.00"
+    }
+  },
+  {
+    "num": "周二003",
+    "match_time": "2013-06-05 00:15",
+    "matchId": "706875",
+    "league": "亚洲预选",
+    "home": "卡塔尔",
+    "away": "伊朗",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.20",
+        "d": "2.95",
+        "l": "2.13"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.63",
+        "d": "3.65",
+        "l": "4.35"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.13",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.65",
+      "score_result": "0:1",
+      "score_odds": "5.50",
+      "goal_result": "1",
+      "goal_odds": "3.35",
+      "half_full_result": "1-0",
+      "half_full_odds": "4.80"
+    }
+  },
+  {
+    "num": "周二004",
+    "match_time": "2013-06-05 01:30",
+    "matchId": "706876",
+    "league": "亚洲预选",
+    "home": "黎巴嫩",
+    "away": "韩国",
+    "finish_odds": {
+      "wdl": {
+        "w": "7.50",
+        "d": "4.40",
+        "l": "1.31"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "3.00",
+        "d": "3.35",
+        "l": "2.05"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.40",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "3.00",
+      "score_result": "1:1",
+      "score_odds": "7.50",
+      "goal_result": "2",
+      "goal_odds": "3.40",
+      "half_full_result": "3-1",
+      "half_full_odds": "20.00"
+    }
+  },
+  {
+    "num": "周二005",
+    "match_time": "2013-06-05 09:30",
+    "matchId": "814449",
+    "league": "北美预选",
+    "home": "牙买加",
+    "away": "墨西哥",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.20",
+        "d": "3.35",
+        "l": "1.58"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.15",
+        "d": "3.30",
+        "l": "2.85"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.58",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.30",
+      "score_result": "0:1",
+      "score_odds": "5.80",
+      "goal_result": "1",
+      "goal_odds": "3.70",
+      "half_full_result": "1-0",
+      "half_full_odds": "4.20"
+    }
+  }
+]

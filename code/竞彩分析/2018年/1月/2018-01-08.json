@@ -1,0 +1,236 @@
+{
+  "time": "2018-01-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_1-1_5415",
+        "handicap": "0_0_318",
+        "halfFull": "00_11_888",
+        "size": "3_2_1120"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-3_1-1_2-1_43320",
+        "handicap": "0_0_1_1289",
+        "halfFull": "00_11_33_4086",
+        "size": "3_2_3_4368"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_1-1_2-1_0-1_281580",
+        "handicap": "0_0_1_0_1779",
+        "halfFull": "00_11_33_00_18796",
+        "size": "3_2_3_1_15288"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_0_4607",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_0_0_8201",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_0-2_16150",
+        "handicap": "0_0_407",
+        "halfFull": "00_00_1096",
+        "size": "3_2_992"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_1-1_2-2_0-2_1472880",
+        "handicap": "0_0_0_0_1467",
+        "halfFull": "00_11_01_00_82434",
+        "size": "3_2_4_2_18401"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2018-01-08 16:50",
+      "matchId": "992025",
+      "league": "澳超",
+      "home": "布里斯班狮吼",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.290",
+        "score_result": "0:3",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.890"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2018-01-08 03:00",
+      "matchId": "967492",
+      "league": "葡超",
+      "home": "费雷拉",
+      "away": "波尔蒂芒尼斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.390",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2018-01-08 03:45",
+      "matchId": "1000391",
+      "league": "足总杯",
+      "home": "布赖顿",
+      "away": "水晶宫",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2018-01-08 04:00",
+      "matchId": "973889",
+      "league": "西甲",
+      "home": "马拉加",
+      "away": "西班牙人",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.680",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2018-01-08 04:00",
+      "matchId": "1000420",
+      "league": "法国杯",
+      "home": "朗斯",
+      "away": "布洛涅",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.960",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.590",
+        "score_result": "2:2",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2018-01-08 05:00",
+      "matchId": "967501",
+      "league": "葡超",
+      "home": "埃斯托里尔",
+      "away": "费伦斯",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.780",
+        "score_result": "0:2",
+        "score_odds": "17.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.800"
+      }
+    }
+  ]
+}

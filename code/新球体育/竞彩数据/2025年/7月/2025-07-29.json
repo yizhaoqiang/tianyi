@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周二001",
+    "match_time": "2025-07-29 23:00",
+    "matchId": "2826837",
+    "league": "欧冠杯",
+    "home": "阿拉木图凯拉特",
+    "away": "古比斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.32",
+        "d": "4.50",
+        "l": "6.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.08",
+        "d": "3.43",
+        "l": "2.80"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.32",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.08",
+      "score_result": "3:0",
+      "score_odds": "9.00",
+      "goal_result": "3",
+      "goal_odds": "3.40",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.97"
+    }
+  },
+  {
+    "num": "周二002",
+    "match_time": "2025-07-30 03:00",
+    "matchId": "2825935",
+    "league": "欧冠杯",
+    "home": "贝尔格莱德红星",
+    "away": "林肯红魔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.02",
+        "d": "4.74",
+        "l": "2.36"
+      },
+      "handicap": {
+        "line": "-3",
+        "w": "2.02",
+        "d": "4.74",
+        "l": "2.36"
+      }
+    },
+    "result": {
+      "half": "4-0",
+      "full": "5-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-3",
+      "handicap_result": "3",
+      "handicap_odds": "2.02",
+      "score_result": "5:1",
+      "score_odds": "15.50",
+      "goal_result": "6",
+      "goal_odds": "6.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.15"
+    }
+  }
+]

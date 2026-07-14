@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2023-02-03 04:00",
+    "matchId": "2335637",
+    "league": "意杯",
+    "home": "尤文图斯",
+    "away": "拉齐奥",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.97",
+        "d": "3.10",
+        "l": "3.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.10",
+        "d": "3.60",
+        "l": "1.62"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.97",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "1:0",
+      "score_odds": "6.50",
+      "goal_result": "1",
+      "goal_odds": "4.40",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.15"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2023-02-03 04:00",
+    "matchId": "2222383",
+    "league": "西甲",
+    "home": "皇家马德里",
+    "away": "巴伦西亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.23",
+        "d": "5.00",
+        "l": "7.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.84",
+        "d": "3.60",
+        "l": "3.15"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.23",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.84",
+      "score_result": "2:0",
+      "score_odds": "6.00",
+      "goal_result": "2",
+      "goal_odds": "3.55",
+      "half_full_result": "1-3",
+      "half_full_odds": "3.85"
+    }
+  }
+]

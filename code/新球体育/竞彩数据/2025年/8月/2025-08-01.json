@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2025-08-01 23:00",
+    "matchId": "2718324",
+    "league": "芬超",
+    "home": "VPS瓦萨",
+    "away": "玛丽港",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.38",
+        "d": "4.55",
+        "l": "5.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.38",
+        "d": "3.20",
+        "l": "2.52"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.55",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.52",
+      "score_result": "1:1",
+      "score_odds": "8.25",
+      "goal_result": "2",
+      "goal_odds": "4.20",
+      "half_full_result": "1-1",
+      "half_full_odds": "7.50"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2025-08-02 02:30",
+    "matchId": "2799713",
+    "league": "德乙",
+    "home": "沙尔克04",
+    "away": "柏林赫塔",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.00",
+        "d": "3.35",
+        "l": "2.01"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.60",
+        "d": "3.70",
+        "l": "4.30"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.00",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.60",
+      "score_result": "2:1",
+      "score_odds": "8.50",
+      "goal_result": "3",
+      "goal_odds": "3.35",
+      "half_full_result": "3-3",
+      "half_full_odds": "4.55"
+    }
+  }
+]

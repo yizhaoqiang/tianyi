@@ -1,0 +1,354 @@
+{
+  "time": "2022-02-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_1-1_4520",
+        "handicap": "3_3_344",
+        "halfFull": "00_31_2041",
+        "size": "1_2_2189"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_1-1_2-0_29380",
+        "handicap": "3_3_0_619",
+        "halfFull": "00_31_33_2612",
+        "size": "1_2_2_10727"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-1_2-0_2-3_1175200",
+        "handicap": "3_3_0_0_1487",
+        "halfFull": "00_31_33_10_32656",
+        "size": "1_2_2_5_91182"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_6620",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_0_10725",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_0_3_21880",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_0_3_0_43541",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_4-1_40000",
+        "handicap": "3_3_1134",
+        "halfFull": "00_33_628",
+        "size": "1_5_8340"
+      },
+      "team": "001_011"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-1_1-2_4-1_1808000",
+        "handicap": "3_3_1_3_7253",
+        "halfFull": "00_31_10_33_44902",
+        "size": "1_2_3_5_98516"
+      },
+      "team": "001_002_010_011"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2022-02-09 00:30",
+      "matchId": "1163147",
+      "league": "世俱杯",
+      "home": "希拉尔",
+      "away": "切尔西",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "+2",
+        "handicap_result": "3",
+        "handicap_odds": "2.100",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "6.950",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.570"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2022-02-09 03:45",
+      "matchId": "1136096",
+      "league": "英超",
+      "home": "诺维奇",
+      "away": "水晶宫",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.640",
+        "score_result": "1:1",
+        "score_odds": "5.650",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2022-02-09 03:45",
+      "matchId": "1136102",
+      "league": "英超",
+      "home": "曼城",
+      "away": "布伦特",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "2:0",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "4.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.280"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2022-02-09 03:45",
+      "matchId": "1136100",
+      "league": "英超",
+      "home": "热刺",
+      "away": "南安普敦",
+      "result": {
+        "half": "1-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "2:3",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "12.500"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2022-02-09 03:45",
+      "matchId": "1137146",
+      "league": "英冠",
+      "home": "谢菲联",
+      "away": "西布罗姆",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.450",
+        "score_result": "2:0",
+        "score_odds": "9.250",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2022-02-09 03:45",
+      "matchId": "1137141",
+      "league": "英冠",
+      "home": "布莱克本",
+      "away": "诺丁汉",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.380",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2022-02-09 03:45",
+      "matchId": "1137142",
+      "league": "英冠",
+      "home": "伯恩茅斯",
+      "away": "伯明翰",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.040",
+        "score_result": "3:1",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2022-02-09 04:00",
+      "matchId": "1136093",
+      "league": "英超",
+      "home": "维拉",
+      "away": "利兹联",
+      "result": {
+        "half": "3-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.990",
+        "score_result": "3:3",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "15.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周三010",
+      "match_time": "2022-02-09 04:00",
+      "matchId": "1163072",
+      "league": "国王杯",
+      "home": "巴列卡诺",
+      "away": "贝蒂斯",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.270",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周三011",
+      "match_time": "2022-02-09 04:15",
+      "matchId": "1163016",
+      "league": "法国杯",
+      "home": "尼斯",
+      "away": "马赛",
+      "result": {
+        "half": "2-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.400",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.400",
+        "score_result": "4:1",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "12.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.000"
+      }
+    }
+  ]
+}

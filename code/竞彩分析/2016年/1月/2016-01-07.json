@@ -1,0 +1,128 @@
+{
+  "time": "2016-01-07",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_2-3_65000",
+        "handicap": "0_0_611",
+        "halfFull": "00_30_13000",
+        "size": "3_5_4745"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-3_2-3_3-2_1625000",
+        "handicap": "0_0_1_2199",
+        "halfFull": "00_30_03_299000",
+        "size": "3_5_5_45077"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_3-2_32500",
+        "handicap": "0_1_1170",
+        "halfFull": "00_03_5980",
+        "size": "3_5_3467"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-3_2-3_3-2_1625000",
+        "handicap": "0_0_1_2199",
+        "halfFull": "00_30_03_299000",
+        "size": "3_5_5_45077"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2016-01-07 03:30",
+      "matchId": "846647",
+      "league": "国王杯",
+      "home": "加的斯",
+      "away": "维戈塞尔塔",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.710",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.250",
+        "score_result": "0:3",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2016-01-07 03:30",
+      "matchId": "846645",
+      "league": "国王杯",
+      "home": "埃瓦尔",
+      "away": "拉斯帕尔马斯",
+      "result": {
+        "half": "2-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.880",
+        "score_result": "2:3",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "13.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "50.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2016-01-07 03:45",
+      "matchId": "794929",
+      "league": "英甲",
+      "home": "维冈竞技",
+      "away": "吉灵汉姆",
+      "result": {
+        "half": "0-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "3:2",
+        "score_odds": "25.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "23.000"
+      }
+    }
+  ]
+}

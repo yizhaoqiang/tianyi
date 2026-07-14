@@ -1,0 +1,200 @@
+{
+  "time": "2023-04-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_1-4_150000",
+        "handicap": "3_0_638",
+        "halfFull": "03_00_6050",
+        "size": "6_5_25200"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-2_1-4_1-2_1275000",
+        "handicap": "3_0_1_2459",
+        "halfFull": "03_00_10_29342",
+        "size": "6_5_3_100800"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-2_1-4_1-2_0-0_17850000",
+        "handicap": "3_0_1_0_7673",
+        "halfFull": "03_00_10_11_220068",
+        "size": "6_5_3_0_1411200"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_3_11510",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_2-2_55000",
+        "handicap": "3_3_351",
+        "halfFull": "03_01_33750",
+        "size": "6_4_10080"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-2_1-4_0-0_2-2_23100000",
+        "handicap": "3_0_0_3_2989",
+        "halfFull": "03_00_11_01_612562",
+        "size": "6_5_0_4_1693439"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2023-04-27 01:30",
+      "matchId": "1176299",
+      "league": "西甲",
+      "home": "比利亚雷",
+      "away": "西班牙人",
+      "result": {
+        "half": "0-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.340",
+        "score_result": "4:2",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "21.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2023-04-27 02:45",
+      "matchId": "1171727",
+      "league": "英超",
+      "home": "埃弗顿",
+      "away": "纽卡斯尔",
+      "result": {
+        "half": "0-1",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.730",
+        "score_result": "1:4",
+        "score_odds": "30.000",
+        "goal_result": "5",
+        "goal_odds": "12.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.420"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2023-04-27 03:00",
+      "matchId": "1213523",
+      "league": "英冠",
+      "home": "罗瑟汉姆",
+      "away": "加的夫城",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.850"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2023-04-27 03:00",
+      "matchId": "1208438",
+      "league": "意大利杯",
+      "home": "佛罗伦萨",
+      "away": "克雷莫纳",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.120",
+        "score_result": "0:0",
+        "score_odds": "14.000",
+        "goal_result": "0",
+        "goal_odds": "14.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2023-04-27 03:15",
+      "matchId": "1171730",
+      "league": "英超",
+      "home": "热刺",
+      "away": "曼联",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.500"
+      }
+    }
+  ]
+}

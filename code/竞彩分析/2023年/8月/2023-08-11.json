@@ -1,0 +1,200 @@
+{
+  "time": "2023-08-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-2_7480",
+        "handicap": "0_0_335",
+        "halfFull": "11_00_3105",
+        "size": "2_3_1428"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-2_0-3_56100",
+        "handicap": "0_0_0_980",
+        "halfFull": "11_00_00_5123",
+        "size": "2_3_3_5355"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-2_0-3_1-1_350625",
+        "handicap": "0_0_0_3_1372",
+        "halfFull": "11_00_00_31_74287",
+        "size": "2_3_3_2_18207"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_2580",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-2_9520",
+        "handicap": "0_0_409",
+        "halfFull": "11_10_4725",
+        "size": "2_3_1224"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-2_1-1_1-2_654500",
+        "handicap": "0_0_3_0_883",
+        "halfFull": "11_00_31_10_393946",
+        "size": "2_3_2_3_17478"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2023-08-11 09:00",
+      "matchId": "1230817",
+      "league": "女足世界杯",
+      "home": "西班牙女",
+      "away": "荷兰女",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.180",
+        "score_result": "1:1",
+        "score_odds": "6.800",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2023-08-11 15:30",
+      "matchId": "1230825",
+      "league": "女足世界杯",
+      "home": "日本女",
+      "away": "瑞典女",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.080",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2023-08-11 03:00",
+      "matchId": "1216470",
+      "league": "英超",
+      "home": "伯恩利",
+      "away": "曼城",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.180",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "2.920",
+        "score_result": "0:3",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.650"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2023-08-11 03:00",
+      "matchId": "1225214",
+      "league": "法甲",
+      "home": "尼斯",
+      "away": "里尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.080",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.400",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.500"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2023-08-11 04:00",
+      "matchId": "1219004",
+      "league": "西甲",
+      "home": "塞维利亚",
+      "away": "巴伦西亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.880",
+        "score_result": "1:2",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.750"
+      }
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+[
+  {
+    "num": "周三001",
+    "match_time": "2017-01-25 12:00",
+    "matchId": "1343704",
+    "league": "日新杯",
+    "home": "札幌冈萨多",
+    "away": "千叶市原",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.84",
+        "d": "3.20",
+        "l": "3.66"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.72",
+        "d": "3.35",
+        "l": "1.78"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.20",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.78",
+      "score_result": "0:0",
+      "score_odds": "9.00",
+      "goal_result": "0",
+      "goal_odds": "9.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.00"
+    }
+  },
+  {
+    "num": "周三002",
+    "match_time": "2017-01-25 20:00",
+    "matchId": "1337462",
+    "league": "亚冠精英",
+    "home": "杰志",
+    "away": "河内",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.72",
+        "d": "3.45",
+        "l": "3.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.30",
+        "d": "3.45",
+        "l": "1.87"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.45",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.87",
+      "score_result": "1:1",
+      "score_odds": "6.30",
+      "goal_result": "2",
+      "goal_odds": "3.30",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.50"
+    }
+  },
+  {
+    "num": "周三003",
+    "match_time": "2017-01-26 01:30",
+    "matchId": "1342520",
+    "league": "荷兰杯",
+    "home": "乌德勒支",
+    "away": "坎布尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.28",
+        "d": "4.80",
+        "l": "7.15"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.02",
+        "d": "3.40",
+        "l": "2.95"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.80",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.95",
+      "score_result": "2:2",
+      "score_odds": "15.00",
+      "goal_result": "4",
+      "goal_odds": "4.70",
+      "half_full_result": "3-1",
+      "half_full_odds": "17.00"
+    }
+  },
+  {
+    "num": "周三004",
+    "match_time": "2017-01-26 02:15",
+    "matchId": "1343222",
+    "league": "西杯",
+    "home": "埃瓦尔",
+    "away": "马德里竞技",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.50",
+        "d": "3.40",
+        "l": "1.63"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.95",
+        "d": "3.25",
+        "l": "3.25"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.40",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.95",
+      "score_result": "2:2",
+      "score_odds": "14.00",
+      "goal_result": "4",
+      "goal_odds": "6.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.40"
+    }
+  },
+  {
+    "num": "周三005",
+    "match_time": "2017-01-26 03:00",
+    "matchId": "1337484",
+    "league": "非洲杯",
+    "home": "埃及",
+    "away": "加纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.00",
+        "d": "1.77",
+        "l": "4.35"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "7.60",
+        "d": "4.65",
+        "l": "1.28"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.00",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "4.65",
+      "score_result": "1:0",
+      "score_odds": "6.50",
+      "goal_result": "1",
+      "goal_odds": "4.85",
+      "half_full_result": "3-3",
+      "half_full_odds": "6.80"
+    }
+  },
+  {
+    "num": "周三006",
+    "match_time": "2017-01-26 03:00",
+    "matchId": "1337483",
+    "league": "非洲杯",
+    "home": "乌干达",
+    "away": "马里",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.85",
+        "d": "3.25",
+        "l": "1.54"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.19",
+        "d": "3.10",
+        "l": "2.86"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.25",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.19",
+      "score_result": "1:1",
+      "score_odds": "6.00",
+      "goal_result": "2",
+      "goal_odds": "3.05",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.00"
+    }
+  },
+  {
+    "num": "周三007",
+    "match_time": "2017-01-26 03:30",
+    "matchId": "1250195",
+    "league": "比甲",
+    "home": "布鲁日",
+    "away": "华斯兰德",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.08",
+        "d": "6.90",
+        "l": "17.00"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.40",
+        "d": "3.70",
+        "l": "2.26"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.08",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "2.26",
+      "score_result": "2:1",
+      "score_odds": "7.25",
+      "goal_result": "3",
+      "goal_odds": "3.55",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.40"
+    }
+  },
+  {
+    "num": "周三008",
+    "match_time": "2017-01-26 03:30",
+    "matchId": "1250202",
+    "league": "比甲",
+    "home": "韦斯特鲁",
+    "away": "安德莱赫特",
+    "finish_odds": {
+      "wdl": {
+        "w": "7.50",
+        "d": "4.65",
+        "l": "1.28"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "3.02",
+        "d": "3.35",
+        "l": "2.00"
+      }
+    },
+    "result": {
+      "half": "1-3",
+      "full": "2-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.28",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "2.00",
+      "score_result": "2:4",
+      "score_odds": "39.00",
+      "goal_result": "6",
+      "goal_odds": "13.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.75"
+    }
+  },
+  {
+    "num": "周三009",
+    "match_time": "2017-01-26 03:30",
+    "matchId": "1250198",
+    "league": "比甲",
+    "home": "洛克伦",
+    "away": "根特",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.85",
+        "d": "3.05",
+        "l": "1.85"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.73",
+        "d": "3.45",
+        "l": "3.85"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.73",
+      "score_result": "0:0",
+      "score_odds": "8.50",
+      "goal_result": "0",
+      "goal_odds": "8.50",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.10"
+    }
+  },
+  {
+    "num": "周三010",
+    "match_time": "2017-01-26 03:30",
+    "matchId": "1250200",
+    "league": "比甲",
+    "home": "圣图尔登",
+    "away": "梅赫伦",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.95",
+        "d": "3.18",
+        "l": "3.32"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.05",
+        "d": "3.65",
+        "l": "1.65"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.95",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.65",
+      "score_result": "2:1",
+      "score_odds": "6.50",
+      "goal_result": "3",
+      "goal_odds": "3.55",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.20"
+    }
+  },
+  {
+    "num": "周三011",
+    "match_time": "2017-01-26 03:45",
+    "matchId": "1253270",
+    "league": "英冠",
+    "home": "利兹联",
+    "away": "诺丁汉森林",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.44",
+        "d": "3.85",
+        "l": "5.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.75",
+        "d": "3.02",
+        "l": "2.30"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.44",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.75",
+      "score_result": "2:0",
+      "score_odds": "6.50",
+      "goal_result": "2",
+      "goal_odds": "3.05",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.10"
+    }
+  },
+  {
+    "num": "周三012",
+    "match_time": "2017-01-26 03:45",
+    "matchId": "1344591",
+    "league": "意杯",
+    "home": "尤文图斯",
+    "away": "AC米兰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.31",
+        "d": "4.20",
+        "l": "7.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.38",
+        "d": "2.87",
+        "l": "2.77"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.31",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "2.87",
+      "score_result": "2:1",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.55",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.80"
+    }
+  },
+  {
+    "num": "周三013",
+    "match_time": "2017-01-26 03:45",
+    "matchId": "1342522",
+    "league": "荷兰杯",
+    "home": "阿尔克马尔",
+    "away": "海伦芬",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.72",
+        "d": "3.70",
+        "l": "3.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.11",
+        "d": "3.70",
+        "l": "1.86"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.72",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.70",
+      "score_result": "1:0",
+      "score_odds": "8.50",
+      "goal_result": "1",
+      "goal_odds": "6.25",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.60"
+    }
+  },
+  {
+    "num": "周三014",
+    "match_time": "2017-01-26 03:45",
+    "matchId": "1275438",
+    "league": "苏超",
+    "home": "凯尔特人",
+    "away": "圣约翰斯通",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.11",
+        "d": "6.60",
+        "l": "13.00"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.68",
+        "d": "3.80",
+        "l": "2.03"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.11",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "2.03",
+      "score_result": "1:0",
+      "score_odds": "8.50",
+      "goal_result": "1",
+      "goal_odds": "7.75",
+      "half_full_result": "1-3",
+      "half_full_odds": "3.80"
+    }
+  },
+  {
+    "num": "周三024",
+    "match_time": "2017-01-26 03:45",
+    "matchId": "1345966",
+    "league": "苏总杯",
+    "home": "哈茨",
+    "away": "拉茨流浪者",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.18",
+        "d": "5.50",
+        "l": "10.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.70",
+        "d": "3.65",
+        "l": "3.75"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "5.50",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "3.75",
+      "score_result": "1:1",
+      "score_odds": "8.00",
+      "goal_result": "2",
+      "goal_odds": "3.60",
+      "half_full_result": "1-1",
+      "half_full_odds": "7.50"
+    }
+  },
+  {
+    "num": "周三015",
+    "match_time": "2017-01-26 04:00",
+    "matchId": "1333239",
+    "league": "英联杯",
+    "home": "利物浦",
+    "away": "南安普敦",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.32",
+        "d": "4.25",
+        "l": "7.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.11",
+        "d": "3.30",
+        "l": "2.84"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "7.30",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.84",
+      "score_result": "0:1",
+      "score_odds": "17.00",
+      "goal_result": "1",
+      "goal_odds": "5.40",
+      "half_full_result": "1-0",
+      "half_full_odds": "14.00"
+    }
+  },
+  {
+    "num": "周三016",
+    "match_time": "2017-01-26 04:00",
+    "matchId": "1343374",
+    "league": "法联杯",
+    "home": "摩纳哥",
+    "away": "南锡",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.20",
+        "d": "5.20",
+        "l": "9.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.77",
+        "d": "3.60",
+        "l": "3.49"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.20",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "1:0",
+      "score_odds": "5.80",
+      "goal_result": "1",
+      "goal_odds": "5.40",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.57"
+    }
+  },
+  {
+    "num": "周三017",
+    "match_time": "2017-01-26 04:15",
+    "matchId": "1343221",
+    "league": "西杯",
+    "home": "塞尔塔",
+    "away": "皇家马德里",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.50",
+        "d": "4.40",
+        "l": "1.39"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.50",
+        "d": "3.50",
+        "l": "2.26"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.40",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.50",
+      "score_result": "2:2",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "4.20",
+      "half_full_result": "3-1",
+      "half_full_odds": "15.00"
+    }
+  },
+  {
+    "num": "周三018",
+    "match_time": "2017-01-26 04:45",
+    "matchId": "1342450",
+    "league": "葡联杯",
+    "home": "塞图巴尔",
+    "away": "布拉加",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.70",
+        "d": "3.00",
+        "l": "1.91"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.68",
+        "d": "3.50",
+        "l": "4.05"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.91",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "4.05",
+      "score_result": "0:3",
+      "score_odds": "15.00",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.15"
+    }
+  },
+  {
+    "num": "周三025",
+    "match_time": "2017-01-26 05:00",
+    "matchId": "1344519",
+    "league": "巴超联杯",
+    "home": "费古埃伦斯",
+    "away": "隆迪那",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.75",
+        "d": "3.08",
+        "l": "4.28"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.80",
+        "d": "3.10",
+        "l": "1.84"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "4.28",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.84",
+      "score_result": "0:1",
+      "score_odds": "8.00",
+      "goal_result": "1",
+      "goal_odds": "3.30",
+      "half_full_result": "1-0",
+      "half_full_odds": "8.40"
+    }
+  },
+  {
+    "num": "周三026",
+    "match_time": "2017-01-26 07:45",
+    "matchId": "1343026",
+    "league": "国际友谊",
+    "home": "巴西",
+    "away": "哥伦比亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.66",
+        "d": "3.40",
+        "l": "4.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.10",
+        "d": "3.55",
+        "l": "1.91"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.66",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.55",
+      "score_result": "1:0",
+      "score_odds": "7.50",
+      "goal_result": "1",
+      "goal_odds": "5.20",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.60"
+    }
+  },
+  {
+    "num": "周三019",
+    "match_time": "2017-01-26 09:00",
+    "matchId": "1341683",
+    "league": "墨西哥杯",
+    "home": "贾奎斯",
+    "away": "内卡萨",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.44",
+        "d": "2.92",
+        "l": "2.65"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.35",
+        "d": "4.35",
+        "l": "6.30"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.92",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.35",
+      "score_result": "1:1",
+      "score_odds": "5.30",
+      "goal_result": "2",
+      "goal_odds": "3.10",
+      "half_full_result": "0-1",
+      "half_full_odds": "11.00"
+    }
+  },
+  {
+    "num": "周三020",
+    "match_time": "2017-01-26 09:00",
+    "matchId": "1341707",
+    "league": "墨西哥杯",
+    "home": "萨卡特佩克",
+    "away": "莱昂",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.25",
+        "d": "3.25",
+        "l": "1.95"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.65",
+        "d": "3.75",
+        "l": "3.90"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.95",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.90",
+      "score_result": "1:3",
+      "score_odds": "14.00",
+      "goal_result": "4",
+      "goal_odds": "4.80",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.15"
+    }
+  },
+  {
+    "num": "周三021",
+    "match_time": "2017-01-26 09:10",
+    "matchId": "1347512",
+    "league": "阿夏赛",
+    "home": "河床",
+    "away": "阿尔多斯维",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.45",
+        "d": "2.95",
+        "l": "2.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "8.65",
+        "d": "5.15",
+        "l": "1.22"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.00",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.22",
+      "score_result": "1:3",
+      "score_odds": "16.00",
+      "goal_result": "4",
+      "goal_odds": "6.50",
+      "half_full_result": "3-0",
+      "half_full_odds": "23.00"
+    }
+  },
+  {
+    "num": "周三022",
+    "match_time": "2017-01-26 10:30",
+    "matchId": "1341695",
+    "league": "墨西哥杯",
+    "home": "华雷斯",
+    "away": "蒙特雷",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.85",
+        "d": "3.55",
+        "l": "1.70"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.90",
+        "d": "3.40",
+        "l": "3.25"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.70",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.40",
+      "score_result": "0:1",
+      "score_odds": "7.50",
+      "goal_result": "1",
+      "goal_odds": "4.90",
+      "half_full_result": "1-0",
+      "half_full_odds": "4.75"
+    }
+  },
+  {
+    "num": "周三023",
+    "match_time": "2017-01-26 11:00",
+    "matchId": "1341677",
+    "league": "墨西哥杯",
+    "home": "普埃布拉",
+    "away": "阿特拉斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.30",
+        "d": "2.95",
+        "l": "2.82"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.10",
+        "d": "3.90",
+        "l": "1.48"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.30",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.90",
+      "score_result": "1:0",
+      "score_odds": "7.50",
+      "goal_result": "1",
+      "goal_odds": "4.20",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.95"
+    }
+  }
+]

@@ -1,0 +1,354 @@
+{
+  "time": "2014-10-03",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-1_4200",
+        "handicap": "3_0_376",
+        "halfFull": "33_31_2660",
+        "size": "2_2_1088"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_1-1_2-0_42000",
+        "handicap": "3_0_3_1994",
+        "halfFull": "33_31_13_14763",
+        "size": "2_2_2_3375"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-1_2-0_4-1_798000",
+        "handicap": "3_0_3_3_4986",
+        "halfFull": "33_31_13_33_32035",
+        "size": "2_2_2_5_25319"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_3_0_22687",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_3_0_1_82808",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_3_0_1_0_260848",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_3_0_1_0_0_383446",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-0_5700",
+        "handicap": "3_0_329",
+        "halfFull": "33_11_950",
+        "size": "2_0_3135"
+      },
+      "team": "001_032"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-1_2-0_0-0_339150",
+        "handicap": "3_0_3_0_2738",
+        "halfFull": "33_31_33_11_47215",
+        "size": "2_2_2_0_31553"
+      },
+      "team": "001_002_031_032"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2014-10-03 00:30",
+      "matchId": "709881",
+      "league": "德乙",
+      "home": "菲尔特",
+      "away": "奥厄",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.240",
+        "score_result": "2:0",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2014-10-03 00:30",
+      "matchId": "709898",
+      "league": "德乙",
+      "home": "波鸿",
+      "away": "纽伦堡",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2014-10-03 00:30",
+      "matchId": "709889",
+      "league": "德乙",
+      "home": "亚伦",
+      "away": "慕尼黑1860",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.400",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.300",
+        "score_result": "2:0",
+        "score_odds": "10.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.550"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2014-10-03 01:00",
+      "matchId": "669427",
+      "league": "瑞典超",
+      "home": "赫尔辛堡",
+      "away": "卡尔马",
+      "result": {
+        "half": "2-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.500",
+        "score_result": "4:1",
+        "score_odds": "19.000",
+        "goal_result": "5",
+        "goal_odds": "7.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.170"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2014-10-03 01:00",
+      "matchId": "666386",
+      "league": "挪超",
+      "home": "利勒斯特罗姆",
+      "away": "罗森博格",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.270",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.550",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.550"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2014-10-03 01:55",
+      "matchId": "704836",
+      "league": "荷乙",
+      "home": "阿尔梅勒城",
+      "away": "奈梅亨",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2014-10-03 01:55",
+      "matchId": "704855",
+      "league": "荷乙",
+      "home": "罗达JC",
+      "away": "埃因霍温青年队",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.150",
+        "score_result": "1:1",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "4.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2014-10-03 02:00",
+      "matchId": "702581",
+      "league": "法乙",
+      "home": "阿雅克肖",
+      "away": "尼奥尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "0:0",
+        "score_odds": "6.500",
+        "goal_result": "0",
+        "goal_odds": "6.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周五031",
+      "match_time": "2014-10-03 07:30",
+      "matchId": "715918",
+      "league": "阿甲",
+      "home": "拉普拉塔体操",
+      "away": "萨斯菲尔德",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.140",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.950",
+        "score_result": "2:0",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周五032",
+      "match_time": "2014-10-03 08:00",
+      "matchId": "665592",
+      "league": "美职",
+      "home": "华盛顿联",
+      "away": "堪萨斯城竞技",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    }
+  ]
+}

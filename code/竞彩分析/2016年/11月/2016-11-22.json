@@ -1,0 +1,354 @@
+{
+  "time": "2016-11-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-2_8100",
+        "handicap": "1_0_592",
+        "halfFull": "13_11_2013",
+        "size": "1_4_3094"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_2-2_1-1_50220",
+        "handicap": "1_0_3_1114",
+        "halfFull": "13_11_01_26181",
+        "size": "1_4_2_9591"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-2_1-1_2-1_426870",
+        "handicap": "1_0_3_1_4458",
+        "halfFull": "13_11_01_13_157091",
+        "size": "1_4_2_3_35008"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_3_7356",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_3_1_24642",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_3_1_3_36964",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_3_1_3_1_123830",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-1_4725",
+        "handicap": "1_1_1171",
+        "halfFull": "13_13_1634",
+        "size": "1_3_2380"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-2_3-2_2-1_1530900",
+        "handicap": "1_0_1_1_9097",
+        "halfFull": "13_11_33_13_36372",
+        "size": "1_4_5_3_117572"
+      },
+      "team": "001_002_023_024"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2016-11-22 16:30",
+      "matchId": "922444",
+      "league": "东南锦",
+      "home": "泰国",
+      "away": "新加坡",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.180",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "5.950",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2016-11-22 20:00",
+      "matchId": "922445",
+      "league": "东南锦",
+      "home": "菲律宾",
+      "away": "印度尼西亚",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2016-11-22 01:00",
+      "matchId": "913848",
+      "league": "欧冠",
+      "home": "莫斯科中央陆军",
+      "away": "勒沃库森",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.880",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2016-11-22 03:45",
+      "matchId": "913847",
+      "league": "欧冠",
+      "home": "摩纳哥",
+      "away": "托特纳姆热刺",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2016-11-22 03:45",
+      "matchId": "913850",
+      "league": "欧冠",
+      "home": "多特蒙德",
+      "away": "华沙军团",
+      "result": {
+        "half": "5-2",
+        "full": "8-4",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "胜其他",
+        "score_odds": "4.600",
+        "goal_result": "7+",
+        "goal_odds": "6.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.190"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2016-11-22 03:45",
+      "matchId": "913846",
+      "league": "欧冠",
+      "home": "里斯本竞技",
+      "away": "皇家马德里",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:2",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.830"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2016-11-22 03:45",
+      "matchId": "913836",
+      "league": "欧冠",
+      "home": "哥本哈根",
+      "away": "波尔图",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.630",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "0:0",
+        "score_odds": "6.000",
+        "goal_result": "0",
+        "goal_odds": "6.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2016-11-22 03:45",
+      "matchId": "913851",
+      "league": "欧冠",
+      "home": "莱切斯特城",
+      "away": "布鲁日",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周二023",
+      "match_time": "2016-11-22 09:00",
+      "matchId": "923011",
+      "league": "美职",
+      "home": "蒙特利尔冲击",
+      "away": "多伦多FC",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.860",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.650",
+        "score_result": "3:2",
+        "score_odds": "27.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周二024",
+      "match_time": "2016-11-22 11:00",
+      "matchId": "923016",
+      "league": "美职",
+      "home": "西雅图海湾人",
+      "away": "科罗拉多急流",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

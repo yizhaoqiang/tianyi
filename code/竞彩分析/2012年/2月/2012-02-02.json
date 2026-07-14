@@ -1,0 +1,164 @@
+{
+  "time": "2012-02-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-2_20700",
+        "handicap": "0_0_689",
+        "halfFull": "00_33_565",
+        "size": "3_5_2240"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_3-2_1-1_113850",
+        "handicap": "0_0_1_2273",
+        "halfFull": "00_33_01_7921",
+        "size": "3_5_2_7391"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-2_1-1_2-2_1764675",
+        "handicap": "0_0_1_1_7731",
+        "halfFull": "00_33_01_31_126739",
+        "size": "3_5_2_4_44351"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_2-2_13950",
+        "handicap": "0_1_890",
+        "halfFull": "00_31_6559",
+        "size": "3_4_2400"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-2_1-1_2-2_1764675",
+        "handicap": "0_0_1_1_7731",
+        "halfFull": "00_33_01_31_126739",
+        "size": "3_5_2_4_44351"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2012-02-02 03:45",
+      "matchId": "191015",
+      "league": "意甲",
+      "home": "诺瓦拉",
+      "away": "切沃",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.620",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.620",
+        "score_result": "1:2",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2012-02-02 03:45",
+      "matchId": "197246",
+      "league": "荷兰杯",
+      "home": "埃因霍温",
+      "away": "NEC尼美根",
+      "result": {
+        "half": "3-2",
+        "full": "3-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.630",
+        "score_result": "3:2",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "5.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.380"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2012-02-02 07:30",
+      "matchId": "197271",
+      "league": "解放者杯",
+      "home": "加拉加斯",
+      "away": "佩纳罗尔",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2012-02-02 10:00",
+      "matchId": "197272",
+      "league": "解放者杯",
+      "home": "老虎队",
+      "away": "艾斯潘诺拉",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:2",
+        "score_odds": "15.500",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    }
+  ]
+}

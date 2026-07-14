@@ -1,0 +1,236 @@
+{
+  "time": "2021-12-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_2-3_51200",
+        "handicap": "3_1_581",
+        "halfFull": "33_30_11110",
+        "size": "3_5_1884"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_2-3_1-0_460800",
+        "handicap": "3_1_3_966",
+        "halfFull": "33_30_33_64993",
+        "size": "3_5_1_9047"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_2-3_1-0_4-0_4147200",
+        "handicap": "3_1_3_3_1864",
+        "halfFull": "33_30_33_33_85141",
+        "size": "3_5_1_4_34834"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_0_3822",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_0_3_15746",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_3-1_51200",
+        "handicap": "3_3_655",
+        "halfFull": "33_33_1540",
+        "size": "3_4_1913"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_2-3_0-5_3-1_13107200",
+        "handicap": "3_1_0_3_4915",
+        "halfFull": "33_30_00_33_45406",
+        "size": "3_5_5_4_83976"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2021-12-17 01:30",
+      "matchId": "1138866",
+      "league": "德乙",
+      "home": "基尔",
+      "away": "圣保利",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "3:0",
+        "score_odds": "32.000",
+        "goal_result": "3",
+        "goal_odds": "2.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.050"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2021-12-17 03:00",
+      "matchId": "1136496",
+      "league": "荷乙",
+      "home": "阿尔梅勒城",
+      "away": "福伦丹",
+      "result": {
+        "half": "1-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.660",
+        "score_result": "2:3",
+        "score_odds": "16.000",
+        "goal_result": "5",
+        "goal_odds": "6.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2021-12-17 03:00",
+      "matchId": "1146127",
+      "league": "葡超",
+      "home": "圣克拉拉",
+      "away": "吉马良斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.520",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.850"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2021-12-17 03:30",
+      "matchId": "1138551",
+      "league": "德甲",
+      "home": "拜仁慕尼黑",
+      "away": "沃尔夫斯堡",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.930",
+        "score_result": "4:0",
+        "score_odds": "9.000",
+        "goal_result": "4",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.310"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2021-12-17 03:45",
+      "matchId": "1147894",
+      "league": "意甲",
+      "home": "萨勒尼塔纳",
+      "away": "国际米兰",
+      "result": {
+        "half": "0-2",
+        "full": "0-5",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "2.050",
+        "score_result": "0:5",
+        "score_odds": "16.000",
+        "goal_result": "5",
+        "goal_odds": "6.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.340"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2021-12-17 04:00",
+      "matchId": "1139946",
+      "league": "西甲",
+      "home": "维戈塞尔塔",
+      "away": "西班牙人",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.120",
+        "score_result": "3:1",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "6.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.050"
+      }
+    }
+  ]
+}

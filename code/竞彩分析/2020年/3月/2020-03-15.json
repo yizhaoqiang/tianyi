@@ -1,0 +1,112 @@
+{
+  "time": "2020-03-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_0-3_39000",
+        "handicap": "3_0_466",
+        "halfFull": "33_00_1004",
+        "size": "3_3_1056"
+      },
+      "team": "001_002"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2020-03-15 13:20",
+      "matchId": "1077091",
+      "league": "澳超",
+      "home": "惠灵顿凤凰",
+      "away": "墨尔本胜利",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.050",
+        "score_result": "3:0",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2020-03-15 15:20",
+      "matchId": "1077092",
+      "league": "澳超",
+      "home": "阿德莱德联",
+      "away": "纽卡斯尔喷气机",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "0:3",
+        "score_odds": "30.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2020-03-15 22:00",
+      "matchId": "1062277",
+      "league": "英超",
+      "home": "西汉姆联",
+      "away": "狼队",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "+1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2020-03-15 00:30",
+      "matchId": "1062275",
+      "league": "英超",
+      "home": "托特纳姆热刺",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "+1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    }
+  ]
+}

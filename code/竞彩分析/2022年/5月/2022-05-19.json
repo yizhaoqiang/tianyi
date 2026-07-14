@@ -1,0 +1,164 @@
+{
+  "time": "2022-05-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_1-1_14375",
+        "handicap": "1_0_537",
+        "halfFull": "03_01_31200",
+        "size": "5_2_4620"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_1-1_1-1_104218",
+        "handicap": "1_0_0_1414",
+        "halfFull": "03_01_11_241800",
+        "size": "5_2_2_18480"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_1-1_1-1_4-0_1980156",
+        "handicap": "1_0_0_3_3961",
+        "halfFull": "03_01_11_33_536796",
+        "size": "5_2_2_4_101639"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_4-0_43700",
+        "handicap": "1_3_923",
+        "halfFull": "03_33_5328",
+        "size": "5_4_7700"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_1-1_1-1_4-0_1980156",
+        "handicap": "1_0_0_3_3961",
+        "halfFull": "03_01_11_33_536796",
+        "size": "5_2_2_4_101639"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2022-05-19 02:45",
+      "matchId": "1166990",
+      "league": "英超",
+      "home": "埃弗顿",
+      "away": "水晶宫",
+      "result": {
+        "half": "0-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "3:2",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "14.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2022-05-19 03:00",
+      "matchId": "1166997",
+      "league": "英超",
+      "home": "维拉",
+      "away": "伯恩利",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2022-05-19 03:00",
+      "matchId": "1166996",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "莱切斯特",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.630",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.750"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2022-05-19 08:00",
+      "matchId": "1166662",
+      "league": "解放者杯",
+      "home": "河床",
+      "away": "科洛科洛",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.800",
+        "score_result": "4:0",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.220"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2024-09-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_7-0_19500",
+        "handicap": "0_3_622",
+        "halfFull": "10_33_4953",
+        "size": "1_7+_4770"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_7-0_1-3_1170000",
+        "handicap": "0_3_0_1431",
+        "halfFull": "10_33_30_272415",
+        "size": "1_7+_4_31004"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_7-0_1-3_1-0_11700000",
+        "handicap": "0_3_0_0_2863",
+        "halfFull": "10_33_30_33_343242",
+        "size": "1_7+_4_1_294547"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_1_8391",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_1_0_28111",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_1_0_0_52567",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_1_0_0_0_74120",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_3-0_24900",
+        "handicap": "0_3_404",
+        "halfFull": "10_13_14819",
+        "size": "1_3_1961"
+      },
+      "team": "001_013"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_7-0_4-0_3-0_6797700",
+        "handicap": "0_3_3_3_4421",
+        "halfFull": "10_33_33_13_59287",
+        "size": "1_7+_4_3_120013"
+      },
+      "team": "001_002_012_013"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2024-09-05 18:10",
+      "matchId": "1267443",
+      "league": "世亚预",
+      "home": "澳大利亚",
+      "away": "巴林",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "15.000",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.200",
+        "score_result": "0:1",
+        "score_odds": "30.000",
+        "goal_result": "1",
+        "goal_odds": "5.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "39.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2024-09-05 18:35",
+      "matchId": "1267445",
+      "league": "世亚预",
+      "home": "日本",
+      "away": "中国",
+      "result": {
+        "half": "2-0",
+        "full": "7-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "3",
+        "handicap_odds": "2.830",
+        "score_result": "胜其他",
+        "score_odds": "6.500",
+        "goal_result": "7+",
+        "goal_odds": "9.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.270"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2024-09-05 00:00",
+      "matchId": "1267437",
+      "league": "世亚预",
+      "home": "卡塔尔",
+      "away": "阿联酋",
+      "result": {
+        "half": "1-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "1:3",
+        "score_odds": "60.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "55.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2024-09-05 00:00",
+      "matchId": "1267439",
+      "league": "世亚预",
+      "home": "伊朗",
+      "away": "吉尔吉斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "0",
+        "handicap_odds": "2.000",
+        "score_result": "1:0",
+        "score_odds": "10.000",
+        "goal_result": "1",
+        "goal_odds": "9.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.260"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2024-09-05 00:00",
+      "matchId": "1267440",
+      "league": "世亚预",
+      "home": "伊拉克",
+      "away": "阿曼",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "2.930",
+        "score_result": "1:0",
+        "score_odds": "5.700",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.350"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2024-09-05 02:00",
+      "matchId": "1267441",
+      "league": "世亚预",
+      "home": "约旦",
+      "away": "科威特",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.350",
+        "score_result": "1:1",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-1",
+        "half_full_odds": "26.000"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2024-09-05 02:00",
+      "matchId": "1267444",
+      "league": "世亚预",
+      "home": "沙特",
+      "away": "印尼",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.400",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.870",
+        "score_result": "1:1",
+        "score_odds": "10.000",
+        "goal_result": "2",
+        "goal_odds": "4.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "9.500"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2024-09-05 02:45",
+      "matchId": "1250236",
+      "league": "欧国联",
+      "home": "苏格兰",
+      "away": "波兰",
+      "result": {
+        "half": "0-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "2:3",
+        "score_odds": "36.000",
+        "goal_result": "5",
+        "goal_odds": "15.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周四012",
+      "match_time": "2024-09-05 04:00",
+      "matchId": "1275699",
+      "league": "世南美预",
+      "home": "玻利维亚",
+      "away": "委内瑞拉",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.860",
+        "score_result": "4:0",
+        "score_odds": "42.000",
+        "goal_result": "4",
+        "goal_odds": "6.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周四013",
+      "match_time": "2024-09-05 08:00",
+      "matchId": "1275698",
+      "league": "世南美预",
+      "home": "阿根廷",
+      "away": "智利",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.840",
+        "score_result": "3:0",
+        "score_odds": "8.300",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    }
+  ]
+}

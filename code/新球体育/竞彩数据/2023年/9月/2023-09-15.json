@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2023-09-16 00:30",
+    "matchId": "2413678",
+    "league": "德乙",
+    "home": "帕德博恩",
+    "away": "韦恩",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.64",
+        "d": "3.85",
+        "l": "3.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.93",
+        "d": "3.65",
+        "l": "1.91"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.64",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.65",
+      "score_result": "2:1",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.35",
+      "half_full_result": "0-3",
+      "half_full_odds": "22.00"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2023-09-16 00:30",
+    "matchId": "2413677",
+    "league": "德乙",
+    "home": "纽伦堡",
+    "away": "菲尔特",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.35",
+        "d": "3.25",
+        "l": "2.46"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.39",
+        "d": "4.15",
+        "l": "5.60"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.25",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.39",
+      "score_result": "1:1",
+      "score_odds": "6.50",
+      "goal_result": "2",
+      "goal_odds": "3.90",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.65"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2023-09-16 02:30",
+    "matchId": "2412860",
+    "league": "德甲",
+    "home": "拜仁慕尼黑",
+    "away": "勒沃库森",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.45",
+        "d": "4.50",
+        "l": "4.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.23",
+        "d": "3.95",
+        "l": "2.29"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.50",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.29",
+      "score_result": "2:2",
+      "score_odds": "12.00",
+      "goal_result": "4",
+      "goal_odds": "4.20",
+      "half_full_result": "1-1",
+      "half_full_odds": "9.75"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2023-09-16 03:00",
+    "matchId": "2404339",
+    "league": "西甲",
+    "home": "巴列卡诺",
+    "away": "阿拉维斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.78",
+        "d": "2.82",
+        "l": "4.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.00",
+        "d": "3.15",
+        "l": "1.75"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.78",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.00",
+      "score_result": "2:0",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.15",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.15"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2023-09-16 03:00",
+    "matchId": "2410549",
+    "league": "法甲",
+    "home": "巴黎圣日耳曼",
+    "away": "尼斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.35",
+        "d": "4.35",
+        "l": "5.92"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.26",
+        "d": "3.30",
+        "l": "2.54"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "5.92",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.54",
+      "score_result": "2:3",
+      "score_odds": "55.00",
+      "goal_result": "5",
+      "goal_odds": "7.75",
+      "half_full_result": "1-0",
+      "half_full_odds": "14.00"
+    }
+  }
+]

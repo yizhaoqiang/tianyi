@@ -1,0 +1,354 @@
+{
+  "time": "2018-09-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-0_10000",
+        "handicap": "0_0_200",
+        "halfFull": "00_11_1634",
+        "size": "2_0_2760"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_0-0_0-1_90000",
+        "handicap": "0_0_0_284",
+        "halfFull": "00_11_00_6045",
+        "size": "2_0_1_13800"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-0_0-1_2-2_1170000",
+        "handicap": "0_0_0_0_611",
+        "halfFull": "00_11_00_11_39297",
+        "size": "2_0_1_4_53819"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_0_1026",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_0_0_1519",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_0_0_3_4285",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_0_0_3_0_6814",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-2_10625",
+        "handicap": "0_0_752",
+        "halfFull": "00_10_1862",
+        "size": "2_2_1000"
+      },
+      "team": "001_021"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-0_1-0_0-2_510000",
+        "handicap": "0_0_1_0_3896",
+        "halfFull": "00_11_13_10_36830",
+        "size": "2_0_1_2_29214"
+      },
+      "team": "001_002_018_019"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2018-09-09 17:00",
+      "matchId": "1008336",
+      "league": "J2联赛",
+      "home": "冈山绿雉",
+      "away": "千叶市原",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.530",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "0:2",
+        "score_odds": "12.500",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2018-09-09 17:00",
+      "matchId": "1008313",
+      "league": "J2联赛",
+      "home": "町田泽维亚",
+      "away": "水户蜀葵",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2018-09-09 18:00",
+      "matchId": "1008338",
+      "league": "J2联赛",
+      "home": "山口雷诺法",
+      "away": "山形山神",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.330",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.420",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2018-09-09 18:00",
+      "matchId": "1041165",
+      "league": "日联杯",
+      "home": "大阪樱花",
+      "away": "湘南海洋",
+      "result": {
+        "half": "2-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.150",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "3.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2018-09-09 18:00",
+      "matchId": "1041167",
+      "league": "日联杯",
+      "home": "柏太阳神",
+      "away": "甲府风林",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "0-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2018-09-09 18:00",
+      "matchId": "1041163",
+      "league": "日联杯",
+      "home": "川崎前锋",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "1:3",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2018-09-09 18:00",
+      "matchId": "1041161",
+      "league": "日联杯",
+      "home": "横滨水手",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.820",
+        "score_result": "3:1",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2018-09-09 19:00",
+      "matchId": "1030548",
+      "league": "英甲",
+      "home": "牛津联",
+      "away": "考文垂",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.080",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.590",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周日018",
+      "match_time": "2018-09-09 06:00",
+      "matchId": "1013032",
+      "league": "巴西甲",
+      "home": "维多利亚",
+      "away": "瓦斯科达伽马",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.180",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日019",
+      "match_time": "2018-09-09 06:00",
+      "matchId": "1013030",
+      "league": "巴西甲",
+      "home": "巴拉纳",
+      "away": "桑托斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.180",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.260",
+        "score_result": "0:2",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.900"
+      }
+    }
+  ]
+}

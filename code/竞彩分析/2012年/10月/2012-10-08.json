@@ -1,0 +1,164 @@
+{
+  "time": "2012-10-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_1-1_12600",
+        "handicap": "3_1_486",
+        "halfFull": "33_01_3120",
+        "size": "5_2_2380"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_1-1_0-0_119700",
+        "handicap": "3_1_1_1799",
+        "halfFull": "33_01_11_17160",
+        "size": "5_2_0_22610"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_1-1_0-0_0-1_778050",
+        "handicap": "3_1_1_0_4768",
+        "halfFull": "33_01_11_10_102959",
+        "size": "5_2_0_1_79135"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_0-1_11700",
+        "handicap": "3_0_363",
+        "halfFull": "33_10_1170",
+        "size": "5_1_2380"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_1-1_0-0_0-1_778050",
+        "handicap": "3_1_1_0_4768",
+        "halfFull": "33_01_11_10_102959",
+        "size": "5_2_0_1_79135"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2012-10-08 01:00",
+      "matchId": "201033",
+      "league": "挪超",
+      "home": "布兰",
+      "away": "赫纳福斯",
+      "result": {
+        "half": "1-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.370",
+        "score_result": "3:2",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "6.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2012-10-08 02:15",
+      "matchId": "208487",
+      "league": "德乙",
+      "home": "科隆",
+      "away": "德累斯顿",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2012-10-08 02:30",
+      "matchId": "207792",
+      "league": "法乙",
+      "home": "摩纳哥",
+      "away": "沙托鲁",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2012-10-08 03:15",
+      "matchId": "212954",
+      "league": "葡超",
+      "home": "摩雷伦斯",
+      "away": "马里迪莫",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.650",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    }
+  ]
+}

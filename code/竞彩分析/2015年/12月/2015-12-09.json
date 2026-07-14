@@ -1,0 +1,331 @@
+{
+  "time": "2015-12-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-1_13050",
+        "handicap": "0_3_589",
+        "halfFull": "11_11_4340",
+        "size": "0_2_6660"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_1-1_0-2_84825",
+        "handicap": "0_3_0_1013",
+        "halfFull": "11_11_10_16275",
+        "size": "0_2_2_25641"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_0-2_0-3_1442025",
+        "handicap": "0_3_0_0_3648",
+        "halfFull": "11_11_10_00_48011",
+        "size": "0_2_2_3_91025"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_3_15143",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_3_1_63601",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_3_1_0_167270",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_3_1_0_1_635629",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-0_11700",
+        "handicap": "0_0_727",
+        "halfFull": "11_11_3332",
+        "size": "0_0_11700"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_2-1_0-0_699806",
+        "handicap": "0_3_1_0_4590",
+        "halfFull": "11_11_33_11_57852",
+        "size": "0_2_3_0_158008"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2015-12-09 03:45",
+      "matchId": "830788",
+      "league": "欧冠",
+      "home": "罗马",
+      "away": "巴特",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.550",
+        "score_result": "0:0",
+        "score_odds": "18.000",
+        "goal_result": "0",
+        "goal_odds": "18.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.750"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2015-12-09 03:45",
+      "matchId": "830784",
+      "league": "欧冠",
+      "home": "勒沃库森",
+      "away": "巴塞罗那",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2015-12-09 03:45",
+      "matchId": "830797",
+      "league": "欧冠",
+      "home": "萨格勒布迪纳摩",
+      "away": "拜仁慕尼黑",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.720",
+        "score_result": "0:2",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2015-12-09 03:45",
+      "matchId": "830795",
+      "league": "欧冠",
+      "home": "奥林匹亚科斯",
+      "away": "阿森纳",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.600",
+        "score_result": "0:3",
+        "score_odds": "17.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2015-12-09 03:45",
+      "matchId": "830803",
+      "league": "欧冠",
+      "home": "切尔西",
+      "away": "波尔图",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.150",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2015-12-09 03:45",
+      "matchId": "830800",
+      "league": "欧冠",
+      "home": "基辅迪纳摩",
+      "away": "特拉维夫马卡比",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.090",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.200",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.450"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2015-12-09 03:45",
+      "matchId": "830815",
+      "league": "欧冠",
+      "home": "巴伦西亚",
+      "away": "里昂",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.630",
+        "score_result": "0:2",
+        "score_odds": "30.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2015-12-09 03:45",
+      "matchId": "830819",
+      "league": "欧冠",
+      "home": "根特",
+      "away": "圣彼得堡泽尼特",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "2:1",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周三009",
+      "match_time": "2015-12-09 08:00",
+      "matchId": "843637",
+      "league": "南俱杯",
+      "home": "圣菲独立",
+      "away": "飓风",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.050",
+        "score_result": "0:0",
+        "score_odds": "6.500",
+        "goal_result": "0",
+        "goal_odds": "6.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

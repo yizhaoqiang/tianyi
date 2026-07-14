@@ -1,0 +1,354 @@
+{
+  "time": "2023-01-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-1_4225",
+        "handicap": "3_0_316",
+        "halfFull": "31_11_8890",
+        "size": "2_2_1121"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-1_0-0_42250",
+        "handicap": "3_0_0_509",
+        "halfFull": "31_11_11_48894",
+        "size": "2_2_0_11212"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-1_0-0_1-0_380250",
+        "handicap": "3_0_0_3_759",
+        "halfFull": "31_11_11_33_207803",
+        "size": "2_2_0_1_55501"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_2788",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_3_5633",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_3_0_8224",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_3_0_3_12418",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_4-1_10400",
+        "handicap": "3_3_423",
+        "halfFull": "31_33_2016",
+        "size": "2_5_2437"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-1_1-0_4-1_1149200",
+        "handicap": "3_0_3_3_1855",
+        "halfFull": "31_11_13_33_153619",
+        "size": "2_2_1_5_54660"
+      },
+      "team": "001_002_025_026"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2023-01-15 12:00",
+      "matchId": "1194153",
+      "league": "澳超",
+      "home": "西悉尼",
+      "away": "墨尔本城",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.750",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2023-01-15 14:00",
+      "matchId": "1194154",
+      "league": "澳超",
+      "home": "西部联",
+      "away": "纽喷气机",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.810",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.350"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2023-01-15 19:15",
+      "matchId": "1170650",
+      "league": "荷甲",
+      "home": "维迪斯",
+      "away": "奈梅亨",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2023-01-15 19:15",
+      "matchId": "1171038",
+      "league": "荷乙",
+      "home": "阿尔梅勒",
+      "away": "威廉二世",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.490",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2023-01-15 19:30",
+      "matchId": "1176548",
+      "league": "意甲",
+      "home": "萨索洛",
+      "away": "拉齐奥",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.670",
+        "score_result": "0:2",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2023-01-15 20:00",
+      "matchId": "1172302",
+      "league": "法甲",
+      "home": "里尔",
+      "away": "特鲁瓦",
+      "result": {
+        "half": "2-0",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.020",
+        "score_result": "5:1",
+        "score_odds": "38.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.830"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2023-01-15 21:00",
+      "matchId": "1176159",
+      "league": "西甲",
+      "home": "赫塔费",
+      "away": "西班牙人",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.060",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "4.350",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2023-01-15 21:30",
+      "matchId": "1170652",
+      "league": "荷甲",
+      "home": "前进之鹰",
+      "away": "乌德勒支",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "2:2",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "4.750",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日025",
+      "match_time": "2023-01-15 03:45",
+      "matchId": "1172307",
+      "league": "法甲",
+      "home": "雷恩",
+      "away": "巴黎圣曼",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.420",
+        "score_result": "1:0",
+        "score_odds": "17.000",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周日026",
+      "match_time": "2023-01-15 04:30",
+      "matchId": "1188565",
+      "league": "葡超",
+      "home": "波尔图",
+      "away": "法马利康",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.420",
+        "score_result": "4:1",
+        "score_odds": "16.000",
+        "goal_result": "5",
+        "goal_odds": "7.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.440"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2023-07-28 16:30",
+    "matchId": "1208176",
+    "league": "女足世界杯",
+    "home": "英格兰女",
+    "away": "丹麦女",
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.480",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.100",
+      "score_result": "1:0",
+      "score_odds": "4.750",
+      "goal_result": "1",
+      "goal_odds": "4.000",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.400"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2023-07-28 19:00",
+    "matchId": "1210799",
+    "league": "女足世界杯",
+    "home": "中国女",
+    "away": "海地女",
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.450",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.110",
+      "score_result": "1:0",
+      "score_odds": "5.750",
+      "goal_result": "1",
+      "goal_odds": "4.500",
+      "half_full_result": "1-3",
+      "half_full_odds": "3.950"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2023-07-28 02:30",
+    "matchId": "1226248",
+    "league": "德乙",
+    "home": "汉堡",
+    "away": "沙尔克04",
+    "result": {
+      "half": "1-2",
+      "full": "5-3",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.200",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.800",
+      "score_result": "胜其他",
+      "score_odds": "38.000",
+      "goal_result": "7+",
+      "goal_odds": "17.000",
+      "half_full_result": "0-3",
+      "half_full_odds": "23.000"
+    }
+  }
+]

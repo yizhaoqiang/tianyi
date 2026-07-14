@@ -1,0 +1,38 @@
+[
+  {
+    "num": "周二001",
+    "match_time": "2013-12-31 15:05",
+    "matchId": "921600",
+    "league": "澳超",
+    "home": "中央海岸水手",
+    "away": "珀斯光荣",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.41",
+        "d": "3.60",
+        "l": "6.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.46",
+        "d": "3.20",
+        "l": "2.30"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.41",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.20",
+      "score_result": "2:1",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.80",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.12"
+    }
+  }
+]

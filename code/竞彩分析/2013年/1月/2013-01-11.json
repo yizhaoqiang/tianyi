@@ -1,0 +1,354 @@
+{
+  "time": "2013-01-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_2-2_43200",
+        "handicap": "3_1_619",
+        "halfFull": "33_01_4950",
+        "size": "5_4_8400"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_2-2_0-1_324000",
+        "handicap": "3_1_0_1920",
+        "halfFull": "33_01_00_25245",
+        "size": "5_4_1_29820"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_2-2_0-1_3-2_9720000",
+        "handicap": "3_1_0_3_4321",
+        "halfFull": "33_01_00_03_732104",
+        "size": "5_4_1_5_447300"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_8642",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_3_16851",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_3_0_84259",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_3_0_1_244353",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_1-2_28350",
+        "handicap": "3_0_756",
+        "halfFull": "33_10_2804",
+        "size": "5_3_4440"
+      },
+      "team": "001_013"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_2-2_0-0_1-2_9525600",
+        "handicap": "3_1_0_0_12489",
+        "halfFull": "33_01_11_10_462825",
+        "size": "5_4_0_3_652680"
+      },
+      "team": "001_002_012_013"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2013-01-11 16:30",
+      "matchId": "216745",
+      "league": "澳A联",
+      "home": "阿德莱德联",
+      "away": "珀斯光荣",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.100",
+        "score_result": "3:2",
+        "score_odds": "27.000",
+        "goal_result": "5",
+        "goal_odds": "12.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2013-01-11 02:00",
+      "matchId": "204681",
+      "league": "法甲",
+      "home": "圣埃蒂安",
+      "away": "图卢兹",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "2:2",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2013-01-11 03:00",
+      "matchId": "207889",
+      "league": "法乙",
+      "home": "勒阿弗尔",
+      "away": "甘冈",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.100",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2013-01-11 03:00",
+      "matchId": "207893",
+      "league": "法乙",
+      "home": "阿雅克肖GFCO",
+      "away": "伊斯特尔",
+      "result": {
+        "half": "0-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "3:2",
+        "score_odds": "30.000",
+        "goal_result": "5",
+        "goal_odds": "15.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "29.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2013-01-11 03:00",
+      "matchId": "207888",
+      "league": "法乙",
+      "home": "尼奥尔",
+      "away": "图尔",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.000",
+        "score_result": "3:1",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "6.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2013-01-11 03:00",
+      "matchId": "207884",
+      "league": "法乙",
+      "home": "第戎",
+      "away": "勒芒",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.950",
+        "score_result": "3:0",
+        "score_odds": "18.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2013-01-11 03:00",
+      "matchId": "207892",
+      "league": "法乙",
+      "home": "南特",
+      "away": "尼姆",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.000",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "5.000",
+        "score_result": "1:2",
+        "score_odds": "16.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2013-01-11 03:00",
+      "matchId": "207885",
+      "league": "法乙",
+      "home": "沙托鲁",
+      "away": "色当",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.900",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周五012",
+      "match_time": "2013-01-11 04:00",
+      "matchId": "204687",
+      "league": "法甲",
+      "home": "巴黎圣日尔曼",
+      "away": "阿雅克肖",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "5.600",
+        "score_result": "0:0",
+        "score_odds": "21.000",
+        "goal_result": "0",
+        "goal_odds": "21.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "11.000"
+      }
+    },
+    {
+      "num": "周五013",
+      "match_time": "2013-01-11 04:30",
+      "matchId": "208911",
+      "league": "西甲",
+      "home": "毕尔巴鄂竞技",
+      "away": "巴列卡诺",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.600",
+        "score_result": "1:2",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    }
+  ]
+}

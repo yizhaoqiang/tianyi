@@ -1,0 +1,200 @@
+{
+  "time": "2022-07-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-3_3909",
+        "handicap": "0_0_339",
+        "halfFull": "_00_120",
+        "size": "2_3_2992"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_0-3_1-2_28347",
+        "handicap": "0_0_1_1101",
+        "halfFull": "_00_00_359",
+        "size": "2_3_3_10625"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-3_1-2_1-1_141737",
+        "handicap": "0_0_1_3_1586",
+        "halfFull": "_00_00_01_5399",
+        "size": "2_3_3_2_31344"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_0_2110",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-0_5525",
+        "handicap": "0_0_276",
+        "halfFull": "_11_409",
+        "size": "2_0_5330"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-3_1-1_0-0_127074",
+        "handicap": "0_0_3_0_649",
+        "halfFull": "_00_01_11_7380",
+        "size": "2_3_2_0_57390"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2022-07-20 14:30",
+      "matchId": "1180337",
+      "league": "女足东亚杯",
+      "home": "中国女",
+      "away": "中国台女",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-4",
+        "handicap_result": "0",
+        "handicap_odds": "2.080",
+        "score_result": "2:0",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "8.200",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2022-07-20 18:00",
+      "matchId": "1180331",
+      "league": "东亚杯",
+      "home": "中国",
+      "away": "韩国",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "0:3",
+        "score_odds": "4.600",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.200"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2022-07-20 00:00",
+      "matchId": "1191464",
+      "league": "欧冠",
+      "home": "赫尔辛基",
+      "away": "比尔森",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:2",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2022-07-20 01:00",
+      "matchId": "1170501",
+      "league": "欧冠",
+      "home": "海马卡比",
+      "away": "奥林匹亚",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.830",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.440",
+        "score_result": "1:1",
+        "score_odds": "5.000",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2022-07-20 02:15",
+      "matchId": "1191494",
+      "league": "欧冠",
+      "home": "马里博尔",
+      "away": "谢里夫",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.330",
+        "score_result": "0:0",
+        "score_odds": "6.500",
+        "goal_result": "0",
+        "goal_odds": "6.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    }
+  ]
+}

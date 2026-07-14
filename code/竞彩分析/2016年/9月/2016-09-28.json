@@ -1,0 +1,354 @@
+{
+  "time": "2016-09-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_2-0_21600",
+        "handicap": "3_3_581",
+        "halfFull": "33_33_413",
+        "size": "5_2_4657"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-1_2-0_1-3_194400",
+        "handicap": "3_3_0_1122",
+        "halfFull": "33_33_10_1570",
+        "size": "5_2_4_22123"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_2-0_1-3_1-1_1030319",
+        "handicap": "3_3_0_0_1672",
+        "halfFull": "33_33_10_31_17273",
+        "size": "5_2_4_2_65263"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_4297",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_1_16329",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_1_3_57152",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_1_3_3_82299",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_1-0_28800",
+        "handicap": "3_1_1324",
+        "halfFull": "33_33_527",
+        "size": "5_1_6670"
+      },
+      "team": "001_033"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_2-0_1-1_1-0_950400",
+        "handicap": "3_3_0_1_3474",
+        "halfFull": "33_33_11_33_3593",
+        "size": "5_2_2_1_79689"
+      },
+      "team": "001_002_032_033"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2016-09-28 18:00",
+      "matchId": "917277",
+      "league": "亚冠杯",
+      "home": "全北现代",
+      "away": "首尔FC",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.680",
+        "score_result": "4:1",
+        "score_odds": "36.000",
+        "goal_result": "5",
+        "goal_odds": "11.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2016-09-28 02:45",
+      "matchId": "913794",
+      "league": "欧冠",
+      "home": "阿森纳",
+      "away": "巴塞尔",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "2:0",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "4.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.450"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2016-09-28 02:45",
+      "matchId": "913795",
+      "league": "欧冠",
+      "home": "卢多戈雷茨",
+      "away": "巴黎圣日尔曼",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.930",
+        "score_result": "1:3",
+        "score_odds": "9.000",
+        "goal_result": "4",
+        "goal_odds": "4.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2016-09-28 02:45",
+      "matchId": "913805",
+      "league": "欧冠",
+      "home": "贝西克塔斯",
+      "away": "基辅迪纳摩",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "1:1",
+        "score_odds": "5.300",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "3-1",
+        "half_full_odds": "11.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2016-09-28 02:45",
+      "matchId": "913793",
+      "league": "欧冠",
+      "home": "那不勒斯",
+      "away": "本菲卡",
+      "result": {
+        "half": "1-0",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.570",
+        "score_result": "4:2",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2016-09-28 02:45",
+      "matchId": "913800",
+      "league": "欧冠",
+      "home": "门兴格拉德巴赫",
+      "away": "巴塞罗那",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-0",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2016-09-28 02:45",
+      "matchId": "913799",
+      "league": "欧冠",
+      "home": "凯尔特人",
+      "away": "曼彻斯特城",
+      "result": {
+        "half": "2-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "3.500",
+        "score_result": "3:3",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "9.350",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.350"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2016-09-28 02:45",
+      "matchId": "913808",
+      "league": "欧冠",
+      "home": "马德里竞技",
+      "away": "拜仁慕尼黑",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.440",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周三032",
+      "match_time": "2016-09-28 10:00",
+      "matchId": "917579",
+      "league": "墨西哥杯",
+      "home": "华雷斯",
+      "away": "瓦哈卡",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.660",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周三033",
+      "match_time": "2016-09-28 10:30",
+      "matchId": "850239",
+      "league": "美职",
+      "home": "西雅图海湾人",
+      "away": "芝加哥火焰",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "5.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    }
+  ]
+}

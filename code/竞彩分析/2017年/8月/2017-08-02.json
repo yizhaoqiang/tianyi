@@ -1,0 +1,354 @@
+{
+  "time": "2017-08-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_2-0_28600",
+        "handicap": "3_3_879",
+        "halfFull": "33_33_2193",
+        "size": "5_2_2625"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_2-0_3-1_357500",
+        "handicap": "3_3_3_3008",
+        "halfFull": "33_33_13_10091",
+        "size": "5_2_4_12468"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_2-0_3-1_1-3_3753750",
+        "handicap": "3_3_3_0_7371",
+        "halfFull": "33_33_13_00_18164",
+        "size": "5_2_4_4_64837"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_1_25432",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_1_3_38657",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_1_3_3_100510",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_1_3_3_0_166847",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_4-2_156000",
+        "handicap": "3_3_561",
+        "halfFull": "33_13_2632",
+        "size": "5_6_12600"
+      },
+      "team": "001_040"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_2-0_1-1_4-2_9867000",
+        "handicap": "3_3_0_3_3753",
+        "halfFull": "33_33_11_13_40639",
+        "size": "5_2_2_6_148837"
+      },
+      "team": "001_002_036_037"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2017-08-02 17:30",
+      "matchId": "969022",
+      "league": "足总杯",
+      "home": "布莱克敦城",
+      "away": "中央海岸水手",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "3:2",
+        "score_odds": "26.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.750"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2017-08-02 18:00",
+      "matchId": "934124",
+      "league": "K联赛",
+      "home": "全南天龙",
+      "away": "尚州尚武",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.150",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2017-08-02 18:30",
+      "matchId": "934144",
+      "league": "K联赛",
+      "home": "首尔FC",
+      "away": "江原FC",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.420",
+        "score_result": "3:1",
+        "score_odds": "12.500",
+        "goal_result": "4",
+        "goal_odds": "4.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2017-08-02 18:30",
+      "matchId": "934117",
+      "league": "K联赛",
+      "home": "仁川联",
+      "away": "全北现代",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.450",
+        "score_result": "1:3",
+        "score_odds": "10.500",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2017-08-02 18:30",
+      "matchId": "934145",
+      "league": "K联赛",
+      "home": "浦项制铁",
+      "away": "光州FC",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.830",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "3:2",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2017-08-02 18:30",
+      "matchId": "934131",
+      "league": "K联赛",
+      "home": "蔚山现代",
+      "away": "水原三星",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2017-08-02 19:00",
+      "matchId": "934157",
+      "league": "K联赛",
+      "home": "济州联",
+      "away": "大邱FC",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.600",
+        "score_result": "2:0",
+        "score_odds": "7.200",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.920"
+      }
+    },
+    {
+      "num": "周三038",
+      "match_time": "2017-08-02 23:45",
+      "matchId": "977700",
+      "league": "奥迪杯",
+      "home": "拜仁慕尼黑",
+      "away": "那不勒斯",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.060",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.660",
+        "score_result": "0:2",
+        "score_odds": "18.000",
+        "goal_result": "2",
+        "goal_odds": "4.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.250"
+      }
+    },
+    {
+      "num": "周三036",
+      "match_time": "2017-08-02 10:00",
+      "matchId": "974735",
+      "league": "墨西哥杯",
+      "home": "老虎大学",
+      "away": "蓝十字",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "1:1",
+        "score_odds": "5.750",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周三037",
+      "match_time": "2017-08-02 10:00",
+      "matchId": "974745",
+      "league": "墨西哥杯",
+      "home": "瓜达拉哈拉",
+      "away": "华雷斯",
+      "result": {
+        "half": "2-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.650",
+        "score_result": "4:2",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "18.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.900"
+      }
+    }
+  ]
+}

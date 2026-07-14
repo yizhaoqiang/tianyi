@@ -1,0 +1,354 @@
+{
+  "time": "2018-09-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_2-2_26600",
+        "handicap": "3_0_333",
+        "halfFull": "03_11_15000",
+        "size": "4_4_2726"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_2-2_2-1_186200",
+        "handicap": "3_0_0_707",
+        "halfFull": "03_11_13_53250",
+        "size": "4_4_3_9132"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_2-2_2-1_1-1_1396500",
+        "handicap": "3_0_0_3_1663",
+        "halfFull": "03_11_13_31_852000",
+        "size": "4_4_3_2_35158"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_4076",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_1_15286",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_1_3_23234",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_1_3_0_32528",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-1_14250",
+        "handicap": "3_0_231",
+        "halfFull": "03_10_18600",
+        "size": "4_1_1972"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_2-2_2-1_0-1_2094750",
+        "handicap": "3_0_3_0_835",
+        "halfFull": "03_11_13_10_755625",
+        "size": "4_4_3_1_38927"
+      },
+      "team": "001_002_014_015"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2018-09-17 22:00",
+      "matchId": "1024432",
+      "league": "亚冠杯",
+      "home": "波斯波利斯",
+      "away": "多哈杜海勒",
+      "result": {
+        "half": "0-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.330",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.380",
+        "score_result": "3:1",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "0-3",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2018-09-17 00:00",
+      "matchId": "1024436",
+      "league": "亚冠杯",
+      "home": "多哈萨德",
+      "away": "德黑兰独立",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.420",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2018-09-17 01:00",
+      "matchId": "1002227",
+      "league": "瑞典超",
+      "home": "赫根",
+      "away": "特雷勒堡",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.160",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.120",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2018-09-17 01:00",
+      "matchId": "1002230",
+      "league": "瑞典超",
+      "home": "天狼星",
+      "away": "哈马比",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.350",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2018-09-17 01:00",
+      "matchId": "1002184",
+      "league": "瑞典超",
+      "home": "卡尔马",
+      "away": "达尔库尔德人",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.450",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2018-09-17 01:00",
+      "matchId": "1002961",
+      "league": "挪超",
+      "home": "莫尔德",
+      "away": "克里斯蒂安松",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.270",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "3:2",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "6.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2018-09-17 02:00",
+      "matchId": "1036418",
+      "league": "荷乙",
+      "home": "阿贾克斯青年队",
+      "away": "海尔蒙特",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.140",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "4.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.490"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2018-09-17 02:30",
+      "matchId": "1033221",
+      "league": "德乙",
+      "home": "马格德堡",
+      "away": "比勒费尔德",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.080",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周一014",
+      "match_time": "2018-09-17 07:00",
+      "matchId": "1013041",
+      "league": "巴西甲",
+      "home": "沙佩科恩斯",
+      "away": "巴西国际",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.170",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.490",
+        "score_result": "2:1",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周一015",
+      "match_time": "2018-09-17 08:00",
+      "matchId": "1041465",
+      "league": "阿甲",
+      "home": "罗萨里奥中央",
+      "away": "防御与正义",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.750"
+      }
+    }
+  ]
+}

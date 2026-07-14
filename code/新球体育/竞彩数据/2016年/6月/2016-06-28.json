@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周二101",
+    "match_time": "2016-06-29 08:30",
+    "matchId": "1248321",
+    "league": "美公开赛",
+    "home": "芝加哥火焰",
+    "away": "哥伦布机员",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.15",
+        "d": "3.20",
+        "l": "2.88"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.60",
+        "d": "3.95",
+        "l": "1.52"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.15",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.95",
+      "score_result": "2:1",
+      "score_odds": "7.50",
+      "goal_result": "3",
+      "goal_odds": "3.55",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.45"
+    }
+  },
+  {
+    "num": "周二102",
+    "match_time": "2016-06-29 10:00",
+    "matchId": "1248322",
+    "league": "美公开赛",
+    "home": "皇家盐湖城",
+    "away": "西雅图海湾人",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.47",
+        "d": "4.15",
+        "l": "4.95"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.70",
+        "d": "3.15",
+        "l": "2.27"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.15",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.27",
+      "score_result": "1:1",
+      "score_odds": "7.80",
+      "goal_result": "2",
+      "goal_odds": "3.45",
+      "half_full_result": "3-1",
+      "half_full_odds": "14.00"
+    }
+  }
+]

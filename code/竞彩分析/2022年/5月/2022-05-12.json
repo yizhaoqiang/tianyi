@@ -1,0 +1,128 @@
+{
+  "time": "2022-05-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_3-0_14850",
+        "handicap": "1_3_1614",
+        "halfFull": "13_33_1716",
+        "size": "1_3_1942"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_3-0_6-0_237600",
+        "handicap": "1_3_3_3423",
+        "halfFull": "13_33_33_3260",
+        "size": "1_3_6_19425"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_6-0_13200",
+        "handicap": "1_3_805",
+        "halfFull": "13_33_987",
+        "size": "1_6_5550"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_3-0_6-0_237600",
+        "handicap": "1_3_3_3423",
+        "halfFull": "13_33_33_3260",
+        "size": "1_3_6_19425"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2022-05-12 01:00",
+      "matchId": "1160301",
+      "league": "挪超",
+      "home": "特罗姆瑟",
+      "away": "瓦勒伦加",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.130",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "8.250",
+        "goal_result": "1",
+        "goal_odds": "5.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2022-05-12 02:45",
+      "matchId": "1166995",
+      "league": "英超",
+      "home": "热刺",
+      "away": "阿森纳",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.020",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.250",
+        "score_result": "3:0",
+        "score_odds": "18.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2022-05-12 03:30",
+      "matchId": "1140128",
+      "league": "西甲",
+      "home": "皇马",
+      "away": "莱万特",
+      "result": {
+        "half": "4-0",
+        "full": "6-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "胜其他",
+        "score_odds": "16.000",
+        "goal_result": "6",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2023-04-30 18:30",
+    "matchId": "2223098",
+    "league": "意甲",
+    "home": "国际米兰",
+    "away": "拉齐奥",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.70",
+        "d": "3.35",
+        "l": "3.95"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.38",
+        "d": "3.30",
+        "l": "1.85"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.70",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.38",
+      "score_result": "3:1",
+      "score_odds": "16.00",
+      "goal_result": "4",
+      "goal_odds": "6.50",
+      "half_full_result": "0-3",
+      "half_full_odds": "25.00"
+    }
+  },
+  {
+    "num": "周日002",
+    "match_time": "2023-04-30 19:30",
+    "matchId": "2216521",
+    "league": "德乙",
+    "home": "杜塞尔多夫",
+    "away": "卡尔斯鲁厄",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.87",
+        "d": "3.48",
+        "l": "3.15"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.65",
+        "d": "3.75",
+        "l": "1.67"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.87",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.75",
+      "score_result": "3:2",
+      "score_odds": "21.00",
+      "goal_result": "5",
+      "goal_odds": "7.45",
+      "half_full_result": "1-3",
+      "half_full_odds": "5.25"
+    }
+  },
+  {
+    "num": "周日003",
+    "match_time": "2023-04-30 19:30",
+    "matchId": "2216524",
+    "league": "德乙",
+    "home": "荷尔斯泰因",
+    "away": "达姆施塔特",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.71",
+        "d": "3.55",
+        "l": "1.70"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.85",
+        "d": "3.40",
+        "l": "3.28"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.70",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.28",
+      "score_result": "0:3",
+      "score_odds": "18.00",
+      "goal_result": "3",
+      "goal_odds": "3.75",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.80"
+    }
+  },
+  {
+    "num": "周日004",
+    "match_time": "2023-04-30 21:00",
+    "matchId": "2213873",
+    "league": "英超",
+    "home": "曼彻斯特联",
+    "away": "阿斯顿维拉",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.55",
+        "d": "3.80",
+        "l": "4.35"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.69",
+        "d": "3.55",
+        "l": "2.06"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.55",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.55",
+      "score_result": "1:0",
+      "score_odds": "8.25",
+      "goal_result": "1",
+      "goal_odds": "6.95",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.48"
+    }
+  },
+  {
+    "num": "周日005",
+    "match_time": "2023-04-30 21:00",
+    "matchId": "2213877",
+    "league": "英超",
+    "home": "富勒姆",
+    "away": "曼彻斯特城",
+    "finish_odds": {
+      "wdl": {
+        "w": "10.00",
+        "d": "5.65",
+        "l": "1.16"
+      },
+      "handicap": {
+        "line": "2",
+        "w": "1.90",
+        "d": "3.95",
+        "l": "2.78"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.16",
+      "handicap": "+2",
+      "handicap_result": "3",
+      "handicap_odds": "1.90",
+      "score_result": "1:2",
+      "score_odds": "8.25",
+      "goal_result": "3",
+      "goal_odds": "3.75",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.57"
+    }
+  },
+  {
+    "num": "周日006",
+    "match_time": "2023-04-30 21:00",
+    "matchId": "2325139",
+    "league": "瑞典超",
+    "home": "瓦尔贝里",
+    "away": "卡尔马",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.58",
+        "d": "3.10",
+        "l": "1.86"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.68",
+        "d": "3.60",
+        "l": "3.75"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.10",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.68",
+      "score_result": "0:0",
+      "score_odds": "10.00",
+      "goal_result": "0",
+      "goal_odds": "10.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.50"
+    }
+  },
+  {
+    "num": "周日007",
+    "match_time": "2023-04-30 21:00",
+    "matchId": "2325138",
+    "league": "瑞典超",
+    "home": "马尔默",
+    "away": "哈马比",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.52",
+        "d": "3.80",
+        "l": "4.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.65",
+        "d": "3.50",
+        "l": "2.10"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "4-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.52",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.65",
+      "score_result": "4:2",
+      "score_odds": "45.00",
+      "goal_result": "6",
+      "goal_odds": "18.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.35"
+    }
+  },
+  {
+    "num": "周日008",
+    "match_time": "2023-04-30 21:30",
+    "matchId": "2215837",
+    "league": "德甲",
+    "home": "拜仁慕尼黑",
+    "away": "柏林赫塔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.30",
+        "d": "4.25",
+        "l": "2.13"
+      },
+      "handicap": {
+        "line": "-3",
+        "w": "2.30",
+        "d": "4.25",
+        "l": "2.13"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-3",
+      "handicap_result": "0",
+      "handicap_odds": "2.13",
+      "score_result": "2:0",
+      "score_odds": "8.50",
+      "goal_result": "2",
+      "goal_odds": "6.75",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.70"
+    }
+  },
+  {
+    "num": "周日009",
+    "match_time": "2023-04-30 21:30",
+    "matchId": "2225752",
+    "league": "俄超",
+    "home": "索契",
+    "away": "莫斯科鱼雷",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.35",
+        "d": "4.10",
+        "l": "6.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.19",
+        "d": "3.45",
+        "l": "2.55"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.35",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.19",
+      "score_result": "3:1",
+      "score_odds": "10.50",
+      "goal_result": "4",
+      "goal_odds": "5.25",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.00"
+    }
+  },
+  {
+    "num": "周日010",
+    "match_time": "2023-04-30 22:30",
+    "matchId": "2237186",
+    "league": "葡超",
+    "home": "埃斯托里尔",
+    "away": "圣克拉拉",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.90",
+        "d": "3.00",
+        "l": "3.57"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.10",
+        "d": "3.45",
+        "l": "1.65"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.90",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.10",
+      "score_result": "3:0",
+      "score_odds": "17.00",
+      "goal_result": "3",
+      "goal_odds": "4.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.35"
+    }
+  },
+  {
+    "num": "周日011",
+    "match_time": "2023-04-30 23:00",
+    "matchId": "2325372",
+    "league": "挪超",
+    "home": "维京",
+    "away": "汉坎",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.48",
+        "d": "3.80",
+        "l": "5.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.72",
+        "d": "3.15",
+        "l": "2.20"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "胜其他",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.48",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.72",
+      "score_result": "胜其他",
+      "score_odds": "40.00",
+      "goal_result": "7+",
+      "goal_odds": "34.00",
+      "half_full_result": "0-3",
+      "half_full_odds": "23.00"
+    }
+  },
+  {
+    "num": "周日012",
+    "match_time": "2023-04-30 23:00",
+    "matchId": "2325369",
+    "league": "挪超",
+    "home": "斯托姆加斯特",
+    "away": "特罗姆瑟",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.98",
+        "d": "3.15",
+        "l": "3.16"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.22",
+        "d": "3.65",
+        "l": "1.59"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.16",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.59",
+      "score_result": "0:1",
+      "score_odds": "9.75",
+      "goal_result": "1",
+      "goal_odds": "5.15",
+      "half_full_result": "1-0",
+      "half_full_odds": "6.35"
+    }
+  },
+  {
+    "num": "周日013",
+    "match_time": "2023-04-30 23:00",
+    "matchId": "2325371",
+    "league": "挪超",
+    "home": "桑德菲杰",
+    "away": "奥勒松",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.15",
+        "d": "2.90",
+        "l": "3.05"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.75",
+        "d": "3.70",
+        "l": "1.52"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.15",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.75",
+      "score_result": "4:0",
+      "score_odds": "45.00",
+      "goal_result": "4",
+      "goal_odds": "7.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.75"
+    }
+  },
+  {
+    "num": "周日014",
+    "match_time": "2023-04-30 23:00",
+    "matchId": "2325367",
+    "league": "挪超",
+    "home": "莫尔德",
+    "away": "斯塔贝克",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.27",
+        "d": "4.60",
+        "l": "7.50"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "3.60",
+        "d": "4.15",
+        "l": "1.61"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "7.50",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "1.61",
+      "score_result": "2:3",
+      "score_odds": "45.00",
+      "goal_result": "5",
+      "goal_odds": "7.75",
+      "half_full_result": "0-0",
+      "half_full_odds": "12.50"
+    }
+  },
+  {
+    "num": "周日015",
+    "match_time": "2023-04-30 23:00",
+    "matchId": "2325368",
+    "league": "挪超",
+    "home": "海于格松",
+    "away": "萨普斯堡",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.53",
+        "d": "3.30",
+        "l": "2.27"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.47",
+        "d": "4.10",
+        "l": "4.65"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.30",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.47",
+      "score_result": "0:0",
+      "score_odds": "15.00",
+      "goal_result": "0",
+      "goal_odds": "15.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.00"
+    }
+  },
+  {
+    "num": "周日016",
+    "match_time": "2023-04-30 23:05",
+    "matchId": "2216209",
+    "league": "法甲",
+    "home": "巴黎圣日耳曼",
+    "away": "洛里昂",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.08",
+        "d": "4.05",
+        "l": "2.43"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.08",
+        "d": "4.05",
+        "l": "2.43"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "2.43",
+      "score_result": "1:3",
+      "score_odds": "150.00",
+      "goal_result": "4",
+      "goal_odds": "4.30",
+      "half_full_result": "0-0",
+      "half_full_odds": "27.00"
+    }
+  },
+  {
+    "num": "周日017",
+    "match_time": "2023-04-30 23:30",
+    "matchId": "2213871",
+    "league": "英超",
+    "home": "利物浦",
+    "away": "托特纳姆热刺",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.42",
+        "d": "4.40",
+        "l": "4.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.23",
+        "d": "3.65",
+        "l": "2.40"
+      }
+    },
+    "result": {
+      "half": "3-1",
+      "full": "4-3",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.42",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.65",
+      "score_result": "4:3",
+      "score_odds": "19.00",
+      "goal_result": "7+",
+      "goal_odds": "10.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.05"
+    }
+  },
+  {
+    "num": "周日018",
+    "match_time": "2023-04-30 23:30",
+    "matchId": "2325140",
+    "league": "瑞典超",
+    "home": "代格福什",
+    "away": "尤尔加登",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.05",
+        "d": "3.60",
+        "l": "1.63"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.92",
+        "d": "3.45",
+        "l": "3.05"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "4.05",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.92",
+      "score_result": "2:1",
+      "score_odds": "12.00",
+      "goal_result": "3",
+      "goal_odds": "3.75",
+      "half_full_result": "1-3",
+      "half_full_odds": "10.00"
+    }
+  },
+  {
+    "num": "周日019",
+    "match_time": "2023-04-30 23:59",
+    "matchId": "2225756",
+    "league": "俄超",
+    "home": "莫斯科火车头",
+    "away": "希姆基",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.32",
+        "d": "4.60",
+        "l": "6.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.98",
+        "d": "3.70",
+        "l": "2.75"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "5-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.32",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.98",
+      "score_result": "5:1",
+      "score_odds": "33.00",
+      "goal_result": "6",
+      "goal_odds": "9.75",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.94"
+    }
+  },
+  {
+    "num": "周日020",
+    "match_time": "2023-05-01 01:00",
+    "matchId": "2237184",
+    "league": "葡超",
+    "home": "波尔图",
+    "away": "博阿维斯塔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.32",
+        "d": "3.85",
+        "l": "2.23"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.32",
+        "d": "3.85",
+        "l": "2.23"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "2.23",
+      "score_result": "1:0",
+      "score_odds": "7.25",
+      "goal_result": "1",
+      "goal_odds": "6.30",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.15"
+    }
+  },
+  {
+    "num": "周日021",
+    "match_time": "2023-05-01 01:15",
+    "matchId": "2325370",
+    "league": "挪超",
+    "home": "奥德",
+    "away": "罗森博格",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.61",
+        "d": "3.10",
+        "l": "2.31"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.45",
+        "d": "4.10",
+        "l": "4.85"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.10",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.45",
+      "score_result": "0:0",
+      "score_odds": "12.00",
+      "goal_result": "0",
+      "goal_odds": "12.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.50"
+    }
+  },
+  {
+    "num": "周日022",
+    "match_time": "2023-05-01 02:45",
+    "matchId": "2223099",
+    "league": "意甲",
+    "home": "博洛尼亚",
+    "away": "尤文图斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.45",
+        "d": "3.00",
+        "l": "1.94"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.62",
+        "d": "3.40",
+        "l": "4.40"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.00",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.62",
+      "score_result": "1:1",
+      "score_odds": "5.85",
+      "goal_result": "2",
+      "goal_odds": "3.00",
+      "half_full_result": "3-1",
+      "half_full_odds": "17.00"
+    }
+  },
+  {
+    "num": "周日023",
+    "match_time": "2023-05-01 03:30",
+    "matchId": "2237189",
+    "league": "葡超",
+    "home": "葡萄牙体育",
+    "away": "法马利康",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.16",
+        "d": "5.40",
+        "l": "11.00"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.88",
+        "d": "3.80",
+        "l": "1.89"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.16",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "1.89",
+      "score_result": "2:1",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.65",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.60"
+    }
+  }
+]

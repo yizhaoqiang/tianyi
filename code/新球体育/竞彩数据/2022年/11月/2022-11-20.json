@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周日101",
+    "match_time": "2022-11-20 21:30",
+    "matchId": "2217338",
+    "league": "荷乙",
+    "home": "多德勒支",
+    "away": "威廉二世",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.90",
+        "d": "4.25",
+        "l": "1.43"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.30",
+        "d": "3.43",
+        "l": "2.42"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.25",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.30",
+      "score_result": "2:2",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "4.40",
+      "half_full_result": "3-1",
+      "half_full_odds": "17.00"
+    }
+  },
+  {
+    "num": "周日001",
+    "match_time": "2022-11-20 23:59",
+    "matchId": "2185072",
+    "league": "世界杯",
+    "home": "卡塔尔",
+    "away": "厄瓜多尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.86",
+        "d": "2.95",
+        "l": "2.22"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.47",
+        "d": "3.80",
+        "l": "5.10"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.22",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "5.10",
+      "score_result": "0:2",
+      "score_odds": "10.00",
+      "goal_result": "2",
+      "goal_odds": "3.05",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.75"
+    }
+  }
+]

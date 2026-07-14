@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2026-03-30 14:15",
+    "matchId": "2965321",
+    "league": "FIFA系列赛",
+    "home": "新西兰",
+    "away": "智利",
+    "finish_odds": {
+      "wdl": {
+        "w": "6.35",
+        "d": "3.55",
+        "l": "1.45"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.34",
+        "d": "3.26",
+        "l": "2.53"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "4-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "6.35",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.34",
+      "score_result": "4:1",
+      "score_odds": "225.00",
+      "goal_result": "5",
+      "goal_odds": "10.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "9.00"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2026-03-31 02:45",
+    "matchId": "2967072",
+    "league": "国际友谊",
+    "home": "德国",
+    "away": "加纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.11",
+        "d": "7.10",
+        "l": "11.50"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.06",
+        "d": "4.00",
+        "l": "2.54"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.11",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "2.54",
+      "score_result": "2:1",
+      "score_odds": "9.50",
+      "goal_result": "3",
+      "goal_odds": "4.10",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.39"
+    }
+  }
+]

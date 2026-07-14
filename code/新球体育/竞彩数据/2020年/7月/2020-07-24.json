@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2020-07-24 17:30",
+    "matchId": "1784080",
+    "league": "澳超",
+    "home": "中央海岸水手",
+    "away": "纽卡斯尔喷气机",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.20",
+        "d": "4.50",
+        "l": "1.39"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.50",
+        "d": "3.35",
+        "l": "2.27"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.50",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.50",
+      "score_result": "0:0",
+      "score_odds": "19.00",
+      "goal_result": "0",
+      "goal_odds": "19.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "8.00"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2020-07-25 02:00",
+    "matchId": "1745242",
+    "league": "葡超",
+    "home": "圣克拉拉",
+    "away": "吉马良斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.00",
+        "d": "3.25",
+        "l": "2.03"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.59",
+        "d": "3.85",
+        "l": "4.00"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.25",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.59",
+      "score_result": "2:2",
+      "score_odds": "11.00",
+      "goal_result": "4",
+      "goal_odds": "4.90",
+      "half_full_result": "3-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2020-07-25 03:10",
+    "matchId": "1857790",
+    "league": "法国杯",
+    "home": "巴黎圣日耳曼",
+    "away": "圣埃蒂安",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.74",
+        "d": "4.15",
+        "l": "3.10"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "1.74",
+        "d": "4.15",
+        "l": "3.10"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "3.10",
+      "score_result": "1:0",
+      "score_odds": "13.00",
+      "goal_result": "1",
+      "goal_odds": "12.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.30"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2020-07-25 03:45",
+    "matchId": "1763759",
+    "league": "意甲",
+    "home": "AC米兰",
+    "away": "亚特兰大",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.62",
+        "d": "3.60",
+        "l": "2.11"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.55",
+        "d": "4.05",
+        "l": "4.05"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.60",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.55",
+      "score_result": "1:1",
+      "score_odds": "7.75",
+      "goal_result": "2",
+      "goal_odds": "4.90",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.25"
+    }
+  }
+]

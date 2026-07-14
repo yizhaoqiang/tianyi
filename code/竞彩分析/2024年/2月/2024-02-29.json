@@ -1,0 +1,128 @@
+{
+  "time": "2024-02-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_3-0_27500",
+        "handicap": "0_3_868",
+        "halfFull": "03_33_10920",
+        "size": "3_3_1463"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_3-0_2-1_206250",
+        "handicap": "0_3_1_3169",
+        "halfFull": "03_33_33_36036",
+        "size": "3_3_3_5266"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_2-1_8250",
+        "handicap": "0_1_609",
+        "halfFull": "03_33_9240",
+        "size": "3_3_1386"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_3-0_2-1_206250",
+        "handicap": "0_3_1_3169",
+        "halfFull": "03_33_33_36036",
+        "size": "3_3_3_5266"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2024-02-29 03:00",
+      "matchId": "1249744",
+      "league": "荷兰杯",
+      "home": "费耶诺德",
+      "away": "格罗宁根",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "2:1",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "0-3",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2024-02-29 04:30",
+      "matchId": "1248385",
+      "league": "国王杯",
+      "home": "毕尔巴鄂",
+      "away": "马竞",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.230",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.200",
+        "score_result": "3:0",
+        "score_odds": "25.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2024-02-29 04:45",
+      "matchId": "1249687",
+      "league": "葡萄牙杯",
+      "home": "里斯本",
+      "away": "本菲卡",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+[
+  {
+    "num": "周三001",
+    "match_time": "2016-04-06 18:00",
+    "matchId": "1216752",
+    "league": "亚冠精英",
+    "home": "大阪钢巴",
+    "away": "上海海港",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.91",
+        "d": "3.45",
+        "l": "3.22"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.70",
+        "d": "3.85",
+        "l": "1.67"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.22",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.67",
+      "score_result": "0:2",
+      "score_odds": "16.00",
+      "goal_result": "2",
+      "goal_odds": "3.45",
+      "half_full_result": "1-0",
+      "half_full_odds": "7.20"
+    }
+  },
+  {
+    "num": "周三002",
+    "match_time": "2016-04-06 18:00",
+    "matchId": "1216728",
+    "league": "亚冠精英",
+    "home": "平阳",
+    "away": "全北现代",
+    "finish_odds": {
+      "wdl": {
+        "w": "10.00",
+        "d": "5.90",
+        "l": "1.17"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "3.75",
+        "d": "4.05",
+        "l": "1.63"
+      }
+    },
+    "result": {
+      "half": "2-2",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "10.00",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "3.75",
+      "score_result": "3:2",
+      "score_odds": "50.00",
+      "goal_result": "5",
+      "goal_odds": "6.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "20.00"
+    }
+  },
+  {
+    "num": "周三003",
+    "match_time": "2016-04-06 18:00",
+    "matchId": "1229433",
+    "league": "日联杯",
+    "home": "磐田喜悦",
+    "away": "甲府风林",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.25",
+        "d": "3.10",
+        "l": "2.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.15",
+        "d": "3.85",
+        "l": "1.48"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.25",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.85",
+      "score_result": "1:0",
+      "score_odds": "6.00",
+      "goal_result": "1",
+      "goal_odds": "3.40",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.90"
+    }
+  },
+  {
+    "num": "周三004",
+    "match_time": "2016-04-06 18:00",
+    "matchId": "1229434",
+    "league": "日联杯",
+    "home": "名古屋鲸八",
+    "away": "鹿岛鹿角",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.00",
+        "d": "3.90",
+        "l": "1.62"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.98",
+        "d": "3.60",
+        "l": "2.90"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.62",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "2.90",
+      "score_result": "1:3",
+      "score_odds": "11.00",
+      "goal_result": "4",
+      "goal_odds": "4.90",
+      "half_full_result": "3-0",
+      "half_full_odds": "22.00"
+    }
+  },
+  {
+    "num": "周三005",
+    "match_time": "2016-04-06 18:00",
+    "matchId": "1229432",
+    "league": "日联杯",
+    "home": "湘南海洋",
+    "away": "RB大宫松鼠",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.01",
+        "d": "3.35",
+        "l": "3.05"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.45",
+        "d": "3.60",
+        "l": "1.60"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.60",
+      "score_result": "0:1",
+      "score_odds": "8.00",
+      "goal_result": "1",
+      "goal_odds": "3.80",
+      "half_full_result": "1-0",
+      "half_full_odds": "6.50"
+    }
+  },
+  {
+    "num": "周三006",
+    "match_time": "2016-04-06 18:00",
+    "matchId": "1229479",
+    "league": "日联杯",
+    "home": "新泻天鹅",
+    "away": "川崎前锋",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.37",
+        "d": "3.35",
+        "l": "2.48"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.39",
+        "d": "4.30",
+        "l": "5.65"
+      }
+    },
+    "result": {
+      "half": "0-3",
+      "full": "0-5",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.48",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "5.65",
+      "score_result": "0:5",
+      "score_odds": "200.00",
+      "goal_result": "5",
+      "goal_odds": "8.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.00"
+    }
+  },
+  {
+    "num": "周三007",
+    "match_time": "2016-04-06 18:00",
+    "matchId": "1229480",
+    "league": "日联杯",
+    "home": "鸟栖沙岩",
+    "away": "仙台维加泰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.66",
+        "d": "3.55",
+        "l": "4.18"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.12",
+        "d": "3.45",
+        "l": "1.93"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.55",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.93",
+      "score_result": "1:1",
+      "score_odds": "7.50",
+      "goal_result": "2",
+      "goal_odds": "3.15",
+      "half_full_result": "3-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周三008",
+    "match_time": "2016-04-06 18:30",
+    "matchId": "1216753",
+    "league": "亚冠精英",
+    "home": "水原三星",
+    "away": "墨尔本胜利",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.90",
+        "d": "3.40",
+        "l": "3.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.75",
+        "d": "3.75",
+        "l": "1.68"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.40",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.68",
+      "score_result": "1:1",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.45",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.20"
+    }
+  },
+  {
+    "num": "周三009",
+    "match_time": "2016-04-06 18:30",
+    "matchId": "1229481",
+    "league": "日联杯",
+    "home": "横滨水手",
+    "away": "柏太阳神",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.34",
+        "d": "3.20",
+        "l": "2.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.75",
+        "d": "3.85",
+        "l": "1.44"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.60",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.44",
+      "score_result": "1:3",
+      "score_odds": "24.00",
+      "goal_result": "4",
+      "goal_odds": "6.50",
+      "half_full_result": "1-0",
+      "half_full_odds": "5.70"
+    }
+  },
+  {
+    "num": "周三010",
+    "match_time": "2016-04-06 19:00",
+    "matchId": "1216680",
+    "league": "亚冠精英",
+    "home": "塔什干火车头",
+    "away": "塞帕汉",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.75",
+        "d": "3.30",
+        "l": "4.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.55",
+        "d": "3.35",
+        "l": "1.82"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.75",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.35",
+      "score_result": "1:0",
+      "score_odds": "6.00",
+      "goal_result": "1",
+      "goal_odds": "3.65",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.30"
+    }
+  },
+  {
+    "num": "周三011",
+    "match_time": "2016-04-06 20:00",
+    "matchId": "1216729",
+    "league": "亚冠精英",
+    "home": "江苏苏宁易购",
+    "away": "FC东京",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.97",
+        "d": "3.35",
+        "l": "3.15"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.15",
+        "d": "3.65",
+        "l": "1.63"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.15",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.63",
+      "score_result": "1:2",
+      "score_odds": "9.00",
+      "goal_result": "3",
+      "goal_odds": "3.60",
+      "half_full_result": "1-0",
+      "half_full_odds": "7.00"
+    }
+  },
+  {
+    "num": "周三012",
+    "match_time": "2016-04-06 22:45",
+    "matchId": "1216704",
+    "league": "亚冠精英",
+    "home": "大不里士拖拉机",
+    "away": "塔什干棉农",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.52",
+        "d": "3.65",
+        "l": "5.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.80",
+        "d": "3.25",
+        "l": "2.16"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.52",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.80",
+      "score_result": "2:0",
+      "score_odds": "7.50",
+      "goal_result": "2",
+      "goal_odds": "3.15",
+      "half_full_result": "1-3",
+      "half_full_odds": "3.85"
+    }
+  },
+  {
+    "num": "周三013",
+    "match_time": "2016-04-07 00:30",
+    "matchId": "1211344",
+    "league": "瑞典超",
+    "home": "哥德堡",
+    "away": "赫根",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.60",
+        "d": "3.60",
+        "l": "4.55"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.98",
+        "d": "3.40",
+        "l": "2.01"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.60",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.40",
+      "score_result": "1:0",
+      "score_odds": "6.40",
+      "goal_result": "1",
+      "goal_odds": "5.30",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.50"
+    }
+  },
+  {
+    "num": "周三014",
+    "match_time": "2016-04-07 00:30",
+    "matchId": "1211345",
+    "league": "瑞典超",
+    "home": "北雪平",
+    "away": "卡尔马",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.43",
+        "d": "3.95",
+        "l": "5.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.42",
+        "d": "3.40",
+        "l": "2.37"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "4-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.43",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.42",
+      "score_result": "4:1",
+      "score_odds": "23.00",
+      "goal_result": "5",
+      "goal_odds": "9.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.15"
+    }
+  },
+  {
+    "num": "周三015",
+    "match_time": "2016-04-07 00:30",
+    "matchId": "1211346",
+    "league": "瑞典超",
+    "home": "佐高平斯",
+    "away": "马尔默",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.80",
+        "d": "3.70",
+        "l": "1.55"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.10",
+        "d": "3.40",
+        "l": "2.80"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "4.80",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.10",
+      "score_result": "3:2",
+      "score_odds": "40.00",
+      "goal_result": "5",
+      "goal_odds": "9.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "9.50"
+    }
+  },
+  {
+    "num": "周三016",
+    "match_time": "2016-04-07 00:45",
+    "matchId": "1216681",
+    "league": "亚冠精英",
+    "home": "迪拜胜利",
+    "away": "吉达联合",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.22",
+        "d": "3.20",
+        "l": "2.77"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.90",
+        "d": "3.95",
+        "l": "1.49"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.20",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.49",
+      "score_result": "0:0",
+      "score_odds": "9.00",
+      "goal_result": "0",
+      "goal_odds": "9.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.60"
+    }
+  },
+  {
+    "num": "周三017",
+    "match_time": "2016-04-07 01:45",
+    "matchId": "1216705",
+    "league": "亚冠精英",
+    "home": "利雅得新月",
+    "away": "阿布扎比半岛",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.25",
+        "d": "4.95",
+        "l": "8.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.83",
+        "d": "3.85",
+        "l": "3.10"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.25",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.85",
+      "score_result": "1:0",
+      "score_odds": "7.50",
+      "goal_result": "1",
+      "goal_odds": "6.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.80"
+    }
+  },
+  {
+    "num": "周三018",
+    "match_time": "2016-04-07 02:45",
+    "matchId": "1228757",
+    "league": "欧冠杯",
+    "home": "巴黎圣日耳曼",
+    "away": "曼彻斯特城",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.52",
+        "d": "3.70",
+        "l": "5.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.66",
+        "d": "3.45",
+        "l": "2.16"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.70",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.16",
+      "score_result": "2:2",
+      "score_odds": "14.00",
+      "goal_result": "4",
+      "goal_odds": "5.30",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.50"
+    }
+  },
+  {
+    "num": "周三019",
+    "match_time": "2016-04-07 02:45",
+    "matchId": "1228756",
+    "league": "欧冠杯",
+    "home": "沃尔夫斯堡",
+    "away": "皇家马德里",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.40",
+        "d": "4.10",
+        "l": "1.44"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.35",
+        "d": "3.70",
+        "l": "2.31"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "5.40",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.35",
+      "score_result": "2:0",
+      "score_odds": "28.00",
+      "goal_result": "2",
+      "goal_odds": "3.45",
+      "half_full_result": "3-3",
+      "half_full_odds": "8.50"
+    }
+  },
+  {
+    "num": "周三020",
+    "match_time": "2016-04-07 06:00",
+    "matchId": "1206560",
+    "league": "智利甲",
+    "home": "圣地亚哥漫游者",
+    "away": "奥达斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.95",
+        "d": "3.65",
+        "l": "2.97"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.90",
+        "d": "3.85",
+        "l": "1.64"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.65",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.64",
+      "score_result": "2:2",
+      "score_odds": "11.50",
+      "goal_result": "4",
+      "goal_odds": "4.80",
+      "half_full_result": "0-1",
+      "half_full_odds": "12.00"
+    }
+  },
+  {
+    "num": "周三021",
+    "match_time": "2016-04-07 06:30",
+    "matchId": "1216856",
+    "league": "解放者杯",
+    "home": "河床",
+    "away": "最强者",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.13",
+        "d": "6.00",
+        "l": "14.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.60",
+        "d": "3.75",
+        "l": "4.25"
+      }
+    },
+    "result": {
+      "half": "5-0",
+      "full": "胜其他",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.13",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.60",
+      "score_result": "胜其他",
+      "score_odds": "16.00",
+      "goal_result": "6",
+      "goal_odds": "12.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.50"
+    }
+  },
+  {
+    "num": "周三022",
+    "match_time": "2016-04-07 08:45",
+    "matchId": "1216869",
+    "league": "解放者杯",
+    "home": "罗萨里奥中央",
+    "away": "帕尔梅拉斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.55",
+        "d": "3.50",
+        "l": "5.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.86",
+        "d": "3.30",
+        "l": "2.10"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "3-3",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.50",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.10",
+      "score_result": "3:3",
+      "score_odds": "80.00",
+      "goal_result": "6",
+      "goal_odds": "20.00",
+      "half_full_result": "0-1",
+      "half_full_odds": "15.00"
+    }
+  },
+  {
+    "num": "周三023",
+    "match_time": "2016-04-07 08:45",
+    "matchId": "1216905",
+    "league": "解放者杯",
+    "home": "山谷独立",
+    "away": "米内罗竞技",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.06",
+        "d": "3.25",
+        "l": "3.02"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.30",
+        "d": "3.85",
+        "l": "1.57"
+      }
+    },
+    "result": {
+      "half": "3-1",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.06",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.85",
+      "score_result": "3:2",
+      "score_odds": "27.00",
+      "goal_result": "5",
+      "goal_odds": "12.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.30"
+    }
+  },
+  {
+    "num": "周三024",
+    "match_time": "2016-04-07 09:00",
+    "matchId": "1216942",
+    "league": "解放者杯",
+    "home": "圣塔菲",
+    "away": "科林蒂安",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.81",
+        "d": "3.20",
+        "l": "3.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.75",
+        "d": "3.40",
+        "l": "1.76"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.20",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.76",
+      "score_result": "1:1",
+      "score_odds": "6.30",
+      "goal_result": "2",
+      "goal_odds": "3.05",
+      "half_full_result": "3-1",
+      "half_full_odds": "14.00"
+    }
+  },
+  {
+    "num": "周三025",
+    "match_time": "2016-04-07 09:00",
+    "matchId": "1231638",
+    "league": "墨西哥杯",
+    "home": "蓝十字",
+    "away": "内卡萨",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.37",
+        "d": "4.20",
+        "l": "6.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.22",
+        "d": "3.50",
+        "l": "2.55"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "6.40",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.55",
+      "score_result": "2:3",
+      "score_odds": "40.00",
+      "goal_result": "5",
+      "goal_odds": "8.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "9.50"
+    }
+  },
+  {
+    "num": "周三026",
+    "match_time": "2016-04-07 11:00",
+    "matchId": "1216930",
+    "league": "解放者杯",
+    "home": "美洲狮",
+    "away": "亚松森奥林匹亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.33",
+        "d": "4.30",
+        "l": "7.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.15",
+        "d": "3.40",
+        "l": "2.70"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "4-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.33",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.15",
+      "score_result": "4:1",
+      "score_odds": "19.00",
+      "goal_result": "5",
+      "goal_odds": "8.00",
+      "half_full_result": "0-3",
+      "half_full_odds": "25.00"
+    }
+  }
+]

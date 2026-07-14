@@ -1,0 +1,262 @@
+{
+  "time": "2025-06-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "6-0_3-1_5000",
+        "handicap": "0_3_225",
+        "halfFull": "_03_3500",
+        "size": "6_4_4004"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "6-0_3-1_0-1_55000",
+        "handicap": "0_3_0_413",
+        "halfFull": "_03_10_29575",
+        "size": "6_4_1_20020"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "6-0_3-1_0-1_2-1_371250",
+        "handicap": "0_3_0_1_1404",
+        "halfFull": "_03_10_33_58558",
+        "size": "6_4_1_3_68068"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_0_2725",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_0_1_7902",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_0_1_0_10747",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_0_1_0_3_17841",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "6-0_0-1_675",
+        "handicap": "0_1_394",
+        "halfFull": "_00_245",
+        "size": "6_1_2600"
+      },
+      "team": "001_018"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "6-0_3-1_2-1_0-1_278437",
+        "handicap": "0_3_0_1_1270",
+        "halfFull": "_03_33_00_13720",
+        "size": "6_4_3_1_74074"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2025-06-20 00:00",
+      "matchId": "1280494",
+      "league": "世俱杯",
+      "home": "本菲卡",
+      "away": "奥克兰城",
+      "result": {
+        "half": "1-0",
+        "full": "6-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-7",
+        "handicap_result": "0",
+        "handicap_odds": "1.360",
+        "score_result": "",
+        "score_odds": "-",
+        "goal_result": "6",
+        "goal_odds": "5.200",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2025-06-20 02:00",
+      "matchId": "1280499",
+      "league": "世俱杯",
+      "home": "弗拉门戈",
+      "away": "切尔西",
+      "result": {
+        "half": "0-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.520",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "3:1",
+        "score_odds": "50.000",
+        "goal_result": "4",
+        "goal_odds": "7.700",
+        "half_full_result": "0-3",
+        "half_full_odds": "35.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2025-06-20 06:00",
+      "matchId": "1292309",
+      "league": "世俱杯",
+      "home": "洛杉矶FC",
+      "away": "突希望",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.830",
+        "score_result": "0:1",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.450"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2025-06-20 07:45",
+      "matchId": "1291279",
+      "league": "金杯赛",
+      "home": "牙买加",
+      "away": "瓜德罗普",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:1",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.980"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2025-06-20 09:00",
+      "matchId": "1280493",
+      "league": "世俱杯",
+      "home": "拜仁",
+      "away": "博卡",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.940",
+        "score_result": "2:1",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.600"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2025-06-20 10:00",
+      "matchId": "1291280",
+      "league": "金杯赛",
+      "home": "危地马拉",
+      "away": "巴拿马",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "2.900",
+        "score_result": "0:1",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.450"
+      }
+    }
+  ]
+}

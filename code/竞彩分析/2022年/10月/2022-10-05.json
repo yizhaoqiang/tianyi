@@ -1,0 +1,236 @@
+{
+  "time": "2022-10-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_7425",
+        "handicap": "0_0_395",
+        "halfFull": "30_11_22000",
+        "size": "3_2_1120"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-1_1-1_57543",
+        "handicap": "0_0_3_771",
+        "halfFull": "30_11_11_148500",
+        "size": "3_2_2_4704"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_1-1_5-0_431578",
+        "handicap": "0_0_3_3_1465",
+        "halfFull": "30_11_11_33_169290",
+        "size": "3_2_2_5_23520"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_3_0_3312",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_3_0_3_9374",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-0_13750",
+        "handicap": "0_3_520",
+        "halfFull": "30_33_10000",
+        "size": "3_3_1225"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_2-1_3-0_812109",
+        "handicap": "0_0_0_3_2530",
+        "halfFull": "30_11_33_33_78100",
+        "size": "3_2_3_3_13524"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2022-10-05 02:45",
+      "matchId": "1175476",
+      "league": "英冠",
+      "home": "沃特福德",
+      "away": "斯旺西",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.840",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2022-10-05 02:45",
+      "matchId": "1175471",
+      "league": "英冠",
+      "home": "伯恩利",
+      "away": "斯托克城",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.150",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2022-10-05 03:00",
+      "matchId": "1195644",
+      "league": "欧冠",
+      "home": "本菲卡",
+      "away": "巴黎圣曼",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.950",
+        "score_result": "1:1",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "4.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.750"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2022-10-05 03:00",
+      "matchId": "1195641",
+      "league": "欧冠",
+      "home": "曼城",
+      "away": "哥本哈根",
+      "result": {
+        "half": "3-0",
+        "full": "5-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "5:0",
+        "score_odds": "7.500",
+        "goal_result": "5",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.140"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2022-10-05 03:00",
+      "matchId": "1195639",
+      "league": "欧冠",
+      "home": "皇马",
+      "away": "顿矿工",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.260",
+        "score_result": "2:1",
+        "score_odds": "8.750",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.420"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2022-10-05 03:00",
+      "matchId": "1195637",
+      "league": "欧冠",
+      "home": "切尔西",
+      "away": "AC米兰",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.560",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.830",
+        "score_result": "3:0",
+        "score_odds": "12.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    }
+  ]
+}

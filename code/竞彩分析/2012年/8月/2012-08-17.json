@@ -1,0 +1,354 @@
+{
+  "time": "2012-08-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-1_4550",
+        "handicap": "3_3_357",
+        "halfFull": "13_33_1350",
+        "size": "2_3_1320"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_2-1_2-3_318500",
+        "handicap": "3_3_0_1717",
+        "halfFull": "13_33_10_13500",
+        "size": "2_3_5_18480"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_2-1_2-3_0-0_2388750",
+        "handicap": "3_3_0_1_5151",
+        "halfFull": "13_33_10_11_58050",
+        "size": "2_3_5_0_138600"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_1_14837",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_1_3_25964",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_1_3_3_54006",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_1_3_3_0_150138",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-2_11900",
+        "handicap": "3_1_613",
+        "halfFull": "13_01_8500",
+        "size": "2_4_2250"
+      },
+      "team": "001_020"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_2-1_2-1_2-2_696150",
+        "handicap": "3_3_3_1_2374",
+        "halfFull": "13_33_13_01_117044",
+        "size": "2_3_3_4_42570"
+      },
+      "team": "001_002_019_020"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2012-08-17 00:45",
+      "matchId": "207733",
+      "league": "法国乙级联赛",
+      "home": "阿尔勒",
+      "away": "昂热",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.080",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2012-08-17 00:45",
+      "matchId": "207724",
+      "league": "法国乙级联赛",
+      "home": "勒阿弗尔",
+      "away": "阿雅克肖GFCO",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "4.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2012-08-17 00:45",
+      "matchId": "207725",
+      "league": "法国乙级联赛",
+      "home": "色当",
+      "away": "尼姆",
+      "result": {
+        "half": "2-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.800",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "4.800",
+        "score_result": "2:3",
+        "score_odds": "70.000",
+        "goal_result": "5",
+        "goal_odds": "14.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2012-08-17 00:45",
+      "matchId": "207730",
+      "league": "法国乙级联赛",
+      "home": "伊斯特尔",
+      "away": "沙托鲁",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.000",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2012-08-17 00:45",
+      "matchId": "207728",
+      "league": "法国乙级联赛",
+      "home": "朗斯",
+      "away": "第戎",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.880",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2012-08-17 00:45",
+      "matchId": "207732",
+      "league": "法国乙级联赛",
+      "home": "卡昂",
+      "away": "克莱蒙",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.750",
+        "score_result": "4:0",
+        "score_odds": "34.000",
+        "goal_result": "4",
+        "goal_odds": "6.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2012-08-17 00:45",
+      "matchId": "207727",
+      "league": "法国乙级联赛",
+      "home": "拉瓦勒",
+      "away": "尼奥尔",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.080",
+        "score_result": "1:0",
+        "score_odds": "5.800",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2012-08-17 00:45",
+      "matchId": "207729",
+      "league": "法国乙级联赛",
+      "home": "图尔",
+      "away": "南特",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.780",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.780",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.200"
+      }
+    },
+    {
+      "num": "周五019",
+      "match_time": "2012-08-17 03:15",
+      "matchId": "212912",
+      "league": "葡萄牙超级联赛",
+      "home": "奥良尼斯",
+      "away": "埃斯托里尔",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "2:1",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "4.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周五020",
+      "match_time": "2012-08-17 05:10",
+      "matchId": "210985",
+      "league": "阿根廷甲级联赛",
+      "home": "科隆竞技",
+      "away": "贝尔格拉诺",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "7.500",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    }
+  ]
+}

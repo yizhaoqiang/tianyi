@@ -1,0 +1,272 @@
+{
+  "time": "2022-01-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-2_46800",
+        "handicap": "0_3_407",
+        "halfFull": "11_31_11700",
+        "size": "0_4_15300"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-2_6-2_748800",
+        "handicap": "0_3_3_647",
+        "halfFull": "11_31_33_18720",
+        "size": "0_4_7+_275400"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-2_6-2_2-1_16473600",
+        "handicap": "0_3_3_3_2103",
+        "halfFull": "11_31_33_33_280800",
+        "size": "0_4_7+_3_1074060"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_3_4353",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_3_3_8141",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_3_3_3_12864",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-2_27000",
+        "handicap": "0_3_303",
+        "halfFull": "11_01_9750",
+        "size": "0_4_12420"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-2_4-1_2-2_12636000",
+        "handicap": "0_3_3_3_1202",
+        "halfFull": "11_31_33_01_289574",
+        "size": "0_4_5_4_844560"
+      },
+      "team": "001_008_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2022-01-18 01:30",
+      "matchId": "1156798",
+      "league": "德国杯",
+      "home": "科隆",
+      "away": "汉堡",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.920",
+        "score_result": "0:0",
+        "score_odds": "18.000",
+        "goal_result": "0",
+        "goal_odds": "18.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2022-01-18 03:00",
+      "matchId": "1155336",
+      "league": "非洲杯",
+      "home": "加蓬",
+      "away": "摩洛哥",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "2:2",
+        "score_odds": "26.000",
+        "goal_result": "4",
+        "goal_odds": "8.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2022-01-18 03:45",
+      "matchId": "1159511",
+      "league": "英冠",
+      "home": "富勒姆",
+      "away": "伯明翰",
+      "result": {
+        "half": "4-1",
+        "full": "6-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.160",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "胜其他",
+        "score_odds": "16.000",
+        "goal_result": "7+",
+        "goal_odds": "18.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.600"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2022-01-18 03:45",
+      "matchId": "1156795",
+      "league": "德国杯",
+      "home": "圣保利",
+      "away": "多特蒙德",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "7.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "22.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2022-01-18 04:00",
+      "matchId": "1136094",
+      "league": "英超",
+      "home": "布赖顿",
+      "away": "切尔西",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.070",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2022-01-18 04:00",
+      "matchId": "1157932",
+      "league": "意大利杯",
+      "home": "尤文图斯",
+      "away": "桑普",
+      "result": {
+        "half": "1-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.870",
+        "score_result": "4:1",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.650"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2022-01-18 04:30",
+      "matchId": "1139981",
+      "league": "西甲",
+      "home": "加的斯",
+      "away": "西班牙人",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.900",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    }
+  ]
+}

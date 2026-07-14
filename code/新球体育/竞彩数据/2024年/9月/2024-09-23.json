@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2024-09-24 01:00",
+    "matchId": "2510674",
+    "league": "瑞典超",
+    "home": "哥德堡",
+    "away": "哈尔姆斯塔德",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.33",
+        "d": "4.30",
+        "l": "6.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.16",
+        "d": "3.30",
+        "l": "2.75"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.30",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.75",
+      "score_result": "1:1",
+      "score_odds": "8.00",
+      "goal_result": "2",
+      "goal_odds": "3.80",
+      "half_full_result": "1-1",
+      "half_full_odds": "7.10"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2024-09-24 01:00",
+    "matchId": "2529565",
+    "league": "挪超",
+    "home": "KFUM奥斯陆",
+    "away": "莫尔德",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.75",
+        "d": "3.53",
+        "l": "1.73"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.84",
+        "d": "3.45",
+        "l": "3.40"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.53",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.84",
+      "score_result": "1:1",
+      "score_odds": "7.25",
+      "goal_result": "2",
+      "goal_odds": "3.80",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.80"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2024-09-24 03:00",
+    "matchId": "2596663",
+    "league": "西甲",
+    "home": "皇家贝蒂斯",
+    "away": "马洛卡",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.67",
+        "d": "3.05",
+        "l": "4.95"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.70",
+        "d": "2.90",
+        "l": "1.95"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "4.95",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.95",
+      "score_result": "1:2",
+      "score_odds": "14.00",
+      "goal_result": "3",
+      "goal_odds": "4.25",
+      "half_full_result": "1-0",
+      "half_full_odds": "12.00"
+    }
+  },
+  {
+    "num": "周一005",
+    "match_time": "2024-09-24 03:15",
+    "matchId": "2611709",
+    "league": "葡超",
+    "home": "博阿维斯塔",
+    "away": "本菲卡",
+    "finish_odds": {
+      "wdl": {
+        "w": "12.50",
+        "d": "6.10",
+        "l": "1.13"
+      },
+      "handicap": {
+        "line": "2",
+        "w": "2.07",
+        "d": "3.65",
+        "l": "2.69"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.13",
+      "handicap": "+2",
+      "handicap_result": "0",
+      "handicap_odds": "2.69",
+      "score_result": "0:3",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.65",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.57"
+    }
+  }
+]

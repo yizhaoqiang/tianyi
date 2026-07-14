@@ -1,0 +1,236 @@
+{
+  "time": "2022-08-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_2-1_8750",
+        "handicap": "3_1_492",
+        "halfFull": "11_33_1172",
+        "size": "4_3_1824"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_2-1_0-4_350000",
+        "handicap": "3_1_0_1936",
+        "halfFull": "11_33_00_3284",
+        "size": "4_3_4_13497"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_2-1_0-4_2-2_7350000",
+        "handicap": "3_1_0_0_4415",
+        "halfFull": "11_33_00_01_75541",
+        "size": "4_3_4_4_51290"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_0_7505",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_0_1_23868",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_0-1_6875",
+        "handicap": "3_1_451",
+        "halfFull": "11_10_2142",
+        "size": "4_1_2280"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_2-1_0-1_0-1_445156",
+        "handicap": "3_1_0_1_2663",
+        "halfFull": "11_33_00_10_32022",
+        "size": "4_3_1_1_26995"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2022-08-29 18:00",
+      "matchId": "1161302",
+      "league": "K联赛",
+      "home": "全北现代",
+      "away": "浦项制铁",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.180",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "2:2",
+        "score_odds": "12.500",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2022-08-29 01:10",
+      "matchId": "1160842",
+      "league": "瑞典超",
+      "home": "佐加顿斯",
+      "away": "埃夫斯堡",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.470",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2022-08-29 02:00",
+      "matchId": "1176017",
+      "league": "西甲",
+      "home": "加的斯",
+      "away": "毕尔巴鄂",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.810",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.930",
+        "score_result": "0:4",
+        "score_odds": "40.000",
+        "goal_result": "4",
+        "goal_odds": "7.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2022-08-29 02:00",
+      "matchId": "1170880",
+      "league": "荷乙",
+      "home": "赫拉克勒",
+      "away": "马斯特里",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.280",
+        "score_result": "2:2",
+        "score_odds": "21.000",
+        "goal_result": "4",
+        "goal_odds": "3.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "23.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2022-08-29 02:00",
+      "matchId": "1188456",
+      "league": "葡超",
+      "home": "吉马良斯",
+      "away": "卡萨皮亚",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "0:1",
+        "score_odds": "9.250",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2022-08-29 04:00",
+      "matchId": "1176018",
+      "league": "西甲",
+      "home": "巴伦西亚",
+      "away": "马竞",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.760",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.180",
+        "score_result": "0:1",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.200"
+      }
+    }
+  ]
+}

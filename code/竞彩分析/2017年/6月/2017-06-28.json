@@ -1,0 +1,354 @@
+{
+  "time": "2017-06-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-1_5906",
+        "handicap": "0_1_1783",
+        "halfFull": "00_00_1221",
+        "size": "2_1_1260"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_0-1_2-2_64968",
+        "handicap": "0_1_3_2942",
+        "halfFull": "00_00_11_6471",
+        "size": "2_1_4_6174"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-1_2-2_0-0_584718",
+        "handicap": "0_1_3_3_4296",
+        "halfFull": "00_00_11_11_29120",
+        "size": "2_1_4_0_55566"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_15380",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_0_27838",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_0_0_104394",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_0_0_0_254723",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-1_5687",
+        "handicap": "0_1_1566",
+        "halfFull": "00_33_825",
+        "size": "2_3_1071"
+      },
+      "team": "001_018"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-1_3-3_2-1_3455156",
+        "handicap": "0_1_0_1_11823",
+        "halfFull": "00_00_01_33_48840",
+        "size": "2_1_6_3_128520"
+      },
+      "team": "001_002_016_017"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2017-06-28 18:00",
+      "matchId": "952266",
+      "league": "日联杯",
+      "home": "札幌冈萨多",
+      "away": "大阪樱花",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.820",
+        "score_result": "0:2",
+        "score_odds": "8.750",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2017-06-28 18:00",
+      "matchId": "952267",
+      "league": "日联杯",
+      "home": "广岛三箭",
+      "away": "东京FC",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "0:1",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2017-06-28 18:00",
+      "matchId": "934059",
+      "league": "K联赛",
+      "home": "全南天龙",
+      "away": "首尔FC",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2017-06-28 18:00",
+      "matchId": "934084",
+      "league": "K联赛",
+      "home": "尚州尚武",
+      "away": "蔚山现代",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.460",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2017-06-28 18:30",
+      "matchId": "934072",
+      "league": "K联赛",
+      "home": "大邱FC",
+      "away": "水原三星",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.580",
+        "score_result": "0:3",
+        "score_odds": "16.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2017-06-28 18:30",
+      "matchId": "934054",
+      "league": "K联赛",
+      "home": "江原FC",
+      "away": "光州FC",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.810",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.150",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2017-06-28 18:30",
+      "matchId": "934082",
+      "league": "K联赛",
+      "home": "浦项制铁",
+      "away": "全北现代",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.750",
+        "score_result": "1:3",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2017-06-28 19:00",
+      "matchId": "934097",
+      "league": "K联赛",
+      "home": "济州联",
+      "away": "仁川联",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.440",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周三016",
+      "match_time": "2017-06-28 08:45",
+      "matchId": "952467",
+      "league": "巴西杯",
+      "home": "帕尔梅拉斯",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "0-3",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.040",
+        "score_result": "3:3",
+        "score_odds": "90.000",
+        "goal_result": "6",
+        "goal_odds": "30.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周三017",
+      "match_time": "2017-06-28 10:30",
+      "matchId": "954717",
+      "league": "美公开杯",
+      "home": "圣何塞地震",
+      "away": "西雅图海湾人",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2017-07-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_3-1_65000",
+        "handicap": "0_3_745",
+        "halfFull": "00_03_14750",
+        "size": "4_4_2365"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-3_3-1_1-0_715000",
+        "handicap": "0_3_3_1364",
+        "halfFull": "00_03_33_88500",
+        "size": "4_4_1_11943"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_3-1_1-0_1-0_3003000",
+        "handicap": "0_3_3_1_4161",
+        "halfFull": "00_03_33_13_314175",
+        "size": "4_4_1_1_44428"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_3_7614",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_3_1_27793",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_3_1_0_48638",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_3_1_0_0_211577",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_1-0_7475",
+        "handicap": "0_0_804",
+        "halfFull": "00_13_1003",
+        "size": "4_1_2257"
+      },
+      "team": "001_014"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_3-1_4-2_1-0_14576250",
+        "handicap": "0_3_3_0_2469",
+        "halfFull": "00_03_03_13_1253750",
+        "size": "4_4_6_1_130370"
+      },
+      "team": "001_002_011_015"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2017-07-18 19:20",
+      "matchId": "962833",
+      "league": "吉尼斯杯",
+      "home": "AC米兰",
+      "away": "多特蒙德",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.810",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.500",
+        "score_result": "1:3",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "4.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2017-07-18 00:00",
+      "matchId": "956782",
+      "league": "欧冠",
+      "home": "瓦尔达尔",
+      "away": "马尔默",
+      "result": {
+        "half": "0-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.130",
+        "score_result": "3:1",
+        "score_odds": "50.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "50.000"
+      }
+    },
+    {
+      "num": "周二014",
+      "match_time": "2017-07-18 00:00",
+      "matchId": "971548",
+      "league": "女足欧洲杯",
+      "home": "奥地利女足",
+      "away": "瑞士女足",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.830",
+        "score_result": "1:0",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "5.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2017-07-18 00:30",
+      "matchId": "956826",
+      "league": "俄超",
+      "home": "莫斯科火车头",
+      "away": "图拉兵工厂",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.270",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.050",
+        "score_result": "1:0",
+        "score_odds": "4.200",
+        "goal_result": "1",
+        "goal_odds": "3.720",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2017-07-18 00:30",
+      "matchId": "957226",
+      "league": "俄超",
+      "home": "莫斯科迪纳摩",
+      "away": "莫斯科斯巴达",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.830",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.650",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周二016",
+      "match_time": "2017-07-18 01:00",
+      "matchId": "963515",
+      "league": "球会友谊",
+      "home": "马赛",
+      "away": "里斯本竞技",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2017-07-18 02:00",
+      "matchId": "963868",
+      "league": "欧冠",
+      "home": "新圣徒",
+      "away": "里耶卡",
+      "result": {
+        "half": "0-1",
+        "full": "1-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.750",
+        "score_result": "1:5",
+        "score_odds": "29.000",
+        "goal_result": "6",
+        "goal_odds": "10.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.570"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2017-07-18 02:00",
+      "matchId": "963870",
+      "league": "欧冠",
+      "home": "戈塔维京人",
+      "away": "哈夫纳夫约杜尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.970",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.350",
+        "score_result": "0:2",
+        "score_odds": "7.800",
+        "goal_result": "2",
+        "goal_odds": "2.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周二011",
+      "match_time": "2017-07-18 02:45",
+      "matchId": "953943",
+      "league": "苏联杯",
+      "home": "基尔马诺克",
+      "away": "克莱德",
+      "result": {
+        "half": "1-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.100",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.440",
+        "score_result": "4:2",
+        "score_odds": "39.000",
+        "goal_result": "6",
+        "goal_odds": "10.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周二015",
+      "match_time": "2017-07-18 02:45",
+      "matchId": "952126",
+      "league": "女足欧洲杯",
+      "home": "法国女足",
+      "away": "冰岛女足",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.080",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "1:0",
+        "score_odds": "5.750",
+        "goal_result": "1",
+        "goal_odds": "5.250",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.400"
+      }
+    }
+  ]
+}

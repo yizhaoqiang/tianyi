@@ -1,0 +1,164 @@
+{
+  "time": "2022-01-13",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_2-2_31050",
+        "handicap": "3_0_314",
+        "halfFull": "13_11_1864",
+        "size": "5_4_6650"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-1_2-2_0-0_434700",
+        "handicap": "3_0_0_610",
+        "halfFull": "13_11_11_11187",
+        "size": "5_4_0_93100"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_2-2_0-0_1-1_3694950",
+        "handicap": "3_0_0_0_2351",
+        "halfFull": "13_11_11_01_246114",
+        "size": "5_4_0_2_344470"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_1-1_22950",
+        "handicap": "3_0_700",
+        "halfFull": "13_01_7259",
+        "size": "5_2_5180"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_2-2_0-0_1-1_3694950",
+        "handicap": "3_0_0_0_2351",
+        "halfFull": "13_11_11_01_246114",
+        "size": "5_4_0_2_344470"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2022-01-13 00:00",
+      "matchId": "1155322",
+      "league": "非洲杯",
+      "home": "喀麦隆",
+      "away": "埃塞俄比",
+      "result": {
+        "half": "1-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.180",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.820",
+        "score_result": "4:1",
+        "score_odds": "27.000",
+        "goal_result": "5",
+        "goal_odds": "14.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2022-01-13 01:00",
+      "matchId": "1157929",
+      "league": "意大利杯",
+      "home": "那不勒斯",
+      "away": "佛罗伦萨",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.730",
+        "score_result": "2:2",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "4.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.650"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2022-01-13 03:45",
+      "matchId": "1159484",
+      "league": "英联杯",
+      "home": "利物浦",
+      "away": "阿森纳",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.940",
+        "score_result": "0:0",
+        "score_odds": "14.000",
+        "goal_result": "0",
+        "goal_odds": "14.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2022-01-13 04:00",
+      "matchId": "1157926",
+      "league": "意大利杯",
+      "home": "AC米兰",
+      "away": "热那亚",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.850",
+        "score_result": "1:1",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "0-1",
+        "half_full_odds": "22.000"
+      }
+    }
+  ]
+}

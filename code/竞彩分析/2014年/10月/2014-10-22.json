@@ -1,0 +1,354 @@
+{
+  "time": "2014-10-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_2-1_7125",
+        "handicap": "3_1_647",
+        "halfFull": "13_33_906",
+        "size": "4_3_1505"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_2-1_1-0_64125",
+        "handicap": "3_1_3_1094",
+        "halfFull": "13_33_13_5893",
+        "size": "4_3_1_6622"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_2-1_1-0_2-0_577125",
+        "handicap": "3_1_3_3_3556",
+        "halfFull": "13_33_13_13_24754",
+        "size": "4_3_1_2_20859"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_0_5654",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_0_1_20356",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_0_1_1_81427",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_0_1_1_0_166925",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_2-0_5890",
+        "handicap": "3_3_297",
+        "halfFull": "13_33_497",
+        "size": "4_2_1612"
+      },
+      "team": "001_031"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_2-1_0-1_2-0_353400",
+        "handicap": "3_1_0_3_1904",
+        "halfFull": "13_33_10_33_8670",
+        "size": "4_3_1_2_18342"
+      },
+      "team": "001_002_030_031"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2014-10-22 18:00",
+      "matchId": "677886",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.750",
+        "score_result": "3:1",
+        "score_odds": "9.500",
+        "goal_result": "4",
+        "goal_odds": "4.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2014-10-22 18:00",
+      "matchId": "677948",
+      "league": "J联赛",
+      "home": "东京FC",
+      "away": "广岛三箭",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.790"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2014-10-22 18:00",
+      "matchId": "677945",
+      "league": "J联赛",
+      "home": "柏太阳神",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.690",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2014-10-22 18:00",
+      "matchId": "677919",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.250",
+        "score_result": "2:0",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2014-10-22 18:00",
+      "matchId": "677946",
+      "league": "J联赛",
+      "home": "名古屋鲸八",
+      "away": "仙台维加泰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.590",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2014-10-22 18:00",
+      "matchId": "677985",
+      "league": "J联赛",
+      "home": "大宫松鼠",
+      "away": "横滨水手",
+      "result": {
+        "half": "1-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:3",
+        "score_odds": "26.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2014-10-22 18:00",
+      "matchId": "677924",
+      "league": "J联赛",
+      "home": "清水鼓动",
+      "away": "新泻天鹅",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.280",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2014-10-22 18:00",
+      "matchId": "677911",
+      "league": "J联赛",
+      "home": "浦和红钻",
+      "away": "甲府风林",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.050",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周三030",
+      "match_time": "2014-10-22 08:30",
+      "matchId": "681136",
+      "league": "巴西甲",
+      "home": "累西腓体育",
+      "away": "戈亚斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.730",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周三031",
+      "match_time": "2014-10-22 09:30",
+      "matchId": "665614",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "美国芝华士",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.700",
+        "score_result": "2:0",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.530"
+      }
+    }
+  ]
+}

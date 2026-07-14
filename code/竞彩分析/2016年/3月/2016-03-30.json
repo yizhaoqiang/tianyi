@@ -1,0 +1,272 @@
+{
+  "time": "2016-03-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_3-1_21250",
+        "handicap": "0_3_216",
+        "halfFull": "11_13_2625",
+        "size": "0_4_5100"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_3-1_1-1_132812",
+        "handicap": "0_3_0_347",
+        "halfFull": "11_13_11_11025",
+        "size": "0_4_2_15554"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_3-1_1-1_1-1_830078",
+        "handicap": "0_3_0_3_539",
+        "halfFull": "11_13_11_31_143325",
+        "size": "0_4_2_2_49776"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_0_2507",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_0_3_5365",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_0_3_1_17975",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-1_6162",
+        "handicap": "0_1_489",
+        "halfFull": "11_13_1617",
+        "size": "0_3_3145"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_3-1_1-1_2-1_1039921",
+        "handicap": "0_3_3_1_1549",
+        "halfFull": "11_13_11_13_52047",
+        "size": "0_4_2_3_59440"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2016-03-30 02:00",
+      "matchId": "844967",
+      "league": "巴圣联",
+      "home": "迪亚德马圣水",
+      "away": "伊图阿诺",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2016-03-30 02:45",
+      "matchId": "796091",
+      "league": "英甲",
+      "home": "南安联",
+      "away": "谢菲尔德联",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.860",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "3:1",
+        "score_odds": "25.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2016-03-30 04:00",
+      "matchId": "844964",
+      "league": "巴圣联",
+      "home": "皮拉西卡巴",
+      "away": "博塔弗戈SP",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2016-03-30 06:30",
+      "matchId": "844969",
+      "league": "巴圣联",
+      "home": "卡皮瓦里亚诺",
+      "away": "圣本图",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.550",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2016-03-30 06:30",
+      "matchId": "844963",
+      "league": "巴圣联",
+      "home": "欧斯蒂",
+      "away": "圣保罗奥达克斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.140",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.650",
+        "score_result": "1:3",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "29.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2016-03-30 06:30",
+      "matchId": "844961",
+      "league": "巴圣联",
+      "home": "林斯竞技",
+      "away": "圣保罗",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.140",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.150"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2016-03-30 08:45",
+      "matchId": "844971",
+      "league": "巴圣联",
+      "home": "科林蒂安",
+      "away": "庞特普雷塔",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    }
+  ]
+}

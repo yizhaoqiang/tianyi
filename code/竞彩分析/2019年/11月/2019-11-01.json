@@ -1,0 +1,354 @@
+{
+  "time": "2019-11-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_1-0_13200",
+        "handicap": "3_1_931",
+        "halfFull": "33_13_1057",
+        "size": "5_1_3115"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-1_1-0_1-1_80520",
+        "handicap": "3_1_0_1657",
+        "halfFull": "33_13_31_16927",
+        "size": "5_1_2_10594"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_1-0_1-1_3-3_3220799",
+        "handicap": "3_1_0_0_2685",
+        "halfFull": "33_13_31_31_236991",
+        "size": "5_1_2_6_148321"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_4780",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_1_16252",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_1_1_50383",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_1_1_3_77086",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_2-1_66000",
+        "handicap": "3_3_656",
+        "halfFull": "33_13_6669",
+        "size": "5_3_2888"
+      },
+      "team": "001_019"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_1-0_2-2_2-1_4554000",
+        "handicap": "3_1_3_3_3230",
+        "halfFull": "33_13_01_13_429547",
+        "size": "5_1_4_3_55059"
+      },
+      "team": "001_002_018_019"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2019-11-01 16:30",
+      "matchId": "1077012",
+      "league": "澳超",
+      "home": "悉尼FC",
+      "away": "纽卡斯尔喷气机",
+      "result": {
+        "half": "2-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.560",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.780",
+        "score_result": "4:1",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "7.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2019-11-01 18:00",
+      "matchId": "1076441",
+      "league": "J联赛",
+      "home": "鹿岛鹿角",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2019-11-01 01:30",
+      "matchId": "1063333",
+      "league": "德乙",
+      "home": "汉诺威96",
+      "away": "桑德豪森",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.780",
+        "score_result": "1:1",
+        "score_odds": "6.100",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2019-11-01 01:30",
+      "matchId": "1063335",
+      "league": "德乙",
+      "home": "雷根斯堡",
+      "away": "奥斯纳布吕克",
+      "result": {
+        "half": "2-0",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "3:3",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2019-11-01 02:00",
+      "matchId": "1049979",
+      "league": "挪超",
+      "home": "斯特罗姆加斯特",
+      "away": "罗森博格",
+      "result": {
+        "half": "1-1",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.780",
+        "score_result": "3:3",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2019-11-01 03:00",
+      "matchId": "1067946",
+      "league": "法乙",
+      "home": "阿雅克肖",
+      "away": "罗德兹",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.890",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2019-11-01 03:00",
+      "matchId": "1067943",
+      "league": "法乙",
+      "home": "特鲁瓦",
+      "away": "瓦朗谢纳",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:0",
+        "score_odds": "5.300",
+        "goal_result": "1",
+        "goal_odds": "4.050",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2019-11-01 03:00",
+      "matchId": "1067947",
+      "league": "法乙",
+      "home": "沙托鲁",
+      "away": "欧塞尔",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.530",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周五018",
+      "match_time": "2019-11-01 03:45",
+      "matchId": "1071651",
+      "league": "英冠",
+      "home": "巴恩斯利",
+      "away": "布里斯托尔城",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "2:2",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "4.650",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五019",
+      "match_time": "2019-11-01 03:45",
+      "matchId": "1067561",
+      "league": "法甲",
+      "home": "第戎",
+      "away": "巴黎圣日尔曼",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "3",
+        "handicap_odds": "2.360",
+        "score_result": "2:1",
+        "score_odds": "30.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "29.000"
+      }
+    }
+  ]
+}

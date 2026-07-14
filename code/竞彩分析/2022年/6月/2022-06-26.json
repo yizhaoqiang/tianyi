@@ -1,0 +1,354 @@
+{
+  "time": "2022-06-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_3-1_16625",
+        "handicap": "1_3_2025",
+        "halfFull": "13_33_1813",
+        "size": "1_4_3900"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_3-1_0-1_109725",
+        "handicap": "1_3_1_7593",
+        "halfFull": "13_33_10_9790",
+        "size": "1_4_1_15210"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_3-1_0-1_1-1_680295",
+        "handicap": "1_3_1_0_14276",
+        "halfFull": "13_33_10_01_156643",
+        "size": "1_4_1_2_50953"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_3_20700",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_3_1_68311",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_3_1_3_382546",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_3_1_3_0_615899",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-0_12250",
+        "handicap": "1_3_547",
+        "halfFull": "13_11_2646",
+        "size": "1_0_8400"
+      },
+      "team": "001_034"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_3-1_2-1_0-0_1978375",
+        "handicap": "1_3_1_3_12269",
+        "halfFull": "13_33_33_11_41608",
+        "size": "1_4_3_0_199290"
+      },
+      "team": "001_002_033_034"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2022-06-26 13:00",
+      "matchId": "1161704",
+      "league": "J联赛",
+      "home": "札幌冈萨",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:0",
+        "score_odds": "8.750",
+        "goal_result": "1",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2022-06-26 13:00",
+      "matchId": "1162089",
+      "league": "J2联赛",
+      "home": "千叶市原",
+      "away": "东京绿茵",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.280",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.400",
+        "score_result": "3:1",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2022-06-26 17:00",
+      "matchId": "1161707",
+      "league": "J联赛",
+      "home": "神户胜利",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "0:1",
+        "score_odds": "6.600",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2022-06-26 17:00",
+      "matchId": "1161706",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "清水鼓动",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.880",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2022-06-26 17:00",
+      "matchId": "1161705",
+      "league": "J联赛",
+      "home": "名古屋鲸",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.450",
+        "score_result": "1:1",
+        "score_odds": "6.300",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2022-06-26 17:00",
+      "matchId": "1162092",
+      "league": "J2联赛",
+      "home": "德岛漩涡",
+      "away": "群马温泉",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "4.700",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2022-06-26 17:00",
+      "matchId": "1162090",
+      "league": "J2联赛",
+      "home": "横滨FC",
+      "away": "新泻天鹅",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.600",
+        "score_result": "2:0",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2022-06-26 17:00",
+      "matchId": "1162091",
+      "league": "J2联赛",
+      "home": "枥木SC",
+      "away": "盛冈仙鹤",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周日033",
+      "match_time": "2022-06-26 06:00",
+      "matchId": "1158246",
+      "league": "美职",
+      "home": "费城",
+      "away": "纽约城",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.520",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.150",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周日034",
+      "match_time": "2022-06-26 08:00",
+      "matchId": "1158247",
+      "league": "美职",
+      "home": "温哥华",
+      "away": "新英格兰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.460",
+        "score_result": "0:0",
+        "score_odds": "14.000",
+        "goal_result": "0",
+        "goal_odds": "14.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    }
+  ]
+}

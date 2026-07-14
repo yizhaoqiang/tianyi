@@ -1,0 +1,354 @@
+{
+  "time": "2017-05-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_7-0_2860",
+        "handicap": "0_3_1566",
+        "halfFull": "11_33_1288",
+        "size": "2_7+_1134"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_7-0_2-1_27170",
+        "handicap": "0_3_3_2395",
+        "halfFull": "11_33_33_6568",
+        "size": "2_7+_3_4139"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_7-0_2-1_0-0_312455",
+        "handicap": "0_3_3_3_4768",
+        "halfFull": "11_33_33_11_36128",
+        "size": "2_7+_3_0_47599"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_15114",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_0_61516",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_0_0_97810",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_0_0_1_278760",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-1_9100",
+        "handicap": "0_1_2028",
+        "halfFull": "11_33_3047",
+        "size": "2_3_1428"
+      },
+      "team": "001_014"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_7-0_1-1_2-1_140140",
+        "handicap": "0_3_0_1_13232",
+        "halfFull": "11_33_11_33_20479",
+        "size": "2_7+_2_3_12723"
+      },
+      "team": "001_002_013_014"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2017-05-23 16:00",
+      "matchId": "951096",
+      "league": "U20世界杯",
+      "home": "英格兰U20",
+      "away": "几内亚U20",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "7.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "6.000",
+        "score_result": "1:1",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "4.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "11.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2017-05-23 16:00",
+      "matchId": "951095",
+      "league": "U20世界杯",
+      "home": "委内瑞拉U20",
+      "away": "瓦努阿图U20",
+      "result": {
+        "half": "2-0",
+        "full": "7-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-4",
+        "handicap_result": "3",
+        "handicap_odds": "2.610",
+        "score_result": "胜其他",
+        "score_odds": "2.200",
+        "goal_result": "7+",
+        "goal_odds": "2.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.120"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2017-05-23 19:00",
+      "matchId": "951097",
+      "league": "U20世界杯",
+      "home": "韩国U20",
+      "away": "阿根廷U20",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.960",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.530",
+        "score_result": "2:1",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2017-05-23 19:00",
+      "matchId": "951098",
+      "league": "U20世界杯",
+      "home": "墨西哥U20",
+      "away": "德国U20",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.990",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2017-05-23 20:00",
+      "matchId": "950670",
+      "league": "亚冠杯",
+      "home": "广州恒大",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.170",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "5.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2017-05-23 20:30",
+      "matchId": "950666",
+      "league": "亚冠杯",
+      "home": "蒙通联",
+      "away": "川崎前锋",
+      "result": {
+        "half": "1-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.070",
+        "score_result": "1:3",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2017-05-23 23:00",
+      "matchId": "950618",
+      "league": "亚冠杯",
+      "home": "波斯波利斯",
+      "away": "莱赫维亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.180",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.590",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2017-05-23 00:00",
+      "matchId": "950616",
+      "league": "亚冠杯",
+      "home": "胡齐斯坦独立",
+      "away": "利雅得希拉尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "2.850",
+        "score_result": "1:2",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-0",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周二013",
+      "match_time": "2017-05-23 08:45",
+      "matchId": "936993",
+      "league": "解放者杯",
+      "home": "圣菲独立",
+      "away": "最强者",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.500",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二014",
+      "match_time": "2017-05-23 10:00",
+      "matchId": "949479",
+      "league": "加拿大冠",
+      "home": "温哥华白帽",
+      "away": "蒙特利尔冲击",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.380",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    }
+  ]
+}

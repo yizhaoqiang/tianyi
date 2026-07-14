@@ -1,0 +1,200 @@
+{
+  "time": "2022-10-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-0_73600",
+        "handicap": "3_3_363",
+        "halfFull": "33_11_12000",
+        "size": "2_0_9920"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_0-0_1-1_644000",
+        "handicap": "3_3_0_578",
+        "halfFull": "33_11_31_192000",
+        "size": "2_0_2_39680"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-0_1-1_0-2_6440000",
+        "handicap": "3_3_0_0_2545",
+        "halfFull": "33_11_31_00_624000",
+        "size": "2_0_2_2_128960"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_7075",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-1_17250",
+        "handicap": "3_0_558",
+        "halfFull": "33_11_6200",
+        "size": "2_2_1085"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-0_0-2_1-1_5520000",
+        "handicap": "3_3_0_0_4450",
+        "halfFull": "33_11_00_11_302250",
+        "size": "2_0_2_2_112840"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2022-10-11 00:45",
+      "matchId": "1195645",
+      "league": "欧冠",
+      "home": "海马卡比",
+      "away": "尤文图斯",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.010",
+        "score_result": "2:0",
+        "score_odds": "23.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2022-10-11 00:45",
+      "matchId": "1195643",
+      "league": "欧冠",
+      "home": "哥本哈根",
+      "away": "曼城",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+3",
+        "handicap_result": "3",
+        "handicap_odds": "1.810",
+        "score_result": "0:0",
+        "score_odds": "32.000",
+        "goal_result": "0",
+        "goal_odds": "32.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2022-10-11 03:00",
+      "matchId": "1195650",
+      "league": "欧冠",
+      "home": "巴黎圣曼",
+      "away": "本菲卡",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.550",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.590",
+        "score_result": "1:1",
+        "score_odds": "8.750",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2022-10-11 03:00",
+      "matchId": "1195646",
+      "league": "欧冠",
+      "home": "AC米兰",
+      "away": "切尔西",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.960",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.400",
+        "score_result": "0:2",
+        "score_odds": "10.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2022-10-11 03:00",
+      "matchId": "1195649",
+      "league": "欧冠",
+      "home": "多特蒙德",
+      "away": "塞维利亚",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.780",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.750"
+      }
+    }
+  ]
+}

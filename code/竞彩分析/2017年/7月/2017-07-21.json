@@ -1,0 +1,331 @@
+{
+  "time": "2017-07-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-0_2200",
+        "handicap": "1_1_1287",
+        "halfFull": "33_33_518",
+        "size": "2_1_1162"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_1-0_1-3_154000",
+        "handicap": "1_1_0_3320",
+        "halfFull": "33_33_10_6734",
+        "size": "2_1_4_6975"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-0_1-3_2-1_1347500",
+        "handicap": "1_1_0_0_8865",
+        "halfFull": "33_33_10_13_23569",
+        "size": "2_1_4_3_25807"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_3_13209",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_3_0_17436",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_3_0_3_41325",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_3_0_3_3_66534",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-2_6160",
+        "handicap": "1_0_631",
+        "halfFull": "33_00_700",
+        "size": "2_2_1125"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-0_0-0_0-2_308000",
+        "handicap": "1_1_3_0_3356",
+        "halfFull": "33_33_11_00_13468",
+        "size": "2_1_0_2_34875"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2017-07-21 00:00",
+      "matchId": "971547",
+      "league": "女足欧洲杯",
+      "home": "瑞典女足",
+      "away": "俄罗斯女足",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:0",
+        "score_odds": "4.400",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.400"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2017-07-21 00:30",
+      "matchId": "956995",
+      "league": "俄超",
+      "home": "安郅马哈奇卡拉",
+      "away": "阿姆卡尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2017-07-21 00:30",
+      "matchId": "956996",
+      "league": "俄超",
+      "home": "莫斯科中央陆军",
+      "away": "莫斯科火车头",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "7.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.580",
+        "score_result": "1:3",
+        "score_odds": "70.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2017-07-21 02:45",
+      "matchId": "952123",
+      "league": "女足欧洲杯",
+      "home": "德国女足",
+      "away": "意大利女足",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.670",
+        "score_result": "2:1",
+        "score_odds": "8.750",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2017-07-21 02:45",
+      "matchId": "953934",
+      "league": "苏联杯",
+      "home": "罗斯郡",
+      "away": "希伯尼安",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.490",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2017-07-21 07:00",
+      "matchId": "929400",
+      "league": "美职",
+      "home": "奥兰多城",
+      "away": "亚特兰大联",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.130",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.320",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "5.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2017-07-21 07:30",
+      "matchId": "958031",
+      "league": "智利杯",
+      "home": "圣地亚哥漫步者",
+      "away": "科布雷萨尔",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.370",
+        "score_result": "3:0",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2017-07-21 08:00",
+      "matchId": "956751",
+      "league": "墨联",
+      "home": "莫雷利亚",
+      "away": "蒙特雷",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.610",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周五009",
+      "match_time": "2017-07-21 10:00",
+      "matchId": "956752",
+      "league": "墨联",
+      "home": "蒂华纳",
+      "away": "蓝十字",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    }
+  ]
+}

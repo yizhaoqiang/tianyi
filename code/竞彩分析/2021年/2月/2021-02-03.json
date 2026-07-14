@@ -1,0 +1,354 @@
+{
+  "time": "2021-02-03",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_4-0_26600",
+        "handicap": "3_3_425",
+        "halfFull": "03_33_4077",
+        "size": "5_4_3423"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_4-0_1-0_180880",
+        "handicap": "3_3_1_1487",
+        "halfFull": "03_33_33_7990",
+        "size": "5_4_1_18145"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_4-0_1-0_0-2_994840",
+        "handicap": "3_3_1_1_5131",
+        "halfFull": "03_33_33_00_11986",
+        "size": "5_4_1_2_70768"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_0_17551",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_0_3_27906",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_0_3_0_110229",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_0_3_0_0_155423",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_2-0_18760",
+        "handicap": "3_3_433",
+        "halfFull": "03_13_11069",
+        "size": "5_2_2640"
+      },
+      "team": "001_020"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_4-0_0-1_2-0_3207960",
+        "handicap": "3_3_0_3_3088",
+        "halfFull": "03_33_10_13_250735",
+        "size": "5_4_1_2_65736"
+      },
+      "team": "001_002_019_020"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2021-02-03 16:05",
+      "matchId": "1123217",
+      "league": "澳超",
+      "home": "中央海岸水手",
+      "away": "墨尔本城",
+      "result": {
+        "half": "1-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.700",
+        "score_result": "3:2",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "8.250",
+        "half_full_result": "0-3",
+        "half_full_odds": "27.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2021-02-03 01:30",
+      "matchId": "1123341",
+      "league": "德国杯",
+      "home": "莱比锡红牛",
+      "away": "波鸿",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.500",
+        "score_result": "4:0",
+        "score_odds": "9.500",
+        "goal_result": "4",
+        "goal_odds": "4.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.510"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2021-02-03 01:30",
+      "matchId": "1123337",
+      "league": "德国杯",
+      "home": "沃尔夫斯堡",
+      "away": "沙尔克04",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "6.800",
+        "goal_result": "1",
+        "goal_odds": "5.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.960"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2021-02-03 02:00",
+      "matchId": "1110160",
+      "league": "英超",
+      "home": "伯恩利",
+      "away": "曼彻斯特城",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "0:2",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.500"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2021-02-03 02:00",
+      "matchId": "1110161",
+      "league": "英超",
+      "home": "富勒姆",
+      "away": "莱切斯特城",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.420",
+        "score_result": "0:2",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2021-02-03 02:00",
+      "matchId": "1125977",
+      "league": "国王杯",
+      "home": "莱万特",
+      "away": "比利亚雷亚尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2021-02-03 02:00",
+      "matchId": "1101420",
+      "league": "法甲",
+      "home": "波尔多",
+      "away": "里尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.950",
+        "score_result": "0:3",
+        "score_odds": "17.000",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2021-02-03 02:00",
+      "matchId": "1101423",
+      "league": "法甲",
+      "home": "梅斯",
+      "away": "蒙彼利埃",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "1:1",
+        "score_odds": "5.200",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三019",
+      "match_time": "2021-02-03 04:15",
+      "matchId": "1110168",
+      "league": "英超",
+      "home": "利物浦",
+      "away": "布赖顿",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "7.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.850",
+        "score_result": "0:1",
+        "score_odds": "18.000",
+        "goal_result": "1",
+        "goal_odds": "6.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三020",
+      "match_time": "2021-02-03 06:15",
+      "matchId": "1087872",
+      "league": "巴西甲",
+      "home": "布拉干蒂诺RB",
+      "away": "戈亚尼亚竞技",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.550",
+        "score_result": "2:0",
+        "score_odds": "6.700",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    }
+  ]
+}

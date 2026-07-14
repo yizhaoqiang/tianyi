@@ -1,0 +1,354 @@
+{
+  "time": "2015-08-07",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-2_5625",
+        "handicap": "0_0_817",
+        "halfFull": "11_00_1289",
+        "size": "0_2_2125"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_0-2_2-1_39375",
+        "handicap": "0_0_1_3390",
+        "halfFull": "11_00_13_6966",
+        "size": "0_2_3_7331"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-2_2-1_1-0_354375",
+        "handicap": "0_0_1_1_12714",
+        "halfFull": "11_00_13_33_14976",
+        "size": "0_2_3_1_47653"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_1_3_37507",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_1_3_1_121900",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_1_3_1_3_469318",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_1_3_1_3_0_750909",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-0_4218",
+        "handicap": "0_1_752",
+        "halfFull": "11_13_1848",
+        "size": "0_1_2812"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-2_0-1_1-0_493593",
+        "handicap": "0_0_0_1_5232",
+        "halfFull": "11_00_10_13_44375",
+        "size": "0_2_1_1_47812"
+      },
+      "team": "001_002_026_027"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2015-08-07 00:00",
+      "matchId": "798990",
+      "league": "俄超",
+      "home": "格罗兹尼捷列克",
+      "away": "萨兰斯克",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.150",
+        "score_result": "0:0",
+        "score_odds": "6.250",
+        "goal_result": "0",
+        "goal_odds": "6.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2015-08-07 01:00",
+      "matchId": "791926",
+      "league": "德国杯",
+      "home": "柏林迪纳摩",
+      "away": "FSV法兰克福",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.920",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.800",
+        "score_result": "0:2",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2015-08-07 01:00",
+      "matchId": "774525",
+      "league": "挪超",
+      "home": "桑纳菲尤尔",
+      "away": "姆延达伦",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.150",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2015-08-07 01:00",
+      "matchId": "774529",
+      "league": "挪超",
+      "home": "瓦勒伦加",
+      "away": "特罗姆瑟",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2015-08-07 02:00",
+      "matchId": "791925",
+      "league": "德国杯",
+      "home": "埃尔沃斯堡",
+      "away": "奥格斯堡",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.950",
+        "score_result": "1:1",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.250"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2015-08-07 02:00",
+      "matchId": "795674",
+      "league": "法乙",
+      "home": "勒阿弗尔",
+      "away": "阿雅克肖",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:0",
+        "score_odds": "4.800",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2015-08-07 02:00",
+      "matchId": "795671",
+      "league": "法乙",
+      "home": "第戎",
+      "away": "尼奥尔",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.850",
+        "score_result": "3:0",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2015-08-07 02:00",
+      "matchId": "795672",
+      "league": "法乙",
+      "home": "伊维恩",
+      "away": "克莱蒙",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周五026",
+      "match_time": "2015-08-07 10:30",
+      "matchId": "793907",
+      "league": "墨联",
+      "home": "桑托斯拉古纳",
+      "away": "蒂华纳",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.680",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.830",
+        "score_result": "0:1",
+        "score_odds": "13.000",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周五027",
+      "match_time": "2015-08-07 11:00",
+      "matchId": "767691",
+      "league": "美职",
+      "home": "波特兰伐木工",
+      "away": "芝加哥火焰",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

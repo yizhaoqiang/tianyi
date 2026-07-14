@@ -1,0 +1,110 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2024-03-12 03:00",
+    "matchId": "2542024",
+    "league": "亚冠精英",
+    "home": "利雅得胜利",
+    "away": "艾因",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.29",
+        "d": "4.60",
+        "l": "6.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.08",
+        "d": "3.20",
+        "l": "2.89"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.29",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.20",
+      "score_result": "3:2",
+      "score_odds": "19.00",
+      "goal_result": "5",
+      "goal_odds": "7.50",
+      "half_full_result": "0-3",
+      "half_full_odds": "22.00"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2024-03-12 03:45",
+    "matchId": "2419806",
+    "league": "意甲",
+    "home": "拉齐奥",
+    "away": "乌迪内斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.69",
+        "d": "3.15",
+        "l": "4.35"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.62",
+        "d": "3.10",
+        "l": "1.85"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "4.35",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.85",
+      "score_result": "1:2",
+      "score_odds": "12.50",
+      "goal_result": "3",
+      "goal_odds": "3.80",
+      "half_full_result": "1-0",
+      "half_full_odds": "9.50"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2024-03-12 04:00",
+    "matchId": "2399331",
+    "league": "英超",
+    "home": "切尔西",
+    "away": "纽卡斯尔联",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.75",
+        "d": "3.70",
+        "l": "3.36"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.32",
+        "d": "3.80",
+        "l": "1.74"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.75",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.80",
+      "score_result": "3:2",
+      "score_odds": "17.00",
+      "goal_result": "5",
+      "goal_odds": "7.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.70"
+    }
+  }
+]

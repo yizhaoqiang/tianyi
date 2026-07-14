@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周一101",
+    "match_time": "2018-06-12 01:00",
+    "matchId": "1488964",
+    "league": "挪超",
+    "home": "特罗姆瑟",
+    "away": "罗森博格",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.78",
+        "d": "3.45",
+        "l": "1.74"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.82",
+        "d": "3.50",
+        "l": "3.40"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.78",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.82",
+      "score_result": "2:1",
+      "score_odds": "10.50",
+      "goal_result": "3",
+      "goal_odds": "3.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.65"
+    }
+  },
+  {
+    "num": "周一102",
+    "match_time": "2018-06-12 02:45",
+    "matchId": "1543816",
+    "league": "国际友谊",
+    "home": "比利时",
+    "away": "哥斯达黎加",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.13",
+        "d": "5.50",
+        "l": "16.00"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.85",
+        "d": "3.70",
+        "l": "1.97"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "4-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.13",
+      "handicap": "-2",
+      "handicap_result": "3",
+      "handicap_odds": "2.85",
+      "score_result": "4:1",
+      "score_odds": "18.00",
+      "goal_result": "5",
+      "goal_odds": "8.75",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.44"
+    }
+  }
+]

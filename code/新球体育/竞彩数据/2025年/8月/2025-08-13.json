@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周三001",
+    "match_time": "2025-08-14 03:00",
+    "matchId": "2782355",
+    "league": "欧超杯",
+    "home": "巴黎圣日耳曼",
+    "away": "托特纳姆热刺",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.34",
+        "d": "4.40",
+        "l": "6.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.95",
+        "d": "3.98",
+        "l": "2.74"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.40",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.74",
+      "score_result": "2:2",
+      "score_odds": "13.50",
+      "goal_result": "4",
+      "goal_odds": "4.00",
+      "half_full_result": "0-1",
+      "half_full_odds": "16.00"
+    }
+  },
+  {
+    "num": "周三002",
+    "match_time": "2025-08-14 03:00",
+    "matchId": "2800490",
+    "league": "英联杯",
+    "home": "伯明翰",
+    "away": "谢菲尔德联队",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.92",
+        "d": "3.12",
+        "l": "3.47"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.16",
+        "d": "3.40",
+        "l": "1.68"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.92",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.40",
+      "score_result": "2:1",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.45",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.20"
+    }
+  }
+]

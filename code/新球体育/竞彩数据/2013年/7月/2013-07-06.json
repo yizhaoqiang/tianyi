@@ -1,0 +1,830 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2013-07-06 11:00",
+    "matchId": "857410",
+    "league": "球会友谊",
+    "home": "美国",
+    "away": "危地马拉",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.16",
+        "d": "5.30",
+        "l": "13.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.61",
+        "d": "3.70",
+        "l": "4.40"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "胜其他",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.16",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.61",
+      "score_result": "胜其他",
+      "score_odds": "13.00",
+      "goal_result": "6",
+      "goal_odds": "11.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.60"
+    }
+  },
+  {
+    "num": "周六001",
+    "match_time": "2013-07-06 17:00",
+    "matchId": "817315",
+    "league": "日职联",
+    "home": "甲府风林",
+    "away": "浦和红钻",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.10",
+        "d": "3.95",
+        "l": "1.48"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.45",
+        "d": "3.55",
+        "l": "2.33"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.48",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.55",
+      "score_result": "0:1",
+      "score_odds": "7.00",
+      "goal_result": "1",
+      "goal_odds": "5.10",
+      "half_full_result": "1-0",
+      "half_full_odds": "4.05"
+    }
+  },
+  {
+    "num": "周六002",
+    "match_time": "2013-07-06 17:30",
+    "matchId": "817316",
+    "league": "日职联",
+    "home": "FC东京",
+    "away": "广岛三箭",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.25",
+        "d": "3.35",
+        "l": "2.63"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.60",
+        "d": "3.90",
+        "l": "1.55"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.63",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.55",
+      "score_result": "0:1",
+      "score_odds": "8.30",
+      "goal_result": "1",
+      "goal_odds": "4.40",
+      "half_full_result": "1-0",
+      "half_full_odds": "6.50"
+    }
+  },
+  {
+    "num": "周六003",
+    "match_time": "2013-07-06 18:00",
+    "matchId": "817322",
+    "league": "日职联",
+    "home": "磐田喜悦",
+    "away": "大阪樱花",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.35",
+        "d": "3.45",
+        "l": "2.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.65",
+        "d": "4.20",
+        "l": "1.50"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.45",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.50",
+      "score_result": "2:2",
+      "score_odds": "12.50",
+      "goal_result": "4",
+      "goal_odds": "5.30",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.30"
+    }
+  },
+  {
+    "num": "周六004",
+    "match_time": "2013-07-06 18:00",
+    "matchId": "817319",
+    "league": "日职联",
+    "home": "川崎前锋",
+    "away": "鹿岛鹿角",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.27",
+        "d": "3.50",
+        "l": "2.52"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.45",
+        "d": "4.25",
+        "l": "1.52"
+      }
+    },
+    "result": {
+      "half": "3-1",
+      "full": "4-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.27",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.45",
+      "score_result": "4:2",
+      "score_odds": "50.00",
+      "goal_result": "6",
+      "goal_odds": "13.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.70"
+    }
+  },
+  {
+    "num": "周六005",
+    "match_time": "2013-07-06 18:00",
+    "matchId": "817323",
+    "league": "日职联",
+    "home": "名古屋鲸八",
+    "away": "清水鼓动",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.00",
+        "d": "3.30",
+        "l": "3.12"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.90",
+        "d": "3.75",
+        "l": "1.68"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.00",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.75",
+      "score_result": "2:1",
+      "score_odds": "7.25",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "1-3",
+      "half_full_odds": "5.00"
+    }
+  },
+  {
+    "num": "周六006",
+    "match_time": "2013-07-06 18:00",
+    "matchId": "817321",
+    "league": "日职联",
+    "home": "新泻天鹅",
+    "away": "柏太阳神",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.52",
+        "d": "3.35",
+        "l": "2.33"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.50",
+        "d": "4.20",
+        "l": "4.65"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.52",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.50",
+      "score_result": "3:2",
+      "score_odds": "26.00",
+      "goal_result": "5",
+      "goal_odds": "9.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "6.40"
+    }
+  },
+  {
+    "num": "周六007",
+    "match_time": "2013-07-06 18:00",
+    "matchId": "817318",
+    "league": "日职联",
+    "home": "RB大宫松鼠",
+    "away": "鸟栖沙岩",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.61",
+        "d": "3.70",
+        "l": "4.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.71",
+        "d": "3.65",
+        "l": "2.10"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.70",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.10",
+      "score_result": "1:1",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.55",
+      "half_full_result": "3-1",
+      "half_full_odds": "16.00"
+    }
+  },
+  {
+    "num": "周六008",
+    "match_time": "2013-07-06 18:00",
+    "matchId": "817317",
+    "league": "日职联",
+    "home": "仙台维加泰",
+    "away": "湘南海洋",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.34",
+        "d": "4.25",
+        "l": "7.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.07",
+        "d": "3.50",
+        "l": "2.85"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.25",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.85",
+      "score_result": "0:0",
+      "score_odds": "12.50",
+      "goal_result": "0",
+      "goal_odds": "12.50",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.20"
+    }
+  },
+  {
+    "num": "周六009",
+    "match_time": "2013-07-06 18:00",
+    "matchId": "817320",
+    "league": "日职联",
+    "home": "横滨水手",
+    "away": "大分三神",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.22",
+        "d": "5.05",
+        "l": "9.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.78",
+        "d": "3.60",
+        "l": "3.60"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "5.05",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "3.60",
+      "score_result": "1:1",
+      "score_odds": "9.00",
+      "goal_result": "2",
+      "goal_odds": "3.70",
+      "half_full_result": "0-1",
+      "half_full_odds": "22.00"
+    }
+  },
+  {
+    "num": "周六010",
+    "match_time": "2013-07-06 21:30",
+    "matchId": "815388",
+    "league": "挪超",
+    "home": "奥勒松",
+    "away": "松达尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.45",
+        "d": "4.00",
+        "l": "5.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.30",
+        "d": "3.55",
+        "l": "2.50"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.00",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.50",
+      "score_result": "2:2",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "4.80",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.50"
+    }
+  },
+  {
+    "num": "周六011",
+    "match_time": "2013-07-06 22:00",
+    "matchId": "813576",
+    "league": "瑞典超",
+    "home": "布洛马波卡纳",
+    "away": "卡尔马",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.05",
+        "d": "3.15",
+        "l": "2.10"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.63",
+        "d": "3.90",
+        "l": "4.00"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.10",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.90",
+      "score_result": "0:1",
+      "score_odds": "7.50",
+      "goal_result": "1",
+      "goal_odds": "4.10",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.30"
+    }
+  },
+  {
+    "num": "周六012",
+    "match_time": "2013-07-06 22:00",
+    "matchId": "813579",
+    "league": "瑞典超",
+    "home": "埃尔夫斯堡",
+    "away": "阿特维达堡",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.36",
+        "d": "4.10",
+        "l": "6.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.12",
+        "d": "3.45",
+        "l": "2.80"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "6.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.80",
+      "score_result": "0:1",
+      "score_odds": "15.00",
+      "goal_result": "1",
+      "goal_odds": "4.80",
+      "half_full_result": "0-0",
+      "half_full_odds": "12.00"
+    }
+  },
+  {
+    "num": "周六013",
+    "match_time": "2013-07-06 22:00",
+    "matchId": "813574",
+    "league": "瑞典超",
+    "home": "米亚尔比",
+    "away": "奥斯达",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.80",
+        "d": "3.30",
+        "l": "3.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.25",
+        "d": "3.65",
+        "l": "1.86"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.30",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.86",
+      "score_result": "1:1",
+      "score_odds": "6.50",
+      "goal_result": "2",
+      "goal_odds": "3.30",
+      "half_full_result": "0-1",
+      "half_full_odds": "14.00"
+    }
+  },
+  {
+    "num": "周六014",
+    "match_time": "2013-07-06 23:00",
+    "matchId": "861726",
+    "league": "世青杯",
+    "home": "法国U20",
+    "away": "乌兹别克斯坦U20",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.27",
+        "d": "4.55",
+        "l": "8.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.90",
+        "d": "3.55",
+        "l": "3.25"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.27",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.90",
+      "score_result": "4:0",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "5.10",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.85"
+    }
+  },
+  {
+    "num": "周六015",
+    "match_time": "2013-07-06 23:59",
+    "matchId": "815389",
+    "league": "挪超",
+    "home": "海于格松",
+    "away": "斯托姆加斯特",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.50",
+        "d": "3.55",
+        "l": "1.80"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.85",
+        "d": "3.90",
+        "l": "3.10"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.50",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.85",
+      "score_result": "2:1",
+      "score_odds": "10.50",
+      "goal_result": "3",
+      "goal_odds": "3.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.20"
+    }
+  },
+  {
+    "num": "周六016",
+    "match_time": "2013-07-07 02:00",
+    "matchId": "861727",
+    "league": "世青杯",
+    "home": "乌拉圭U20",
+    "away": "西班牙U20",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.70",
+        "d": "3.75",
+        "l": "1.47"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.35",
+        "d": "3.50",
+        "l": "2.45"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.75",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.35",
+      "score_result": "0:0",
+      "score_odds": "12.00",
+      "goal_result": "0",
+      "goal_odds": "12.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.70"
+    }
+  },
+  {
+    "num": "周六017",
+    "match_time": "2013-07-07 05:30",
+    "matchId": "846200",
+    "league": "巴西甲",
+    "home": "弗拉门戈",
+    "away": "科里蒂巴",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.00",
+        "d": "3.15",
+        "l": "3.28"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.70",
+        "d": "3.85",
+        "l": "1.70"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.15",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.70",
+      "score_result": "2:2",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "6.00",
+      "half_full_result": "3-1",
+      "half_full_odds": "15.00"
+    }
+  },
+  {
+    "num": "周六018",
+    "match_time": "2013-07-07 05:30",
+    "matchId": "846206",
+    "league": "巴西甲",
+    "home": "巴拉纳竞技",
+    "away": "格雷米奥",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.36",
+        "d": "3.20",
+        "l": "2.58"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.00",
+        "d": "4.05",
+        "l": "1.49"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.20",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.49",
+      "score_result": "1:1",
+      "score_odds": "6.50",
+      "goal_result": "2",
+      "goal_odds": "3.35",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.00"
+    }
+  },
+  {
+    "num": "周六019",
+    "match_time": "2013-07-07 05:30",
+    "matchId": "846208",
+    "league": "巴西甲",
+    "home": "累西腓航海",
+    "away": "庞特普雷塔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.92",
+        "d": "3.20",
+        "l": "3.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.75",
+        "d": "3.55",
+        "l": "1.75"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.45",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.75",
+      "score_result": "1:3",
+      "score_odds": "32.00",
+      "goal_result": "4",
+      "goal_odds": "6.20",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.80"
+    }
+  },
+  {
+    "num": "周六020",
+    "match_time": "2013-07-07 07:40",
+    "matchId": "831505",
+    "league": "美职业",
+    "home": "新英格兰革命",
+    "away": "圣何塞地震",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.75",
+        "d": "3.30",
+        "l": "4.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.15",
+        "d": "3.60",
+        "l": "1.92"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.75",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.15",
+      "score_result": "2:0",
+      "score_odds": "8.00",
+      "goal_result": "2",
+      "goal_odds": "3.30",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.65"
+    }
+  },
+  {
+    "num": "周六021",
+    "match_time": "2013-07-07 08:00",
+    "matchId": "846201",
+    "league": "巴西甲",
+    "home": "葡萄牙人",
+    "away": "克鲁塞罗",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.62",
+        "d": "3.15",
+        "l": "2.35"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.90",
+        "d": "4.25",
+        "l": "1.40"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.15",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.40",
+      "score_result": "1:1",
+      "score_odds": "6.00",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.70"
+    }
+  },
+  {
+    "num": "周六022",
+    "match_time": "2013-07-07 09:00",
+    "matchId": "831506",
+    "league": "美职业",
+    "home": "休斯敦迪纳摩",
+    "away": "费城联合",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.75",
+        "d": "3.35",
+        "l": "3.95"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.15",
+        "d": "3.60",
+        "l": "1.91"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.75",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "1:0",
+      "score_odds": "6.50",
+      "goal_result": "1",
+      "goal_odds": "4.40",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.30"
+    }
+  }
+]

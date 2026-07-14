@@ -1,0 +1,200 @@
+{
+  "time": "2017-07-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-0_4025",
+        "handicap": "1_3_668",
+        "halfFull": "00_11_472",
+        "size": "2_0_3500"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_0-0_1-1_38237",
+        "handicap": "1_3_3_3440",
+        "halfFull": "00_11_11_4130",
+        "size": "2_0_2_15750"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-0_1-1_1-0_611800",
+        "handicap": "1_3_3_3_8428",
+        "halfFull": "00_11_11_33_30562",
+        "size": "2_0_2_1_96075"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_3_12052",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-0_3450",
+        "handicap": "1_3_572",
+        "halfFull": "00_11_424",
+        "size": "2_0_3000"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-0_1-0_0-0_386400",
+        "handicap": "1_3_3_3_2340",
+        "halfFull": "00_11_33_11_12574",
+        "size": "2_0_1_0_128100"
+      },
+      "team": "001_002_003_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2017-07-14 00:00",
+      "matchId": "963869",
+      "league": "欧冠",
+      "home": "林菲尔德",
+      "away": "凯尔特人",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "0:2",
+        "score_odds": "5.750",
+        "goal_result": "2",
+        "goal_odds": "5.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.180"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2017-07-14 02:30",
+      "matchId": "951465",
+      "league": "俄超杯",
+      "home": "莫斯科火车头",
+      "away": "莫斯科斯巴达",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.670",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2017-07-14 02:30",
+      "matchId": "959683",
+      "league": "球会友谊",
+      "home": "维冈竞技",
+      "away": "利物浦",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "7.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "5.150",
+        "score_result": "1:1",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "4.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.750"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2017-07-14 02:45",
+      "matchId": "953940",
+      "league": "苏联杯",
+      "home": "艾尔联",
+      "away": "基尔马诺克",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.450",
+        "score_result": "1:0",
+        "score_odds": "16.000",
+        "goal_result": "1",
+        "goal_odds": "6.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "7.400"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2017-07-14 10:00",
+      "matchId": "954772",
+      "league": "金杯赛",
+      "home": "加拿大",
+      "away": "洪都拉斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.430",
+        "score_result": "0:0",
+        "score_odds": "6.000",
+        "goal_result": "0",
+        "goal_odds": "6.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.600"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-06-30",
+  "total_matches": 3,
+  "parlays": [
+    {
+      "type": "胜平负",
+      "combo_odds": 6.89,
+      "combo_hit_rate": 0.18,
+      "hit": false,
+      "legs": [
+        {
+          "label": "周二077",
+          "result_key": "胜",
+          "hit": false,
+          "result": "1:2"
+        },
+        {
+          "label": "周二079",
+          "result_key": "胜",
+          "hit": true,
+          "result": "2:0"
+        }
+      ]
+    },
+    {
+      "type": "让球",
+      "combo_odds": 7.12,
+      "combo_hit_rate": 0.14,
+      "hit": true,
+      "legs": [
+        {
+          "label": "周二078",
+          "result_key": "胜",
+          "hit": true,
+          "result": "3:0-让胜",
+          "handicap": "-1"
+        },
+        {
+          "label": "周二079",
+          "result_key": "胜",
+          "hit": true,
+          "result": "2:0-让胜",
+          "handicap": "-1"
+        }
+      ]
+    },
+    {
+      "type": "让球",
+      "combo_odds": 7.12,
+      "combo_hit_rate": 0.14
+    }
+  ],
+  "matches": [
+    {
+      "match_index": 2,
+      "match_num": "",
+      "league": "世界杯",
+      "team": "法国-瑞典",
+      "result": "全3:0--半1:0--胜--让胜--3--单--胜胜",
+      "result_key": "胜(1)",
+      "checked": true
+    },
+    {
+      "match_index": 1,
+      "match_num": "",
+      "league": "世界杯",
+      "team": "科特迪瓦-挪威",
+      "result": "全1:2--半0:1--负--让平--3--单--负负",
+      "result_key": "负(1)",
+      "checked": true
+    },
+    {
+      "match_index": 3,
+      "match_num": "",
+      "league": "世界杯",
+      "team": "墨西哥-厄瓜多尔",
+      "result": "全2:0--半2:0--胜--让胜--2--双--胜胜",
+      "result_key": "胜(1)",
+      "checked": true
+    }
+  ]
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2019-09-20 22:30",
+    "matchId": "1721170",
+    "league": "俄超",
+    "home": "乌法",
+    "away": "莫斯科斯巴达",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.20",
+        "d": "2.85",
+        "l": "2.02"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.54",
+        "d": "3.50",
+        "l": "4.45"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.20",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.54",
+      "score_result": "1:0",
+      "score_odds": "7.00",
+      "goal_result": "1",
+      "goal_odds": "3.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.50"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2019-09-21 00:30",
+    "matchId": "1734952",
+    "league": "德乙",
+    "home": "海登海姆",
+    "away": "达姆施塔特",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.62",
+        "d": "3.60",
+        "l": "3.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.90",
+        "d": "3.55",
+        "l": "1.88"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.62",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.55",
+      "score_result": "1:0",
+      "score_odds": "8.00",
+      "goal_result": "1",
+      "goal_odds": "5.60",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2019-09-21 00:30",
+    "matchId": "1734953",
+    "league": "德乙",
+    "home": "荷尔斯泰因",
+    "away": "汉诺威96",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.92",
+        "d": "3.55",
+        "l": "2.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.60",
+        "d": "3.85",
+        "l": "1.61"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.80",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.61",
+      "score_result": "1:2",
+      "score_odds": "9.00",
+      "goal_result": "3",
+      "goal_odds": "3.20",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.70"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2019-09-21 01:00",
+    "matchId": "1650601",
+    "league": "瑞典超",
+    "home": "松兹瓦尔",
+    "away": "尤尔加登",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.10",
+        "d": "3.65",
+        "l": "1.45"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.22",
+        "d": "3.30",
+        "l": "2.47"
+      }
+    },
+    "result": {
+      "half": "1-3",
+      "full": "1-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.45",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "2.47",
+      "score_result": "1:4",
+      "score_odds": "21.00",
+      "goal_result": "5",
+      "goal_odds": "10.50",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.05"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1724296",
+    "league": "法乙",
+    "home": "欧塞尔",
+    "away": "特鲁瓦",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.33",
+        "d": "2.60",
+        "l": "2.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.75",
+        "d": "3.70",
+        "l": "1.40"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.40",
+      "score_result": "1:2",
+      "score_odds": "9.50",
+      "goal_result": "3",
+      "goal_odds": "3.85",
+      "half_full_result": "1-0",
+      "half_full_odds": "6.00"
+    }
+  },
+  {
+    "num": "周五006",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1724293",
+    "league": "法乙",
+    "home": "索肖",
+    "away": "甘冈",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.62",
+        "d": "2.62",
+        "l": "2.53"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.34",
+        "d": "3.80",
+        "l": "6.70"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.62",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.34",
+      "score_result": "3:1",
+      "score_odds": "29.00",
+      "goal_result": "4",
+      "goal_odds": "8.25",
+      "half_full_result": "3-3",
+      "half_full_odds": "4.70"
+    }
+  },
+  {
+    "num": "周五007",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1724297",
+    "league": "法乙",
+    "home": "沙托鲁",
+    "away": "格勒诺布尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.70",
+        "d": "2.75",
+        "l": "2.35"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.39",
+        "d": "3.75",
+        "l": "5.80"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.75",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.39",
+      "score_result": "1:1",
+      "score_odds": "5.50",
+      "goal_result": "2",
+      "goal_odds": "2.95",
+      "half_full_result": "3-1",
+      "half_full_odds": "14.00"
+    }
+  },
+  {
+    "num": "周五008",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1724294",
+    "league": "法乙",
+    "home": "勒芒",
+    "away": "阿雅克肖",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.36",
+        "d": "2.75",
+        "l": "2.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.85",
+        "d": "3.80",
+        "l": "1.38"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.70",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.38",
+      "score_result": "2:4",
+      "score_odds": "100.00",
+      "goal_result": "6",
+      "goal_odds": "25.00",
+      "half_full_result": "1-0",
+      "half_full_odds": "5.40"
+    }
+  },
+  {
+    "num": "周五009",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1724301",
+    "league": "法乙",
+    "home": "巴黎FC",
+    "away": "克莱蒙",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.15",
+        "d": "2.60",
+        "l": "2.19"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.46",
+        "d": "3.45",
+        "l": "5.45"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.19",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "5.45",
+      "score_result": "0:2",
+      "score_odds": "8.50",
+      "goal_result": "2",
+      "goal_odds": "2.95",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.85"
+    }
+  },
+  {
+    "num": "周五010",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1724300",
+    "league": "法乙",
+    "home": "奥兰斯",
+    "away": "勒阿弗尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.00",
+        "d": "2.90",
+        "l": "2.08"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.50",
+        "d": "3.60",
+        "l": "4.70"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.90",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.50",
+      "score_result": "2:2",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "5.75",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.40"
+    }
+  },
+  {
+    "num": "周五011",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1724302",
+    "league": "法乙",
+    "home": "瓦朗谢纳",
+    "away": "尼奥特",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.90",
+        "d": "2.90",
+        "l": "3.48"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.20",
+        "d": "3.35",
+        "l": "1.61"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.61",
+      "score_result": "1:1",
+      "score_odds": "5.60",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.50"
+    }
+  },
+  {
+    "num": "周五012",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1724299",
+    "league": "法乙",
+    "home": "南锡",
+    "away": "查布莱",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.11",
+        "d": "2.68",
+        "l": "3.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.05",
+        "d": "3.40",
+        "l": "1.50"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.11",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "5.05",
+      "score_result": "3:0",
+      "score_odds": "18.00",
+      "goal_result": "3",
+      "goal_odds": "4.20",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.40"
+    }
+  },
+  {
+    "num": "周五013",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1723334",
+    "league": "荷甲",
+    "home": "特温特",
+    "away": "赫拉克勒斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.10",
+        "d": "3.45",
+        "l": "2.55"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.10",
+        "d": "4.10",
+        "l": "1.49"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.55",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.49",
+      "score_result": "2:3",
+      "score_odds": "18.00",
+      "goal_result": "5",
+      "goal_odds": "6.75",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周五014",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1725330",
+    "league": "荷乙",
+    "home": "格拉夫夏普",
+    "away": "FC埃因霍温",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.33",
+        "d": "4.30",
+        "l": "5.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.06",
+        "d": "3.60",
+        "l": "2.53"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.33",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.06",
+      "score_result": "4:0",
+      "score_odds": "18.00",
+      "goal_result": "4",
+      "goal_odds": "4.25",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.95"
+    }
+  },
+  {
+    "num": "周五015",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1725327",
+    "league": "荷乙",
+    "home": "邓伯什",
+    "away": "马斯特里赫特",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.97",
+        "d": "3.35",
+        "l": "2.83"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.85",
+        "d": "3.90",
+        "l": "1.56"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.97",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.85",
+      "score_result": "4:0",
+      "score_odds": "40.00",
+      "goal_result": "4",
+      "goal_odds": "4.40",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.95"
+    }
+  },
+  {
+    "num": "周五016",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1725328",
+    "league": "荷乙",
+    "home": "多德勒支",
+    "away": "奈梅亨",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.05",
+        "d": "3.70",
+        "l": "1.78"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.71",
+        "d": "3.82",
+        "l": "3.20"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.71",
+      "score_result": "2:0",
+      "score_odds": "22.00",
+      "goal_result": "2",
+      "goal_odds": "4.20",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.25"
+    }
+  },
+  {
+    "num": "周五017",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1725326",
+    "league": "荷乙",
+    "home": "布雷达",
+    "away": "SBV精英",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.92",
+        "d": "3.55",
+        "l": "2.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.65",
+        "d": "3.85",
+        "l": "1.60"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.92",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.85",
+      "score_result": "2:1",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.45",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.80"
+    }
+  },
+  {
+    "num": "周五018",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1725331",
+    "league": "荷乙",
+    "home": "罗达JC",
+    "away": "乌德勒支青年队",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.43",
+        "d": "3.90",
+        "l": "4.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.29",
+        "d": "3.55",
+        "l": "2.27"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "4.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.27",
+      "score_result": "1:3",
+      "score_odds": "39.00",
+      "goal_result": "4",
+      "goal_odds": "4.10",
+      "half_full_result": "0-0",
+      "half_full_odds": "8.00"
+    }
+  },
+  {
+    "num": "周五019",
+    "match_time": "2019-09-21 02:00",
+    "matchId": "1725332",
+    "league": "荷乙",
+    "home": "特尔斯达",
+    "away": "福伦丹",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.35",
+        "d": "3.45",
+        "l": "2.25"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.43",
+        "d": "4.20",
+        "l": "4.50"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.25",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "4.20",
+      "score_result": "1:2",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.30",
+      "half_full_result": "1-0",
+      "half_full_odds": "5.70"
+    }
+  },
+  {
+    "num": "周五020",
+    "match_time": "2019-09-21 02:30",
+    "matchId": "1734170",
+    "league": "德甲",
+    "home": "沙尔克04",
+    "away": "美因茨",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.42",
+        "d": "3.85",
+        "l": "5.15"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.38",
+        "d": "3.40",
+        "l": "2.25"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.42",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.40",
+      "score_result": "2:1",
+      "score_odds": "6.75",
+      "goal_result": "3",
+      "goal_odds": "3.30",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.20"
+    }
+  },
+  {
+    "num": "周五021",
+    "match_time": "2019-09-21 02:45",
+    "matchId": "1763441",
+    "league": "意甲",
+    "home": "卡利亚里",
+    "away": "热那亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.55",
+        "d": "2.90",
+        "l": "2.37"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.70",
+        "d": "4.20",
+        "l": "1.34"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.55",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "5.70",
+      "score_result": "3:1",
+      "score_odds": "17.00",
+      "goal_result": "4",
+      "goal_odds": "3.90",
+      "half_full_result": "1-3",
+      "half_full_odds": "5.40"
+    }
+  },
+  {
+    "num": "周五022",
+    "match_time": "2019-09-21 02:45",
+    "matchId": "1723644",
+    "league": "法甲",
+    "home": "斯特拉斯堡",
+    "away": "南特",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.15",
+        "d": "2.82",
+        "l": "2.95"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.70",
+        "d": "3.75",
+        "l": "1.47"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.15",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.75",
+      "score_result": "2:1",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.90",
+      "half_full_result": "0-3",
+      "half_full_odds": "34.00"
+    }
+  },
+  {
+    "num": "周五023",
+    "match_time": "2019-09-21 03:00",
+    "matchId": "1720863",
+    "league": "英超",
+    "home": "南安普敦",
+    "away": "伯恩茅斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.80",
+        "d": "3.30",
+        "l": "3.33"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.50",
+        "d": "3.55",
+        "l": "1.69"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.33",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.69",
+      "score_result": "1:3",
+      "score_odds": "25.00",
+      "goal_result": "4",
+      "goal_odds": "4.70",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.30"
+    }
+  },
+  {
+    "num": "周五024",
+    "match_time": "2019-09-21 03:00",
+    "matchId": "1740567",
+    "league": "西甲",
+    "home": "奥萨苏纳",
+    "away": "皇家贝蒂斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.25",
+        "d": "2.90",
+        "l": "2.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.10",
+        "d": "3.80",
+        "l": "1.43"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.43",
+      "score_result": "0:0",
+      "score_odds": "9.50",
+      "goal_result": "0",
+      "goal_odds": "9.50",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.70"
+    }
+  },
+  {
+    "num": "周五025",
+    "match_time": "2019-09-21 03:30",
+    "matchId": "1744984",
+    "league": "葡超",
+    "home": "费雷拉",
+    "away": "艾维斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.57",
+        "d": "3.30",
+        "l": "4.55"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.95",
+        "d": "3.25",
+        "l": "1.95"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.57",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.25",
+      "score_result": "2:1",
+      "score_odds": "7.50",
+      "goal_result": "3",
+      "goal_odds": "3.45",
+      "half_full_result": "0-3",
+      "half_full_odds": "25.00"
+    }
+  }
+]

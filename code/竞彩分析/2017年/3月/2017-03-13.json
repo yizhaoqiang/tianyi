@@ -1,0 +1,354 @@
+{
+  "time": "2017-03-13",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-0_9750",
+        "handicap": "0_3_528",
+        "halfFull": "10_33_1739",
+        "size": "2_2_945"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_2-0_0-0_117000",
+        "handicap": "0_3_0_1479",
+        "halfFull": "10_33_11_11310",
+        "size": "2_2_0_11346"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-0_0-0_1-2_1521000",
+        "handicap": "0_3_0_0_2708",
+        "halfFull": "10_33_11_30_452400",
+        "size": "2_2_0_3_45951"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_4197",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_1_15110",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_1_3_26897",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_1_3_0_65091",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-1_7800",
+        "handicap": "0_0_243",
+        "halfFull": "10_01_8400",
+        "size": "2_2_914"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-0_1-1_1-1_365625",
+        "handicap": "0_3_0_0_1693",
+        "halfFull": "10_33_11_01_126671",
+        "size": "2_2_2_2_8786"
+      },
+      "team": "001_002_022_024"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2017-03-13 21:00",
+      "matchId": "933434",
+      "league": "亚冠杯",
+      "home": "创造者",
+      "away": "扎巴汉",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "0:2",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2017-03-13 23:30",
+      "matchId": "933428",
+      "league": "亚冠杯",
+      "home": "德黑兰独立",
+      "away": "塔什干火车头",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.730",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.500",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2017-03-13 00:30",
+      "matchId": "936291",
+      "league": "亚冠杯",
+      "home": "迪拜阿赫利",
+      "away": "布赖代塔亚文",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.800",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2017-03-13 00:30",
+      "matchId": "905270",
+      "league": "俄超",
+      "home": "莫斯科火车头",
+      "away": "克拉斯诺达尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.830",
+        "score_result": "1:2",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "4.050",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2017-03-13 01:30",
+      "matchId": "933433",
+      "league": "亚冠杯",
+      "home": "吉达阿赫利",
+      "away": "阿布扎比艾因",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2017-03-13 03:00",
+      "matchId": "883132",
+      "league": "荷乙",
+      "home": "阿喀琉斯",
+      "away": "瓦尔韦克",
+      "result": {
+        "half": "0-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.600",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:3",
+        "score_odds": "16.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2017-03-13 03:00",
+      "matchId": "883177",
+      "league": "荷乙",
+      "home": "阿尔梅勒城",
+      "away": "多德勒支",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.780",
+        "score_result": "3:0",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.720"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2017-03-13 03:00",
+      "matchId": "883147",
+      "league": "荷乙",
+      "home": "登博思",
+      "away": "芬洛",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.420",
+        "score_result": "0:2",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周一022",
+      "match_time": "2017-03-13 07:00",
+      "matchId": "936606",
+      "league": "巴圣联",
+      "home": "米拉索尔",
+      "away": "伊图阿诺",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.990",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周一024",
+      "match_time": "2017-03-13 08:15",
+      "matchId": "938340",
+      "league": "阿甲",
+      "home": "科隆竞技",
+      "away": "奥林匹奥",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    }
+  ]
+}

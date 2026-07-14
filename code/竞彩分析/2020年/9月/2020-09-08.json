@@ -1,0 +1,354 @@
+{
+  "time": "2020-09-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-1_0-0_25375",
+        "handicap": "3_3_374",
+        "halfFull": "33_11_725",
+        "size": "6_0_12250"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "5-1_0-0_4-2_1776250",
+        "handicap": "3_3_3_1084",
+        "halfFull": "33_11_33_1739",
+        "size": "6_0_6_281750"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "5-1_0-0_4-2_0-2_12433750",
+        "handicap": "3_3_3_0_3253",
+        "halfFull": "33_11_33_00_4523",
+        "size": "6_0_6_2_915687"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_0_4815",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_0_1_17577",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_0_1_1_69429",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_0_1_1_0_129832",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-1_1-1_18850",
+        "handicap": "3_0_380",
+        "halfFull": "33_31_2175",
+        "size": "6_2_4900"
+      },
+      "team": "001_010"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "5-1_0-0_1-1_1-1_1237031",
+        "handicap": "3_3_0_0_1669",
+        "halfFull": "33_11_11_31_76125",
+        "size": "6_0_2_2_171500"
+      },
+      "team": "001_002_006_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2020-09-08 02:45",
+      "matchId": "1116491",
+      "league": "欧国联",
+      "home": "比利时",
+      "away": "冰岛",
+      "result": {
+        "half": "2-1",
+        "full": "5-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.200",
+        "score_result": "5:1",
+        "score_odds": "29.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.450"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2020-09-08 02:45",
+      "matchId": "1088397",
+      "league": "欧国联",
+      "home": "丹麦",
+      "away": "英格兰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.700",
+        "score_result": "0:0",
+        "score_odds": "8.750",
+        "goal_result": "0",
+        "goal_odds": "8.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2020-09-08 02:45",
+      "matchId": "1088408",
+      "league": "欧国联",
+      "home": "法国",
+      "away": "克罗地亚",
+      "result": {
+        "half": "2-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.900",
+        "score_result": "4:2",
+        "score_odds": "70.000",
+        "goal_result": "6",
+        "goal_odds": "23.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2020-09-08 02:45",
+      "matchId": "1088409",
+      "league": "欧国联",
+      "home": "瑞典",
+      "away": "葡萄牙",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.000",
+        "score_result": "0:2",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周二014",
+      "match_time": "2020-09-08 02:45",
+      "matchId": "1088480",
+      "league": "欧国联",
+      "home": "塞浦路斯",
+      "away": "阿塞拜疆",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周二015",
+      "match_time": "2020-09-08 02:45",
+      "matchId": "1088481",
+      "league": "欧国联",
+      "home": "卢森堡",
+      "away": "黑山",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "0:1",
+        "score_odds": "5.800",
+        "goal_result": "1",
+        "goal_odds": "3.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2020-09-08 06:00",
+      "matchId": "1100774",
+      "league": "墨联",
+      "home": "圣路易斯",
+      "away": "内卡萨",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2020-09-08 08:00",
+      "matchId": "1100776",
+      "league": "墨联",
+      "home": "托卢卡",
+      "away": "华雷斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.720",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.870",
+        "score_result": "0:1",
+        "score_odds": "11.500",
+        "goal_result": "1",
+        "goal_odds": "6.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2020-09-08 08:06",
+      "matchId": "1100775",
+      "league": "墨联",
+      "home": "蒙特雷",
+      "away": "阿特拉斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.580",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2020-09-08 10:00",
+      "matchId": "1100777",
+      "league": "墨联",
+      "home": "瓜达拉哈拉",
+      "away": "克雷塔罗",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.730",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    }
+  ]
+}

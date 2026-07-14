@@ -1,0 +1,354 @@
+{
+  "time": "2019-03-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_1-1_3919",
+        "handicap": "0_0_211",
+        "halfFull": "10_11_2470",
+        "size": "1_2_1000"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_1-1_1-1_23520",
+        "handicap": "0_0_0_349",
+        "halfFull": "10_11_01_39520",
+        "size": "1_2_2_3151"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-1_1-1_2-0_164640",
+        "handicap": "0_0_0_3_1204",
+        "halfFull": "10_11_01_13_152152",
+        "size": "1_2_2_2_9612"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_2372",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_1_8541",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_1_0_22208",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_1_0_1_71067",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-1_5075",
+        "handicap": "0_1_573",
+        "halfFull": "10_13_2600",
+        "size": "1_3_1242"
+      },
+      "team": "001_013"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-1_3-0_2-1_511559",
+        "handicap": "0_0_3_1_3299",
+        "halfFull": "10_11_33_13_29146",
+        "size": "1_2_3_3_12246"
+      },
+      "team": "001_002_012_013"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2019-03-23 13:00",
+      "matchId": "1052918",
+      "league": "J2联赛",
+      "home": "新泻天鹅",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2019-03-23 13:00",
+      "matchId": "1052915",
+      "league": "J2联赛",
+      "home": "大宫松鼠",
+      "away": "水户蜀葵",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.820",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.420",
+        "score_result": "1:1",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2019-03-23 13:00",
+      "matchId": "1052917",
+      "league": "J2联赛",
+      "home": "甲府风林",
+      "away": "金泽塞维根",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2019-03-23 13:00",
+      "matchId": "1052916",
+      "league": "J2联赛",
+      "home": "横滨FC",
+      "away": "岐阜FC",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.730",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.450",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2019-03-23 14:00",
+      "matchId": "1052919",
+      "league": "J2联赛",
+      "home": "柏太阳神",
+      "away": "冈山绿雉",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.970",
+        "score_result": "0:1",
+        "score_odds": "10.000",
+        "goal_result": "1",
+        "goal_odds": "3.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2019-03-23 16:00",
+      "matchId": "1052920",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "长崎航海",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "0:1",
+        "score_odds": "5.300",
+        "goal_result": "1",
+        "goal_odds": "3.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2019-03-23 22:00",
+      "matchId": "1053914",
+      "league": "欧洲杯预",
+      "home": "格鲁吉亚",
+      "away": "瑞士",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.600",
+        "score_result": "0:2",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2019-03-23 01:00",
+      "matchId": "1053916",
+      "league": "欧洲杯预",
+      "home": "瑞典",
+      "away": "罗马尼亚",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周六012",
+      "match_time": "2019-03-23 07:30",
+      "matchId": "1051865",
+      "league": "美职",
+      "home": "费城联合",
+      "away": "哥伦布机员",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.050",
+        "score_result": "3:0",
+        "score_odds": "18.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周六013",
+      "match_time": "2019-03-23 10:30",
+      "matchId": "1051936",
+      "league": "美职",
+      "home": "洛杉矶FC",
+      "away": "皇家盐湖城",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    }
+  ]
+}

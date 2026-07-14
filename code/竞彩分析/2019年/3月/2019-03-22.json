@@ -1,0 +1,276 @@
+{
+  "time": "2019-03-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_1-1_3780",
+        "handicap": "0_0_276",
+        "halfFull": "00_11_701",
+        "size": "3_2_1003"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_1-4_10500",
+        "handicap": "0_0_282",
+        "halfFull": "00_00_192",
+        "size": "3_5_2142"
+      },
+      "team": "001_011"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_1-1_0-2_1-4_408240",
+        "handicap": "0_0_0_0_1771",
+        "halfFull": "00_11_00_00_2298",
+        "size": "3_2_2_5_18640"
+      },
+      "team": "001_002_010_011"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2019-03-22 19:35",
+      "matchId": "1055955",
+      "league": "友谊赛",
+      "home": "乌兹别克斯坦",
+      "away": "乌拉圭",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.810",
+        "score_result": "0:3",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.670"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2019-03-22 01:00",
+      "matchId": "1053908",
+      "league": "欧洲杯预",
+      "home": "保加利亚",
+      "away": "黑山",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.780",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2019-03-22 03:00",
+      "matchId": "1036660",
+      "league": "荷乙",
+      "home": "阿尔梅勒城",
+      "away": "奥斯",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "-1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2019-03-22 03:00",
+      "matchId": "1036659",
+      "league": "荷乙",
+      "home": "登博思",
+      "away": "特尔斯达",
+      "result": {
+        "half": "3-0",
+        "full": "3-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.250",
+        "score_result": "负其他",
+        "score_odds": "80.000",
+        "goal_result": "7+",
+        "goal_odds": "18.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "37.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2019-03-22 03:00",
+      "matchId": "1036658",
+      "league": "荷乙",
+      "home": "埃因霍温FC",
+      "away": "多德勒支",
+      "result": {
+        "half": "3-0",
+        "full": "8-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.500",
+        "score_result": "胜其他",
+        "score_odds": "32.000",
+        "goal_result": "7+",
+        "goal_odds": "16.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2019-03-22 03:00",
+      "matchId": "1036656",
+      "league": "荷乙",
+      "home": "福伦丹",
+      "away": "坎布尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.470",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.440",
+        "score_result": "0:1",
+        "score_odds": "10.000",
+        "goal_result": "1",
+        "goal_odds": "5.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.200"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2019-03-22 03:00",
+      "matchId": "1036657",
+      "league": "荷乙",
+      "home": "瓦尔韦克",
+      "away": "海尔蒙特",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "21.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2019-03-22 03:45",
+      "matchId": "1053907",
+      "league": "欧洲杯预",
+      "home": "英格兰",
+      "away": "捷克",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.670",
+        "score_result": "5:0",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "9.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.520"
+      }
+    },
+    {
+      "num": "周五010",
+      "match_time": "2019-03-22 03:45",
+      "matchId": "1053913",
+      "league": "欧洲杯预",
+      "home": "阿尔巴尼亚",
+      "away": "土耳其",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.910",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.100",
+        "score_result": "0:2",
+        "score_odds": "7.200",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周五011",
+      "match_time": "2019-03-22 03:45",
+      "matchId": "1053911",
+      "league": "欧洲杯预",
+      "home": "摩尔多瓦",
+      "away": "法国",
+      "result": {
+        "half": "0-3",
+        "full": "1-4",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "1:4",
+        "score_odds": "15.000",
+        "goal_result": "5",
+        "goal_odds": "6.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.150"
+      }
+    }
+  ]
+}

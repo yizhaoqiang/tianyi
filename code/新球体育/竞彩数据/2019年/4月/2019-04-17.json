@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周三001",
+    "match_time": "2019-04-18 01:00",
+    "matchId": "1585301",
+    "league": "意甲",
+    "home": "拉齐奥",
+    "away": "乌迪内斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.23",
+        "d": "4.50",
+        "l": "8.05"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.82",
+        "d": "3.50",
+        "l": "3.08"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.23",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.82",
+      "score_result": "2:0",
+      "score_odds": "5.75",
+      "goal_result": "2",
+      "goal_odds": "3.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.70"
+    }
+  },
+  {
+    "num": "周三002",
+    "match_time": "2019-04-18 01:00",
+    "matchId": "1549946",
+    "league": "法甲",
+    "home": "南特",
+    "away": "巴黎圣日耳曼",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.65",
+        "d": "3.45",
+        "l": "1.68"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.81",
+        "d": "3.65",
+        "l": "3.00"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.65",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.81",
+      "score_result": "3:2",
+      "score_odds": "25.00",
+      "goal_result": "5",
+      "goal_odds": "8.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.70"
+    }
+  },
+  {
+    "num": "周三003",
+    "match_time": "2019-04-18 03:00",
+    "matchId": "1686037",
+    "league": "欧冠杯",
+    "home": "波尔图",
+    "away": "利物浦",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.70",
+        "d": "3.25",
+        "l": "1.72"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.76",
+        "d": "3.50",
+        "l": "3.27"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.72",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.27",
+      "score_result": "1:4",
+      "score_odds": "28.00",
+      "goal_result": "5",
+      "goal_odds": "9.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.60"
+    }
+  },
+  {
+    "num": "周三004",
+    "match_time": "2019-04-18 03:00",
+    "matchId": "1686036",
+    "league": "欧冠杯",
+    "home": "曼彻斯特城",
+    "away": "托特纳姆热刺",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.17",
+        "d": "5.45",
+        "l": "8.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.67",
+        "d": "3.60",
+        "l": "3.53"
+      }
+    },
+    "result": {
+      "half": "3-2",
+      "full": "4-3",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.17",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "4:3",
+      "score_odds": "14.00",
+      "goal_result": "7+",
+      "goal_odds": "11.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.60"
+    }
+  },
+  {
+    "num": "周三005",
+    "match_time": "2019-04-18 10:00",
+    "matchId": "1656560",
+    "league": "美职业",
+    "home": "温哥华白浪",
+    "away": "洛杉矶FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.07",
+        "d": "3.60",
+        "l": "1.80"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.70",
+        "d": "3.80",
+        "l": "3.25"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.07",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.70",
+      "score_result": "1:0",
+      "score_odds": "13.00",
+      "goal_result": "1",
+      "goal_odds": "6.30",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.30"
+    }
+  }
+]

@@ -1,0 +1,354 @@
+{
+  "time": "2019-09-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_4-0_25500",
+        "handicap": "3_3_376",
+        "halfFull": "03_33_4828",
+        "size": "5_4_3879"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_4-0_3-0_165750",
+        "handicap": "3_3_3_602",
+        "halfFull": "03_33_33_7483",
+        "size": "5_4_3_12028"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_4-0_3-0_1-1_994500",
+        "handicap": "3_3_3_0_1055",
+        "halfFull": "03_33_33_11_36668",
+        "size": "5_4_3_2_38489"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_0_1740",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_0_1_6702",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_0_1_3_17426",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_0_1_3_3_39035",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_4-1_69000",
+        "handicap": "3_3_375",
+        "halfFull": "03_33_6528",
+        "size": "5_5_10185"
+      },
+      "team": "001_011"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_4-0_6-1_4-1_19941000",
+        "handicap": "3_3_3_3_1549",
+        "halfFull": "03_33_33_33_15295",
+        "size": "5_4_7+_5_1833299"
+      },
+      "team": "001_002_010_011"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2019-09-26 01:00",
+      "matchId": "1064626",
+      "league": "西甲",
+      "home": "埃瓦尔",
+      "away": "塞维利亚",
+      "result": {
+        "half": "0-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "3:2",
+        "score_odds": "30.000",
+        "goal_result": "5",
+        "goal_odds": "9.700",
+        "half_full_result": "0-3",
+        "half_full_odds": "34.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2019-09-26 01:00",
+      "matchId": "1049351",
+      "league": "瑞典超",
+      "home": "北雪平",
+      "away": "埃斯基尔斯蒂纳",
+      "result": {
+        "half": "3-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.270",
+        "score_result": "4:0",
+        "score_odds": "8.500",
+        "goal_result": "4",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.420"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2019-09-26 01:00",
+      "matchId": "1049353",
+      "league": "瑞典超",
+      "home": "马尔默",
+      "away": "赫尔辛堡",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.600",
+        "score_result": "3:0",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.550"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2019-09-26 02:00",
+      "matchId": "1064625",
+      "league": "西甲",
+      "home": "维戈塞尔塔",
+      "away": "西班牙人",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.750",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2019-09-26 02:00",
+      "matchId": "1076805",
+      "league": "荷甲",
+      "home": "费耶诺德",
+      "away": "阿尔克马尔",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "0:3",
+        "score_odds": "34.000",
+        "goal_result": "3",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2019-09-26 03:00",
+      "matchId": "1074562",
+      "league": "意甲",
+      "home": "都灵",
+      "away": "AC米兰",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "0-3",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2019-09-26 03:00",
+      "matchId": "1064630",
+      "league": "西甲",
+      "home": "皇家社会",
+      "away": "阿拉维斯",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.600",
+        "score_result": "3:0",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.070"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2019-09-26 06:15",
+      "matchId": "1058270",
+      "league": "巴西甲",
+      "home": "帕尔梅拉斯",
+      "away": "阿拉戈斯体育中心",
+      "result": {
+        "half": "4-0",
+        "full": "6-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.240",
+        "score_result": "胜其他",
+        "score_odds": "13.000",
+        "goal_result": "7+",
+        "goal_odds": "18.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.350"
+      }
+    },
+    {
+      "num": "周四010",
+      "match_time": "2019-09-26 07:00",
+      "matchId": "1058267",
+      "league": "巴西甲",
+      "home": "格雷米奥",
+      "away": "阿瓦伊",
+      "result": {
+        "half": "4-0",
+        "full": "6-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.190",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.820",
+        "score_result": "胜其他",
+        "score_odds": "34.000",
+        "goal_result": "7+",
+        "goal_odds": "45.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.650"
+      }
+    },
+    {
+      "num": "周四011",
+      "match_time": "2019-09-26 08:30",
+      "matchId": "1058276",
+      "league": "巴西甲",
+      "home": "巴拉纳竞技",
+      "away": "福塔雷萨",
+      "result": {
+        "half": "2-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.260",
+        "score_result": "4:1",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.920"
+      }
+    }
+  ]
+}

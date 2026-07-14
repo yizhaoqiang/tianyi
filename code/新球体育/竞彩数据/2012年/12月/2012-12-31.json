@@ -1,0 +1,62 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2012-12-31 15:00",
+    "matchId": "785308",
+    "league": "澳超",
+    "home": "中央海岸水手",
+    "away": "珀斯光荣",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.70",
+        "d": "3.30",
+        "l": "4.30"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.70",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "1:0",
+      "score_odds": "5.50",
+      "goal_result": "1",
+      "goal_odds": "3.70",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.40"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2012-12-31 17:05",
+    "matchId": "785309",
+    "league": "澳超",
+    "home": "阿德莱德联",
+    "away": "悉尼FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.55",
+        "d": "3.85",
+        "l": "4.60"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.55",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "3:0",
+      "score_odds": "12.00",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.30"
+    }
+  }
+]

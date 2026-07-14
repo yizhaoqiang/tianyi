@@ -1,0 +1,79 @@
+{
+  "time": "2022-01-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-2_6050",
+        "handicap": "3_0_282",
+        "halfFull": "01_01_19200",
+        "size": "2_4_1555"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-2_6050",
+        "handicap": "3_0_282",
+        "halfFull": "01_01_19200",
+        "size": "2_4_1555"
+      },
+      "team": "001_002"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2022-01-04 04:00",
+      "matchId": "1158118",
+      "league": "国王杯",
+      "home": "蓬费拉迪纳",
+      "away": "西班牙人",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.180",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.810",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2022-01-04 04:00",
+      "matchId": "1159416",
+      "league": "法国杯",
+      "home": "朗斯",
+      "away": "里尔",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.160",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "12.000"
+      }
+    }
+  ]
+}

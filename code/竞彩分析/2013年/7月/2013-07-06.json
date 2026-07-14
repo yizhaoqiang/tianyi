@@ -1,0 +1,354 @@
+{
+  "time": "2013-07-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-1_5810",
+        "handicap": "1_0_550",
+        "halfFull": "10_10_2632",
+        "size": "1_1_2244"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_0-1_2-2_72625",
+        "handicap": "1_0_0_825",
+        "halfFull": "10_10_11_13952",
+        "size": "1_1_4_11893"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-1_2-2_4-2_3631250",
+        "handicap": "1_0_0_3_3672",
+        "halfFull": "10_10_11_33_51623",
+        "size": "1_1_4_6_154611"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_1_13773",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_1_3_20660",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_1_3_0_43386",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_1_3_0_0_123651",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-0_7700",
+        "handicap": "1_3_1846",
+        "halfFull": "10_33_1599",
+        "size": "1_2_1708"
+      },
+      "team": "001_023"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-1_1-0_2-0_415415",
+        "handicap": "1_0_1_3_10300",
+        "halfFull": "10_10_13_33_46792",
+        "size": "1_1_1_2_33076"
+      },
+      "team": "001_002_022_023"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2013-07-06 17:00",
+      "matchId": "591607",
+      "league": "J联赛",
+      "home": "甲府风林",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.050"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2013-07-06 17:30",
+      "matchId": "591614",
+      "league": "J联赛",
+      "home": "东京FC",
+      "away": "广岛三箭",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.630",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "0:1",
+        "score_odds": "8.300",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2013-07-06 18:00",
+      "matchId": "591574",
+      "league": "J联赛",
+      "home": "磐田喜悦",
+      "away": "大阪樱花",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "2:2",
+        "score_odds": "12.500",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2013-07-06 18:00",
+      "matchId": "591631",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "3-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.270",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.450",
+        "score_result": "4:2",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "13.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2013-07-06 18:00",
+      "matchId": "591579",
+      "league": "J联赛",
+      "home": "名古屋鲸八",
+      "away": "清水鼓动",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2013-07-06 18:00",
+      "matchId": "591632",
+      "league": "J联赛",
+      "home": "新泻天鹅",
+      "away": "柏太阳神",
+      "result": {
+        "half": "0-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.520",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "3:2",
+        "score_odds": "26.000",
+        "goal_result": "5",
+        "goal_odds": "9.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.400"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2013-07-06 18:00",
+      "matchId": "591633",
+      "league": "J联赛",
+      "home": "大宫松鼠",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2013-07-06 18:00",
+      "matchId": "591623",
+      "league": "J联赛",
+      "home": "仙台维加泰",
+      "away": "湘南海洋",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.850",
+        "score_result": "0:0",
+        "score_odds": "12.500",
+        "goal_result": "0",
+        "goal_odds": "12.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.200"
+      }
+    },
+    {
+      "num": "周六022",
+      "match_time": "2013-07-06 09:00",
+      "matchId": "589153",
+      "league": "美职",
+      "home": "休斯顿迪纳摩",
+      "away": "费城联合",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周六023",
+      "match_time": "2013-07-06 11:00",
+      "matchId": "589171",
+      "league": "美职",
+      "home": "温哥华白帽",
+      "away": "西雅图海湾人",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.200",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.950"
+      }
+    }
+  ]
+}

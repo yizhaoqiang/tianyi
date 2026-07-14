@@ -1,0 +1,128 @@
+{
+  "time": "2018-03-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-1_12600",
+        "handicap": "0_3_308",
+        "halfFull": "10_31_12750",
+        "size": "2_2_841"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_1-1_2-0_69300",
+        "handicap": "0_3_3_670",
+        "halfFull": "10_31_13_44625",
+        "size": "2_2_2_2649"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-0_11550",
+        "handicap": "0_3_401",
+        "halfFull": "10_13_2975",
+        "size": "2_2_913"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_1-1_2-0_69300",
+        "handicap": "0_3_3_670",
+        "halfFull": "10_31_13_44625",
+        "size": "2_2_2_2649"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2018-03-20 03:45",
+      "matchId": "1011788",
+      "league": "英甲",
+      "home": "罗奇代尔",
+      "away": "福利特伍德",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "0:2",
+        "score_odds": "21.000",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2018-03-20 03:45",
+      "matchId": "958933",
+      "league": "英甲",
+      "home": "北安普敦",
+      "away": "什鲁斯伯里",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.670",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2018-03-20 08:00",
+      "matchId": "1017469",
+      "league": "巴圣联",
+      "home": "圣保罗",
+      "away": "圣卡埃塔诺",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.170",
+        "score_result": "2:0",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.500"
+      }
+    }
+  ]
+}

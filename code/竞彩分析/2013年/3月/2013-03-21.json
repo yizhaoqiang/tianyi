@@ -1,0 +1,128 @@
+{
+  "time": "2013-03-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_2-2_10400",
+        "handicap": "3_1_448",
+        "halfFull": "33_31_2700",
+        "size": "3_4_2109"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_2-2_5-0_145600",
+        "handicap": "3_1_3_502",
+        "halfFull": "33_31_33_3861",
+        "size": "3_4_5_13708"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_5-0_11200",
+        "handicap": "3_3_147",
+        "halfFull": "33_33_257",
+        "size": "3_5_2405"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_2-2_5-0_145600",
+        "handicap": "3_1_3_502",
+        "halfFull": "33_31_33_3861",
+        "size": "3_4_5_13708"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2013-03-21 03:00",
+      "matchId": "597936",
+      "league": "U21友谊赛",
+      "home": "英格兰U21",
+      "away": "罗马尼亚U21",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.320",
+        "score_result": "3:0",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2013-03-21 03:30",
+      "matchId": "596643",
+      "league": "友谊赛",
+      "home": "巴西",
+      "away": "意大利",
+      "result": {
+        "half": "2-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2013-03-21 05:30",
+      "matchId": "598058",
+      "league": "友谊赛",
+      "home": "厄瓜多尔",
+      "away": "萨尔瓦多",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.120",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.120",
+        "score_result": "5:0",
+        "score_odds": "14.000",
+        "goal_result": "5",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.430"
+      }
+    }
+  ]
+}

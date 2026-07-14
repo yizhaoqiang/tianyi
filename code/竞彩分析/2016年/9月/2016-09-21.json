@@ -1,0 +1,354 @@
+{
+  "time": "2016-09-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_4-1_35000",
+        "handicap": "3_3_957",
+        "halfFull": "13_33_3465",
+        "size": "1_5_2975"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_4-1_0-3_245000",
+        "handicap": "3_3_0_1579",
+        "halfFull": "13_33_00_5301",
+        "size": "1_5_3_10858"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_4-1_0-3_1-1_1372000",
+        "handicap": "3_3_0_3_2131",
+        "halfFull": "13_33_00_01_58315",
+        "size": "1_5_3_2_33119"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_1_8100",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_1_1_29566",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_1_1_1_109397",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_1_1_1_0_182694",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-1_8750",
+        "handicap": "3_1_770",
+        "halfFull": "13_33_2730",
+        "size": "1_3_1466"
+      },
+      "team": "001_087"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_4-1_5-2_2-1_19600000",
+        "handicap": "3_3_3_1_10081",
+        "halfFull": "13_33_33_33_23423",
+        "size": "1_5_7+_3_215538"
+      },
+      "team": "001_002_086_087"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2016-09-21 17:00",
+      "matchId": "913787",
+      "league": "俄罗斯杯",
+      "home": "哈巴罗夫斯克",
+      "away": "莫斯科斯巴达",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.200",
+        "score_result": "1:0",
+        "score_odds": "12.500",
+        "goal_result": "1",
+        "goal_odds": "4.250",
+        "half_full_result": "1-3",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2016-09-21 17:30",
+      "matchId": "915363",
+      "league": "足总杯",
+      "home": "墨尔本城",
+      "away": "西悉尼漫步者",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.350",
+        "score_result": "4:1",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2016-09-21 17:30",
+      "matchId": "915361",
+      "league": "足总杯",
+      "home": "布莱克敦城",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.180",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "0:3",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.530"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2016-09-21 18:00",
+      "matchId": "856884",
+      "league": "K联赛",
+      "home": "光州FC",
+      "away": "水原三星",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.820",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.350",
+        "score_result": "1:1",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-1",
+        "half_full_odds": "11.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2016-09-21 18:00",
+      "matchId": "856888",
+      "league": "K联赛",
+      "home": "全南天龙",
+      "away": "尚州尚武",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.950",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2016-09-21 18:30",
+      "matchId": "856887",
+      "league": "K联赛",
+      "home": "蔚山现代",
+      "away": "城南FC",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-3",
+        "half_full_odds": "21.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2016-09-21 18:30",
+      "matchId": "856886",
+      "league": "K联赛",
+      "home": "水原城",
+      "away": "首尔FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.710",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "0:1",
+        "score_odds": "7.300",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2016-09-21 18:30",
+      "matchId": "856885",
+      "league": "K联赛",
+      "home": "浦项制铁",
+      "away": "仁川联",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周三086",
+      "match_time": "2016-09-21 10:30",
+      "matchId": "878617",
+      "league": "墨联",
+      "home": "蒙特雷",
+      "away": "桑托斯拉古纳",
+      "result": {
+        "half": "3-1",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.010",
+        "score_result": "5:2",
+        "score_odds": "80.000",
+        "goal_result": "7+",
+        "goal_odds": "21.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周三087",
+      "match_time": "2016-09-21 11:00",
+      "matchId": "878615",
+      "league": "墨联",
+      "home": "蒂华纳",
+      "away": "克雷塔罗",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    }
+  ]
+}

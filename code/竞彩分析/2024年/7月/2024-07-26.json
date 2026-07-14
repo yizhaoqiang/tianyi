@@ -1,0 +1,128 @@
+{
+  "time": "2024-07-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_1-0_60000",
+        "handicap": "3_3_618",
+        "halfFull": "33_13_2428",
+        "size": "6_1_10830"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-2_1-0_1-3_1080000",
+        "handicap": "3_3_0_853",
+        "halfFull": "33_13_00_9715",
+        "size": "6_1_4_60647"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_1-3_90000",
+        "handicap": "3_0_561",
+        "halfFull": "33_00_1340",
+        "size": "6_4_10640"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-2_1-0_1-3_1080000",
+        "handicap": "3_3_0_853",
+        "halfFull": "33_13_00_9715",
+        "size": "6_1_4_60647"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2024-07-26 18:30",
+      "matchId": "1247021",
+      "league": "K联赛",
+      "home": "江原FC",
+      "away": "全北现代",
+      "result": {
+        "half": "1-0",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.940",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.070",
+        "score_result": "4:2",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "19.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2024-07-26 18:30",
+      "matchId": "1247022",
+      "league": "K联赛",
+      "home": "济州联",
+      "away": "蔚山现代",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.830",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "1:0",
+        "score_odds": "12.000",
+        "goal_result": "1",
+        "goal_odds": "5.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.250"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2024-07-26 23:00",
+      "matchId": "1262658",
+      "league": "俄超",
+      "home": "苏维埃翼",
+      "away": "罗斯托夫",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "1:3",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "5.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.000"
+      }
+    }
+  ]
+}

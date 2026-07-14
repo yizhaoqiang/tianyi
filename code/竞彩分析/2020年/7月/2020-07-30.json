@@ -1,0 +1,200 @@
+{
+  "time": "2020-07-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-3_2-2_72000",
+        "handicap": "3_3_356",
+        "halfFull": "33_01_7200",
+        "size": "7+_4_12090"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "5-3_2-2_3-0_1008000",
+        "handicap": "3_3_3_1157",
+        "halfFull": "33_01_33_19800",
+        "size": "7+_4_3_37479"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "5-3_2-2_3-0_1-2_10584000",
+        "handicap": "3_3_3_0_1979",
+        "halfFull": "33_01_33_10_158400",
+        "size": "7+_4_3_3_134924"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_3_3186",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-3_3-1_144000",
+        "handicap": "3_3_255",
+        "halfFull": "33_33_2430",
+        "size": "7+_4_16120"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "5-3_2-2_1-2_3-1_18144000",
+        "handicap": "3_3_0_3_980",
+        "halfFull": "33_01_10_33_311040",
+        "size": "7+_4_3_4_226324"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2020-07-30 17:30",
+      "matchId": "1098934",
+      "league": "澳超",
+      "home": "阿德莱德联",
+      "away": "珀斯光荣",
+      "result": {
+        "half": "4-1",
+        "full": "5-3",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "胜其他",
+        "score_odds": "60.000",
+        "goal_result": "7+",
+        "goal_odds": "31.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2020-07-30 00:00",
+      "matchId": "1098815",
+      "league": "挪超",
+      "home": "斯塔贝克",
+      "away": "博德闪耀",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.240",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "3.900",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2020-07-30 02:30",
+      "matchId": "1098816",
+      "league": "挪超",
+      "home": "罗森博格",
+      "away": "维京",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.770",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.250",
+        "score_result": "3:0",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2020-07-30 02:45",
+      "matchId": "1100916",
+      "league": "英冠",
+      "home": "富勒姆",
+      "away": "加的夫城",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.710",
+        "score_result": "1:2",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2020-07-30 08:00",
+      "matchId": "1100988",
+      "league": "美职",
+      "home": "费城联合",
+      "away": "堪萨斯城竞技",
+      "result": {
+        "half": "3-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.120",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.610",
+        "score_result": "3:1",
+        "score_odds": "24.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.400"
+      }
+    }
+  ]
+}

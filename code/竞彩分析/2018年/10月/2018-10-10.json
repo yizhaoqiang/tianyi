@@ -1,0 +1,164 @@
+{
+  "time": "2018-10-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_5687",
+        "handicap": "0_0_247",
+        "halfFull": "10_11_3111",
+        "size": "3_2_1005"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-1_1-1_34125",
+        "handicap": "0_0_0_575",
+        "halfFull": "10_11_11_14934",
+        "size": "3_2_2_2864"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_1-1_1-0_136500",
+        "handicap": "0_0_0_1_1696",
+        "halfFull": "10_11_11_33_32854",
+        "size": "3_2_2_1_8735"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-0_3500",
+        "handicap": "0_1_451",
+        "halfFull": "10_33_1441",
+        "size": "3_1_914"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_1-1_1-0_136500",
+        "handicap": "0_0_0_1_1696",
+        "halfFull": "10_11_11_33_32854",
+        "size": "3_2_2_1_8735"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2018-10-10 18:00",
+      "matchId": "1045434",
+      "league": "日联杯",
+      "home": "鹿岛鹿角",
+      "away": "横滨水手",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.630",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "1:2",
+        "score_odds": "8.750",
+        "goal_result": "3",
+        "goal_odds": "3.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.550"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2018-10-10 18:00",
+      "matchId": "1045436",
+      "league": "日联杯",
+      "home": "柏太阳神",
+      "away": "湘南海洋",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2018-10-10 02:45",
+      "matchId": "1046304",
+      "league": "友谊赛",
+      "home": "意大利",
+      "away": "乌克兰",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "2.850",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2018-10-10 08:45",
+      "matchId": "1046344",
+      "league": "巴西杯",
+      "home": "克鲁塞罗",
+      "away": "科林蒂安",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "1:0",
+        "score_odds": "4.000",
+        "goal_result": "1",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.200"
+      }
+    }
+  ]
+}

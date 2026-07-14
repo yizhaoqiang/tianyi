@@ -1,0 +1,331 @@
+{
+  "time": "2021-04-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-3_21000",
+        "handicap": "1_0_472",
+        "halfFull": "13_10_2492",
+        "size": "3_3_1406"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_0-3_2-0_105000",
+        "handicap": "1_0_3_921",
+        "halfFull": "13_10_33_4361",
+        "size": "3_3_2_4218"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-3_2-0_1-5_3675000",
+        "handicap": "1_0_3_0_1888",
+        "halfFull": "13_10_33_10_15917",
+        "size": "3_3_2_6_67500"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_0_3_6233",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_0_3_3_14398",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_0_3_3_3_61913",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_0_3_3_3_1_207409",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-0_4687",
+        "handicap": "1_1_1207",
+        "halfFull": "13_13_1579",
+        "size": "3_1_2137"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-3_2-1_1-0_918750",
+        "handicap": "1_0_1_1_5460",
+        "halfFull": "13_10_33_13_21674",
+        "size": "3_3_3_1_28455"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2021-04-22 22:00",
+      "matchId": "1114383",
+      "league": "葡超",
+      "home": "通德拉",
+      "away": "葡萄牙国民",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.450"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2021-04-22 00:00",
+      "matchId": "1114382",
+      "league": "葡超",
+      "home": "吉维森特",
+      "away": "法马利康",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.530",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "0:3",
+        "score_odds": "28.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2021-04-22 01:00",
+      "matchId": "1114833",
+      "league": "西甲",
+      "home": "马德里竞技",
+      "away": "韦斯卡",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.950",
+        "score_result": "2:0",
+        "score_odds": "5.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.750"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2021-04-22 02:00",
+      "matchId": "1114385",
+      "league": "葡超",
+      "home": "波尔蒂芒尼斯",
+      "away": "本菲卡",
+      "result": {
+        "half": "1-1",
+        "full": "1-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.050",
+        "score_result": "1:5",
+        "score_odds": "35.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2021-04-22 02:45",
+      "matchId": "1116374",
+      "league": "意甲",
+      "home": "那不勒斯",
+      "away": "拉齐奥",
+      "result": {
+        "half": "2-0",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.300",
+        "score_result": "5:2",
+        "score_odds": "100.000",
+        "goal_result": "7+",
+        "goal_odds": "24.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2021-04-22 03:00",
+      "matchId": "1110264",
+      "league": "英超",
+      "home": "莱切斯特城",
+      "away": "西布罗姆维奇",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.310",
+        "score_result": "3:0",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.100"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2021-04-22 03:00",
+      "matchId": "1114837",
+      "league": "西甲",
+      "home": "格拉纳达CF",
+      "away": "埃瓦尔",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.300",
+        "score_result": "4:1",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "15.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2021-04-22 03:00",
+      "matchId": "1114840",
+      "league": "西甲",
+      "home": "皇家社会",
+      "away": "维戈塞尔塔",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.590",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周四009",
+      "match_time": "2021-04-22 04:00",
+      "matchId": "1114387",
+      "league": "葡超",
+      "home": "波尔图",
+      "away": "吉马良斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "5.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.550"
+      }
+    }
+  ]
+}

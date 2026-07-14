@@ -1,0 +1,308 @@
+{
+  "time": "2024-04-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-1_13020",
+        "handicap": "0_3_1193",
+        "halfFull": "31_33_6300",
+        "size": "2_4_1775"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_3-1_1-1_104160",
+        "handicap": "0_3_0_2028",
+        "halfFull": "31_33_31_88200",
+        "size": "2_4_2_6924"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-1_1-1_1-0_833280",
+        "handicap": "0_3_0_1_6997",
+        "halfFull": "31_33_31_13_410130",
+        "size": "2_4_2_1_36007"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_9936",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_3_31101",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_3_3_54116",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_3_3_0_80091",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-2_6820",
+        "handicap": "0_0_303",
+        "halfFull": "31_11_8610",
+        "size": "2_4_1641"
+      },
+      "team": "001_008"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-1_1-1_2-2_1360590",
+        "handicap": "0_3_3_0_3072",
+        "halfFull": "31_33_11_11_319646",
+        "size": "2_4_2_4_47849"
+      },
+      "team": "001_002_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2024-04-02 18:30",
+      "matchId": "1246906",
+      "league": "K联赛",
+      "home": "浦项制铁",
+      "away": "水原FC",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.050",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2024-04-02 02:30",
+      "matchId": "1216774",
+      "league": "英超",
+      "home": "诺丁汉",
+      "away": "富勒姆",
+      "result": {
+        "half": "3-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.580",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.820",
+        "score_result": "3:1",
+        "score_odds": "21.000",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2024-04-02 02:30",
+      "matchId": "1216777",
+      "league": "英超",
+      "home": "纽卡斯尔",
+      "away": "埃弗顿",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "1:1",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2024-04-02 02:45",
+      "matchId": "1216770",
+      "league": "英超",
+      "home": "伯恩茅斯",
+      "away": "水晶宫",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.730",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "5.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.650"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2024-04-02 02:45",
+      "matchId": "1216773",
+      "league": "英超",
+      "home": "伯恩利",
+      "away": "狼队",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.850"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2024-04-02 03:00",
+      "matchId": "1246029",
+      "league": "意大利杯",
+      "home": "尤文图斯",
+      "away": "拉齐奥",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.130",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2024-04-02 03:15",
+      "matchId": "1216775",
+      "league": "英超",
+      "home": "西汉姆联",
+      "away": "热刺",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.740",
+        "score_result": "1:1",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "5.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.250"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2024-04-02 03:45",
+      "matchId": "1249686",
+      "league": "葡萄牙杯",
+      "home": "本菲卡",
+      "away": "里斯本",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.150"
+      }
+    }
+  ]
+}

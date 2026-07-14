@@ -1,0 +1,354 @@
+{
+  "time": "2021-09-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_0-1_18400",
+        "handicap": "3_0_316",
+        "halfFull": "11_10_3060",
+        "size": "4_1_3923"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_0-1_0-1_128800",
+        "handicap": "3_0_1_1058",
+        "halfFull": "11_10_00_8874",
+        "size": "4_1_1_20009"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_0-1_0-1_1-2_933800",
+        "handicap": "3_0_1_1_3282",
+        "halfFull": "11_10_00_30_266220",
+        "size": "4_1_1_3_79038"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_1_0_5415",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_1_0_0_9044",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_1_0_0_1_33010",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_1_0_0_1_3_130392",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-3_32000",
+        "handicap": "3_0_1236",
+        "halfFull": "11_10_3060",
+        "size": "4_4_3127"
+      },
+      "team": "001_020"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_0-1_5-2_1-3_25760000",
+        "handicap": "3_0_3_0_3361",
+        "halfFull": "11_10_03_10_422279",
+        "size": "4_1_7+_4_353507"
+      },
+      "team": "001_002_019_020"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2021-09-12 19:00",
+      "matchId": "1141971",
+      "league": "俄超",
+      "home": "图拉兵工厂",
+      "away": "莫斯科中央陆军",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.150",
+        "score_result": "2:2",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2021-09-12 19:30",
+      "matchId": "1138761",
+      "league": "德乙",
+      "home": "帕德博恩",
+      "away": "沙尔克04",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "0:1",
+        "score_odds": "11.500",
+        "goal_result": "1",
+        "goal_odds": "6.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2021-09-12 19:30",
+      "matchId": "1138762",
+      "league": "德乙",
+      "home": "奥厄",
+      "away": "杜塞尔多夫",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.680",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2021-09-12 20:00",
+      "matchId": "1139808",
+      "league": "西甲",
+      "home": "西班牙人",
+      "away": "马德里竞技",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:2",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "3-0",
+        "half_full_odds": "30.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2021-09-12 20:30",
+      "matchId": "1141099",
+      "league": "荷甲",
+      "home": "格罗宁根",
+      "away": "海伦芬",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "1:1",
+        "score_odds": "6.600",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2021-09-12 21:00",
+      "matchId": "1147743",
+      "league": "意甲",
+      "home": "卡利亚里",
+      "away": "热那亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "2:3",
+        "score_odds": "29.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "36.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2021-09-12 21:00",
+      "matchId": "1139059",
+      "league": "法甲",
+      "home": "波尔多",
+      "away": "朗斯",
+      "result": {
+        "half": "0-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:3",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "11.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2021-09-12 21:00",
+      "matchId": "1124411",
+      "league": "瑞典超",
+      "home": "佐加顿斯",
+      "away": "哈马比",
+      "result": {
+        "half": "3-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.950",
+        "score_result": "4:1",
+        "score_odds": "35.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周日019",
+      "match_time": "2021-09-12 03:00",
+      "matchId": "1139811",
+      "league": "西甲",
+      "home": "皇家马德里",
+      "away": "维戈塞尔塔",
+      "result": {
+        "half": "1-2",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.850",
+        "score_result": "5:2",
+        "score_odds": "70.000",
+        "goal_result": "7+",
+        "goal_odds": "17.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "23.000"
+      }
+    },
+    {
+      "num": "周日020",
+      "match_time": "2021-09-12 03:00",
+      "matchId": "1134695",
+      "league": "巴西甲",
+      "home": "帕尔梅拉斯",
+      "away": "弗拉门戈",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.530",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.750",
+        "score_result": "1:3",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2025-11-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-1_3850",
+        "handicap": "1_1_1067",
+        "halfFull": "00_13_1056",
+        "size": "1_3_1572"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_2-1_0-0_48125",
+        "handicap": "1_1_3_2263",
+        "halfFull": "00_13_11_6336",
+        "size": "1_3_0_19656"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_0-0_1-2_409062",
+        "handicap": "1_1_3_0_3304",
+        "halfFull": "00_13_11_00_28512",
+        "size": "1_3_0_3_76659"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_3_0_0_5484",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_3_0_0_0_9214",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_3_0_0_0_0_13084",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_3_0_0_0_0_0_19496",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-1_6325",
+        "handicap": "1_0_585",
+        "halfFull": "00_00_1716",
+        "size": "1_1_2018"
+      },
+      "team": "001_042"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_0-4_0-1_1859550",
+        "handicap": "1_1_0_0_7050",
+        "halfFull": "00_13_00_00_23028",
+        "size": "1_3_4_1_32118"
+      },
+      "team": "001_002_041_042"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2025-11-23 12:00",
+      "matchId": "1286974",
+      "league": "J2联赛",
+      "home": "大分三神",
+      "away": "千叶市原",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.050",
+        "score_result": "0:1",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2025-11-23 12:05",
+      "matchId": "1286973",
+      "league": "J2联赛",
+      "home": "长崎航海",
+      "away": "水户蜀葵",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2025-11-23 13:00",
+      "matchId": "1286965",
+      "league": "J2联赛",
+      "home": "秋田闪电",
+      "away": "仙台七夕",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "0:0",
+        "score_odds": "12.500",
+        "goal_result": "0",
+        "goal_odds": "12.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2025-11-23 13:00",
+      "matchId": "1286967",
+      "league": "J2联赛",
+      "home": "大宫松鼠",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "1-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2025-11-23 13:00",
+      "matchId": "1286969",
+      "league": "J2联赛",
+      "home": "磐田喜悦",
+      "away": "山形山神",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.660",
+        "score_result": "2:2",
+        "score_odds": "10.500",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2025-11-23 13:00",
+      "matchId": "1286972",
+      "league": "J2联赛",
+      "home": "今治FC",
+      "away": "札幌冈萨",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.300"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2025-11-23 13:00",
+      "matchId": "1286968",
+      "league": "J2联赛",
+      "home": "甲府风林",
+      "away": "富山胜利",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.420",
+        "score_result": "0:1",
+        "score_odds": "7.200",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.850"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2025-11-23 13:00",
+      "matchId": "1315003",
+      "league": "K联赛",
+      "home": "济州SK",
+      "away": "大邱FC",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.800",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周日041",
+      "match_time": "2025-11-23 06:00",
+      "matchId": "1314974",
+      "league": "美职",
+      "home": "辛辛那提",
+      "away": "迈国际",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.440",
+        "score_result": "0:4",
+        "score_odds": "42.000",
+        "goal_result": "4",
+        "goal_odds": "4.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.050"
+      }
+    },
+    {
+      "num": "周日042",
+      "match_time": "2025-11-23 08:45",
+      "matchId": "1314973",
+      "league": "美职",
+      "home": "费城",
+      "away": "纽约城",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.920",
+        "score_result": "0:1",
+        "score_odds": "11.500",
+        "goal_result": "1",
+        "goal_odds": "4.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "7.150"
+      }
+    }
+  ]
+}

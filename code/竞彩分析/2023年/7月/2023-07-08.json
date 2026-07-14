@@ -1,0 +1,354 @@
+{
+  "time": "2023-07-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_2-1_9900",
+        "handicap": "0_3_225",
+        "halfFull": "01_03_51000",
+        "size": "4_3_1680"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_2-1_1-2_74250",
+        "handicap": "0_3_1_806",
+        "halfFull": "01_03_30_1632000",
+        "size": "4_3_3_6048"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_2-1_1-2_1-2_556875",
+        "handicap": "0_3_1_1_3024",
+        "halfFull": "01_03_30_30_39168000",
+        "size": "4_3_3_3_21168"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_1_0_6654",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_1_0_3_8783",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_1_0_3_3_17128",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_1_0_3_3_3_46247",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_3-1_19800",
+        "handicap": "0_3_210",
+        "halfFull": "01_33_6300",
+        "size": "4_4_2304"
+      },
+      "team": "001_023"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_2-1_1-1_3-1_1514700",
+        "handicap": "0_3_0_3_913",
+        "halfFull": "01_03_11_33_1713600",
+        "size": "4_3_2_4_33868"
+      },
+      "team": "001_002_022_023"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2023-07-08 17:00",
+      "matchId": "1206499",
+      "league": "J联赛",
+      "home": "名古屋鲸",
+      "away": "横滨水手",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2023-07-08 18:00",
+      "matchId": "1206505",
+      "league": "J联赛",
+      "home": "福冈黄蜂",
+      "away": "札幌冈萨",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.970",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "2:1",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "34.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2023-07-08 21:00",
+      "matchId": "1200439",
+      "league": "瑞典超",
+      "home": "韦纳穆",
+      "away": "佐加顿斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.570",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-0",
+        "half_full_odds": "32.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2023-07-08 21:00",
+      "matchId": "1200433",
+      "league": "瑞典超",
+      "home": "索尔纳",
+      "away": "赫根",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.940",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2023-07-08 23:30",
+      "matchId": "1200440",
+      "league": "瑞典超",
+      "home": "布鲁马波",
+      "away": "代格福什",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.610",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.200",
+        "score_result": "1:2",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "34.000"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2023-07-08 00:00",
+      "matchId": "1227731",
+      "league": "U21欧洲杯",
+      "home": "英格兰21",
+      "away": "西班牙21",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.380",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.320",
+        "score_result": "1:0",
+        "score_odds": "8.300",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2023-07-08 00:00",
+      "matchId": "1201881",
+      "league": "挪超",
+      "home": "维京",
+      "away": "海于格松",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.950",
+        "score_result": "2:0",
+        "score_odds": "8.250",
+        "goal_result": "2",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2023-07-08 07:00",
+      "matchId": "1229119",
+      "league": "金杯赛",
+      "home": "巴拿马",
+      "away": "卡塔尔",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.700",
+        "score_result": "4:0",
+        "score_odds": "23.000",
+        "goal_result": "4",
+        "goal_odds": "6.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周六022",
+      "match_time": "2023-07-08 10:30",
+      "matchId": "1202689",
+      "league": "美职",
+      "home": "洛杉矶FC",
+      "away": "圣何塞",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.750",
+        "score_result": "1:1",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "4.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周六023",
+      "match_time": "2023-07-08 10:30",
+      "matchId": "1202688",
+      "league": "美职",
+      "home": "洛城银河",
+      "away": "费城",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "3:1",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.200"
+      }
+    }
+  ]
+}

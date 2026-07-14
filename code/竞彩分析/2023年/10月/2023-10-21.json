@@ -1,0 +1,354 @@
+{
+  "time": "2023-10-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-0_20400",
+        "handicap": "3_0_877",
+        "halfFull": "33_11_2074",
+        "size": "4_0_8100"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_0-0_2-0_173400",
+        "handicap": "3_0_1_3597",
+        "halfFull": "33_11_13_9229",
+        "size": "4_0_2_37665"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-0_2-0_1-1_988380",
+        "handicap": "3_0_1_0_5288",
+        "halfFull": "33_11_13_11_38763",
+        "size": "4_0_2_2_122411"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_12585",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_0_25674",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_0_1_96280",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_0_1_1_394749",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-2_25500",
+        "handicap": "3_0_606",
+        "halfFull": "33_00_1462",
+        "size": "4_2_2463"
+      },
+      "team": "001_021"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-0_1-1_0-2_2524500",
+        "handicap": "3_0_0_0_1921",
+        "halfFull": "33_11_01_00_124854",
+        "size": "4_0_2_2_130086"
+      },
+      "team": "001_002_020_021"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2023-10-21 13:00",
+      "matchId": "1206596",
+      "league": "J联赛",
+      "home": "神户胜利",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.100",
+        "score_result": "3:1",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "6.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2023-10-21 15:00",
+      "matchId": "1206595",
+      "league": "J联赛",
+      "home": "广岛三箭",
+      "away": "大阪樱花",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.140",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.100"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2023-10-21 19:30",
+      "matchId": "1216554",
+      "league": "英超",
+      "home": "利物浦",
+      "away": "埃弗顿",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "2:0",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "4.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.450"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2023-10-21 19:30",
+      "matchId": "1219518",
+      "league": "英冠",
+      "home": "普雷斯顿",
+      "away": "米尔沃尔",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.870",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2023-10-21 21:00",
+      "matchId": "1227875",
+      "league": "意甲",
+      "home": "维罗纳",
+      "away": "那不勒斯",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.380",
+        "score_result": "1:3",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.060"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2023-10-21 21:30",
+      "matchId": "1226013",
+      "league": "德甲",
+      "home": "达姆施塔",
+      "away": "莱红牛",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.040",
+        "score_result": "1:3",
+        "score_odds": "9.750",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2023-10-21 21:30",
+      "matchId": "1226008",
+      "league": "德甲",
+      "home": "沃夫斯堡",
+      "away": "勒沃库森",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.540",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:2",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2023-10-21 22:00",
+      "matchId": "1216555",
+      "league": "英超",
+      "home": "曼城",
+      "away": "布赖顿",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.740"
+      }
+    },
+    {
+      "num": "周六020",
+      "match_time": "2023-10-21 09:00",
+      "matchId": "1202847",
+      "league": "美职",
+      "home": "温哥华",
+      "away": "洛杉矶FC",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "1:1",
+        "score_odds": "8.250",
+        "goal_result": "2",
+        "goal_odds": "4.400",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周六021",
+      "match_time": "2023-10-21 09:00",
+      "matchId": "1202889",
+      "league": "美职",
+      "home": "圣路易城",
+      "away": "西雅图",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "0:2",
+        "score_odds": "15.000",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

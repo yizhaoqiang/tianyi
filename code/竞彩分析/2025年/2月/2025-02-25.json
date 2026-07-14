@@ -1,0 +1,285 @@
+{
+  "time": "2025-02-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_4-1_45375",
+        "handicap": "0_3_204",
+        "halfFull": "10_33_2687",
+        "size": "3_5_3700"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_4-1_2-1_340312",
+        "handicap": "0_3_1_766",
+        "halfFull": "10_33_33_8734",
+        "size": "3_5_3_12210"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_4-1_2-1_2-0_2586375",
+        "handicap": "0_3_1_3_2200",
+        "halfFull": "10_33_33_33_22360",
+        "size": "3_5_3_2_39682"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_3_0_3146",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_3_0_3_6230",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_3_0_3_0_13644",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_3_0_3_0_0_19783",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_4-4_165000",
+        "handicap": "0_0_317",
+        "halfFull": "10_31_10000",
+        "size": "3_7+_6105"
+      },
+      "team": "001_021"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_4-1_4-0_4-4_90750000",
+        "handicap": "0_3_3_0_886",
+        "halfFull": "10_33_33_31_59769",
+        "size": "3_5_4_7+_256410"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2025-02-25 03:30",
+      "matchId": "1260382",
+      "league": "英超",
+      "home": "狼队",
+      "away": "富勒姆",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.580",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "1:2",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2025-02-25 03:30",
+      "matchId": "1260383",
+      "league": "英超",
+      "home": "水晶宫",
+      "away": "维拉",
+      "result": {
+        "half": "1-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.480",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.410",
+        "score_result": "4:1",
+        "score_odds": "55.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2025-02-25 03:30",
+      "matchId": "1260378",
+      "league": "英超",
+      "home": "布赖顿",
+      "away": "伯恩茅斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2025-02-25 04:00",
+      "matchId": "1281594",
+      "league": "意大利杯",
+      "home": "国际米兰",
+      "away": "拉齐奥",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.590",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.870",
+        "score_result": "2:0",
+        "score_odds": "7.600",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.560"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2025-02-25 04:00",
+      "matchId": "1287545",
+      "league": "法国杯",
+      "home": "昂热",
+      "away": "兰斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2025-02-25 04:15",
+      "matchId": "1260384",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "南安普敦",
+      "result": {
+        "half": "3-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.980",
+        "score_result": "4:0",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.390"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2025-02-25 04:30",
+      "matchId": "1287885",
+      "league": "国王杯",
+      "home": "巴萨",
+      "away": "马竞",
+      "result": {
+        "half": "3-2",
+        "full": "4-4",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.190",
+        "score_result": "平其他",
+        "score_odds": "200.000",
+        "goal_result": "7+",
+        "goal_odds": "16.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    }
+  ]
+}

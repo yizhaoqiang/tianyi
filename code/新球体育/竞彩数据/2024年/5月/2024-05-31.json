@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2024-05-31 18:00",
+    "matchId": "2538771",
+    "league": "日职联",
+    "home": "鸟栖沙岩",
+    "away": "FC东京",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.80",
+        "d": "3.40",
+        "l": "2.05"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.55",
+        "d": "3.85",
+        "l": "4.26"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.05",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.85",
+      "score_result": "0:1",
+      "score_odds": "9.50",
+      "goal_result": "1",
+      "goal_odds": "6.20",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.50"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2024-06-01 07:40",
+    "matchId": "2511855",
+    "league": "美职业",
+    "home": "纽约城",
+    "away": "圣何塞地震",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.44",
+        "d": "4.10",
+        "l": "5.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.49",
+        "d": "3.30",
+        "l": "2.30"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "5-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.44",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.49",
+      "score_result": "5:1",
+      "score_odds": "50.00",
+      "goal_result": "6",
+      "goal_odds": "15.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.10"
+    }
+  }
+]

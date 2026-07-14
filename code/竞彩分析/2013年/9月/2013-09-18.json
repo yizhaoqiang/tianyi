@@ -1,0 +1,354 @@
+{
+  "time": "2013-09-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-2_5200",
+        "handicap": "1_1_1455",
+        "halfFull": "13_30_11600",
+        "size": "1_3_1747"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_1-2_1-4_119600",
+        "handicap": "1_1_0_4031",
+        "halfFull": "13_30_00_27260",
+        "size": "1_3_5_14857"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-2_1-4_2-2_1435200",
+        "handicap": "1_1_0_0_6571",
+        "halfFull": "13_30_00_11_141752",
+        "size": "1_3_5_4_80233"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_0_24512",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_0_3_50986",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_0_3_1_198845",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_0_3_1_3_316164",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-2_6500",
+        "handicap": "1_0_557",
+        "halfFull": "13_10_2520",
+        "size": "1_3_1977"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-2_1-0_1-2_322400",
+        "handicap": "1_1_1_0_8340",
+        "halfFull": "13_30_33_10_211931",
+        "size": "1_3_1_3_30065"
+      },
+      "team": "001_002_023_024"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2013-09-18 18:30",
+      "matchId": "610908",
+      "league": "亚冠杯",
+      "home": "首尔FC",
+      "away": "吉达阿赫利",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2013-09-18 19:00",
+      "matchId": "610912",
+      "league": "亚冠杯",
+      "home": "布里兰",
+      "away": "德黑兰独立",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-0",
+        "half_full_odds": "29.000"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2013-09-18 23:15",
+      "matchId": "610913",
+      "league": "亚冠杯",
+      "home": "莱赫维亚",
+      "away": "广州恒大",
+      "result": {
+        "half": "0-3",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.770",
+        "score_result": "1:4",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.350"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2013-09-18 01:15",
+      "matchId": "610914",
+      "league": "亚冠杯",
+      "home": "利雅得沙巴布",
+      "away": "柏太阳神",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2013-09-18 02:45",
+      "matchId": "655858",
+      "league": "欧冠",
+      "home": "切尔西",
+      "away": "巴塞尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "10.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.730",
+        "score_result": "1:2",
+        "score_odds": "25.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-0",
+        "half_full_odds": "70.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2013-09-18 02:45",
+      "matchId": "655866",
+      "league": "欧冠",
+      "home": "沙尔克04",
+      "away": "布加勒斯特星",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.080",
+        "score_result": "3:0",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2013-09-18 02:45",
+      "matchId": "655872",
+      "league": "欧冠",
+      "home": "马赛",
+      "away": "阿森纳",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2013-09-18 02:45",
+      "matchId": "655849",
+      "league": "欧冠",
+      "home": "那不勒斯",
+      "away": "多特蒙德",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.650"
+      }
+    },
+    {
+      "num": "周三023",
+      "match_time": "2013-09-18 08:50",
+      "matchId": "603962",
+      "league": "巴西甲",
+      "home": "圣保罗",
+      "away": "米内罗竞技",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:0",
+        "score_odds": "6.200",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周三024",
+      "match_time": "2013-09-18 09:30",
+      "matchId": "656956",
+      "league": "南俱杯",
+      "home": "波哥大公平",
+      "away": "萨斯菲尔德",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "4.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.300"
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "time": "2012-01-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-6_36000",
+        "handicap": "0_0_416",
+        "halfFull": "00_00_1019",
+        "size": "2_6_4960"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_0-6_5-1_720000",
+        "handicap": "0_0_3_874",
+        "halfFull": "00_00_33_1407",
+        "size": "2_6_6_44640"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-6_5-1_1-1_3600000",
+        "handicap": "0_0_3_1_2580",
+        "halfFull": "00_00_33_11_6052",
+        "size": "2_6_6_2_142848"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-1_4500",
+        "handicap": "0_1_722",
+        "halfFull": "00_11_1720",
+        "size": "2_2_992"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-6_5-1_1-1_3600000",
+        "handicap": "0_0_3_1_2580",
+        "halfFull": "00_00_33_11_6052",
+        "size": "2_6_6_2_142848"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2012-01-06 03:30",
+      "matchId": "197083",
+      "league": "法国杯",
+      "home": "勒芒",
+      "away": "瓦朗谢纳",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.450",
+        "score_result": "0:2",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2012-01-06 03:45",
+      "matchId": "182925",
+      "league": "英甲",
+      "home": "韦甘比",
+      "away": "哈德斯菲尔德",
+      "result": {
+        "half": "0-3",
+        "full": "0-6",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "负其他",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2012-01-06 04:00",
+      "matchId": "196671",
+      "league": "足总杯",
+      "home": "利物浦",
+      "away": "奥德汉姆",
+      "result": {
+        "half": "2-1",
+        "full": "5-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.100",
+        "score_result": "5:1",
+        "score_odds": "20.000",
+        "goal_result": "6",
+        "goal_odds": "9.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.380"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2012-01-06 04:15",
+      "matchId": "191372",
+      "league": "葡超",
+      "home": "塞图巴尔",
+      "away": "科英布拉大学",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "1:1",
+        "score_odds": "5.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

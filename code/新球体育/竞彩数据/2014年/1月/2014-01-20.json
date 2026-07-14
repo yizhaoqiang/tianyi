@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2014-01-21 03:00",
+    "matchId": "864741",
+    "league": "荷乙",
+    "home": "埃因霍温青年队",
+    "away": "格拉夫夏普",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.35",
+        "d": "3.50",
+        "l": "2.32"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.42",
+        "d": "4.60",
+        "l": "4.50"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.32",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "4.50",
+      "score_result": "0:2",
+      "score_odds": "12.00",
+      "goal_result": "2",
+      "goal_odds": "3.80",
+      "half_full_result": "1-0",
+      "half_full_odds": "6.00"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2014-01-21 03:30",
+    "matchId": "860330",
+    "league": "法乙",
+    "home": "梅斯",
+    "away": "基迪尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.32",
+        "d": "3.90",
+        "l": "7.65"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.16",
+        "d": "3.30",
+        "l": "2.65"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.65",
+      "score_result": "1:1",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.30",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.75"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2014-01-21 04:00",
+    "matchId": "851887",
+    "league": "英超",
+    "home": "西布罗姆维奇",
+    "away": "埃弗顿",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.95",
+        "d": "3.25",
+        "l": "1.72"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.81",
+        "d": "3.60",
+        "l": "3.20"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.25",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.81",
+      "score_result": "1:1",
+      "score_odds": "6.00",
+      "goal_result": "2",
+      "goal_odds": "3.40",
+      "half_full_result": "0-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2014-01-21 04:00",
+    "matchId": "870264",
+    "league": "葡超",
+    "home": "葡萄牙国民",
+    "away": "埃斯托里尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.70",
+        "d": "3.00",
+        "l": "2.27"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.45",
+        "d": "4.10",
+        "l": "4.75"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.00",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.45",
+      "score_result": "2:2",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "6.00",
+      "half_full_result": "0-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周一005",
+    "match_time": "2014-01-21 05:00",
+    "matchId": "872127",
+    "league": "西甲",
+    "home": "毕尔巴鄂竞技",
+    "away": "巴拉多利德",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.19",
+        "d": "5.15",
+        "l": "9.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.74",
+        "d": "3.70",
+        "l": "3.35"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "4-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.19",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.74",
+      "score_result": "4:2",
+      "score_odds": "34.00",
+      "goal_result": "6",
+      "goal_odds": "11.00",
+      "half_full_result": "0-3",
+      "half_full_odds": "24.00"
+    }
+  }
+]

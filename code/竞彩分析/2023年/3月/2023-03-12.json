@@ -1,0 +1,354 @@
+{
+  "time": "2023-03-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_2-1_5600",
+        "handicap": "1_1_1153",
+        "halfFull": "33_33_529",
+        "size": "3_3_1496"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_2-1_0-0_53200",
+        "handicap": "1_1_0_1834",
+        "halfFull": "33_33_11_2539",
+        "size": "3_3_0_14216"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_2-1_0-0_0-1_399000",
+        "handicap": "1_1_0_0_2384",
+        "halfFull": "33_33_11_00_9269",
+        "size": "3_3_0_1_64686"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_1_8585",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_1_3_14165",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_1_3_0_25781",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_0_1_3_0_1_81212",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-1_5600",
+        "handicap": "1_1_1224",
+        "halfFull": "33_00_666",
+        "size": "3_1_1722"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_2-1_4-2_0-1_3136000",
+        "handicap": "1_1_3_1_7642",
+        "halfFull": "33_33_13_00_7142",
+        "size": "3_3_6_1_169703"
+      },
+      "team": "001_002_026_027"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2023-03-12 12:00",
+      "matchId": "1194201",
+      "league": "澳超",
+      "home": "墨尔本城",
+      "away": "布里斯班",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2023-03-12 13:00",
+      "matchId": "1206356",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.860"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2023-03-12 13:00",
+      "matchId": "1206786",
+      "league": "J2联赛",
+      "home": "清水鼓动",
+      "away": "大分三神",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.180",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.590",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2023-03-12 13:00",
+      "matchId": "1206782",
+      "league": "J2联赛",
+      "home": "仙台七夕",
+      "away": "磐城FC",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.300",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2023-03-12 13:00",
+      "matchId": "1205993",
+      "league": "K联赛",
+      "home": "首尔FC",
+      "away": "蔚山现代",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.350"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2023-03-12 14:00",
+      "matchId": "1206357",
+      "league": "J联赛",
+      "home": "札幌冈萨",
+      "away": "横滨水手",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.920",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "2:0",
+        "score_odds": "20.000",
+        "goal_result": "2",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2023-03-12 14:00",
+      "matchId": "1206358",
+      "league": "J联赛",
+      "home": "鹿岛鹿角",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.820",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2023-03-12 15:00",
+      "matchId": "1206361",
+      "league": "J联赛",
+      "home": "大阪钢巴",
+      "away": "广岛三箭",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周日026",
+      "match_time": "2023-03-12 03:45",
+      "matchId": "1176625",
+      "league": "意甲",
+      "home": "尤文图斯",
+      "away": "桑普",
+      "result": {
+        "half": "2-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.920",
+        "score_result": "4:2",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "27.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周日027",
+      "match_time": "2023-03-12 04:00",
+      "matchId": "1176231",
+      "league": "西甲",
+      "home": "毕尔巴鄂",
+      "away": "巴萨",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.600"
+      }
+    }
+  ]
+}

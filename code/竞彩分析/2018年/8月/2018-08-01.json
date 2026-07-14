@@ -1,0 +1,354 @@
+{
+  "time": "2018-08-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-2_11550",
+        "handicap": "3_0_382",
+        "halfFull": "33_00_1116",
+        "size": "3_3_1155"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_1-2_1-1_80850",
+        "handicap": "3_0_0_653",
+        "halfFull": "33_00_31_14508",
+        "size": "3_3_2_3756"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_1-2_1-1_1-1_525525",
+        "handicap": "3_0_0_0_1058",
+        "halfFull": "33_00_31_11_75441",
+        "size": "3_3_2_2_12207"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_1576",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_1_5991",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_1_3_9107",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_1_3_1_33696",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_2-3_63000",
+        "handicap": "3_0_559",
+        "halfFull": "33_30_8100",
+        "size": "3_5_2846"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_1-2_2-1_2-3_4851000",
+        "handicap": "3_0_1_0_3581",
+        "halfFull": "33_00_33_30_94413",
+        "size": "3_3_3_5_34325"
+      },
+      "team": "001_002_026_027"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2018-08-01 17:30",
+      "matchId": "1033493",
+      "league": "澳足总杯",
+      "home": "阿德莱德联",
+      "away": "中央海岸水手",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.910",
+        "score_result": "3:0",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2018-08-01 18:00",
+      "matchId": "1009866",
+      "league": "J联赛",
+      "home": "仙台七夕",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.000",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.200"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2018-08-01 18:00",
+      "matchId": "1009871",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "神户胜利船",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.710",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2018-08-01 18:00",
+      "matchId": "1009870",
+      "league": "J联赛",
+      "home": "磐田喜悦",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2018-08-01 18:00",
+      "matchId": "1009867",
+      "league": "J联赛",
+      "home": "鹿岛鹿角",
+      "away": "东京FC",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.680",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.250"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2018-08-01 18:00",
+      "matchId": "1009869",
+      "league": "J联赛",
+      "home": "清水鼓动",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.180",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2018-08-01 18:00",
+      "matchId": "1009868",
+      "league": "J联赛",
+      "home": "浦和红钻",
+      "away": "川崎前锋",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.680",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "2:0",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.650"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2018-08-01 18:00",
+      "matchId": "1009872",
+      "league": "J联赛",
+      "home": "长崎航海",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "0-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.130",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:3",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周三026",
+      "match_time": "2018-08-01 10:00",
+      "matchId": "1035668",
+      "league": "墨西哥杯",
+      "home": "蒙特雷",
+      "away": "普埃布拉",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.880"
+      }
+    },
+    {
+      "num": "周三027",
+      "match_time": "2018-08-01 10:00",
+      "matchId": "1035661",
+      "league": "墨西哥杯",
+      "home": "托卢卡",
+      "away": "华雷斯",
+      "result": {
+        "half": "2-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "7.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.930",
+        "score_result": "2:3",
+        "score_odds": "60.000",
+        "goal_result": "5",
+        "goal_odds": "8.250",
+        "half_full_result": "3-0",
+        "half_full_odds": "45.000"
+      }
+    }
+  ]
+}

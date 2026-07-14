@@ -1,0 +1,164 @@
+{
+  "time": "2012-12-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_0-3_25200",
+        "handicap": "3_0_318",
+        "halfFull": "13_00_1118",
+        "size": "3_3_1481"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_0-3_2-0_189000",
+        "handicap": "3_0_3_547",
+        "halfFull": "13_00_33_2962",
+        "size": "3_3_2_4890"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_0-3_2-0_2-1_1417500",
+        "handicap": "3_0_3_3_1187",
+        "halfFull": "13_00_33_33_10369",
+        "size": "3_3_2_3_19073"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_2-1_15750",
+        "handicap": "3_3_473",
+        "halfFull": "13_33_1820",
+        "size": "3_3_1521"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_0-3_2-0_2-1_1417500",
+        "handicap": "3_0_3_3_1187",
+        "halfFull": "13_00_33_33_10369",
+        "size": "3_3_2_3_19073"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2012-12-20 03:00",
+      "matchId": "208884",
+      "league": "西甲",
+      "home": "巴列卡诺",
+      "away": "莱万特",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.180",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.180",
+        "score_result": "3:0",
+        "score_odds": "21.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2012-12-20 03:00",
+      "matchId": "576882",
+      "league": "荷兰杯",
+      "home": "格罗宁根",
+      "away": "阿贾克斯",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "0:3",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2012-12-20 05:00",
+      "matchId": "208888",
+      "league": "西甲",
+      "home": "西班牙人",
+      "away": "拉科鲁尼亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2012-12-20 05:00",
+      "matchId": "208886",
+      "league": "西甲",
+      "home": "皇家社会",
+      "away": "塞维利亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.170",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.170",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "time": "2016-12-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-3_11900",
+        "handicap": "3_1_1166",
+        "halfFull": "33_30_5175",
+        "size": "2_5_1417"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_2-3_1-2_77350",
+        "handicap": "3_1_1_3405",
+        "halfFull": "33_30_10_21735",
+        "size": "2_5_3_4890"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-0_5250",
+        "handicap": "3_0_691",
+        "halfFull": "33_33_297",
+        "size": "2_1_2299"
+      },
+      "team": "001_014"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2016-12-30 16:50",
+      "matchId": "876653",
+      "league": "澳超",
+      "home": "悉尼FC",
+      "away": "布里斯班狮吼",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.880",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周五014",
+      "match_time": "2016-12-30 01:45",
+      "matchId": "927001",
+      "league": "球会友谊",
+      "home": "吉达伊蒂哈德",
+      "away": "马德里竞技",
+      "result": {
+        "half": "2-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.120",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "2:3",
+        "score_odds": "17.000",
+        "goal_result": "5",
+        "goal_odds": "4.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "23.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2016-12-30 03:15",
+      "matchId": "923305",
+      "league": "葡联杯",
+      "home": "维兹拉",
+      "away": "吉马良斯",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "2.920",
+        "score_result": "1:2",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2016-12-30 03:45",
+      "matchId": "880527",
+      "league": "英冠",
+      "home": "布赖顿",
+      "away": "加的夫城",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "-1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2016-12-30 03:45",
+      "matchId": "880543",
+      "league": "英冠",
+      "home": "伊普斯维奇",
+      "away": "布里斯托尔城",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.380",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2016-12-30 03:45",
+      "matchId": "880528",
+      "league": "英冠",
+      "home": "纽卡斯尔联",
+      "away": "诺丁汉森林",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.140",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "3:1",
+        "score_odds": "9.000",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2016-12-30 03:45",
+      "matchId": "882579",
+      "league": "英甲",
+      "home": "米尔顿凯恩斯",
+      "away": "斯文登",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.540",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.070",
+        "score_result": "3:2",
+        "score_odds": "20.000",
+        "goal_result": "5",
+        "goal_odds": "9.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2016-12-30 03:45",
+      "matchId": "882580",
+      "league": "英甲",
+      "home": "米尔沃尔",
+      "away": "吉灵汉姆",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周五012",
+      "match_time": "2016-12-30 04:00",
+      "matchId": "880537",
+      "league": "英冠",
+      "home": "雷丁",
+      "away": "富勒姆",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "+1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周五013",
+      "match_time": "2016-12-30 05:15",
+      "matchId": "923298",
+      "league": "葡联杯",
+      "home": "里斯本竞技",
+      "away": "瓦兹姆",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "7.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.320"
+      }
+    }
+  ]
+}

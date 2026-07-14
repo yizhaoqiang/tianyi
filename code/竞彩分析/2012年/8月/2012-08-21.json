@@ -1,0 +1,354 @@
+{
+  "time": "2012-08-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-2_10500",
+        "handicap": "3_0_935",
+        "halfFull": "13_30_21500",
+        "size": "3_3_1598"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_1-2_1-0_89250",
+        "handicap": "3_0_3_2992",
+        "halfFull": "13_30_33_118250",
+        "size": "3_3_1_6395"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-2_1-0_0-2_1071000",
+        "handicap": "3_0_3_0_7539",
+        "halfFull": "13_30_33_00_484825",
+        "size": "3_3_1_2_19827"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_0_24504",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_0_1_75963",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_0_1_3_159524",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_0_1_3_3_417953",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-1_3850",
+        "handicap": "3_1_527",
+        "halfFull": "13_31_6450",
+        "size": "3_2_1312"
+      },
+      "team": "001_030"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-2_2-0_1-1_346500",
+        "handicap": "3_0_3_1_3768",
+        "halfFull": "13_30_13_31_1128750",
+        "size": "3_3_2_2_17908"
+      },
+      "team": "001_002_029_030"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2012-08-21 23:59",
+      "matchId": "213482",
+      "league": "欧冠",
+      "home": "莫斯科斯巴达",
+      "away": "费内巴切",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.700",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2012-08-21 02:45",
+      "matchId": "213485",
+      "league": "欧冠",
+      "home": "巴塞尔",
+      "away": "克卢日",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.500",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "5.500",
+        "score_result": "1:2",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-0",
+        "half_full_odds": "50.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2012-08-21 02:45",
+      "matchId": "213484",
+      "league": "欧冠",
+      "home": "哥本哈根",
+      "away": "里尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2012-08-21 02:45",
+      "matchId": "213486",
+      "league": "欧冠",
+      "home": "赫尔辛堡",
+      "away": "凯尔特人",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.520",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.520",
+        "score_result": "0:2",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2012-08-21 02:45",
+      "matchId": "213483",
+      "league": "欧冠",
+      "home": "门兴格拉德巴赫",
+      "away": "基辅迪纳摩",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.250",
+        "score_result": "1:3",
+        "score_odds": "30.000",
+        "goal_result": "4",
+        "goal_odds": "6.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2012-08-21 02:45",
+      "matchId": "210394",
+      "league": "英冠",
+      "home": "布赖顿",
+      "away": "加的夫城",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2012-08-21 02:45",
+      "matchId": "210389",
+      "league": "英冠",
+      "home": "布里斯托尔城",
+      "away": "水晶宫",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.100",
+        "score_result": "4:1",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "13.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周二009",
+      "match_time": "2012-08-21 02:45",
+      "matchId": "210390",
+      "league": "英冠",
+      "home": "查尔顿",
+      "away": "莱切斯特城",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.620",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.620",
+        "score_result": "2:1",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周二029",
+      "match_time": "2012-08-21 08:15",
+      "matchId": "209688",
+      "league": "南俱杯",
+      "home": "圣保罗",
+      "away": "巴伊亚",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.300",
+        "score_result": "2:0",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周二030",
+      "match_time": "2012-08-21 10:30",
+      "matchId": "209709",
+      "league": "南俱杯",
+      "home": "圣马丁大学",
+      "away": "埃梅莱克",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2019-10-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_0-0_44000",
+        "handicap": "1_3_1552",
+        "halfFull": "13_11_4600",
+        "size": "5_0_22000"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_0-0_2-1_418000",
+        "handicap": "1_3_3_2561",
+        "halfFull": "13_11_13_34500",
+        "size": "5_0_3_84700"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_0-0_2-1_0-0_3030500",
+        "handicap": "1_3_3_3_4610",
+        "halfFull": "13_11_13_11_162150",
+        "size": "5_0_3_0_614075"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_3_10974",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_3_3_31166",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_3_3_1_96615",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_3_3_1_3_142990",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_2-0_11440",
+        "handicap": "1_3_793",
+        "halfFull": "13_33_919",
+        "size": "5_2_3629"
+      },
+      "team": "001_012"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_0-0_2-1_2-0_2173600",
+        "handicap": "1_3_3_3_5570",
+        "halfFull": "13_11_13_33_57040",
+        "size": "5_0_3_2_283139"
+      },
+      "team": "001_002_011_012"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2019-10-15 18:00",
+      "matchId": "1079262",
+      "league": "J2联赛",
+      "home": "横滨FC",
+      "away": "金泽塞维根",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "3:2",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2019-10-15 20:00",
+      "matchId": "1070019",
+      "league": "世亚预",
+      "home": "菲律宾",
+      "away": "中国",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "6.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "4.500",
+        "score_result": "0:0",
+        "score_odds": "20.000",
+        "goal_result": "0",
+        "goal_odds": "20.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2019-10-15 20:00",
+      "matchId": "1070143",
+      "league": "世亚预",
+      "home": "泰国",
+      "away": "阿联酋",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "2:1",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2019-10-15 21:00",
+      "matchId": "1070083",
+      "league": "世亚预",
+      "home": "巴勒斯坦",
+      "away": "沙特",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.800",
+        "score_result": "0:0",
+        "score_odds": "7.250",
+        "goal_result": "0",
+        "goal_odds": "7.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2019-10-15 00:00",
+      "matchId": "1054080",
+      "league": "欧预赛",
+      "home": "芬兰",
+      "away": "亚美尼亚",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.380",
+        "score_result": "3:0",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.170"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2019-10-15 00:30",
+      "matchId": "1070059",
+      "league": "世亚预",
+      "home": "巴林",
+      "away": "伊朗",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "8.750",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.840",
+        "score_result": "1:0",
+        "score_odds": "18.000",
+        "goal_result": "1",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2019-10-15 00:30",
+      "matchId": "1070102",
+      "league": "世亚预",
+      "home": "卡塔尔",
+      "away": "阿曼",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.120"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2019-10-15 02:45",
+      "matchId": "1054076",
+      "league": "欧预赛",
+      "home": "罗马尼亚",
+      "away": "挪威",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "1:1",
+        "score_odds": "5.300",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二011",
+      "match_time": "2019-10-15 02:45",
+      "matchId": "1054079",
+      "league": "欧预赛",
+      "home": "希腊",
+      "away": "波黑",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.560",
+        "score_result": "2:1",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.200"
+      }
+    },
+    {
+      "num": "周二012",
+      "match_time": "2019-10-15 02:45",
+      "matchId": "1054072",
+      "league": "欧预赛",
+      "home": "瑞士",
+      "away": "爱尔兰",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.300",
+        "score_result": "2:0",
+        "score_odds": "5.200",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    }
+  ]
+}

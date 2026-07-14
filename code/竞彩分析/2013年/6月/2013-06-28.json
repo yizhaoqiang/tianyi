@@ -1,0 +1,164 @@
+{
+  "time": "2013-06-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-4_1-1_15660",
+        "handicap": "0_3_554",
+        "halfFull": "00_11_1260",
+        "size": "5_2_2592"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-4_1-1_2-1_109620",
+        "handicap": "0_3_1_1968",
+        "halfFull": "00_11_13_4977",
+        "size": "5_2_3_9721"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-4_1-1_2-1_0-3_767340",
+        "handicap": "0_3_1_0_3188",
+        "halfFull": "00_11_13_00_8062",
+        "size": "5_2_3_3_36943"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-4_0-3_20300",
+        "handicap": "0_0_534",
+        "halfFull": "00_00_453",
+        "size": "5_3_3229"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-4_1-1_2-1_0-3_767340",
+        "handicap": "0_3_1_0_3188",
+        "halfFull": "00_11_13_00_8062",
+        "size": "5_2_3_3_36943"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2013-06-28 23:00",
+      "matchId": "600540",
+      "league": "U20世界杯",
+      "home": "马里U20",
+      "away": "墨西哥U20",
+      "result": {
+        "half": "0-2",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.300",
+        "score_result": "1:4",
+        "score_odds": "29.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2013-06-28 23:00",
+      "matchId": "610724",
+      "league": "U20世界杯",
+      "home": "希腊U20",
+      "away": "巴拉圭U20",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.680",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2013-06-28 02:00",
+      "matchId": "600480",
+      "league": "U20世界杯",
+      "home": "土耳其U20",
+      "away": "澳大利亚U20",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2013-06-28 02:00",
+      "matchId": "600488",
+      "league": "U20世界杯",
+      "home": "萨尔瓦多U20",
+      "away": "哥伦比亚U20",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "0:3",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.620"
+      }
+    }
+  ]
+}

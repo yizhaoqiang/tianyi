@@ -1,0 +1,236 @@
+{
+  "time": "2012-04-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_2-1_40000",
+        "handicap": "3_3_471",
+        "halfFull": "13_13_2679",
+        "size": "6_3_8400"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-2_2-1_2-0_260000",
+        "handicap": "3_3_3_669",
+        "halfFull": "13_13_13_10314",
+        "size": "6_3_2_40320"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-2_2-1_2-0_1-0_3380000",
+        "handicap": "3_3_3_3_3613",
+        "halfFull": "13_13_13_33_97984",
+        "size": "6_3_2_1_169344"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_5528",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_3_9674",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_4-2_200000",
+        "handicap": "3_3_332",
+        "halfFull": "13_03_10340",
+        "size": "6_6_37800"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-2_2-1_2-1_4-2_11200000",
+        "handicap": "3_3_3_3_1261",
+        "halfFull": "13_13_33_03_132610",
+        "size": "6_3_3_6_559440"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2012-04-19 03:05",
+      "matchId": "201653",
+      "league": "欧洲联赛",
+      "home": "马德里竞技",
+      "away": "瓦伦西亚",
+      "result": {
+        "half": "1-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "4:2",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "21.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2012-04-19 03:05",
+      "matchId": "201654",
+      "league": "欧洲联赛",
+      "home": "里斯本竞技",
+      "away": "毕尔巴鄂",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.480",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.480",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2012-04-19 06:45",
+      "matchId": "197446",
+      "league": "解放者杯",
+      "home": "桑托斯",
+      "away": "最强者",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "2:0",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "4.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2012-04-19 06:45",
+      "matchId": "197445",
+      "league": "解放者杯",
+      "home": "胡安奥里奇",
+      "away": "巴西国际",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.400",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "5.400",
+        "score_result": "1:0",
+        "score_odds": "13.000",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "9.500"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2012-04-19 09:00",
+      "matchId": "197529",
+      "league": "解放者杯",
+      "home": "智利大学",
+      "away": "国民竞技",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.530",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2012-04-19 09:00",
+      "matchId": "197530",
+      "league": "解放者杯",
+      "home": "佩纳罗尔",
+      "away": "戈多伊克鲁兹",
+      "result": {
+        "half": "1-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.750",
+        "score_result": "4:2",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "18.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    }
+  ]
+}

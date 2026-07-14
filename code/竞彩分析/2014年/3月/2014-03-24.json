@@ -1,0 +1,128 @@
+{
+  "time": "2014-03-24",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-1_2430",
+        "handicap": "1_3_514",
+        "halfFull": "13_31_5625",
+        "size": "1_2_1102"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_1-1_4-3_194400",
+        "handicap": "1_3_3_885",
+        "halfFull": "13_31_13_39375",
+        "size": "1_2_7+_25357"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_4-3_36000",
+        "handicap": "1_3_533",
+        "halfFull": "13_13_2625",
+        "size": "1_7+_8050"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_1-1_4-3_194400",
+        "handicap": "1_3_3_885",
+        "halfFull": "13_31_13_39375",
+        "size": "1_2_7+_25357"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2014-03-24 03:30",
+      "matchId": "607386",
+      "league": "法乙",
+      "home": "梅斯",
+      "away": "布雷斯特",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:0",
+        "score_odds": "4.500",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2014-03-24 04:00",
+      "matchId": "620732",
+      "league": "葡超",
+      "home": "塞图巴尔",
+      "away": "埃斯托里尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2014-03-24 05:00",
+      "matchId": "625977",
+      "league": "西甲",
+      "home": "阿尔梅里亚",
+      "away": "皇家社会",
+      "result": {
+        "half": "1-1",
+        "full": "4-3",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "胜其他",
+        "score_odds": "80.000",
+        "goal_result": "7+",
+        "goal_odds": "23.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.000"
+      }
+    }
+  ]
+}

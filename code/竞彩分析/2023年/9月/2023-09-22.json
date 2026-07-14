@@ -1,0 +1,200 @@
+{
+  "time": "2023-09-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-1_19600",
+        "handicap": "0_3_447",
+        "halfFull": "11__475",
+        "size": "0_1_18200"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_0-1_1-0_122500",
+        "handicap": "0_3_1_1565",
+        "halfFull": "11__13_2541",
+        "size": "0_1_1_77350"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-1_1-0_0-2_1010625",
+        "handicap": "0_3_1_0_6886",
+        "halfFull": "11__13_00_8386",
+        "size": "0_1_1_2_262990"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_0_10743",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-1_8400",
+        "handicap": "0_0_335",
+        "halfFull": "11_10_3443",
+        "size": "0_1_4130"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-1_0-2_0-1_1940400",
+        "handicap": "0_3_0_0_3069",
+        "halfFull": "11__00_10_11364",
+        "size": "0_1_2_1_365092"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2023-09-22 19:30",
+      "matchId": "1237746",
+      "league": "亚运男足",
+      "home": "卡塔尔亚",
+      "away": "巴勒斯亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.150",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2023-09-22 19:30",
+      "matchId": "1237744",
+      "league": "亚运男足",
+      "home": "中国港亚",
+      "away": "乌兹别亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+4",
+        "handicap_result": "3",
+        "handicap_odds": "2.080",
+        "score_result": "0:1",
+        "score_odds": "28.000",
+        "goal_result": "1",
+        "goal_odds": "26.000",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2023-09-22 02:45",
+      "matchId": "1227836",
+      "league": "意甲",
+      "home": "莱切",
+      "away": "热那亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "4.250",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.350"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2023-09-22 03:00",
+      "matchId": "1219057",
+      "league": "西甲",
+      "home": "阿拉维斯",
+      "away": "毕尔巴鄂",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.400",
+        "score_result": "0:2",
+        "score_odds": "8.250",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2023-09-22 03:00",
+      "matchId": "1225255",
+      "league": "法甲",
+      "home": "摩纳哥",
+      "away": "尼斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "0:1",
+        "score_odds": "12.000",
+        "goal_result": "1",
+        "goal_odds": "5.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.250"
+      }
+    }
+  ]
+}

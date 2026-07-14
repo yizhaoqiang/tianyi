@@ -1,0 +1,200 @@
+{
+  "time": "2021-08-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_3-4_46800",
+        "handicap": "0_1_727",
+        "halfFull": "11_30_13110",
+        "size": "4_7+_8730"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_3-4_4-0_748800",
+        "handicap": "0_1_3_1440",
+        "halfFull": "11_30_33_23598",
+        "size": "4_7+_4_39285"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_3-4_4-0_0-1_5616000",
+        "handicap": "0_1_3_0_2261",
+        "halfFull": "11_30_33_00_125069",
+        "size": "4_7+_4_1_168925"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_1_8819",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_2-4_39000",
+        "handicap": "0_1_756",
+        "halfFull": "11_00_855",
+        "size": "4_6_4486"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_3-4_0-1_2-4_10530000",
+        "handicap": "0_1_0_1_4454",
+        "halfFull": "11_30_00_00_104224",
+        "size": "4_7+_1_6_347235"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2021-08-20 00:30",
+      "matchId": "1138741",
+      "league": "德乙",
+      "home": "杜塞尔多夫",
+      "away": "基尔",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.940",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "4.850",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2021-08-20 02:00",
+      "matchId": "1136326",
+      "league": "荷乙",
+      "home": "特尔斯达",
+      "away": "罗达JC",
+      "result": {
+        "half": "3-1",
+        "full": "3-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "负其他",
+        "score_odds": "36.000",
+        "goal_result": "7+",
+        "goal_odds": "18.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "23.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2021-08-20 02:30",
+      "matchId": "1138417",
+      "league": "德甲",
+      "home": "莱比锡红牛",
+      "away": "斯图加特",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.270",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.980",
+        "score_result": "4:0",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2021-08-20 02:45",
+      "matchId": "1136813",
+      "league": "英冠",
+      "home": "布里斯托尔城",
+      "away": "斯旺西",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.270",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2021-08-20 03:00",
+      "matchId": "1139040",
+      "league": "法甲",
+      "home": "布雷斯特",
+      "away": "巴黎圣日尔曼",
+      "result": {
+        "half": "1-2",
+        "full": "2-4",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:4",
+        "score_odds": "30.000",
+        "goal_result": "6",
+        "goal_odds": "9.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.500"
+      }
+    }
+  ]
+}

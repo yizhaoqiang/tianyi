@@ -1,0 +1,354 @@
+{
+  "time": "2016-02-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-1_5250",
+        "handicap": "0_1_493",
+        "halfFull": "00_33_1170",
+        "size": "1_3_1575"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_2-1_0-1_49875",
+        "handicap": "0_1_0_755",
+        "halfFull": "00_33_10_7605",
+        "size": "1_3_1_8032"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_0-1_1-2_374062",
+        "handicap": "0_1_0_1_2793",
+        "halfFull": "00_33_10_10_37264",
+        "size": "1_3_1_3_28515"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_0_3827",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_0_0_7195",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_0_0_3_28781",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_0_0_3_0_47202",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-1_6439",
+        "handicap": "0_0_198",
+        "halfFull": "00_00_1462",
+        "size": "1_1_2058"
+      },
+      "team": "001_094"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_2-1_0-1_371910",
+        "handicap": "0_1_3_0_897",
+        "halfFull": "00_33_33_00_16014",
+        "size": "1_3_3_1_28168"
+      },
+      "team": "001_002_091_092"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2016-02-27 13:00",
+      "matchId": "857296",
+      "league": "J联赛",
+      "home": "磐田喜悦",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2016-02-27 13:00",
+      "matchId": "857289",
+      "league": "J联赛",
+      "home": "鸟栖沙岩",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2016-02-27 13:00",
+      "matchId": "857298",
+      "league": "J联赛",
+      "home": "广岛三箭",
+      "away": "川崎前锋",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2016-02-27 14:00",
+      "matchId": "857294",
+      "league": "J联赛",
+      "home": "柏太阳神",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2016-02-27 14:00",
+      "matchId": "857297",
+      "league": "J联赛",
+      "home": "湘南海洋",
+      "away": "新泻天鹅",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.290",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.370",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2016-02-27 14:00",
+      "matchId": "857293",
+      "league": "J联赛",
+      "home": "神户胜利船",
+      "away": "甲府风林",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.880",
+        "score_result": "0:2",
+        "score_odds": "19.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2016-02-27 14:15",
+      "matchId": "802940",
+      "league": "澳超",
+      "home": "阿德莱德联",
+      "away": "布里斯班狮吼",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.000",
+        "score_result": "3:0",
+        "score_odds": "19.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2016-02-27 16:30",
+      "matchId": "802933",
+      "league": "澳超",
+      "home": "墨尔本胜利",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.640",
+        "score_result": "1:1",
+        "score_odds": "6.900",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周六091",
+      "match_time": "2016-02-27 11:00",
+      "matchId": "848576",
+      "league": "墨联",
+      "home": "库利亚坎",
+      "away": "阿特拉斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.290",
+        "score_result": "2:1",
+        "score_odds": "7.700",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周六092",
+      "match_time": "2016-02-27 11:00",
+      "matchId": "848572",
+      "league": "墨联",
+      "home": "托卢卡",
+      "away": "帕丘卡",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "0:1",
+        "score_odds": "9.200",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.750"
+      }
+    }
+  ]
+}

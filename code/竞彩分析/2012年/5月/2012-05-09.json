@@ -1,0 +1,354 @@
+{
+  "time": "2012-05-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_2-2_28800",
+        "handicap": "3_1_822",
+        "halfFull": "33_01_6000",
+        "size": "3_4_2106"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_2-2_2-3_633600",
+        "handicap": "3_1_0_1973",
+        "halfFull": "33_01_00_22200",
+        "size": "3_4_5_21060"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_2-2_2-3_1-2_8870400",
+        "handicap": "3_1_0_0_9475",
+        "halfFull": "33_01_00_30_1110000",
+        "size": "3_4_5_3_77922"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_20087",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_1_63275",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_1_0_158188",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_1_0_3_292648",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-2_28800",
+        "handicap": "3_0_961",
+        "halfFull": "33_10_3375",
+        "size": "3_3_1443"
+      },
+      "team": "001_012"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_2-2_2-0_1-2_2073600",
+        "handicap": "3_1_3_0_4036",
+        "halfFull": "33_01_13_10_197100",
+        "size": "3_4_2_3_32727"
+      },
+      "team": "001_002_011_012"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2012-05-09 02:45",
+      "matchId": "202398",
+      "league": "欧洲联赛",
+      "home": "马德里竞技",
+      "away": "毕尔巴鄂",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.350",
+        "score_result": "3:0",
+        "score_odds": "24.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2012-05-09 02:45",
+      "matchId": "202256",
+      "league": "英冠",
+      "home": "伯明翰",
+      "away": "布莱克浦",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2012-05-09 06:30",
+      "matchId": "202042",
+      "league": "解放者杯",
+      "home": "艾斯潘诺拉",
+      "away": "博卡青年",
+      "result": {
+        "half": "0-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.400",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "2:3",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2012-05-09 06:30",
+      "matchId": "202021",
+      "league": "巴西杯",
+      "home": "博塔弗戈",
+      "away": "维多利亚",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.800",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "4.800",
+        "score_result": "1:2",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-0",
+        "half_full_odds": "50.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2012-05-09 07:00",
+      "matchId": "199781",
+      "league": "美职",
+      "home": "纽约红牛",
+      "away": "休斯顿迪纳摩",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2012-05-09 08:30",
+      "matchId": "199782",
+      "league": "美职",
+      "home": "芝加哥火焰",
+      "away": "皇家盐湖城",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2012-05-09 08:30",
+      "matchId": "199783",
+      "league": "美职",
+      "home": "FC达拉斯",
+      "away": "西雅图海湾人",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.500",
+        "score_result": "0:2",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2012-05-09 09:00",
+      "matchId": "202046",
+      "league": "解放者杯",
+      "home": "拉努斯",
+      "away": "瓦斯科达伽马",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.850",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "0-3",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周三011",
+      "match_time": "2012-05-09 09:00",
+      "matchId": "202024",
+      "league": "巴西杯",
+      "home": "格雷米奥",
+      "away": "弗塔莱萨",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.200",
+        "score_result": "2:0",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "4.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周三012",
+      "match_time": "2012-05-09 09:00",
+      "matchId": "202023",
+      "league": "巴西杯",
+      "home": "克鲁塞罗",
+      "away": "巴拉纳竞技",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.090",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "4.090",
+        "score_result": "1:2",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.000"
+      }
+    }
+  ]
+}

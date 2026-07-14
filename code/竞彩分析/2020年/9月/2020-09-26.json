@@ -1,0 +1,354 @@
+{
+  "time": "2020-09-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-1_10200",
+        "handicap": "0_3_643",
+        "halfFull": "11_33_1433",
+        "size": "2_4_2112"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_3-1_2-4_1224000",
+        "handicap": "0_3_0_1062",
+        "halfFull": "11_33_30_57340",
+        "size": "2_4_6_59150"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-1_2-4_4-0_39168000",
+        "handicap": "0_3_0_3_2782",
+        "halfFull": "11_33_30_33_143350",
+        "size": "2_4_6_4_248430"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_0_6121",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_0_3_9978",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_0_3_3_15966",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_0_3_3_1_57477",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-2_8400",
+        "handicap": "0_0_224",
+        "halfFull": "11_00_2115",
+        "size": "2_2_1105"
+      },
+      "team": "001_067"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-1_1-1_0-2_928200",
+        "handicap": "0_3_0_0_1610",
+        "halfFull": "11_33_01_00_83859",
+        "size": "2_4_2_2_26934"
+      },
+      "team": "001_002_061_062"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2020-09-26 13:00",
+      "matchId": "1097985",
+      "league": "J2联赛",
+      "home": "新泻天鹅",
+      "away": "甲府风林",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.280",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2020-09-26 13:00",
+      "matchId": "1117857",
+      "league": "K联赛",
+      "home": "水原三星",
+      "away": "首尔FC",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.100",
+        "score_result": "3:1",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.050"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2020-09-26 17:30",
+      "matchId": "1097804",
+      "league": "J2联赛",
+      "home": "京都不死鸟",
+      "away": "大宫松鼠",
+      "result": {
+        "half": "2-0",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "2:4",
+        "score_odds": "120.000",
+        "goal_result": "6",
+        "goal_odds": "28.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2020-09-26 18:00",
+      "matchId": "1097714",
+      "league": "J联赛",
+      "home": "神户胜利船",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.620",
+        "score_result": "4:0",
+        "score_odds": "32.000",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2020-09-26 18:00",
+      "matchId": "1097849",
+      "league": "J2联赛",
+      "home": "德岛漩涡",
+      "away": "松本山雅",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.200",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2020-09-26 18:00",
+      "matchId": "1097758",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "金泽塞维根",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.630",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2020-09-26 19:00",
+      "matchId": "1107342",
+      "league": "德乙",
+      "home": "不伦瑞克",
+      "away": "基尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.380",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.600",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2020-09-26 19:00",
+      "matchId": "1107334",
+      "league": "德乙",
+      "home": "杜塞尔多夫",
+      "away": "维尔茨堡踢球者",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "5.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周六061",
+      "match_time": "2020-09-26 08:00",
+      "matchId": "1100804",
+      "league": "墨联",
+      "home": "美洲狮",
+      "away": "内卡萨",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.750",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周六062",
+      "match_time": "2020-09-26 10:06",
+      "matchId": "1100805",
+      "league": "墨联",
+      "home": "蒙特雷",
+      "away": "老虎大学",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.500"
+      }
+    }
+  ]
+}

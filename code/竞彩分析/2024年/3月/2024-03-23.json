@@ -1,0 +1,354 @@
+{
+  "time": "2024-03-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_0-1_14450",
+        "handicap": "3_0_364",
+        "halfFull": "31_10_12560",
+        "size": "4_1_2531"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_0-1_1-0_216750",
+        "handicap": "3_0_3_947",
+        "halfFull": "31_10_33_182119",
+        "size": "4_1_1_11391"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_0-1_1-0_0-2_1885725",
+        "handicap": "3_0_3_0_3743",
+        "halfFull": "31_10_33_00_600995",
+        "size": "4_1_1_2_35314"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_3_7337",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_3_0_12986",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_3_0_0_22466",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_3_0_0_0_36621",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_3-2_47600",
+        "handicap": "3_1_854",
+        "halfFull": "31_33_6160",
+        "size": "4_5_7625"
+      },
+      "team": "001_021"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_0-1_5-0_3-2_20230000",
+        "handicap": "3_0_3_1_3185",
+        "halfFull": "31_10_33_33_99129",
+        "size": "4_1_5_5_292704"
+      },
+      "team": "001_002_020_021"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2024-03-23 23:00",
+      "matchId": "1220405",
+      "league": "英甲",
+      "home": "卡利斯尔",
+      "away": "斯蒂文",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "6.100",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2024-03-23 23:00",
+      "matchId": "1220403",
+      "league": "英甲",
+      "home": "伯顿",
+      "away": "维尔港",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "4.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.850"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2024-03-23 23:00",
+      "matchId": "1220409",
+      "league": "英甲",
+      "home": "北安普敦",
+      "away": "德比郡",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "7.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.600",
+        "score_result": "1:0",
+        "score_odds": "15.000",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "14.500"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2024-03-23 01:00",
+      "matchId": "1249188",
+      "league": "友谊赛",
+      "home": "斯洛伐克",
+      "away": "奥地利",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.830",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.950",
+        "score_result": "0:2",
+        "score_odds": "8.700",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2024-03-23 01:00",
+      "matchId": "1249192",
+      "league": "友谊赛",
+      "home": "爱尔兰",
+      "away": "比利时",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.960",
+        "score_result": "0:0",
+        "score_odds": "10.500",
+        "goal_result": "0",
+        "goal_odds": "10.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2024-03-23 02:00",
+      "matchId": "1243897",
+      "league": "美职",
+      "home": "新英格兰",
+      "away": "芝加哥",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.520",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.770",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "4.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2024-03-23 03:00",
+      "matchId": "1242202",
+      "league": "友谊赛",
+      "home": "英格兰",
+      "away": "巴西",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.660",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.730",
+        "score_result": "0:1",
+        "score_odds": "10.500",
+        "goal_result": "1",
+        "goal_odds": "4.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.300"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2024-03-23 03:00",
+      "matchId": "1249189",
+      "league": "友谊赛",
+      "home": "丹麦",
+      "away": "瑞士",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六020",
+      "match_time": "2024-03-23 10:30",
+      "matchId": "1243907",
+      "league": "美职",
+      "home": "洛杉矶FC",
+      "away": "纳什维尔",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.300",
+        "score_result": "5:0",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "9.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周六021",
+      "match_time": "2024-03-23 10:30",
+      "matchId": "1243909",
+      "league": "美职",
+      "home": "圣何塞",
+      "away": "西雅图",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "3:2",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "12.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.850"
+      }
+    }
+  ]
+}

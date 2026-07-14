@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2021-08-31 06:00",
+    "matchId": "2001653",
+    "league": "巴西甲",
+    "home": "弗鲁米嫩塞",
+    "away": "巴伊亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.81",
+        "d": "2.95",
+        "l": "4.05"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.30",
+        "d": "2.95",
+        "l": "1.76"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.81",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.30",
+      "score_result": "2:0",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "2.70",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.90"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2021-08-31 08:30",
+    "matchId": "2001651",
+    "league": "巴西甲",
+    "home": "福塔雷萨",
+    "away": "库亚巴",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.46",
+        "d": "3.40",
+        "l": "6.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.90",
+        "d": "2.80",
+        "l": "2.29"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.40",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.29",
+      "score_result": "0:0",
+      "score_odds": "8.00",
+      "goal_result": "0",
+      "goal_odds": "8.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.50"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2014-05-24 01:00",
+    "matchId": "958466",
+    "league": "挪超",
+    "home": "海于格松",
+    "away": "莫尔德",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.95",
+        "d": "4.00",
+        "l": "1.49"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.24",
+        "d": "3.45",
+        "l": "2.55"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.00",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.24",
+      "score_result": "1:1",
+      "score_odds": "7.25",
+      "goal_result": "2",
+      "goal_odds": "3.70",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.75"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2014-05-24 08:30",
+    "matchId": "942695",
+    "league": "美职业",
+    "home": "堪萨斯城竞技",
+    "away": "多伦多FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.56",
+        "d": "3.55",
+        "l": "4.95"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.82",
+        "d": "3.35",
+        "l": "2.10"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.55",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.10",
+      "score_result": "2:2",
+      "score_odds": "16.00",
+      "goal_result": "4",
+      "goal_odds": "5.60",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.20"
+    }
+  }
+]

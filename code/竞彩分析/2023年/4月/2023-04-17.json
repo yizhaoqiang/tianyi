@@ -1,0 +1,128 @@
+{
+  "time": "2023-04-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-2_5655",
+        "handicap": "1_0_1255",
+        "halfFull": "00_10_1014",
+        "size": "1_2_1680"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_0-2_1-6_118755",
+        "handicap": "1_0_0_2912",
+        "halfFull": "00_10_00_2382",
+        "size": "1_2_7+_26880"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_1-6_13650",
+        "handicap": "1_0_719",
+        "halfFull": "00_00_611",
+        "size": "1_7+_8400"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_0-2_1-6_118755",
+        "handicap": "1_0_0_2912",
+        "halfFull": "00_10_00_2382",
+        "size": "1_2_7+_26880"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2023-04-17 01:10",
+      "matchId": "1200346",
+      "league": "瑞典超",
+      "home": "哥德堡",
+      "away": "马尔默",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "5.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2023-04-17 02:45",
+      "matchId": "1173278",
+      "league": "法乙",
+      "home": "格勒诺布",
+      "away": "圣埃蒂安",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.050",
+        "score_result": "0:2",
+        "score_odds": "8.700",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2023-04-17 03:00",
+      "matchId": "1171710",
+      "league": "英超",
+      "home": "利兹联",
+      "away": "利物浦",
+      "result": {
+        "half": "0-2",
+        "full": "1-6",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "负其他",
+        "score_odds": "21.000",
+        "goal_result": "7+",
+        "goal_odds": "16.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.350"
+      }
+    }
+  ]
+}

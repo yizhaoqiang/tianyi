@@ -1,0 +1,38 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2016-12-26 08:30",
+    "matchId": "1335833",
+    "league": "墨西联",
+    "home": "老虎大学",
+    "away": "墨西哥美洲",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.75",
+        "d": "3.15",
+        "l": "4.15"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.75",
+        "d": "3.25",
+        "l": "1.80"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.15",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.80",
+      "score_result": "0:0",
+      "score_odds": "8.50",
+      "goal_result": "0",
+      "goal_odds": "8.50",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.95"
+    }
+  }
+]

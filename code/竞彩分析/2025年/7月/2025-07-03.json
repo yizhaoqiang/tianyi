@@ -1,0 +1,128 @@
+{
+  "time": "2025-07-03",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_3-1_10000",
+        "handicap": "3_3_561",
+        "halfFull": "33_33_449",
+        "size": "4_4_2209"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_3-1_3-1_100000",
+        "handicap": "3_3_3_1331",
+        "halfFull": "33_33_33_952",
+        "size": "4_4_4_10382"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_3-1_10000",
+        "handicap": "3_3_561",
+        "halfFull": "33_33_449",
+        "size": "4_4_2209"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "1"
+      },
+      "result": {
+        "score": "3-1_1000",
+        "handicap": "3_237",
+        "halfFull": "33_212",
+        "size": "4_470"
+      },
+      "team": "001"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2025-07-03 07:30",
+      "matchId": "1283028",
+      "league": "美职",
+      "home": "纽约城",
+      "away": "多伦多",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.370",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.120"
+      }
+    },
+    {
+      "num": "周四001",
+      "match_time": "2025-07-03 07:30",
+      "matchId": "1283028",
+      "league": "美职",
+      "home": "纽约城",
+      "away": "多伦多",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.370",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.120"
+      }
+    },
+    {
+      "num": "周四001",
+      "match_time": "2025-07-03 07:30",
+      "matchId": "1283028",
+      "league": "美职",
+      "home": "纽约城",
+      "away": "多伦多",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.370",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.120"
+      }
+    }
+  ]
+}

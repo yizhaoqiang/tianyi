@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2015-01-15 15:00",
+    "matchId": "978744",
+    "league": "亚洲杯",
+    "home": "巴林",
+    "away": "阿联酋",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.70",
+        "d": "3.30",
+        "l": "1.65"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.96",
+        "d": "3.30",
+        "l": "3.20"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.65",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.30",
+      "score_result": "1:2",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.60",
+      "half_full_result": "1-0",
+      "half_full_odds": "3.70"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2015-01-15 17:00",
+    "matchId": "978745",
+    "league": "亚洲杯",
+    "home": "卡塔尔",
+    "away": "伊朗",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.95",
+        "d": "3.40",
+        "l": "1.51"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.22",
+        "d": "3.10",
+        "l": "2.81"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.51",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.10",
+      "score_result": "0:1",
+      "score_odds": "4.60",
+      "goal_result": "1",
+      "goal_odds": "3.15",
+      "half_full_result": "1-0",
+      "half_full_odds": "3.60"
+    }
+  },
+  {
+    "num": "周四003",
+    "match_time": "2015-01-16 03:00",
+    "matchId": "1076093",
+    "league": "西杯",
+    "home": "皇家马德里",
+    "away": "马德里竞技",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.40",
+        "d": "4.05",
+        "l": "6.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.34",
+        "d": "3.35",
+        "l": "2.50"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.05",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.50",
+      "score_result": "2:2",
+      "score_odds": "16.00",
+      "goal_result": "4",
+      "goal_odds": "4.70",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.40"
+    }
+  },
+  {
+    "num": "周四004",
+    "match_time": "2015-01-16 04:00",
+    "matchId": "1078631",
+    "league": "意杯",
+    "home": "尤文图斯",
+    "away": "维罗纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.12",
+        "d": "6.45",
+        "l": "13.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.53",
+        "d": "3.95",
+        "l": "4.50"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "胜其他",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.12",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.53",
+      "score_result": "胜其他",
+      "score_odds": "13.00",
+      "goal_result": "7+",
+      "goal_odds": "14.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.40"
+    }
+  },
+  {
+    "num": "周四005",
+    "match_time": "2015-01-16 05:00",
+    "matchId": "1076097",
+    "league": "西杯",
+    "home": "埃尔切",
+    "away": "巴塞罗那",
+    "finish_odds": {
+      "wdl": {
+        "w": "9.70",
+        "d": "6.00",
+        "l": "1.17"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "3.85",
+        "d": "3.90",
+        "l": "1.63"
+      }
+    },
+    "result": {
+      "half": "0-3",
+      "full": "0-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.17",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "1.63",
+      "score_result": "0:4",
+      "score_odds": "9.50",
+      "goal_result": "4",
+      "goal_odds": "3.80",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.45"
+    }
+  }
+]

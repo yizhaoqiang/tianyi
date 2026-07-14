@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周日101",
+    "match_time": "2018-06-17 17:00",
+    "matchId": "1503738",
+    "league": "日职乙",
+    "home": "冈山绿雉",
+    "away": "横滨FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.36",
+        "d": "3.05",
+        "l": "2.65"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.50",
+        "d": "3.95",
+        "l": "1.44"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.44",
+      "score_result": "0:0",
+      "score_odds": "8.00",
+      "goal_result": "0",
+      "goal_odds": "8.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周日102",
+    "match_time": "2018-06-17 17:00",
+    "matchId": "1503739",
+    "league": "日职乙",
+    "home": "FC岐阜",
+    "away": "町田泽维亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.40",
+        "d": "3.30",
+        "l": "2.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.20",
+        "d": "4.20",
+        "l": "1.43"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.45",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.43",
+      "score_result": "0:1",
+      "score_odds": "8.25",
+      "goal_result": "1",
+      "goal_odds": "4.50",
+      "half_full_result": "1-0",
+      "half_full_odds": "5.80"
+    }
+  },
+  {
+    "num": "周日009",
+    "match_time": "2018-06-17 20:00",
+    "matchId": "1482847",
+    "league": "世界杯",
+    "home": "哥斯达黎加",
+    "away": "塞尔维亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.43",
+        "d": "3.20",
+        "l": "1.69"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.93",
+        "d": "3.15",
+        "l": "3.40"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.69",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.15",
+      "score_result": "0:1",
+      "score_odds": "4.70",
+      "goal_result": "1",
+      "goal_odds": "3.25",
+      "half_full_result": "1-0",
+      "half_full_odds": "3.90"
+    }
+  },
+  {
+    "num": "周日010",
+    "match_time": "2018-06-17 23:00",
+    "matchId": "1482853",
+    "league": "世界杯",
+    "home": "德国",
+    "away": "墨西哥",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.24",
+        "d": "4.80",
+        "l": "8.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.84",
+        "d": "3.60",
+        "l": "3.24"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "8.70",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "3.24",
+      "score_result": "0:1",
+      "score_odds": "28.00",
+      "goal_result": "1",
+      "goal_odds": "6.25",
+      "half_full_result": "0-0",
+      "half_full_odds": "14.50"
+    }
+  },
+  {
+    "num": "周日011",
+    "match_time": "2018-06-18 02:00",
+    "matchId": "1482848",
+    "league": "世界杯",
+    "home": "巴西",
+    "away": "瑞士",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.32",
+        "d": "4.10",
+        "l": "7.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.05",
+        "d": "3.45",
+        "l": "2.85"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.10",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.85",
+      "score_result": "1:1",
+      "score_odds": "7.60",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "3-1",
+      "half_full_odds": "16.00"
+    }
+  }
+]

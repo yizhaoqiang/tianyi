@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-07-09",
+  "total_matches": 4,
+  "parlays": [
+    {
+      "type": "胜平负",
+      "combo_odds": 4.41,
+      "combo_hit_rate": 0.21,
+      "hit": false,
+      "legs": [
+        {
+          "label": "周四201",
+          "result_key": "胜",
+          "hit": false,
+          "team": "沃伊沃迪纳-费伦茨瓦罗斯",
+          "result": "1:2"
+        },
+        {
+          "label": "周四097",
+          "result_key": "胜",
+          "hit": true,
+          "team": "法国-摩洛哥",
+          "result": "2:0"
+        }
+      ]
+    },
+    {
+      "type": "让球",
+      "combo_odds": 10.22,
+      "combo_hit_rate": 0.15,
+      "hit": false,
+      "legs": [
+        {
+          "label": "周四097",
+          "result_key": "胜",
+          "hit": true,
+          "team": "法国-摩洛哥",
+          "result": "2:0-让胜",
+          "handicap": "-1"
+        },
+        {
+          "label": "周四201",
+          "result_key": "负",
+          "hit": false,
+          "team": "沃伊沃迪纳-费伦茨瓦罗斯",
+          "result": "1:2-让平",
+          "handicap": "+1"
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "match_index": 2,
+      "match_num": "202",
+      "league": "欧罗巴杯",
+      "team": "索非亚中央陆军-德利城",
+      "result": "全3:2--半2:1--胜--让平--5--单--胜胜",
+      "result_key": "负(0)--[2:0 3:0 3:1](0)",
+      "checked": false
+    },
+    {
+      "match_index": 1,
+      "match_num": "201",
+      "league": "欧罗巴杯",
+      "team": "沃伊沃迪纳-费伦茨瓦罗斯",
+      "result": null,
+      "result_key": "负--[2:0 3:0 3:1]",
+      "checked": null
+    },
+    {
+      "match_index": 3,
+      "match_num": "203",
+      "league": "欧罗巴杯",
+      "team": "斯普利特海杜克-日利纳",
+      "result": "全2:0--半1:0--胜--让胜--2--双--胜胜",
+      "result_key": "负(0)--[2:0 3:0 3:1](1)",
+      "checked": false
+    },
+    {
+      "match_index": 4,
+      "match_num": "097",
+      "league": "世界杯",
+      "team": "法国-摩洛哥",
+      "result": "全2:0--半0:0--胜--让胜--2--双--平胜",
+      "result_key": "胜(1)--[2:0 3:1 3:0](1)",
+      "checked": true
+    }
+  ]
+}

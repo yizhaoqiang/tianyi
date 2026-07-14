@@ -1,0 +1,354 @@
+{
+  "time": "2017-01-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-2_6860",
+        "handicap": "0_0_418",
+        "halfFull": "11_30_19250",
+        "size": "2_3_979"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-2_2-0_171500",
+        "handicap": "0_0_3_987",
+        "halfFull": "11_30_33_154000",
+        "size": "2_3_2_2596"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-2_2-0_0-2_1886500",
+        "handicap": "0_0_3_0_1382",
+        "halfFull": "11_30_33_10_885500",
+        "size": "2_3_2_2_7661"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_4284",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_1_13281",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_1_1_37852",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_1_1_3_88953",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-2_5145",
+        "handicap": "0_0_302",
+        "halfFull": "11_00_2502",
+        "size": "2_3_1021"
+      },
+      "team": "001_021"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-2_3-0_1-2_828345",
+        "handicap": "0_0_3_0_1742",
+        "halfFull": "11_30_33_00_260260",
+        "size": "2_3_3_3_12340"
+      },
+      "team": "001_002_018_019"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2017-01-18 00:00",
+      "matchId": "928476",
+      "league": "非洲杯",
+      "home": "加蓬",
+      "away": "布基纳法索",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.730",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.780",
+        "score_result": "1:1",
+        "score_odds": "4.900",
+        "goal_result": "2",
+        "goal_odds": "2.800",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2017-01-18 00:30",
+      "matchId": "925969",
+      "league": "意大利杯",
+      "home": "萨索洛",
+      "away": "切塞纳",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.350",
+        "score_result": "1:2",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "50.000"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2017-01-18 01:30",
+      "matchId": "928434",
+      "league": "法国杯",
+      "home": "弗勒里",
+      "away": "布雷斯特",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "6.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.360",
+        "score_result": "2:0",
+        "score_odds": "25.000",
+        "goal_result": "2",
+        "goal_odds": "2.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2017-01-18 02:15",
+      "matchId": "928834",
+      "league": "国王杯",
+      "home": "阿尔科尔孔",
+      "away": "阿拉维斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.830",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "0:2",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2017-01-18 02:30",
+      "matchId": "926275",
+      "league": "葡萄牙杯",
+      "home": "科维良",
+      "away": "吉马良斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "0:1",
+        "score_odds": "5.100",
+        "goal_result": "1",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.150"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2017-01-18 03:00",
+      "matchId": "926284",
+      "league": "法甲",
+      "home": "南特",
+      "away": "卡昂",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:0",
+        "score_odds": "5.700",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2017-01-18 03:00",
+      "matchId": "928496",
+      "league": "非洲杯",
+      "home": "喀麦隆",
+      "away": "几内亚比绍",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "2.850",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "0-3",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2017-01-18 03:45",
+      "matchId": "929421",
+      "league": "足总杯",
+      "home": "纽卡斯尔联",
+      "away": "伯明翰",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.350",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "5.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周三018",
+      "match_time": "2017-01-18 11:00",
+      "matchId": "929484",
+      "league": "墨西哥杯",
+      "home": "莱昂",
+      "away": "莫雷利亚",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.450",
+        "score_result": "3:0",
+        "score_odds": "11.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.080"
+      }
+    },
+    {
+      "num": "周三019",
+      "match_time": "2017-01-18 11:00",
+      "matchId": "929455",
+      "league": "墨西哥杯",
+      "home": "库利亚坎",
+      "away": "华雷斯",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "1:2",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.500"
+      }
+    }
+  ]
+}

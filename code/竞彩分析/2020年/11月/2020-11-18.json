@@ -1,0 +1,354 @@
+{
+  "time": "2020-11-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_1-2_8189",
+        "handicap": "0_1_531",
+        "halfFull": "10_00_1917",
+        "size": "1_3_2512"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_1-2_3-1_85995",
+        "handicap": "0_1_3_1303",
+        "halfFull": "10_00_13_8437",
+        "size": "1_3_4_10301"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-2_3-1_2-2_1117934",
+        "handicap": "0_1_3_3_2307",
+        "halfFull": "10_00_13_01_109681",
+        "size": "1_3_4_4_48415"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_1_7197",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_1_0_12020",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_1_0_0_29209",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_1_0_0_3_64261",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_3-0_24150",
+        "handicap": "0_3_665",
+        "halfFull": "10_13_3186",
+        "size": "1_3_2345"
+      },
+      "team": "001_025"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-2_0-1_3-0_1130220",
+        "handicap": "0_1_1_3_8718",
+        "halfFull": "10_00_10_13_50219",
+        "size": "1_3_1_3_31657"
+      },
+      "team": "001_002_017_018"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2020-11-18 17:00",
+      "matchId": "1098124",
+      "league": "J联赛",
+      "home": "神户胜利船",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.230",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "0:1",
+        "score_odds": "10.500",
+        "goal_result": "1",
+        "goal_odds": "6.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.900"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2020-11-18 18:00",
+      "matchId": "1106983",
+      "league": "亚冠杯",
+      "home": "珀斯光荣",
+      "away": "上海申花",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:2",
+        "score_odds": "7.800",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2020-11-18 18:00",
+      "matchId": "1098200",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "横滨水手",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.560",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.450",
+        "score_result": "3:1",
+        "score_odds": "10.500",
+        "goal_result": "4",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2020-11-18 18:00",
+      "matchId": "1098214",
+      "league": "J联赛",
+      "home": "仙台七夕",
+      "away": "东京FC",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.770",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周三019",
+      "match_time": "2020-11-18 23:00",
+      "matchId": "1088524",
+      "league": "欧国联",
+      "home": "阿尔巴尼亚",
+      "away": "白俄罗斯",
+      "result": {
+        "half": "3-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.640",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.120",
+        "score_result": "3:2",
+        "score_odds": "35.000",
+        "goal_result": "5",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周三020",
+      "match_time": "2020-11-18 23:00",
+      "matchId": "1088525",
+      "league": "欧国联",
+      "home": "哈萨克斯坦",
+      "away": "立陶宛",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.720",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "1:2",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "4.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周三021",
+      "match_time": "2020-11-18 01:00",
+      "matchId": "1088501",
+      "league": "欧国联",
+      "home": "格鲁吉亚",
+      "away": "爱沙尼亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.430",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2020-11-18 03:30",
+      "matchId": "1121000",
+      "league": "巴西杯",
+      "home": "格雷米奥",
+      "away": "库亚巴",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.200",
+        "score_result": "2:0",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周三017",
+      "match_time": "2020-11-18 08:30",
+      "matchId": "1121002",
+      "league": "巴西杯",
+      "home": "米内罗美洲",
+      "away": "巴西国际",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.060",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.600",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.850"
+      }
+    },
+    {
+      "num": "周三018",
+      "match_time": "2020-11-18 08:30",
+      "matchId": "1120999",
+      "league": "巴西杯",
+      "home": "圣保罗",
+      "away": "弗拉门戈",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.750",
+        "score_result": "3:0",
+        "score_odds": "23.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.400"
+      }
+    }
+  ]
+}

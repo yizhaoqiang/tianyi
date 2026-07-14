@@ -1,0 +1,128 @@
+{
+  "time": "2019-07-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-2_0-1_40000",
+        "handicap": "3_1_696",
+        "halfFull": "33_10_792",
+        "size": "7+_1_6459"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "5-2_0-1_4-0_640000",
+        "handicap": "3_1_3_1630",
+        "halfFull": "33_10_13_2613",
+        "size": "7+_1_4_40697"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-2_4-0_128000",
+        "handicap": "3_3_472",
+        "halfFull": "33_13_594",
+        "size": "7+_4_11970"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "5-2_0-1_4-0_640000",
+        "handicap": "3_1_3_1630",
+        "halfFull": "33_10_13_2613",
+        "size": "7+_1_4_40697"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2019-07-22 01:00",
+      "matchId": "1049283",
+      "league": "瑞典超",
+      "home": "哈马比",
+      "away": "埃尔夫斯堡",
+      "result": {
+        "half": "4-1",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.020",
+        "score_result": "5:2",
+        "score_odds": "80.000",
+        "goal_result": "7+",
+        "goal_odds": "19.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2019-07-22 01:00",
+      "matchId": "1049281",
+      "league": "瑞典超",
+      "home": "卡尔马",
+      "away": "佐加顿斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "0:1",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2019-07-22 07:00",
+      "matchId": "1058171",
+      "league": "巴西甲",
+      "home": "圣保罗",
+      "away": "沙佩科恩斯",
+      "result": {
+        "half": "0-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.340",
+        "score_result": "4:0",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "6.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.300"
+      }
+    }
+  ]
+}

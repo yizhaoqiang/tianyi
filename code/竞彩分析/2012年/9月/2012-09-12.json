@@ -1,0 +1,331 @@
+{
+  "time": "2012-09-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-2_12100",
+        "handicap": "3_0_473",
+        "halfFull": "33_10_1800",
+        "size": "2_2_1056"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_0-2_1-1_72600",
+        "handicap": "3_0_1_1655",
+        "halfFull": "33_10_11_9360",
+        "size": "2_2_2_3484"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-2_1-1_1-2_544500",
+        "handicap": "3_0_1_0_3145",
+        "halfFull": "33_10_11_00_27144",
+        "size": "2_2_2_3_13590"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_8807",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_1_27302",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_1_3_41499",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_1_3_3_68474",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_3-1_16500",
+        "handicap": "3_3_418",
+        "halfFull": "33_13_1655",
+        "size": "2_4_1979"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-2_1-0_3-1_1179750",
+        "handicap": "3_0_3_3_1482",
+        "halfFull": "33_10_13_13_36432",
+        "size": "2_2_1_4_27878"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2012-09-12 06:30",
+      "matchId": "202791",
+      "league": "巴西甲",
+      "home": "费古埃伦斯",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.200",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2012-09-12 06:30",
+      "matchId": "202790",
+      "league": "巴西甲",
+      "home": "葡萄牙人",
+      "away": "弗鲁米嫩塞",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.150",
+        "score_result": "0:2",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2012-09-12 06:30",
+      "matchId": "202787",
+      "league": "巴西甲",
+      "home": "科林蒂安",
+      "away": "庞特普雷塔",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2012-09-12 07:00",
+      "matchId": "199881",
+      "league": "美职",
+      "home": "多伦多FC",
+      "away": "芝加哥火焰",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2012-09-12 07:30",
+      "matchId": "202793",
+      "league": "巴西甲",
+      "home": "戈亚尼亚竞技",
+      "away": "科里蒂巴",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.800",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2012-09-12 07:30",
+      "matchId": "202792",
+      "league": "巴西甲",
+      "home": "累西腓体育",
+      "away": "巴伊亚",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2012-09-12 09:00",
+      "matchId": "202786",
+      "league": "巴西甲",
+      "home": "桑托斯",
+      "away": "弗拉门戈",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2012-09-12 09:00",
+      "matchId": "202789",
+      "league": "巴西甲",
+      "home": "米内罗竞技",
+      "away": "圣保罗",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周三009",
+      "match_time": "2012-09-12 09:00",
+      "matchId": "202785",
+      "league": "巴西甲",
+      "home": "瓦斯科达伽马",
+      "away": "帕尔梅拉斯",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "3:1",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "time": "2015-10-24",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-4_0-1_57000",
+        "handicap": "1_0_581",
+        "halfFull": "00_00_1271",
+        "size": "7+_1_11730"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-4_0-1_1-2_513000",
+        "handicap": "1_0_0_871",
+        "halfFull": "00_00_10_7625",
+        "size": "7+_1_3_42814"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-4_0-1_1-2_4-2_41040000",
+        "handicap": "1_0_0_3_1395",
+        "halfFull": "00_00_10_03_244031",
+        "size": "7+_1_3_6_685032"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_0_5719",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_0_3_11896",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_0_3_0_39853",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_0_3_0_3_140284",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-4_0-0_54000",
+        "handicap": "1_3_611",
+        "halfFull": "00_11_1333",
+        "size": "7+_0_20700"
+      },
+      "team": "001_091"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2015-10-24 13:00",
+      "matchId": "776609",
+      "league": "J联赛",
+      "home": "东京FC",
+      "away": "浦和红钻",
+      "result": {
+        "half": "1-3",
+        "full": "3-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "负其他",
+        "score_odds": "60.000",
+        "goal_result": "7+",
+        "goal_odds": "23.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2015-10-24 13:00",
+      "matchId": "776610",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "横滨水手",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2015-10-24 13:00",
+      "matchId": "776613",
+      "league": "J联赛",
+      "home": "松本山雅",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.660",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "1:2",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2015-10-24 13:00",
+      "matchId": "776615",
+      "league": "J联赛",
+      "home": "名古屋鲸八",
+      "away": "新泻天鹅",
+      "result": {
+        "half": "0-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.600",
+        "score_result": "4:2",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "32.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2015-10-24 13:00",
+      "matchId": "776614",
+      "league": "J联赛",
+      "home": "清水鼓动",
+      "away": "柏太阳神",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.020",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.100",
+        "score_result": "0:3",
+        "score_odds": "20.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2015-10-24 13:00",
+      "matchId": "776611",
+      "league": "J联赛",
+      "home": "湘南海洋",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.080",
+        "score_result": "2:1",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2015-10-24 13:00",
+      "matchId": "776612",
+      "league": "J联赛",
+      "home": "甲府风林",
+      "away": "广岛三箭",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.350",
+        "score_result": "0:2",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2015-10-24 13:00",
+      "matchId": "776616",
+      "league": "J联赛",
+      "home": "神户胜利船",
+      "away": "山形山神",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.520",
+        "score_result": "3:1",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周六090",
+      "match_time": "2015-10-24 09:30",
+      "matchId": "794010",
+      "league": "墨联",
+      "home": "阿特拉斯",
+      "away": "瓜达拉哈拉",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "-1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周六091",
+      "match_time": "2015-10-24 10:00",
+      "matchId": "794011",
+      "league": "墨联",
+      "home": "库利亚坎",
+      "away": "老虎大学",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.630",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

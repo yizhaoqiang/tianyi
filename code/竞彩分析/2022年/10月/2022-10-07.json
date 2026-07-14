@@ -1,0 +1,200 @@
+{
+  "time": "2022-10-07",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_0-2_53200",
+        "handicap": "0_0_250",
+        "halfFull": "10_10_5950",
+        "size": "5_2_4180"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_0-2_3-2_1223600",
+        "handicap": "0_0_1_901",
+        "halfFull": "10_10_13_25585",
+        "size": "5_2_5_35529"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_0-2_3-2_2-1_8871100",
+        "handicap": "0_0_1_1_3021",
+        "halfFull": "10_10_13_13_108736",
+        "size": "5_2_5_3_122578"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_1_0_4743",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_0-1_25200",
+        "handicap": "0_0_235",
+        "halfFull": "10_10_5250",
+        "size": "5_1_5170"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_0-2_2-1_0-1_3471300",
+        "handicap": "0_0_1_0_1317",
+        "halfFull": "10_10_13_10_189656",
+        "size": "5_2_3_1_67778"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2022-10-07 02:00",
+      "matchId": "1170582",
+      "league": "荷甲",
+      "home": "格罗宁根",
+      "away": "瓦尔韦克",
+      "result": {
+        "half": "1-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "2:3",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2022-10-07 02:00",
+      "matchId": "1170943",
+      "league": "荷乙",
+      "home": "埃因青年",
+      "away": "特尔斯达",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "0:2",
+        "score_odds": "19.000",
+        "goal_result": "2",
+        "goal_odds": "3.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2022-10-07 02:00",
+      "matchId": "1170941",
+      "league": "荷乙",
+      "home": "赫拉克勒",
+      "away": "格拉夫",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.590",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "3:2",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2022-10-07 03:00",
+      "matchId": "1175484",
+      "league": "英冠",
+      "home": "女王巡游",
+      "away": "雷丁",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.810",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2022-10-07 03:15",
+      "matchId": "1188503",
+      "league": "葡超",
+      "home": "吉维森特",
+      "away": "埃斯托里",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.270",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "time": "2014-04-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-0_6459",
+        "handicap": "3_3_305",
+        "halfFull": "01_11_6900",
+        "size": "2_0_3087"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-0_2-0_103359",
+        "handicap": "3_3_3_473",
+        "halfFull": "01_11_13_43125",
+        "size": "2_0_2_11886"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-0_2-0_4-2_6201599",
+        "handicap": "3_3_3_3_1537",
+        "halfFull": "01_11_13_33_109968",
+        "size": "2_0_2_6_225850"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_0_2291",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_0_0_5339",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_0_0_1_16818",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_0_0_1_3_25564",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-0_4930",
+        "handicap": "3_3_417",
+        "halfFull": "01_33_2850",
+        "size": "2_3_1137"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-0_1-1_3-0_281010",
+        "handicap": "3_3_3_3_900",
+        "halfFull": "01_11_11_33_65550",
+        "size": "2_0_2_3_36741"
+      },
+      "team": "001_002_007_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2014-04-14 01:00",
+      "matchId": "669250",
+      "league": "瑞典超",
+      "home": "布鲁马波卡纳",
+      "away": "IFK哥德堡",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.150",
+        "score_result": "1:1",
+        "score_odds": "6.800",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2014-04-14 01:05",
+      "matchId": "669229",
+      "league": "瑞典超",
+      "home": "卡尔马",
+      "away": "埃尔夫斯堡",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2014-04-14 02:00",
+      "matchId": "606879",
+      "league": "荷乙",
+      "home": "特温特青年队",
+      "away": "埃因霍温青年队",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.550",
+        "score_result": "2:0",
+        "score_odds": "16.000",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2014-04-14 02:15",
+      "matchId": "612115",
+      "league": "德乙",
+      "home": "德累斯顿",
+      "away": "慕尼黑1860",
+      "result": {
+        "half": "4-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.730",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.250",
+        "score_result": "4:2",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "19.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2014-04-14 02:30",
+      "matchId": "607614",
+      "league": "法乙",
+      "home": "第戎",
+      "away": "梅斯",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2014-04-14 02:45",
+      "matchId": "639842",
+      "league": "意甲",
+      "home": "乌迪内斯",
+      "away": "尤文图斯",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.330",
+        "score_result": "0:2",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2014-04-14 03:00",
+      "matchId": "620824",
+      "league": "葡超",
+      "home": "埃斯托里尔",
+      "away": "费雷拉",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "1:0",
+        "score_odds": "5.250",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.350"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2014-04-14 03:07",
+      "matchId": "609890",
+      "league": "英冠",
+      "home": "雷丁",
+      "away": "莱切斯特城",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周一009",
+      "match_time": "2014-04-14 04:00",
+      "matchId": "626002",
+      "league": "西甲",
+      "home": "毕尔巴鄂竞技",
+      "away": "马拉加",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.260",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.940",
+        "score_result": "3:0",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    }
+  ]
+}

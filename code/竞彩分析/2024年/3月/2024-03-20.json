@@ -1,0 +1,164 @@
+{
+  "time": "2024-03-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_1-1_10540",
+        "handicap": "0_0_713",
+        "halfFull": "10_11_3272",
+        "size": "4_2_1850"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-3_1-1_1-2_84320",
+        "handicap": "0_0_1_2566",
+        "halfFull": "10_11_00_10308",
+        "size": "4_2_3_6752"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_1-1_1-2_1-2_801040",
+        "handicap": "0_0_1_0_3516",
+        "halfFull": "10_11_00_10_63911",
+        "size": "4_2_3_3_25997"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_1-2_16150",
+        "handicap": "0_0_630",
+        "halfFull": "10_10_3689",
+        "size": "4_3_1925"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_1-1_1-2_1-2_801040",
+        "handicap": "0_0_1_0_3516",
+        "halfFull": "10_11_00_10_63911",
+        "size": "4_2_3_3_25997"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2024-03-20 13:00",
+      "matchId": "1248420",
+      "league": "J2联赛",
+      "home": "千叶市原",
+      "away": "清水鼓动",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.600",
+        "score_result": "1:3",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.950"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2024-03-20 13:00",
+      "matchId": "1248421",
+      "league": "J2联赛",
+      "home": "甲府风林",
+      "away": "磐城FC",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2024-03-20 14:00",
+      "matchId": "1248426",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "长崎航海",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2024-03-20 14:50",
+      "matchId": "1248425",
+      "league": "J2联赛",
+      "home": "德岛漩涡",
+      "away": "山口雷诺",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.370",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.200"
+      }
+    }
+  ]
+}

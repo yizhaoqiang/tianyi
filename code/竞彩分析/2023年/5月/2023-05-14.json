@@ -1,0 +1,302 @@
+{
+  "time": "2023-05-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-0_13000",
+        "handicap": "3_0_469",
+        "halfFull": "13_11_2070",
+        "size": "4_0_6200"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_0-0_1-5_1040000",
+        "handicap": "3_0_0_1458",
+        "halfFull": "13_11_00_5692",
+        "size": "4_0_6_68200"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-0_1-5_2-1_11960000",
+        "handicap": "3_0_0_3_2684",
+        "halfFull": "13_11_00_33_37001",
+        "size": "4_0_6_3_255750"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_2-1_12025",
+        "handicap": "3_0_734",
+        "halfFull": "13_03_12600",
+        "size": "4_3_2325"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-0_2-4_2-1_6012500",
+        "handicap": "3_0_0_0_2311",
+        "halfFull": "13_11_00_03_115920",
+        "size": "4_0_6_3_372000"
+      },
+      "team": "001_002_023_024"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2023-05-14 15:00",
+      "matchId": "1206441",
+      "league": "J联赛",
+      "home": "浦和红钻",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.280",
+        "score_result": "3:1",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "6.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2023-05-14 19:00",
+      "matchId": "1215116",
+      "league": "英冠",
+      "home": "考文垂",
+      "away": "米堡",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2023-05-14 19:30",
+      "matchId": "1174791",
+      "league": "德乙",
+      "home": "雷根斯堡",
+      "away": "汉堡",
+      "result": {
+        "half": "0-4",
+        "full": "1-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.110",
+        "score_result": "1:5",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "11.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2023-05-14 19:30",
+      "matchId": "1174789",
+      "league": "德乙",
+      "home": "汉诺威96",
+      "away": "达姆施塔",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.840",
+        "score_result": "2:1",
+        "score_odds": "11.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2023-05-14 20:30",
+      "matchId": "1170790",
+      "league": "荷甲",
+      "home": "格罗宁根",
+      "away": "阿贾克斯",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2023-05-14 21:00",
+      "matchId": "1171762",
+      "league": "英超",
+      "home": "埃弗顿",
+      "away": "曼城",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "3.550",
+        "score_result": "0:3",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2023-05-14 21:00",
+      "matchId": "1171759",
+      "league": "英超",
+      "home": "布伦特",
+      "away": "西汉姆联",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.080",
+        "score_result": "2:0",
+        "score_odds": "8.250",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2023-05-14 21:00",
+      "matchId": "1200391",
+      "league": "瑞典超",
+      "home": "米亚尔比",
+      "away": "天狼星",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.200",
+        "score_result": "3:0",
+        "score_odds": "24.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周日023",
+      "match_time": "2023-05-14 03:00",
+      "matchId": "1176325",
+      "league": "西甲",
+      "home": "西班牙人",
+      "away": "巴萨",
+      "result": {
+        "half": "0-3",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.200",
+        "score_result": "2:4",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周日024",
+      "match_time": "2023-05-14 03:30",
+      "matchId": "1188707",
+      "league": "葡超",
+      "home": "波尔图",
+      "away": "卡萨皮亚",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.240",
+        "score_result": "2:1",
+        "score_odds": "9.250",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-3",
+        "half_full_odds": "28.000"
+      }
+    }
+  ]
+}

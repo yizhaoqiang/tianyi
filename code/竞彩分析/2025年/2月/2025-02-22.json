@@ -1,0 +1,354 @@
+{
+  "time": "2025-02-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-1_14000",
+        "handicap": "3_3_267",
+        "halfFull": "11_11_3120",
+        "size": "4_2_2975"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_1-1_3-1_252000",
+        "handicap": "3_3_3_1122",
+        "halfFull": "11_11_33_10764",
+        "size": "4_2_4_16957"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-1_3-1_1-0_2772000",
+        "handicap": "3_3_3_3_1897",
+        "halfFull": "11_11_33_13_86112",
+        "size": "4_2_4_1_84787"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_0_2921",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_0_0_4178",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_0_0_3_9526",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_0_0_3_1_36676",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_2-2_26000",
+        "handicap": "3_0_358",
+        "halfFull": "11_11_3900",
+        "size": "4_4_4079"
+      },
+      "team": "001_075"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-1_0-2_2-2_1638000",
+        "handicap": "3_3_1_0_2481",
+        "halfFull": "11_11_10_11_95940",
+        "size": "4_2_2_4_75683"
+      },
+      "team": "001_002_024_025"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2025-02-22 13:00",
+      "matchId": "1283263",
+      "league": "J联赛",
+      "home": "名古屋鲸",
+      "away": "神户胜利",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.080",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.620",
+        "score_result": "2:2",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2025-02-22 13:00",
+      "matchId": "1283262",
+      "league": "J联赛",
+      "home": "柏太阳神",
+      "away": "川崎前锋",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2025-02-22 15:30",
+      "matchId": "1284025",
+      "league": "K联赛",
+      "home": "大邱FC",
+      "away": "水原FC",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.200",
+        "score_result": "3:1",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.450"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2025-02-22 16:15",
+      "matchId": "1283709",
+      "league": "U20亚洲杯",
+      "home": "沙特20",
+      "away": "中国20",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.690",
+        "score_result": "1:0",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2025-02-22 16:35",
+      "matchId": "1274475",
+      "league": "澳超",
+      "home": "墨胜利",
+      "away": "墨尔本城",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "2:2",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2025-02-22 20:30",
+      "matchId": "1260369",
+      "league": "英超",
+      "home": "埃弗顿",
+      "away": "曼联",
+      "result": {
+        "half": "2-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "2:2",
+        "score_odds": "14.500",
+        "goal_result": "4",
+        "goal_odds": "6.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2025-02-22 22:00",
+      "matchId": "1269187",
+      "league": "意甲",
+      "home": "威尼斯",
+      "away": "拉齐奥",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.280",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2025-02-22 22:30",
+      "matchId": "1269514",
+      "league": "德甲",
+      "home": "基尔",
+      "away": "勒沃库森",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.140",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "0:2",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "4.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.550"
+      }
+    },
+    {
+      "num": "周六024",
+      "match_time": "2025-02-22 04:00",
+      "matchId": "1259982",
+      "league": "西甲",
+      "home": "拉帕马斯",
+      "away": "巴萨",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.140",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "4.200",
+        "score_result": "0:2",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "5.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周六025",
+      "match_time": "2025-02-22 08:30",
+      "matchId": "1282752",
+      "league": "美职",
+      "home": "迈国际",
+      "away": "纽约城",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.210",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "time": "2017-10-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-1_11900",
+        "handicap": "3_0_990",
+        "halfFull": "33_11_1716",
+        "size": "3_2_1017"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_1-1_1-1_65450",
+        "handicap": "3_0_0_1386",
+        "halfFull": "33_11_11_6864",
+        "size": "3_2_2_3053"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_1-1_1-1_1-2_654500",
+        "handicap": "3_0_0_0_2522",
+        "halfFull": "33_11_11_00_35692",
+        "size": "3_2_2_3_10533"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_6709",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_2-2_30600",
+        "handicap": "3_0_1170",
+        "halfFull": "33_31_6600",
+        "size": "3_4_1897"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_1-1_1-2_2-2_2142000",
+        "handicap": "3_0_0_0_4792",
+        "halfFull": "33_11_00_31_178464",
+        "size": "3_2_3_4_19311"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2017-10-12 01:00",
+      "matchId": "963298",
+      "league": "挪超",
+      "home": "瓦勒伦加",
+      "away": "海于格松",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.400",
+        "score_result": "3:0",
+        "score_odds": "17.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2017-10-12 04:00",
+      "matchId": "944974",
+      "league": "巴西甲",
+      "home": "弗拉门戈",
+      "away": "弗鲁米嫩塞",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.250",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2017-10-12 04:00",
+      "matchId": "944983",
+      "league": "巴西甲",
+      "home": "庞特普雷塔",
+      "away": "桑托斯",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2017-10-12 04:00",
+      "matchId": "944965",
+      "league": "巴西甲",
+      "home": "维多利亚",
+      "away": "累西腓体育",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.760",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.820",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2017-10-12 08:00",
+      "matchId": "944973",
+      "league": "巴西甲",
+      "home": "帕尔梅拉斯",
+      "away": "巴伊亚",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.660",
+        "score_result": "2:2",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "20.000"
+      }
+    }
+  ]
+}

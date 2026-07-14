@@ -1,0 +1,272 @@
+{
+  "time": "2023-03-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-0_8250",
+        "handicap": "1_3_885",
+        "halfFull": "30_33_8400",
+        "size": "3_3_1540"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_3-0_0-0_82500",
+        "handicap": "1_3_0_2141",
+        "halfFull": "30_33_11_48720",
+        "size": "3_3_0_15400"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-0_0-0_4-0_618750",
+        "handicap": "1_3_0_0_5996",
+        "halfFull": "30_33_11__48720",
+        "size": "3_3_0_4_111650"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_12413",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_3_22964",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_3_1_88413",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-2_6750",
+        "handicap": "1_1_1155",
+        "halfFull": "30_00_14000",
+        "size": "3_3_1639"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-0_3-1_1-2_891000",
+        "handicap": "1_3_3_1_6303",
+        "halfFull": "30_33_33_00_57119",
+        "size": "3_3_4_3_39778"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2023-03-23 23:00",
+      "matchId": "1198414",
+      "league": "欧预赛",
+      "home": "哈萨克",
+      "away": "斯洛文尼",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.000",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "35.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2023-03-23 03:45",
+      "matchId": "1198476",
+      "league": "欧预赛",
+      "home": "波黑",
+      "away": "冰岛",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.950",
+        "score_result": "3:0",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2023-03-23 03:45",
+      "matchId": "1198475",
+      "league": "欧预赛",
+      "home": "斯洛伐克",
+      "away": "卢森堡",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.820",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.420",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2023-03-23 03:45",
+      "matchId": "1198474",
+      "league": "欧预赛",
+      "home": "葡萄牙",
+      "away": "列支敦",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-5",
+        "handicap_result": "0",
+        "handicap_odds": "2.800",
+        "score_result": "4:0",
+        "score_odds": "7.500",
+        "goal_result": "4",
+        "goal_odds": "7.250",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2023-03-23 03:45",
+      "matchId": "1198418",
+      "league": "欧预赛",
+      "home": "圣马力诺",
+      "away": "北爱尔兰",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+3",
+        "handicap_result": "3",
+        "handicap_odds": "2.070",
+        "score_result": "0:2",
+        "score_odds": "5.250",
+        "goal_result": "2",
+        "goal_odds": "5.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.230"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2023-03-23 03:45",
+      "matchId": "1198415",
+      "league": "欧预赛",
+      "home": "丹麦",
+      "away": "芬兰",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.850",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "6.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.700"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2023-03-23 03:45",
+      "matchId": "1198315",
+      "league": "欧预赛",
+      "home": "意大利",
+      "away": "英格兰",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.260",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:2",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.000"
+      }
+    }
+  ]
+}

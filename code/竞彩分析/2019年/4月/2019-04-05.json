@@ -1,0 +1,354 @@
+{
+  "time": "2019-04-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_2-1_12080",
+        "handicap": "3_1_712",
+        "halfFull": "33_13_765",
+        "size": "5_3_1979"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-1_2-1_0-3_338240",
+        "handicap": "3_1_0_1061",
+        "halfFull": "33_13_00_3519",
+        "size": "5_3_3_6633"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_2-1_0-3_2-1_2367680",
+        "handicap": "3_1_0_1_3609",
+        "halfFull": "33_13_00_33_8445",
+        "size": "5_3_3_3_21557"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_1_1_13463",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_1_1_0_28273",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_1_1_0_0_54850",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_1_1_0_0_3_131640",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_0-2_20000",
+        "handicap": "3_0_258",
+        "halfFull": "33_10_969",
+        "size": "5_2_2340"
+      },
+      "team": "001_025"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_2-1_2-0_0-2_770099",
+        "handicap": "3_1_1_0_3682",
+        "halfFull": "33_13_33_10_5930",
+        "size": "5_3_2_2_29729"
+      },
+      "team": "001_002_024_025"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2019-04-05 16:50",
+      "matchId": "1036335",
+      "league": "澳超",
+      "home": "墨尔本城",
+      "away": "布里斯班狮吼",
+      "result": {
+        "half": "1-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "4:1",
+        "score_odds": "16.000",
+        "goal_result": "5",
+        "goal_odds": "6.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.700"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2019-04-05 18:00",
+      "matchId": "1052783",
+      "league": "J联赛",
+      "home": "鹿岛鹿角",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "2:1",
+        "score_odds": "7.550",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2019-04-05 18:30",
+      "matchId": "1052801",
+      "league": "J联赛",
+      "home": "浦和红钻",
+      "away": "横滨水手",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "0:3",
+        "score_odds": "28.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2019-04-05 00:30",
+      "matchId": "1033422",
+      "league": "德乙",
+      "home": "比勒费尔德",
+      "away": "奥厄",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2019-04-05 00:30",
+      "matchId": "1033423",
+      "league": "德乙",
+      "home": "雷根斯堡",
+      "away": "波鸿",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.730",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2019-04-05 02:00",
+      "matchId": "1027811",
+      "league": "法乙",
+      "home": "勒阿弗尔",
+      "away": "尼奥尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.650"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2019-04-05 02:00",
+      "matchId": "1027806",
+      "league": "法乙",
+      "home": "克莱蒙",
+      "away": "南锡",
+      "result": {
+        "half": "1-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.940",
+        "score_result": "2:3",
+        "score_odds": "70.000",
+        "goal_result": "5",
+        "goal_odds": "14.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.750"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2019-04-05 02:00",
+      "matchId": "1027809",
+      "league": "法乙",
+      "home": "洛里昂",
+      "away": "贝济耶",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "6.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周五024",
+      "match_time": "2019-04-05 03:30",
+      "matchId": "1034608",
+      "league": "葡超",
+      "home": "波尔图",
+      "away": "博阿维斯塔",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "2:0",
+        "score_odds": "5.100",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.360"
+      }
+    },
+    {
+      "num": "周五025",
+      "match_time": "2019-04-05 10:00",
+      "matchId": "1051948",
+      "league": "美职",
+      "home": "温哥华白帽",
+      "away": "洛杉矶银河",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.170",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.360",
+        "score_result": "0:2",
+        "score_odds": "12.500",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.700"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2019-10-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-1_10880",
+        "handicap": "3_1_488",
+        "halfFull": "11_33_1510",
+        "size": "0_3_5920"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-1_2-0_152320",
+        "handicap": "3_1_3_771",
+        "halfFull": "11_33_13_9818",
+        "size": "0_3_2_20424"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-1_2-0_1-1_990080",
+        "handicap": "3_1_3_0_1389",
+        "halfFull": "11_33_13_11_48109",
+        "size": "0_3_2_2_67399"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_0_2041",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_0_1_8779",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_0_1_1_39509",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_0_1_1_0_96798",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-2_16000",
+        "handicap": "3_0_273",
+        "halfFull": "11_10_4845",
+        "size": "0_3_5760"
+      },
+      "team": "001_054"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-1_2-2_1-2_1958400",
+        "handicap": "3_1_0_0_1445",
+        "halfFull": "11_33_31_10_205428",
+        "size": "0_3_4_3_165168"
+      },
+      "team": "001_002_053_054"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2019-10-20 12:00",
+      "matchId": "1053264",
+      "league": "J2联赛",
+      "home": "鹿儿岛联",
+      "away": "山口雷诺法",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "0:0",
+        "score_odds": "16.000",
+        "goal_result": "0",
+        "goal_odds": "16.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2019-10-20 13:00",
+      "matchId": "1077006",
+      "league": "澳超",
+      "home": "墨尔本城",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:1",
+        "score_odds": "6.800",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2019-10-20 13:00",
+      "matchId": "1053262",
+      "league": "J2联赛",
+      "home": "岐阜FC",
+      "away": "爱媛FC",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.860",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "2:0",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2019-10-20 13:00",
+      "matchId": "1053320",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "町田泽维亚",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2019-10-20 13:00",
+      "matchId": "1053259",
+      "league": "J2联赛",
+      "home": "枥木SC",
+      "away": "琉球FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "0:2",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2019-10-20 13:00",
+      "matchId": "1053261",
+      "league": "J2联赛",
+      "home": "金泽塞维根",
+      "away": "山形山神",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.300",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.950",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2019-10-20 13:00",
+      "matchId": "1079197",
+      "league": "K联赛",
+      "home": "江原FC",
+      "away": "首尔FC",
+      "result": {
+        "half": "0-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.500",
+        "score_result": "3:2",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "7.750",
+        "half_full_result": "0-3",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2019-10-20 14:00",
+      "matchId": "1053260",
+      "league": "J2联赛",
+      "home": "千叶市原",
+      "away": "柏太阳神",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.450",
+        "score_result": "0:3",
+        "score_odds": "12.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周日053",
+      "match_time": "2019-10-20 06:00",
+      "matchId": "1058334",
+      "league": "巴西甲",
+      "home": "沙佩科恩斯",
+      "away": "戈亚斯",
+      "result": {
+        "half": "2-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "2:2",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "7.750",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周日054",
+      "match_time": "2019-10-20 08:30",
+      "matchId": "1079101",
+      "league": "美职",
+      "home": "明尼苏达联",
+      "away": "洛杉矶银河",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.420",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    }
+  ]
+}

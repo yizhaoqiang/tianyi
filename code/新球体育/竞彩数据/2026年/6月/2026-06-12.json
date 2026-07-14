@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五003",
+    "match_time": "2026-06-13 03:00",
+    "matchId": "2906756",
+    "league": "世界杯",
+    "home": "加拿大",
+    "away": "波黑",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.62",
+        "d": "3.32",
+        "l": "4.75"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.58",
+        "d": "2.90",
+        "l": "1.98"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.32",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.98",
+      "score_result": "1:1",
+      "score_odds": "4.75",
+      "goal_result": "2",
+      "goal_odds": "2.75",
+      "half_full_result": "0-1",
+      "half_full_odds": "13.50"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2026-06-13 09:00",
+    "matchId": "2906706",
+    "league": "世界杯",
+    "home": "美国",
+    "away": "巴拉圭",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.79",
+        "d": "3.25",
+        "l": "3.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.02",
+        "d": "3.08",
+        "l": "1.80"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "4-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.79",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.02",
+      "score_result": "4:1",
+      "score_odds": "65.00",
+      "goal_result": "5",
+      "goal_odds": "16.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.86"
+    }
+  }
+]

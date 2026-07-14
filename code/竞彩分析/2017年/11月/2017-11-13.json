@@ -1,0 +1,200 @@
+{
+  "time": "2017-11-13",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-3_5800",
+        "handicap": "0_0_278",
+        "halfFull": "11_00_774",
+        "size": "2_4_1616"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-3_0-1_39440",
+        "handicap": "0_0_0_384",
+        "halfFull": "11_00_00_2979",
+        "size": "2_4_1_6544"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-3_0-1_0-0_276080",
+        "handicap": "0_0_0_0_1077",
+        "halfFull": "11_00_00_11_14452",
+        "size": "2_4_1_0_45813"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_3_6205",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-0_5510",
+        "handicap": "0_3_783",
+        "halfFull": "11_33_1526",
+        "size": "2_2_927"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-3_0-0_2-0_385700",
+        "handicap": "0_0_0_3_4496",
+        "halfFull": "11_00_11_33_13326",
+        "size": "2_4_0_2_32804"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2017-11-13 22:30",
+      "matchId": "996164",
+      "league": "U21欧预",
+      "home": "希腊U21",
+      "away": "克罗地亚U21",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.920",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.360",
+        "score_result": "1:1",
+        "score_odds": "5.800",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2017-11-13 01:45",
+      "matchId": "996160",
+      "league": "U21欧预",
+      "home": "斯洛文尼亚U21",
+      "away": "法国U21",
+      "result": {
+        "half": "1-3",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.050",
+        "score_result": "1:3",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "5.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2017-11-13 03:45",
+      "matchId": "996824",
+      "league": "友谊赛",
+      "home": "波兰",
+      "away": "墨西哥",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "0:1",
+        "score_odds": "6.800",
+        "goal_result": "1",
+        "goal_odds": "4.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2017-11-13 03:45",
+      "matchId": "997196",
+      "league": "世欧预",
+      "home": "意大利",
+      "away": "瑞典",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.800",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.850"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2017-11-13 06:00",
+      "matchId": "945050",
+      "league": "巴西甲",
+      "home": "沙佩科恩斯",
+      "away": "桑托斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.440",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.760",
+        "score_result": "2:0",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.550"
+      }
+    }
+  ]
+}

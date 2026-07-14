@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周一101",
+    "match_time": "2024-07-16 01:00",
+    "matchId": "2510602",
+    "league": "瑞典超",
+    "home": "哈马比",
+    "away": "哥德堡",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.81",
+        "d": "3.50",
+        "l": "3.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.40",
+        "d": "3.65",
+        "l": "1.78"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.45",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.78",
+      "score_result": "0:1",
+      "score_odds": "15.00",
+      "goal_result": "1",
+      "goal_odds": "7.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "6.25"
+    }
+  },
+  {
+    "num": "周一102",
+    "match_time": "2024-07-16 01:00",
+    "matchId": "2510601",
+    "league": "瑞典超",
+    "home": "哈尔姆斯塔德",
+    "away": "索尔纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.40",
+        "d": "3.65",
+        "l": "1.78"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.78",
+        "d": "3.72",
+        "l": "3.35"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.78",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.72",
+      "score_result": "1:2",
+      "score_odds": "7.20",
+      "goal_result": "3",
+      "goal_odds": "3.45",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.95"
+    }
+  }
+]

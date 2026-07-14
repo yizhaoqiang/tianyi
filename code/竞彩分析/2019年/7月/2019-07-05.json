@@ -1,0 +1,331 @@
+{
+  "time": "2019-07-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_5-2_75000",
+        "handicap": "0_3_857",
+        "halfFull": "11_33_1134",
+        "size": "2_7+_9760"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_5-2_2-2_825000",
+        "handicap": "0_3_0_1243",
+        "halfFull": "11_33_01_15886",
+        "size": "2_7+_4_47824"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_5-2_2-2_0-0_10725000",
+        "handicap": "0_3_0_0_3195",
+        "halfFull": "11_33_01_11_99290",
+        "size": "2_7+_4_0_621712"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_5910",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_3_26894",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_3_3_39534",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_3_3_0_67208",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-1_2500",
+        "handicap": "0_1_749",
+        "halfFull": "11_00_876",
+        "size": "2_1_1067"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_5-2_0-0_0-1_3900000",
+        "handicap": "0_3_0_1_4154",
+        "halfFull": "11_33_11_00_12853",
+        "size": "2_7+_0_1_444080"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2019-07-05 00:00",
+      "matchId": "1059448",
+      "league": "非洲杯",
+      "home": "摩洛哥",
+      "away": "贝宁",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.630",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.450"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2019-07-05 01:00",
+      "matchId": "1049874",
+      "league": "挪超",
+      "home": "克里斯蒂安松",
+      "away": "利勒斯特罗姆",
+      "result": {
+        "half": "3-1",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.260",
+        "score_result": "5:2",
+        "score_odds": "120.000",
+        "goal_result": "7+",
+        "goal_odds": "32.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2019-07-05 01:00",
+      "matchId": "1049870",
+      "league": "挪超",
+      "home": "奥德",
+      "away": "莫尔德",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.900",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2019-07-05 01:00",
+      "matchId": "1049872",
+      "league": "挪超",
+      "home": "布兰",
+      "away": "姆延达伦",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.570",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2019-07-05 01:00",
+      "matchId": "1049873",
+      "league": "挪超",
+      "home": "斯特罗姆加斯特",
+      "away": "斯塔贝克",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "0:2",
+        "score_odds": "20.000",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2019-07-05 01:00",
+      "matchId": "1049871",
+      "league": "挪超",
+      "home": "瓦勒伦加",
+      "away": "博德闪耀",
+      "result": {
+        "half": "4-0",
+        "full": "6-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.220",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.550",
+        "score_result": "胜其他",
+        "score_odds": "39.000",
+        "goal_result": "6",
+        "goal_odds": "13.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2019-07-05 01:00",
+      "matchId": "1049875",
+      "league": "挪超",
+      "home": "特罗姆瑟",
+      "away": "萨尔普斯堡",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "2:0",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2019-07-05 03:00",
+      "matchId": "1049876",
+      "league": "挪超",
+      "home": "维京",
+      "away": "海于格松",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.430",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周五009",
+      "match_time": "2019-07-05 03:00",
+      "matchId": "1059449",
+      "league": "非洲杯",
+      "home": "乌干达",
+      "away": "塞内加尔",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "2.850",
+        "score_result": "0:1",
+        "score_odds": "4.000",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.970"
+      }
+    }
+  ]
+}

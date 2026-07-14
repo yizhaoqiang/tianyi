@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2017-12-24 19:30",
+    "matchId": "1395651",
+    "league": "荷甲",
+    "home": "格罗宁根",
+    "away": "鹿特丹斯巴达",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.56",
+        "d": "3.85",
+        "l": "4.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.76",
+        "d": "3.55",
+        "l": "2.06"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.56",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.76",
+      "score_result": "4:0",
+      "score_odds": "25.00",
+      "goal_result": "4",
+      "goal_odds": "4.30",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.40"
+    }
+  },
+  {
+    "num": "周日002",
+    "match_time": "2017-12-24 21:30",
+    "matchId": "1395645",
+    "league": "荷甲",
+    "home": "芬洛",
+    "away": "赫拉克勒斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.95",
+        "d": "3.25",
+        "l": "3.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.32",
+        "d": "3.52",
+        "l": "1.63"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.95",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.32",
+      "score_result": "3:1",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "4.70",
+      "half_full_result": "1-3",
+      "half_full_odds": "5.10"
+    }
+  },
+  {
+    "num": "周日003",
+    "match_time": "2017-12-24 21:30",
+    "matchId": "1395650",
+    "league": "荷甲",
+    "home": "阿贾克斯",
+    "away": "威廉二世",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.79",
+        "d": "4.05",
+        "l": "3.10"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "1.79",
+        "d": "4.05",
+        "l": "3.10"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "1",
+      "handicap_odds": "4.05",
+      "score_result": "3:1",
+      "score_odds": "8.50",
+      "goal_result": "4",
+      "goal_odds": "4.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.15"
+    }
+  },
+  {
+    "num": "周日004",
+    "match_time": "2017-12-24 23:45",
+    "matchId": "1395652",
+    "league": "荷甲",
+    "home": "费耶诺德",
+    "away": "罗达JC",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.92",
+        "d": "3.90",
+        "l": "2.84"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "1.92",
+        "d": "3.90",
+        "l": "2.84"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "5-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "3",
+      "handicap_odds": "1.92",
+      "score_result": "5:1",
+      "score_odds": "17.00",
+      "goal_result": "6",
+      "goal_odds": "7.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.24"
+    }
+  }
+]

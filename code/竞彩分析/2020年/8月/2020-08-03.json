@@ -1,0 +1,128 @@
+{
+  "time": "2020-08-03",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_3-3_108000",
+        "handicap": "0_0_292",
+        "halfFull": "30_01_42000",
+        "size": "5_6_12299"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_3-3_1-1_837000",
+        "handicap": "0_0_0_765",
+        "halfFull": "30_01_11_294000",
+        "size": "5_6_2_49199"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_1-1_18600",
+        "handicap": "0_0_437",
+        "halfFull": "30_11_19600",
+        "size": "5_2_3279"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_3-3_1-1_837000",
+        "handicap": "0_0_0_765",
+        "halfFull": "30_01_11_294000",
+        "size": "5_6_2_49199"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2020-08-03 17:30",
+      "matchId": "1098939",
+      "league": "澳超",
+      "home": "墨尔本胜利",
+      "away": "中央海岸水手",
+      "result": {
+        "half": "1-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "2:3",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "8.200",
+        "half_full_result": "3-0",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2020-08-03 01:00",
+      "matchId": "1099043",
+      "league": "瑞典超",
+      "home": "埃尔夫斯堡",
+      "away": "天狼星",
+      "result": {
+        "half": "1-3",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.750",
+        "score_result": "3:3",
+        "score_odds": "45.000",
+        "goal_result": "6",
+        "goal_odds": "15.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2020-08-03 01:00",
+      "matchId": "1099039",
+      "league": "瑞典超",
+      "home": "北雪平",
+      "away": "米亚尔比",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.180",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.620",
+        "score_result": "1:1",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.000"
+      }
+    }
+  ]
+}

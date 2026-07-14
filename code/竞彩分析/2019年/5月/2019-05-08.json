@@ -1,0 +1,354 @@
+{
+  "time": "2019-05-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-0_6075",
+        "handicap": "1_0_669",
+        "halfFull": "33_11_1975",
+        "size": "1_0_3555"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_0-0_2-1_48600",
+        "handicap": "1_0_1_2826",
+        "halfFull": "33_11_03_55328",
+        "size": "1_0_3_11731"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_0-0_2-1_3-1_680400",
+        "handicap": "1_0_1_3_10456",
+        "halfFull": "33_11_03_33_163217",
+        "size": "1_0_3_4_55138"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_3_0_13698",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_3_0_1_46574",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_3_0_1_0_75450",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_3_0_1_0_3_281428",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-0_4725",
+        "handicap": "1_3_532",
+        "halfFull": "33_11_1634",
+        "size": "1_0_2765"
+      },
+      "team": "001_018"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_0-0_0-1_0-0_680400",
+        "handicap": "1_0_0_3_2941",
+        "halfFull": "33_11_00_11_127451",
+        "size": "1_0_1_0_102028"
+      },
+      "team": "001_002_017_018"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2019-05-08 18:00",
+      "matchId": "1053776",
+      "league": "亚冠杯",
+      "home": "广岛三箭",
+      "away": "广州恒大",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:0",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "3.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2019-05-08 18:00",
+      "matchId": "1054827",
+      "league": "日联杯",
+      "home": "东京FC",
+      "away": "仙台七夕",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.320",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.810",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2019-05-08 18:00",
+      "matchId": "1054839",
+      "league": "日联杯",
+      "home": "大分三神",
+      "away": "神户胜利船",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.360",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.220",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "0-3",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2019-05-08 18:00",
+      "matchId": "1054852",
+      "league": "日联杯",
+      "home": "大阪钢巴",
+      "away": "清水鼓动",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.870",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.700",
+        "score_result": "3:1",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2019-05-08 18:30",
+      "matchId": "1054840",
+      "league": "日联杯",
+      "home": "名古屋鲸八",
+      "away": "大阪樱花",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.310",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2019-05-08 19:30",
+      "matchId": "1053764",
+      "league": "亚冠杯",
+      "home": "山东鲁能",
+      "away": "庆南FC",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "0-3",
+        "half_full_odds": "21.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2019-05-08 03:00",
+      "matchId": "1058985",
+      "league": "欧冠",
+      "home": "阿贾克斯",
+      "away": "托特纳姆热刺",
+      "result": {
+        "half": "2-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.960",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "2:3",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "23.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2019-05-08 06:15",
+      "matchId": "1052448",
+      "league": "解放者杯",
+      "home": "飓风",
+      "away": "拉腊",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.730",
+        "score_result": "3:0",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周三017",
+      "match_time": "2019-05-08 08:30",
+      "matchId": "1055875",
+      "league": "解放者杯",
+      "home": "巴兰基亚青年",
+      "away": "梅尔加",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "8.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.050",
+        "score_result": "0:1",
+        "score_odds": "16.000",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三018",
+      "match_time": "2019-05-08 08:30",
+      "matchId": "1052457",
+      "league": "解放者杯",
+      "home": "佩纳罗尔",
+      "away": "弗拉门戈",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.440",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

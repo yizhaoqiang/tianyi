@@ -1,0 +1,164 @@
+{
+  "time": "2023-05-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-0_15750",
+        "handicap": "0_3_366",
+        "halfFull": "11_13_4905",
+        "size": "4_1_2624"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_1-0_0-3_204750",
+        "handicap": "0_3_0_813",
+        "halfFull": "11_13_00_10055",
+        "size": "4_1_3_9971"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-0_0-3_2-0_2252250",
+        "handicap": "0_3_0_3_4596",
+        "halfFull": "11_13_00_13_51281",
+        "size": "4_1_3_2_35397"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_2-0_16500",
+        "handicap": "0_3_1113",
+        "halfFull": "11_13_2779",
+        "size": "4_2_2272"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-0_0-3_2-0_2252250",
+        "handicap": "0_3_0_3_4596",
+        "halfFull": "11_13_00_13_51281",
+        "size": "4_1_3_2_35397"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2023-05-15 01:10",
+      "matchId": "1200385",
+      "league": "瑞典超",
+      "home": "索尔纳",
+      "away": "哥德堡",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.970",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.400",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.450"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2023-05-15 02:45",
+      "matchId": "1173311",
+      "league": "法乙",
+      "home": "阿纳西",
+      "away": "勒阿弗尔",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.860",
+        "score_result": "1:0",
+        "score_odds": "10.500",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2023-05-15 03:00",
+      "matchId": "1213553",
+      "league": "英超",
+      "home": "莱切斯特",
+      "away": "利物浦",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.220",
+        "score_result": "0:3",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2023-05-15 03:15",
+      "matchId": "1188704",
+      "league": "葡超",
+      "home": "埃斯托里",
+      "away": "阿罗卡",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.370",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.650",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.100"
+      }
+    }
+  ]
+}

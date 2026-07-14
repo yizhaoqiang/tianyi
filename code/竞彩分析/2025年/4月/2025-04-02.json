@@ -1,0 +1,354 @@
+{
+  "time": "2025-04-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-0_12150",
+        "handicap": "0_1_553",
+        "halfFull": "11_33_1342",
+        "size": "4_1_3735"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_1-0_0-1_78975",
+        "handicap": "0_1_1_2049",
+        "halfFull": "11_33_00_5636",
+        "size": "4_1_1_13819"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-0_0-1_2-0_651543",
+        "handicap": "0_1_1_3_6044",
+        "halfFull": "11_33_00_13_25363",
+        "size": "4_1_1_2_47677"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_3_11908",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_3_0_18814",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_3_0_0_56068",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_3_0_0_1_224272",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_0-1_18900",
+        "handicap": "0_1_616",
+        "halfFull": "11_00_1562",
+        "size": "4_1_5395"
+      },
+      "team": "001_048"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-0_3-2_0-1_3827250",
+        "handicap": "0_1_0_1_5687",
+        "halfFull": "11_33_33_00_6669",
+        "size": "4_1_5_1_154162"
+      },
+      "team": "001_002_015_016"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2025-04-02 18:00",
+      "matchId": "1286304",
+      "league": "J联赛",
+      "home": "东京绿茵",
+      "away": "东京FC",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "2:2",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "8.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2025-04-02 18:00",
+      "matchId": "1286312",
+      "league": "J联赛",
+      "home": "广岛三箭",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.050"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2025-04-02 18:00",
+      "matchId": "1286310",
+      "league": "J联赛",
+      "home": "大阪钢巴",
+      "away": "町田泽维",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.280",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2025-04-02 18:00",
+      "matchId": "1286305",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "湘南海洋",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.950",
+        "score_result": "2:0",
+        "score_odds": "8.250",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2025-04-02 02:00",
+      "matchId": "1289654",
+      "league": "荷甲",
+      "home": "费耶诺德",
+      "away": "格罗宁根",
+      "result": {
+        "half": "2-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.270",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.970",
+        "score_result": "4:1",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.840"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2025-04-02 02:45",
+      "matchId": "1260409",
+      "league": "英超",
+      "home": "布赖顿",
+      "away": "维拉",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "0:3",
+        "score_odds": "45.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2025-04-02 02:45",
+      "matchId": "1260407",
+      "league": "英超",
+      "home": "伯恩茅斯",
+      "away": "伊普斯",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "7.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.980",
+        "score_result": "1:2",
+        "score_odds": "20.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2025-04-02 02:45",
+      "matchId": "1260413",
+      "league": "英超",
+      "home": "曼城",
+      "away": "莱切斯特",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.450"
+      }
+    },
+    {
+      "num": "周三015",
+      "match_time": "2025-04-02 03:15",
+      "matchId": "1290162",
+      "league": "葡超",
+      "home": "本菲卡",
+      "away": "法伦斯",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.600",
+        "score_result": "3:2",
+        "score_odds": "30.000",
+        "goal_result": "5",
+        "goal_odds": "6.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.400"
+      }
+    },
+    {
+      "num": "周三016",
+      "match_time": "2025-04-02 03:30",
+      "matchId": "1287886",
+      "league": "国王杯",
+      "home": "马竞",
+      "away": "巴萨",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.040",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "0:1",
+        "score_odds": "10.500",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.550"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "time": "2023-10-24",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-1_15750",
+        "handicap": "0_1_674",
+        "halfFull": "00_33_1181",
+        "size": "2_3_1306"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_2-1_1-3_145687",
+        "handicap": "0_1_0_1302",
+        "halfFull": "00_33_10_5079",
+        "size": "2_3_4_4964"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-1_1-3_1-2_1019812",
+        "handicap": "0_1_0_1_4362",
+        "halfFull": "00_33_10_00_13460",
+        "size": "2_3_4_3_17128"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_0_7852",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-0_17325",
+        "handicap": "0_0_311",
+        "halfFull": "00_13_2463",
+        "size": "2_1_2445"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-1_1-2_1-0_909562",
+        "handicap": "0_1_1_0_4068",
+        "halfFull": "00_33_00_13_11425",
+        "size": "2_3_3_1_32904"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2023-10-24 18:00",
+      "matchId": "1236628",
+      "league": "亚冠杯",
+      "home": "浦和红钻",
+      "away": "浦项制铁",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.730",
+        "score_result": "0:2",
+        "score_odds": "21.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.750"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2023-10-24 20:00",
+      "matchId": "1236623",
+      "league": "亚冠杯",
+      "home": "武汉三镇",
+      "away": "河内FC",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.750"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2023-10-24 00:45",
+      "matchId": "1236919",
+      "league": "欧冠",
+      "home": "加拉塔萨",
+      "away": "拜仁",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.930",
+        "score_result": "1:3",
+        "score_odds": "9.250",
+        "goal_result": "4",
+        "goal_odds": "3.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2023-10-24 03:00",
+      "matchId": "1236927",
+      "league": "欧冠",
+      "home": "塞维利亚",
+      "away": "阿森纳",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2023-10-24 03:00",
+      "matchId": "1236923",
+      "league": "欧冠",
+      "home": "曼联",
+      "away": "哥本哈根",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "1:0",
+        "score_odds": "8.250",
+        "goal_result": "1",
+        "goal_odds": "7.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.650"
+      }
+    }
+  ]
+}

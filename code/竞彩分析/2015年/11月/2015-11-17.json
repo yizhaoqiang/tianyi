@@ -1,0 +1,354 @@
+{
+  "time": "2015-11-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-6_2-0_3712",
+        "handicap": "0_3_434",
+        "halfFull": "00_33_250",
+        "size": "6_2_2635"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-6_2-0_0-2_22275",
+        "handicap": "0_3_1_1870",
+        "halfFull": "00_33_00_306",
+        "size": "6_2_2_12911"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-6_2-0_0-2_0-4_126967",
+        "handicap": "0_3_1_0_2861",
+        "halfFull": "00_33_00_00_324",
+        "size": "6_2_2_4_52937"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_0_6553",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_0_1_21954",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_0_1_3_82330",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_0_1_3_3_177833",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-6_1-2_7087",
+        "handicap": "0_0_271",
+        "halfFull": "00_10_806",
+        "size": "6_3_3484"
+      },
+      "team": "001_049"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-6_2-0_0-0_1-2_218294",
+        "handicap": "0_3_3_0_1011",
+        "halfFull": "00_33_11_10_5927",
+        "size": "6_2_0_3_60499"
+      },
+      "team": "001_002_046_047"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2015-11-17 13:30",
+      "matchId": "788607",
+      "league": "世亚预",
+      "home": "关岛",
+      "away": "伊朗",
+      "result": {
+        "half": "0-2",
+        "full": "0-6",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "1.740",
+        "score_result": "负其他",
+        "score_odds": "6.750",
+        "goal_result": "6",
+        "goal_odds": "8.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.280"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2015-11-17 15:00",
+      "matchId": "789531",
+      "league": "世亚预",
+      "home": "朝鲜",
+      "away": "巴林",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.500",
+        "score_result": "2:0",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.960"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2015-11-17 19:00",
+      "matchId": "789491",
+      "league": "世亚预",
+      "home": "中华台北",
+      "away": "伊拉克",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "4.300",
+        "score_result": "0:2",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "4.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.220"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2015-11-17 19:30",
+      "matchId": "788602",
+      "league": "世亚预",
+      "home": "孟加拉国",
+      "away": "澳大利亚",
+      "result": {
+        "half": "0-4",
+        "full": "0-4",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+3",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "0:4",
+        "score_odds": "5.700",
+        "goal_result": "4",
+        "goal_odds": "4.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.060"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2015-11-17 20:00",
+      "matchId": "842504",
+      "league": "友谊赛",
+      "home": "马其顿",
+      "away": "黎巴嫩",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.290",
+        "score_result": "0:1",
+        "score_odds": "12.000",
+        "goal_result": "1",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "11.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2015-11-17 20:00",
+      "matchId": "788619",
+      "league": "世亚预",
+      "home": "新加坡",
+      "away": "叙利亚",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.910"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2015-11-17 20:00",
+      "matchId": "788601",
+      "league": "世亚预",
+      "home": "中国香港",
+      "away": "中国",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "3.750",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.200"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2015-11-17 21:00",
+      "matchId": "788614",
+      "league": "世亚预",
+      "home": "土库曼斯坦",
+      "away": "阿曼",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.160",
+        "score_result": "2:1",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周二046",
+      "match_time": "2015-11-17 09:30",
+      "matchId": "841095",
+      "league": "世中北美预",
+      "home": "萨尔瓦多",
+      "away": "加拿大",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.490",
+        "score_result": "0:0",
+        "score_odds": "5.600",
+        "goal_result": "0",
+        "goal_odds": "5.600",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周二047",
+      "match_time": "2015-11-17 09:30",
+      "matchId": "841099",
+      "league": "世中北美预",
+      "home": "巴拿马",
+      "away": "哥斯达黎加",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "1:2",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.300"
+      }
+    }
+  ]
+}

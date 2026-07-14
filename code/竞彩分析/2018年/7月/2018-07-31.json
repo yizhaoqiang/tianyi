@@ -1,0 +1,331 @@
+{
+  "time": "2018-07-31",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-0_4550",
+        "handicap": "3_1_622",
+        "halfFull": "11_33_1364",
+        "size": "0_1_2765"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_1-0_2-2_52325",
+        "handicap": "3_1_0_1339",
+        "halfFull": "11_33_11_7780",
+        "size": "0_1_4_13272"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-0_2-2_2-1_627900",
+        "handicap": "3_1_0_3_2678",
+        "halfFull": "11_33_11_33_56019",
+        "size": "0_1_4_3_45124"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_5731",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_1_22064",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_1_3_41039",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_1_3_0_140355",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-0_6300",
+        "handicap": "3_3_631",
+        "halfFull": "11_33_1273",
+        "size": "0_2_2240"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-0_2-4_2-0_1392300",
+        "handicap": "3_1_0_3_7774",
+        "halfFull": "11_33_10_33_21976",
+        "size": "0_1_6_2_70784"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2018-07-31 00:00",
+      "matchId": "1040342",
+      "league": "俄超",
+      "home": "苏维埃之翼",
+      "away": "莫斯科中央陆军",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.980",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.730",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.550"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2018-07-31 06:30",
+      "matchId": "1024926",
+      "league": "南俱杯",
+      "home": "基多国民",
+      "away": "防御与正义",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2018-07-31 06:30",
+      "matchId": "1024925",
+      "league": "南俱杯",
+      "home": "维尔斯特曼",
+      "away": "昆卡",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.150",
+        "score_result": "2:2",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2018-07-31 08:00",
+      "matchId": "1036375",
+      "league": "吉尼斯杯",
+      "home": "曼彻斯特联",
+      "away": "皇家马德里",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.000",
+        "score_result": "2:1",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "7.200"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2018-07-31 08:00",
+      "matchId": "1035644",
+      "league": "墨西哥杯",
+      "home": "墨西哥美洲",
+      "away": "韦拉克鲁斯",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.140",
+        "score_result": "3:0",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2018-07-31 08:30",
+      "matchId": "1036376",
+      "league": "吉尼斯杯",
+      "home": "托特纳姆热刺",
+      "away": "AC米兰",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.070",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:0",
+        "score_odds": "8.200",
+        "goal_result": "1",
+        "goal_odds": "5.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2018-07-31 08:45",
+      "matchId": "1024940",
+      "league": "南俱杯",
+      "home": "圣菲独立",
+      "away": "兰普拉青年",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.190",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.860",
+        "score_result": "2:0",
+        "score_odds": "4.500",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2018-07-31 10:00",
+      "matchId": "1035819",
+      "league": "吉尼斯杯",
+      "home": "巴塞罗那",
+      "away": "罗马",
+      "result": {
+        "half": "1-1",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.870",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.420",
+        "score_result": "2:4",
+        "score_odds": "34.000",
+        "goal_result": "6",
+        "goal_odds": "8.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周二009",
+      "match_time": "2018-07-31 10:00",
+      "matchId": "1035649",
+      "league": "墨西哥杯",
+      "home": "帕丘卡",
+      "away": "桑托斯拉古纳",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.810",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.650",
+        "score_result": "2:0",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.800"
+      }
+    }
+  ]
+}

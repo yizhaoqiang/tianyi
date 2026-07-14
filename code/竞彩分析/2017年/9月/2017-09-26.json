@@ -1,0 +1,354 @@
+{
+  "time": "2017-09-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_3-0_29000",
+        "handicap": "3_3_823",
+        "halfFull": "33_33_409",
+        "size": "4_3_2448"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_3-0_1-1_203000",
+        "handicap": "3_3_3_2189",
+        "halfFull": "33_33_11_2723",
+        "size": "4_3_2_8445"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_3-0_1-1_2-0_1573250",
+        "handicap": "3_3_3_1_9306",
+        "halfFull": "33_33_11_13_10892",
+        "size": "4_3_2_2_41383"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_1_1_38621",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_1_1_0_68359",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_1_1_0_3_108007",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_1_1_0_3_0_200894",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_0-1_36250",
+        "handicap": "3_1_1617",
+        "halfFull": "33_10_1625",
+        "size": "4_1_3240"
+      },
+      "team": "001_035"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_3-0_2-1_0-1_1682000",
+        "handicap": "3_3_3_1_4690",
+        "halfFull": "33_33_03_10_61425",
+        "size": "4_3_3_1_38556"
+      },
+      "team": "001_002_034_035"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2017-09-26 00:00",
+      "matchId": "992817",
+      "league": "亚冠杯",
+      "home": "利雅得希拉尔",
+      "away": "波斯波利斯",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.970",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.200",
+        "score_result": "4:0",
+        "score_odds": "50.000",
+        "goal_result": "4",
+        "goal_odds": "7.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2017-09-26 02:45",
+      "matchId": "989481",
+      "league": "欧冠",
+      "home": "塞维利亚",
+      "away": "马里博尔",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.960",
+        "score_result": "3:0",
+        "score_odds": "5.800",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.260"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2017-09-26 02:45",
+      "matchId": "989482",
+      "league": "欧冠",
+      "home": "莫斯科斯巴达",
+      "away": "利物浦",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.660",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.650"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2017-09-26 02:45",
+      "matchId": "989480",
+      "league": "欧冠",
+      "home": "曼彻斯特城",
+      "away": "顿涅茨克矿工",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.090",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "4.250",
+        "score_result": "2:0",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "4.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2017-09-26 02:45",
+      "matchId": "989479",
+      "league": "欧冠",
+      "home": "那不勒斯",
+      "away": "费耶诺德",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "4.150",
+        "score_result": "3:1",
+        "score_odds": "9.000",
+        "goal_result": "4",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.240"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2017-09-26 02:45",
+      "matchId": "989477",
+      "league": "欧冠",
+      "home": "摩纳哥",
+      "away": "波尔图",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.770",
+        "score_result": "0:3",
+        "score_odds": "37.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2017-09-26 02:45",
+      "matchId": "989478",
+      "league": "欧冠",
+      "home": "贝西克塔斯",
+      "away": "莱比锡红牛",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.960",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "2:0",
+        "score_odds": "16.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2017-09-26 02:45",
+      "matchId": "989483",
+      "league": "欧冠",
+      "home": "希腊人竞技",
+      "away": "托特纳姆热刺",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.860",
+        "score_result": "0:3",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.620"
+      }
+    },
+    {
+      "num": "周二034",
+      "match_time": "2017-09-26 10:30",
+      "matchId": "959610",
+      "league": "墨联",
+      "home": "韦拉克鲁斯",
+      "away": "莫雷利亚",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.770",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "30.000"
+      }
+    },
+    {
+      "num": "周二035",
+      "match_time": "2017-09-26 12:15",
+      "matchId": "959602",
+      "league": "墨联",
+      "home": "蒂华纳",
+      "away": "老虎大学",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "0:1",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.000"
+      }
+    }
+  ]
+}

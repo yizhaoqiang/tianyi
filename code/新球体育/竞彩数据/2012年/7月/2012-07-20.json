@@ -1,0 +1,68 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2012-07-21 01:00",
+    "matchId": "691870",
+    "league": "挪超",
+    "home": "海于格松",
+    "away": "松达尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.07",
+        "d": "3.40",
+        "l": "2.85"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.07",
+        "d": "3.40",
+        "l": "2.85"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.85",
+      "score_result": "0:0",
+      "score_odds": "15.00",
+      "goal_result": "0",
+      "goal_odds": "15.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.50"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2012-07-21 02:45",
+    "matchId": "730422",
+    "league": "球会友谊",
+    "home": "英国国奥",
+    "away": "巴西U23",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.10",
+        "d": "3.45",
+        "l": "1.57"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.57",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "0:2",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.30",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.35"
+    }
+  }
+]

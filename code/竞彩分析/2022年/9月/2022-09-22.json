@@ -1,0 +1,272 @@
+{
+  "time": "2022-09-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-2_18700",
+        "handicap": "1_0_992",
+        "halfFull": "13_00_6090",
+        "size": "3_3_1677"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_1-2_3-3_1496000",
+        "handicap": "1_0_0_2025",
+        "halfFull": "13_00_11_52374",
+        "size": "3_3_6_23478"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-2_3-3_0-2_11968000",
+        "handicap": "1_0_0_0_6845",
+        "halfFull": "13_00_11_00_145599",
+        "size": "3_3_6_2_84520"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_1_25670",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_1_1_102683",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_1_1_3_205366",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_2-0_5270",
+        "handicap": "1_3_730",
+        "halfFull": "13_13_1554",
+        "size": "3_2_1440"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-2_2-1_2-0_1008677",
+        "handicap": "1_0_1_3_7942",
+        "halfFull": "13_00_13_13_123931",
+        "size": "3_3_3_2_21067"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2022-09-22 22:00",
+      "matchId": "1166862",
+      "league": "欧国联",
+      "home": "哈萨克",
+      "away": "白俄罗斯",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.060",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "4.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2022-09-22 02:45",
+      "matchId": "1158622",
+      "league": "欧国联",
+      "home": "斯洛伐克",
+      "away": "阿塞拜疆",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "8.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.720",
+        "score_result": "1:2",
+        "score_odds": "22.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "14.500"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2022-09-22 02:45",
+      "matchId": "1158609",
+      "league": "欧国联",
+      "home": "土耳其",
+      "away": "卢森堡",
+      "result": {
+        "half": "2-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.700",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.040",
+        "score_result": "3:3",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.600"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2022-09-22 02:45",
+      "matchId": "1158549",
+      "league": "欧国联",
+      "home": "波兰",
+      "away": "荷兰",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.380",
+        "score_result": "0:2",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.780"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2022-09-22 02:45",
+      "matchId": "1158548",
+      "league": "欧国联",
+      "home": "比利时",
+      "away": "威尔士",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.260",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.750"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2022-09-22 02:45",
+      "matchId": "1158512",
+      "league": "欧国联",
+      "home": "克罗地亚",
+      "away": "丹麦",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.370",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "2:1",
+        "score_odds": "8.700",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2022-09-22 02:45",
+      "matchId": "1158513",
+      "league": "欧国联",
+      "home": "法国",
+      "away": "奥地利",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.000",
+        "score_result": "2:0",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.700"
+      }
+    }
+  ]
+}

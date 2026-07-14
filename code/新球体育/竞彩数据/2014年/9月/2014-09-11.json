@@ -1,0 +1,110 @@
+[
+  {
+    "num": "周四002",
+    "match_time": "2014-09-12 06:30",
+    "matchId": "974556",
+    "league": "巴西甲",
+    "home": "科林蒂安",
+    "away": "米内罗竞技",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.78",
+        "d": "3.15",
+        "l": "4.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.70",
+        "d": "3.30",
+        "l": "1.80"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.78",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.30",
+      "score_result": "1:0",
+      "score_odds": "5.25",
+      "goal_result": "1",
+      "goal_odds": "3.40",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.90"
+    }
+  },
+  {
+    "num": "周四003",
+    "match_time": "2014-09-12 07:30",
+    "matchId": "974559",
+    "league": "巴西甲",
+    "home": "克鲁塞罗",
+    "away": "巴伊亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.17",
+        "d": "5.30",
+        "l": "12.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.68",
+        "d": "3.60",
+        "l": "3.90"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.17",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "2:1",
+      "score_odds": "7.85",
+      "goal_result": "3",
+      "goal_odds": "3.55",
+      "half_full_result": "0-3",
+      "half_full_odds": "27.00"
+    }
+  },
+  {
+    "num": "周四004",
+    "match_time": "2014-09-12 08:15",
+    "matchId": "1053635",
+    "league": "南美杯",
+    "home": "瓜亚基尔巴塞罗那",
+    "away": "亚松森自由",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.94",
+        "d": "3.00",
+        "l": "3.65"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.30",
+        "d": "3.40",
+        "l": "1.66"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.94",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.40",
+      "score_result": "1:0",
+      "score_odds": "4.90",
+      "goal_result": "1",
+      "goal_odds": "3.10",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.10"
+    }
+  }
+]

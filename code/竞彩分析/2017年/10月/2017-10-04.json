@@ -1,0 +1,128 @@
+{
+  "time": "2017-10-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_3-2_34800",
+        "handicap": "0_3_284",
+        "halfFull": "11_33_3000",
+        "size": "4_5_3937"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_3-2_4-0_1183200",
+        "handicap": "0_3_3_1000",
+        "halfFull": "11_33_33_8100",
+        "size": "4_5_4_26775"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_4-0_40800",
+        "handicap": "0_3_510",
+        "halfFull": "11_33_1296",
+        "size": "4_4_3569"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_3-2_4-0_1183200",
+        "handicap": "0_3_3_1000",
+        "halfFull": "11_33_33_8100",
+        "size": "4_5_4_26775"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2017-10-04 18:00",
+      "matchId": "993074",
+      "league": "日联杯",
+      "home": "大阪樱花",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2017-10-04 18:00",
+      "matchId": "993071",
+      "league": "日联杯",
+      "home": "仙台七夕",
+      "away": "川崎前锋",
+      "result": {
+        "half": "3-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.020",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.960",
+        "score_result": "3:2",
+        "score_odds": "29.000",
+        "goal_result": "5",
+        "goal_odds": "7.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2017-10-04 08:10",
+      "matchId": "994596",
+      "league": "阿根廷杯",
+      "home": "图库曼竞技",
+      "away": "萨米恩托",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.710",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.520",
+        "score_result": "4:0",
+        "score_odds": "34.000",
+        "goal_result": "4",
+        "goal_odds": "6.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.700"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2014-11-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_2-2_26400",
+        "handicap": "1_3_564",
+        "halfFull": "30_31_29900",
+        "size": "5_4_4370"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_2-2_1-3_686400",
+        "handicap": "1_3_0_1027",
+        "halfFull": "30_31_00_149500",
+        "size": "5_4_4_20539"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_2-2_1-3_0-3_19219200",
+        "handicap": "1_3_0_0_1571",
+        "halfFull": "30_31_00_00_598000",
+        "size": "5_4_4_3_70859"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_1_6365",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_1_3_22916",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_1_3_1_83644",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_1_3_1_1_276027",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_0-1_18000",
+        "handicap": "1_0_607",
+        "halfFull": "30_10_15525",
+        "size": "5_1_3087"
+      },
+      "team": "001_074"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_2-2_0-2_0-1_2376000",
+        "handicap": "1_3_0_0_1457",
+        "halfFull": "30_31_00_10_787117",
+        "size": "5_4_2_1_41187"
+      },
+      "team": "001_002_073_074"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2014-11-08 12:05",
+      "matchId": "761857",
+      "league": "日联杯",
+      "home": "广岛三箭",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "2-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "2:3",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "23.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2014-11-08 14:00",
+      "matchId": "705672",
+      "league": "澳超",
+      "home": "纽卡斯尔喷气机",
+      "away": "墨尔本胜利",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.600",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2014-11-08 16:30",
+      "matchId": "705680",
+      "league": "澳超",
+      "home": "布里斯班狮吼",
+      "away": "墨尔本城",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.820",
+        "score_result": "1:3",
+        "score_odds": "26.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2014-11-08 20:00",
+      "matchId": "709922",
+      "league": "德乙",
+      "home": "圣保利",
+      "away": "海登海姆",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.820",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "0:3",
+        "score_odds": "28.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2014-11-08 20:00",
+      "matchId": "709925",
+      "league": "德乙",
+      "home": "达姆施塔特",
+      "away": "莱比锡红牛",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.420",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.450"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2014-11-08 20:15",
+      "matchId": "706538",
+      "league": "英冠",
+      "home": "德比郡",
+      "away": "狼队",
+      "result": {
+        "half": "3-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.600",
+        "score_result": "5:0",
+        "score_odds": "85.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2014-11-08 20:45",
+      "matchId": "705941",
+      "league": "英超",
+      "home": "利物浦",
+      "away": "切尔西",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2014-11-08 21:00",
+      "matchId": "702632",
+      "league": "法乙",
+      "home": "布雷斯特",
+      "away": "勒阿弗尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "4.900",
+        "goal_result": "1",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周六073",
+      "match_time": "2014-11-08 07:00",
+      "matchId": "681130",
+      "league": "巴西甲",
+      "home": "博塔弗戈",
+      "away": "巴拉纳竞技",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "0:2",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周六074",
+      "match_time": "2014-11-08 07:30",
+      "matchId": "715995",
+      "league": "阿甲",
+      "home": "阿根廷独立",
+      "away": "拉普拉塔体操",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.710",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.750"
+      }
+    }
+  ]
+}

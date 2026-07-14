@@ -1,0 +1,354 @@
+{
+  "time": "2019-08-16",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-1_9900",
+        "handicap": "3_0_563",
+        "halfFull": "13_11_2137",
+        "size": "3_2_1023"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_1-1_1-0_69300",
+        "handicap": "3_0_1_1972",
+        "halfFull": "13_11_13_8336",
+        "size": "3_2_1_5524"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_1-1_1-0_3-2_1871100",
+        "handicap": "3_0_1_3_2780",
+        "halfFull": "13_11_13_33_34178",
+        "size": "3_2_1_5_58004"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_3_1_9037",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_3_1_1_26390",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_3_1_1_3_35627",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_3_1_1_3_0_46315",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-0_12150",
+        "handicap": "3_1_1365",
+        "halfFull": "13_13_2470",
+        "size": "3_1_1551"
+      },
+      "team": "001_023"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_1-1_1-0_1-0_935550",
+        "handicap": "3_0_3_1_4878",
+        "halfFull": "13_11_13_13_122265",
+        "size": "3_2_1_1_25002"
+      },
+      "team": "001_002_022_023"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2019-08-16 18:00",
+      "matchId": "1054509",
+      "league": "K联赛",
+      "home": "全北现代",
+      "away": "蔚山现代",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.870",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.500",
+        "score_result": "3:0",
+        "score_odds": "18.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2019-08-16 23:00",
+      "matchId": "1065534",
+      "league": "俄超",
+      "home": "奥伦堡",
+      "away": "索契",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2019-08-16 00:30",
+      "matchId": "1063252",
+      "league": "德乙",
+      "home": "汉堡",
+      "away": "波鸿",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "5.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2019-08-16 00:30",
+      "matchId": "1063257",
+      "league": "德乙",
+      "home": "桑德豪森",
+      "away": "纽伦堡",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.410",
+        "score_result": "3:2",
+        "score_odds": "27.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2019-08-16 02:00",
+      "matchId": "1067858",
+      "league": "法乙",
+      "home": "南锡",
+      "away": "勒芒",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2019-08-16 02:00",
+      "matchId": "1067857",
+      "league": "法乙",
+      "home": "洛里昂",
+      "away": "索肖",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "2.920",
+        "score_result": "1:0",
+        "score_odds": "4.500",
+        "goal_result": "1",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2019-08-16 02:00",
+      "matchId": "1067854",
+      "league": "法乙",
+      "home": "格勒诺布尔",
+      "away": "特鲁瓦",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.350",
+        "score_result": "1:1",
+        "score_odds": "5.200",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2019-08-16 02:00",
+      "matchId": "1067855",
+      "league": "法乙",
+      "home": "沙托鲁",
+      "away": "阿雅克肖",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.380",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.300",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周五022",
+      "match_time": "2019-08-16 03:00",
+      "matchId": "1064574",
+      "league": "西甲",
+      "home": "毕尔巴鄂竞技",
+      "away": "巴塞罗那",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.220",
+        "score_result": "1:0",
+        "score_odds": "14.000",
+        "goal_result": "1",
+        "goal_odds": "5.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "11.000"
+      }
+    },
+    {
+      "num": "周五023",
+      "match_time": "2019-08-16 03:30",
+      "matchId": "1066685",
+      "league": "葡超",
+      "home": "法马利康",
+      "away": "里奥阿维",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.330",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "1:0",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "4.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.200"
+      }
+    }
+  ]
+}

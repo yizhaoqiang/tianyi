@@ -1,0 +1,200 @@
+{
+  "time": "2023-08-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_5-1_32625",
+        "handicap": "3_3_455",
+        "halfFull": "33_03_4275",
+        "size": "2_6_4140"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_5-1_3-0_228375",
+        "handicap": "3_3_3_1275",
+        "halfFull": "33_03_33_6925",
+        "size": "2_6_3_14076"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_5-1_3-0_3-3_12560625",
+        "handicap": "3_3_3_3_2614",
+        "halfFull": "33_03_33_31_117733",
+        "size": "2_6_3_6_232254"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_1_9412",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-1_6162",
+        "handicap": "3_1_788",
+        "halfFull": "33_10_990",
+        "size": "2_1_2088"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_5-1_3-3_0-1_15252187",
+        "handicap": "3_3_3_1_3361",
+        "halfFull": "33_03_31_10_319770",
+        "size": "2_6_6_1_396198"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2023-08-25 02:00",
+      "matchId": "1224740",
+      "league": "荷乙",
+      "home": "罗达JC",
+      "away": "奥斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.190",
+        "score_result": "2:0",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2023-08-25 02:30",
+      "matchId": "1225952",
+      "league": "德甲",
+      "home": "莱红牛",
+      "away": "斯图加特",
+      "result": {
+        "half": "0-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.080",
+        "score_result": "5:1",
+        "score_odds": "45.000",
+        "goal_result": "6",
+        "goal_odds": "11.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2023-08-25 03:00",
+      "matchId": "1216495",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "卢顿",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.800",
+        "score_result": "3:0",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.620"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2023-08-25 03:00",
+      "matchId": "1225234",
+      "league": "法甲",
+      "home": "南特",
+      "away": "摩纳哥",
+      "result": {
+        "half": "2-1",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "3:3",
+        "score_odds": "55.000",
+        "goal_result": "6",
+        "goal_odds": "16.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2023-08-25 03:30",
+      "matchId": "1219022",
+      "league": "西甲",
+      "home": "塞尔塔",
+      "away": "皇马",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "5.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.400"
+      }
+    }
+  ]
+}

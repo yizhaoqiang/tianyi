@@ -1,0 +1,354 @@
+{
+  "time": "2015-05-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-1_3690",
+        "handicap": "1_0_590",
+        "halfFull": "13_11_2013",
+        "size": "1_2_976"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_1-1_0-2_29520",
+        "handicap": "1_0_0_2745",
+        "halfFull": "13_11_10_8660",
+        "size": "1_2_2_2976"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-1_0-2_0-0_206640",
+        "handicap": "1_0_0_0_4392",
+        "halfFull": "13_11_10_11_33774",
+        "size": "1_2_2_0_20837"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_3_6413",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_3_3_25652",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_3_3_0_48740",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_3_3_0_0_76034",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-1_3843",
+        "handicap": "1_1_1598",
+        "halfFull": "13_00_1855",
+        "size": "1_1_1200"
+      },
+      "team": "001_073"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-1_2-2_0-1_322875",
+        "handicap": "1_0_0_1_3453",
+        "halfFull": "13_11_01_00_98685",
+        "size": "1_2_4_1_21960"
+      },
+      "team": "001_002_078_053"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2015-05-17 12:00",
+      "matchId": "777482",
+      "league": "J2联赛",
+      "home": "福冈黄蜂",
+      "away": "冈山绿雉",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.470",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "1:0",
+        "score_odds": "6.150",
+        "goal_result": "1",
+        "goal_odds": "3.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2015-05-17 12:00",
+      "matchId": "777479",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "大分三神",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.440",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2015-05-17 12:00",
+      "matchId": "777480",
+      "league": "J2联赛",
+      "home": "群马温泉",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.010",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.650",
+        "score_result": "0:2",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2015-05-17 12:00",
+      "matchId": "777481",
+      "league": "J2联赛",
+      "home": "东京绿茵",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2015-05-17 13:00",
+      "matchId": "777483",
+      "league": "J2联赛",
+      "home": "赞岐釜玉海",
+      "away": "枥木SC",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.460",
+        "score_result": "0:0",
+        "score_odds": "6.500",
+        "goal_result": "0",
+        "goal_odds": "6.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2015-05-17 14:00",
+      "matchId": "789637",
+      "league": "澳超",
+      "home": "墨尔本胜利",
+      "away": "悉尼FC",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.990",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.000",
+        "score_result": "3:0",
+        "score_odds": "19.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2015-05-17 14:00",
+      "matchId": "777484",
+      "league": "J2联赛",
+      "home": "大阪樱花",
+      "away": "长崎航海",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2015-05-17 14:00",
+      "matchId": "777485",
+      "league": "J2联赛",
+      "home": "熊本深红",
+      "away": "岐阜FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日078",
+      "match_time": "2015-05-17 09:00",
+      "matchId": "789897",
+      "league": "墨联",
+      "home": "韦拉克鲁斯",
+      "away": "克雷塔罗",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日053",
+      "match_time": "2015-05-17 03:00",
+      "matchId": "717420",
+      "league": "葡超",
+      "home": "博阿维斯塔",
+      "away": "葡萄牙国民",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.180",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "0:1",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.500"
+      }
+    }
+  ]
+}

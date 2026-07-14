@@ -1,0 +1,200 @@
+{
+  "time": "2012-09-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-0_3900",
+        "handicap": "1_1_1384",
+        "halfFull": "13_13_1260",
+        "size": "1_1_3402"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_1-0_3-1_46800",
+        "handicap": "1_1_3_2104",
+        "halfFull": "13_13_33_2835",
+        "size": "1_1_4_20412"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-0_3-1_3-1_561600",
+        "handicap": "1_1_3_3_3030",
+        "halfFull": "13_13_33_13_11198",
+        "size": "1_1_4_4_116348"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_3_3_3_5394",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-0_3900",
+        "handicap": "1_3_694",
+        "halfFull": "13_13_1584",
+        "size": "1_1_2457"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-0_3-1_1-0_280800",
+        "handicap": "1_1_3_3_3548",
+        "halfFull": "13_13_13_13_21898",
+        "size": "1_1_4_1_75626"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2012-09-06 18:20",
+      "matchId": "216299",
+      "league": "友谊赛",
+      "home": "日本",
+      "away": "阿联酋",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "6.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2012-09-06 01:00",
+      "matchId": "216300",
+      "league": "友谊赛",
+      "home": "瑞典",
+      "away": "中国",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "5.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2012-09-06 08:00",
+      "matchId": "202765",
+      "league": "巴西甲",
+      "home": "弗鲁米嫩塞",
+      "away": "桑托斯",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2012-09-06 08:00",
+      "matchId": "202766",
+      "league": "巴西甲",
+      "home": "帕尔梅拉斯",
+      "away": "累西腓体育",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.440",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2012-09-06 08:30",
+      "matchId": "199950",
+      "league": "美职",
+      "home": "休斯顿迪纳摩",
+      "away": "皇家盐湖城",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.780",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    }
+  ]
+}

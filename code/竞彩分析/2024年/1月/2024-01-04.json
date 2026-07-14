@@ -1,0 +1,200 @@
+{
+  "time": "2024-01-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-2_7475",
+        "handicap": "1_0_1627",
+        "halfFull": "33_00_955",
+        "size": "1_2_1669"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_0-2_0-0_74750",
+        "handicap": "1_0_0_2408",
+        "halfFull": "33_00_11_4777",
+        "size": "1_2_0_16695"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_0-2_0-0_6-1_1345500",
+        "handicap": "1_0_0_3_6503",
+        "halfFull": "33_00_11_33_7405",
+        "size": "1_2_0_7+_350595"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_1_21786",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-2_4550",
+        "handicap": "1_1_1038",
+        "halfFull": "33_30_5635",
+        "size": "1_3_1907"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_0-2_6-1_1-2_941850",
+        "handicap": "1_0_3_1_14720",
+        "halfFull": "33_00_33_30_34063",
+        "size": "1_2_7+_3_126214"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2024-01-04 00:00",
+      "matchId": "1219182",
+      "league": "西甲",
+      "home": "奥萨苏纳",
+      "away": "阿梅里亚",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "5.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2024-01-04 02:15",
+      "matchId": "1219183",
+      "league": "西甲",
+      "home": "塞维利亚",
+      "away": "毕尔巴鄂",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.160",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.250",
+        "score_result": "0:2",
+        "score_odds": "11.500",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2024-01-04 04:00",
+      "matchId": "1241881",
+      "league": "足总杯",
+      "home": "水晶宫",
+      "away": "埃弗顿",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2024-01-04 04:00",
+      "matchId": "1241145",
+      "league": "意大利杯",
+      "home": "尤文图斯",
+      "away": "萨勒尼塔",
+      "result": {
+        "half": "2-1",
+        "full": "6-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.140",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.700",
+        "score_result": "胜其他",
+        "score_odds": "18.000",
+        "goal_result": "7+",
+        "goal_odds": "21.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.550"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2024-01-04 04:30",
+      "matchId": "1219185",
+      "league": "西甲",
+      "home": "拉帕马斯",
+      "away": "巴萨",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-0",
+        "half_full_odds": "23.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2024-07-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_12750",
+        "handicap": "0_3_351",
+        "halfFull": "00_11_6120",
+        "size": "3_2_1739"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-1_0-2_108375",
+        "handicap": "0_3_0_829",
+        "halfFull": "00_11_10_25092",
+        "size": "3_2_2_7133"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_0-2_3-0_1137937",
+        "handicap": "0_3_0_3_1700",
+        "halfFull": "00_11_10_33_50184",
+        "size": "3_2_2_3_24612"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_5220",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_3_11172",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_3_0_21786",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_3_0_1_81697",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-0_14250",
+        "handicap": "0_1_752",
+        "halfFull": "00_33_3229",
+        "size": "3_1_2300"
+      },
+      "team": "001_011"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_0-1_1-0_1090125",
+        "handicap": "0_3_1_1_5150",
+        "halfFull": "00_11_10_33_104652",
+        "size": "3_2_1_1_54027"
+      },
+      "team": "001_002_010_011"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2024-07-30 21:00",
+      "matchId": "1268658",
+      "league": "奥运男足",
+      "home": "西班牙奥",
+      "away": "埃及奥",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "1:2",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2024-07-30 21:00",
+      "matchId": "1268905",
+      "league": "奥运男足",
+      "home": "多米尼奥",
+      "away": "乌兹别奥",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.850",
+        "score_result": "1:1",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "4.350",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.200"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2024-07-30 23:00",
+      "matchId": "1268899",
+      "league": "奥运男足",
+      "home": "乌克兰奥",
+      "away": "阿根廷奥",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.360",
+        "score_result": "0:2",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "4.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2024-07-30 23:00",
+      "matchId": "1268657",
+      "league": "奥运男足",
+      "home": "摩洛哥奥",
+      "away": "伊拉克奥",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "3:0",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2024-07-30 01:00",
+      "matchId": "1268654",
+      "league": "奥运男足",
+      "home": "法国奥",
+      "away": "新西兰奥",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "3.070",
+        "score_result": "3:0",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.700"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2024-07-30 01:00",
+      "matchId": "1268896",
+      "league": "奥运男足",
+      "home": "美国奥",
+      "away": "几内亚奥",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.140",
+        "score_result": "3:0",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2024-07-30 01:00",
+      "matchId": "1260966",
+      "league": "欧冠",
+      "home": "费内巴切",
+      "away": "卢加诺",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.190",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "2:1",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-3",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2024-07-30 01:00",
+      "matchId": "1272187",
+      "league": "欧冠",
+      "home": "布斯巴达",
+      "away": "沙姆洛克",
+      "result": {
+        "half": "2-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.100",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "4:2",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.500"
+      }
+    },
+    {
+      "num": "周二010",
+      "match_time": "2024-07-30 03:00",
+      "matchId": "1268901",
+      "league": "奥运男足",
+      "home": "以色列奥",
+      "away": "日本奥",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.810",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "5.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二011",
+      "match_time": "2024-07-30 03:00",
+      "matchId": "1268697",
+      "league": "奥运男足",
+      "home": "巴拉圭奥",
+      "away": "马里奥",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.160",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.960",
+        "score_result": "1:0",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "5.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.800"
+      }
+    }
+  ]
+}

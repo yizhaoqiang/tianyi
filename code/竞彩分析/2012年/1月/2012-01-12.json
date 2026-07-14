@@ -1,0 +1,164 @@
+{
+  "time": "2012-01-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_2-1_7500",
+        "handicap": "3_1_603",
+        "halfFull": "33_03_4160",
+        "size": "4_3_1739"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_2-1_1-0_41250",
+        "handicap": "3_1_3_922",
+        "halfFull": "33_03_13_17056",
+        "size": "4_3_1_7303"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_2-1_1-0_1-2_330000",
+        "handicap": "3_1_3_1_3506",
+        "halfFull": "33_03_13_30_375232",
+        "size": "4_3_1_3_27024"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_1-2_8000",
+        "handicap": "3_1_619",
+        "halfFull": "33_30_3520",
+        "size": "4_3_1739"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_2-1_1-0_1-2_330000",
+        "handicap": "3_1_3_1_3506",
+        "halfFull": "33_03_13_30_375232",
+        "size": "4_3_1_3_27024"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2012-01-12 03:00",
+      "matchId": "196907",
+      "league": "国王杯",
+      "home": "毕尔巴鄂",
+      "away": "阿尔巴塞特",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.630",
+        "score_result": "4:0",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.600"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2012-01-12 04:00",
+      "matchId": "196387",
+      "league": "意大利杯",
+      "home": "那不勒斯",
+      "away": "切塞纳",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-3",
+        "half_full_odds": "26.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2012-01-12 04:15",
+      "matchId": "197079",
+      "league": "葡萄牙杯",
+      "home": "科英布拉大学",
+      "away": "奥利维伦斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.530",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2012-01-12 05:00",
+      "matchId": "196908",
+      "league": "国王杯",
+      "home": "奥萨苏纳",
+      "away": "巴塞罗那",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-0",
+        "half_full_odds": "22.000"
+      }
+    }
+  ]
+}

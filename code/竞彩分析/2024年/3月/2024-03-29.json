@@ -1,0 +1,200 @@
+{
+  "time": "2024-03-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_2-2_37500",
+        "handicap": "3_0_468",
+        "halfFull": "33_01_4130",
+        "size": "5_4_3850"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-1_2-2_1-1_213750",
+        "handicap": "3_0_3_703",
+        "halfFull": "33_01_31_66080",
+        "size": "5_4_2_11357"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_2-2_1-1_1-3_3420000",
+        "handicap": "3_0_3_0_2729",
+        "halfFull": "33_01_31_00_214760",
+        "size": "5_4_2_4_62466"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_9553",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_0-1_22500",
+        "handicap": "3_1_1172",
+        "halfFull": "33_00_826",
+        "size": "5_1_3300"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_2-2_1-3_0-1_5400000",
+        "handicap": "3_0_0_1_6369",
+        "halfFull": "33_01_00_00_37583",
+        "size": "5_4_4_1_127050"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2024-03-29 16:45",
+      "matchId": "1237371",
+      "league": "澳超",
+      "home": "阿德莱德",
+      "away": "西部联",
+      "result": {
+        "half": "1-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.810",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.350",
+        "score_result": "4:1",
+        "score_odds": "25.000",
+        "goal_result": "5",
+        "goal_odds": "5.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2024-03-29 18:00",
+      "matchId": "1248001",
+      "league": "J联赛",
+      "home": "东京绿茵",
+      "away": "京都",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2024-03-29 21:00",
+      "matchId": "1219841",
+      "league": "英冠",
+      "home": "米尔沃尔",
+      "away": "西布罗姆",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.760",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2024-03-29 23:00",
+      "matchId": "1219839",
+      "league": "英冠",
+      "home": "哈德斯",
+      "away": "考文垂",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.880",
+        "score_result": "1:3",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2024-03-29 01:30",
+      "matchId": "1219836",
+      "league": "英冠",
+      "home": "布莱克本",
+      "away": "伊普斯",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "6.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.800"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2013-12-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-1_4800",
+        "handicap": "3_0_255",
+        "halfFull": "11_11_1890",
+        "size": "0_2_2480"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_1-1_0-0_38400",
+        "handicap": "3_0_0_432",
+        "halfFull": "11_11_11_8694",
+        "size": "0_2_0_19840"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_0-0_1-1_241919",
+        "handicap": "3_0_0_3_596",
+        "halfFull": "11_11_11_11_40861",
+        "size": "0_2_0_2_65472"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_900",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_0_1530",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_0_0_3780",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_0_0_0_7598",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-0_3400",
+        "handicap": "3_1_547",
+        "halfFull": "11_13_1777",
+        "size": "0_1_2640"
+      },
+      "team": "001_053"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_2-1_1-0_183600",
+        "handicap": "3_0_3_1_1316",
+        "halfFull": "11_11_13_13_48525",
+        "size": "0_2_3_1_29462"
+      },
+      "team": "001_002_052_053"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2013-12-01 12:00",
+      "matchId": "612628",
+      "league": "澳超",
+      "home": "惠灵顿凤凰",
+      "away": "西悉尼漫步者",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2013-12-01 12:00",
+      "matchId": "664684",
+      "league": "J2联赛",
+      "home": "赞岐釜玉海",
+      "away": "鸟取希望",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2013-12-01 13:00",
+      "matchId": "664600",
+      "league": "J2联赛",
+      "home": "京都不死鸟",
+      "away": "长崎航海",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.690",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2013-12-01 13:00",
+      "matchId": "664601",
+      "league": "J2联赛",
+      "home": "德岛漩涡",
+      "away": "千叶市原",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.380",
+        "score_result": "1:1",
+        "score_odds": "6.300",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2013-12-01 14:00",
+      "matchId": "612629",
+      "league": "澳超",
+      "home": "墨尔本红心",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "0-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "3:3",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "19.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2013-12-01 19:00",
+      "matchId": "625879",
+      "league": "西甲",
+      "home": "皇家贝蒂斯",
+      "away": "巴列卡诺",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2013-12-01 19:30",
+      "matchId": "639723",
+      "league": "意甲",
+      "home": "卡塔尼亚",
+      "away": "AC米兰",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.470",
+        "score_result": "1:3",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2013-12-01 19:30",
+      "matchId": "606617",
+      "league": "荷甲",
+      "home": "海牙",
+      "away": "阿贾克斯",
+      "result": {
+        "half": "0-2",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.010",
+        "score_result": "0:4",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周日052",
+      "match_time": "2013-12-01 05:30",
+      "matchId": "604003",
+      "league": "巴西甲",
+      "home": "桑托斯",
+      "away": "巴拉纳竞技",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.560",
+        "score_result": "2:1",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周日053",
+      "match_time": "2013-12-01 08:15",
+      "matchId": "619330",
+      "league": "阿甲",
+      "home": "河床",
+      "away": "阿根廷青年人",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "4.250",
+        "goal_result": "1",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.950"
+      }
+    }
+  ]
+}

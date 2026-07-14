@@ -1,0 +1,354 @@
+{
+  "time": "2025-11-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_14000",
+        "handicap": "0_0_397",
+        "halfFull": "00_11_6045",
+        "size": "3_2_1934"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-1_2-3_252000",
+        "handicap": "0_0_1_1411",
+        "halfFull": "00_11_30_120900",
+        "size": "3_2_5_15961"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_2-3_2-1_2646000",
+        "handicap": "0_0_1_0_4164",
+        "halfFull": "00_11_30_33_158379",
+        "size": "3_2_5_3_63846"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_9994",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_0_16990",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_0_3_34321",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_0_3_0_47706",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-2_19250",
+        "handicap": "0_1_564",
+        "halfFull": "00_03_10230",
+        "size": "3_5_3195"
+      },
+      "team": "001_022"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_3-1_3-2_2849000",
+        "handicap": "0_0_3_1_2692",
+        "halfFull": "00_11_33_03_246031",
+        "size": "3_2_4_5_77486"
+      },
+      "team": "001_002_021_022"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2025-11-06 18:00",
+      "matchId": "1312229",
+      "league": "亚协杯",
+      "home": "狮城水手",
+      "away": "曼谷联",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.030",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "1:2",
+        "score_odds": "8.750",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.650"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2025-11-06 18:00",
+      "matchId": "1312241",
+      "league": "亚协杯",
+      "home": "浦项制铁",
+      "away": "淡宾尼士",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.410",
+        "score_result": "1:1",
+        "score_odds": "16.000",
+        "goal_result": "2",
+        "goal_odds": "5.450",
+        "half_full_result": "1-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2025-11-06 20:15",
+      "matchId": "1312230",
+      "league": "亚协杯",
+      "home": "雪兰莪",
+      "away": "万隆",
+      "result": {
+        "half": "2-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "2:3",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "8.250",
+        "half_full_result": "3-0",
+        "half_full_odds": "20.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2025-11-06 20:15",
+      "matchId": "1312242",
+      "league": "亚协杯",
+      "home": "巴吞联",
+      "away": "伊洛卡雅",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.950",
+        "score_result": "2:1",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.310"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2025-11-06 20:15",
+      "matchId": "1312206",
+      "league": "亚协杯",
+      "home": "北京国安",
+      "away": "香港大埔",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.170",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "3:0",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "4.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2025-11-06 01:30",
+      "matchId": "1314158",
+      "league": "沙特联",
+      "home": "利雅得",
+      "away": "达马克",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.500"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2025-11-06 01:30",
+      "matchId": "1314159",
+      "league": "沙特联",
+      "home": "胡巴卡德",
+      "away": "拉斯永恒",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.020",
+        "score_result": "4:0",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.920"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2025-11-06 01:45",
+      "matchId": "1312618",
+      "league": "欧联",
+      "home": "尼斯",
+      "away": "弗赖堡",
+      "result": {
+        "half": "1-3",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.390",
+        "score_result": "1:3",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周四021",
+      "match_time": "2025-11-06 04:00",
+      "matchId": "1312749",
+      "league": "欧协联",
+      "home": "水晶宫",
+      "away": "阿尔克马",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.980",
+        "score_result": "3:1",
+        "score_odds": "9.250",
+        "goal_result": "4",
+        "goal_odds": "4.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周四022",
+      "match_time": "2025-11-06 04:00",
+      "matchId": "1312754",
+      "league": "欧协联",
+      "home": "巴列卡诺",
+      "away": "波兹南",
+      "result": {
+        "half": "0-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.420",
+        "score_result": "3:2",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "9.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    }
+  ]
+}

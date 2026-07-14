@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2019-12-27 16:30",
+    "matchId": "1784032",
+    "league": "澳超",
+    "home": "阿德莱德联",
+    "away": "西悉尼流浪者",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.89",
+        "d": "3.40",
+        "l": "3.12"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.72",
+        "d": "3.65",
+        "l": "1.65"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.12",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.65",
+      "score_result": "2:3",
+      "score_odds": "24.00",
+      "goal_result": "5",
+      "goal_odds": "7.75",
+      "half_full_result": "1-0",
+      "half_full_odds": "8.00"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2019-12-28 03:45",
+    "matchId": "1721863",
+    "league": "英超",
+    "home": "狼队",
+    "away": "曼彻斯特城",
+    "finish_odds": {
+      "wdl": {
+        "w": "6.35",
+        "d": "4.60",
+        "l": "1.30"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.80",
+        "d": "3.50",
+        "l": "1.98"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "6.35",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.80",
+      "score_result": "3:2",
+      "score_odds": "40.00",
+      "goal_result": "5",
+      "goal_odds": "7.00",
+      "half_full_result": "0-3",
+      "half_full_odds": "40.00"
+    }
+  }
+]

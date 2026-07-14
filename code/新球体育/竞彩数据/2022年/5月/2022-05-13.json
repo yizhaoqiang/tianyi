@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2022-05-13 23:59",
+    "matchId": "2028571",
+    "league": "俄超",
+    "home": "索契",
+    "away": "下诺夫哥罗德",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.36",
+        "d": "4.20",
+        "l": "6.05"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.17",
+        "d": "3.50",
+        "l": "2.55"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.20",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.55",
+      "score_result": "0:0",
+      "score_odds": "16.00",
+      "goal_result": "0",
+      "goal_odds": "16.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.75"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2022-05-14 02:00",
+    "matchId": "2199568",
+    "league": "荷乙",
+    "home": "FC埃因霍温",
+    "away": "格拉夫夏普",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.20",
+        "d": "3.10",
+        "l": "2.77"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.05",
+        "d": "3.85",
+        "l": "1.47"
+      }
+    },
+    "result": {
+      "half": "3-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.20",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "5.05",
+      "score_result": "3:1",
+      "score_odds": "18.00",
+      "goal_result": "4",
+      "goal_odds": "5.90",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.90"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2022-05-14 02:45",
+    "matchId": "2199550",
+    "league": "英冠",
+    "home": "卢顿",
+    "away": "哈德斯菲尔德",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.08",
+        "d": "2.80",
+        "l": "3.32"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.35",
+        "d": "3.30",
+        "l": "1.54"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.80",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.54",
+      "score_result": "1:1",
+      "score_odds": "5.70",
+      "goal_result": "2",
+      "goal_odds": "2.80",
+      "half_full_result": "1-1",
+      "half_full_odds": "3.70"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2022-05-14 03:15",
+    "matchId": "2046798",
+    "league": "葡超",
+    "home": "费雷拉",
+    "away": "本菲卡",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.35",
+        "d": "4.20",
+        "l": "1.40"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.40",
+        "d": "3.75",
+        "l": "2.20"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.40",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "2.20",
+      "score_result": "0:2",
+      "score_odds": "7.50",
+      "goal_result": "2",
+      "goal_odds": "3.65",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.00"
+    }
+  }
+]

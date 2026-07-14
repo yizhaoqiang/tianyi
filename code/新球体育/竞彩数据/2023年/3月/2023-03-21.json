@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周二001",
+    "match_time": "2023-03-22 03:45",
+    "matchId": "2224397",
+    "league": "英甲",
+    "home": "阿克灵顿",
+    "away": "普利茅斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.65",
+        "d": "3.75",
+        "l": "1.52"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.10",
+        "d": "3.50",
+        "l": "2.65"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.52",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "2.65",
+      "score_result": "0:2",
+      "score_odds": "8.00",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.27"
+    }
+  },
+  {
+    "num": "周二002",
+    "match_time": "2023-03-22 04:00",
+    "matchId": "2224426",
+    "league": "英甲",
+    "home": "巴恩斯利",
+    "away": "谢周三",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.70",
+        "d": "2.95",
+        "l": "2.33"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.43",
+        "d": "4.00",
+        "l": "5.25"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "4-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.70",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.43",
+      "score_result": "4:2",
+      "score_odds": "80.00",
+      "goal_result": "6",
+      "goal_odds": "36.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "4.75"
+    }
+  }
+]

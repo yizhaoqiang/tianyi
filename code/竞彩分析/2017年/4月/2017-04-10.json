@@ -1,0 +1,354 @@
+{
+  "time": "2017-04-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-1_8400",
+        "handicap": "0_1_817",
+        "halfFull": "11_33_1649",
+        "size": "0_3_4380"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-1_0-0_117600",
+        "handicap": "0_1_0_1994",
+        "halfFull": "11_33_11_10719",
+        "size": "0_3_0_61319"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-1_0-0_1-0_882000",
+        "handicap": "0_1_0_1_6582",
+        "halfFull": "11_33_11_33_19510",
+        "size": "0_3_0_1_398580"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_0_10071",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_0_3_17423",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_0_3_1_69692",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_0_3_1_3_296195",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-1_7500",
+        "handicap": "0_0_540",
+        "halfFull": "11_31_9920",
+        "size": "0_2_3600"
+      },
+      "team": "001_016"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-1_1-0_1-1_288750",
+        "handicap": "0_1_1_0_5438",
+        "halfFull": "11_33_33_31_53302",
+        "size": "0_3_1_2_52559"
+      },
+      "team": "001_002_015_016"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2017-04-10 22:30",
+      "matchId": "933481",
+      "league": "亚冠杯",
+      "home": "波斯波利斯",
+      "away": "赖扬",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.120",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.500",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.200"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2017-04-10 23:30",
+      "matchId": "945464",
+      "league": "亚冠杯",
+      "home": "莱赫维亚",
+      "away": "胡齐斯坦独立",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.270",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.660"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2017-04-10 23:45",
+      "matchId": "933448",
+      "league": "亚冠杯",
+      "home": "阿布扎比贾兹拉",
+      "away": "哈萨法泰赫",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.440",
+        "score_result": "0:0",
+        "score_odds": "14.000",
+        "goal_result": "0",
+        "goal_odds": "14.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2017-04-10 01:00",
+      "matchId": "933479",
+      "league": "亚冠杯",
+      "home": "利雅得希拉尔",
+      "away": "阿布扎比瓦赫达",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.820"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2017-04-10 01:00",
+      "matchId": "929753",
+      "league": "瑞典超",
+      "home": "埃尔夫斯堡",
+      "away": "AIK索尔纳",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.840",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2017-04-10 01:00",
+      "matchId": "928306",
+      "league": "挪超",
+      "home": "克里斯蒂安松",
+      "away": "布兰",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.580",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.730",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "3.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2017-04-10 02:00",
+      "matchId": "883135",
+      "league": "荷乙",
+      "home": "乌德勒支青年队",
+      "away": "奥斯",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2017-04-10 02:00",
+      "matchId": "883150",
+      "league": "荷乙",
+      "home": "埃因霍温青年队",
+      "away": "福伦丹",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.250",
+        "score_result": "2:0",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周一015",
+      "match_time": "2017-04-10 07:00",
+      "matchId": "944151",
+      "league": "巴圣联",
+      "home": "桑托斯",
+      "away": "庞特普雷塔",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.080",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.020"
+      }
+    },
+    {
+      "num": "周一016",
+      "match_time": "2017-04-10 08:15",
+      "matchId": "938818",
+      "league": "阿甲",
+      "home": "拉普拉塔体操",
+      "away": "坦珀利",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.160",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    }
+  ]
+}

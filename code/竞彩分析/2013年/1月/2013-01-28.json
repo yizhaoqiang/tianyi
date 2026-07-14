@@ -1,0 +1,236 @@
+{
+  "time": "2013-01-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-3_4860",
+        "handicap": "1_0_403",
+        "halfFull": "11_00_877",
+        "size": "2_3_1271"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-3_2-1_34020",
+        "handicap": "1_0_3_576",
+        "halfFull": "11_00_03_17550",
+        "size": "2_3_3_4702"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-3_2-1_2-1_272160",
+        "handicap": "1_0_3_3_1285",
+        "halfFull": "11_00_03_33_63180",
+        "size": "2_3_3_3_19751"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_3_1773",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_3_3_2358",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-0_4590",
+        "handicap": "1_3_412",
+        "halfFull": "11_33_877",
+        "size": "2_3_1147"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-3_5-0_3-0_495720",
+        "handicap": "1_0_3_3_739",
+        "halfFull": "11_00_33_33_2395",
+        "size": "2_3_5_3_32918"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2013-01-28 01:00",
+      "matchId": "576388",
+      "league": "非洲杯",
+      "home": "民主刚果",
+      "away": "马里",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2013-01-28 01:00",
+      "matchId": "576385",
+      "league": "非洲杯",
+      "home": "尼日尔",
+      "away": "加纳",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.300",
+        "score_result": "0:3",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2013-01-28 03:00",
+      "matchId": "210195",
+      "league": "荷乙",
+      "home": "福伦丹",
+      "away": "阿尔梅勒城",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.430",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-3",
+        "half_full_odds": "20.000"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2013-01-28 03:30",
+      "matchId": "207912",
+      "league": "法乙",
+      "home": "第戎",
+      "away": "朗斯",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.230",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.230",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2013-01-28 04:00",
+      "matchId": "213034",
+      "league": "葡超",
+      "home": "波尔图",
+      "away": "吉维森特",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.380",
+        "score_result": "5:0",
+        "score_odds": "12.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.400"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2013-01-28 04:30",
+      "matchId": "208929",
+      "league": "西甲",
+      "home": "塞维利亚",
+      "away": "格拉纳达CF",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.330",
+        "score_result": "3:0",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    }
+  ]
+}

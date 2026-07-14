@@ -1,0 +1,354 @@
+{
+  "time": "2017-12-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_1-0_19000",
+        "handicap": "3_3_904",
+        "halfFull": "03_13_21000",
+        "size": "4_1_2652"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_1-0_2-0_161500",
+        "handicap": "3_3_3_2280",
+        "halfFull": "03_13_33_43049",
+        "size": "4_1_2_10608"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_1-0_2-0_3-1_2584000",
+        "handicap": "3_3_3_3_11628",
+        "halfFull": "03_13_33_33_152827",
+        "size": "4_1_2_4_57283"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_31164",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_1_110633",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_1_3_165950",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_1_3_1_572528",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-0_11400",
+        "handicap": "3_0_738",
+        "halfFull": "03_11_11700",
+        "size": "4_0_3120"
+      },
+      "team": "001_011"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_1-0_1-0_0-0_969000",
+        "handicap": "3_3_1_0_4715",
+        "halfFull": "03_13_13_11_311220",
+        "size": "4_1_1_0_114566"
+      },
+      "team": "001_002_010_011"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2017-12-19 01:30",
+      "matchId": "998036",
+      "league": "德国杯",
+      "home": "美因茨",
+      "away": "斯图加特",
+      "result": {
+        "half": "0-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.290",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.200",
+        "score_result": "3:1",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "0-3",
+        "half_full_odds": "30.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2017-12-19 01:30",
+      "matchId": "998038",
+      "league": "德国杯",
+      "home": "帕德博恩",
+      "away": "因戈尔施塔特",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.740",
+        "score_result": "1:0",
+        "score_odds": "10.000",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2017-12-19 01:30",
+      "matchId": "997934",
+      "league": "荷兰杯",
+      "home": "兹沃勒",
+      "away": "奈梅亨",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.520",
+        "score_result": "2:0",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2017-12-19 03:45",
+      "matchId": "1001050",
+      "league": "足总杯",
+      "home": "卡利斯尔联",
+      "away": "吉灵汉姆",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.260",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.100",
+        "score_result": "3:1",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2017-12-19 03:45",
+      "matchId": "997841",
+      "league": "英联杯",
+      "home": "莱切斯特城",
+      "away": "曼彻斯特城",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.680",
+        "score_result": "1:1",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "4.450",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2017-12-19 03:45",
+      "matchId": "997842",
+      "league": "英联杯",
+      "home": "阿森纳",
+      "away": "西汉姆联",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "6.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2017-12-19 03:45",
+      "matchId": "998035",
+      "league": "德国杯",
+      "home": "纽伦堡",
+      "away": "沃尔夫斯堡",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2017-12-19 03:45",
+      "matchId": "998039",
+      "league": "德国杯",
+      "home": "沙尔克04",
+      "away": "科隆",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "5.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周二010",
+      "match_time": "2017-12-19 04:00",
+      "matchId": "1000184",
+      "league": "意大利杯",
+      "home": "那不勒斯",
+      "away": "乌迪内斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.670",
+        "score_result": "1:0",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "7.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周二011",
+      "match_time": "2017-12-19 04:30",
+      "matchId": "973882",
+      "league": "西甲",
+      "home": "莱万特",
+      "away": "莱加内斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.420",
+        "score_result": "0:0",
+        "score_odds": "6.000",
+        "goal_result": "0",
+        "goal_odds": "6.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.900"
+      }
+    }
+  ]
+}

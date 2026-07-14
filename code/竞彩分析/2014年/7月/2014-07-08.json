@@ -1,0 +1,79 @@
+{
+  "time": "2014-07-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-7_2-0_262500",
+        "handicap": "0_3_2327",
+        "halfFull": "00_33_1287",
+        "size": "7+_2_20400"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-7_2-0_262500",
+        "handicap": "0_3_2327",
+        "halfFull": "00_33_1287",
+        "size": "7+_2_20400"
+      },
+      "team": "001_002"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2014-07-08 04:00",
+      "matchId": "665979",
+      "league": "世界杯",
+      "home": "巴西",
+      "away": "德国",
+      "result": {
+        "half": "0-5",
+        "full": "1-7",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.400",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.350",
+        "score_result": "负其他",
+        "score_odds": "250.000",
+        "goal_result": "7+",
+        "goal_odds": "60.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周二052",
+      "match_time": "2014-07-08 07:00",
+      "matchId": "711535",
+      "league": "美公开杯",
+      "home": "费城联合",
+      "away": "新英格兰革命",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.140",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.350",
+        "score_result": "2:0",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    }
+  ]
+}

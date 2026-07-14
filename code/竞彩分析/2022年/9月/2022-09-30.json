@@ -1,0 +1,128 @@
+{
+  "time": "2022-09-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-2_7470",
+        "handicap": "1_0_2075",
+        "halfFull": "13_00_1950",
+        "size": "3_2_976"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_0-2_4-0_104580",
+        "handicap": "1_0_3_3983",
+        "halfFull": "13_00_33_3412",
+        "size": "3_2_4_4587"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_4-0_11620",
+        "handicap": "1_3_796",
+        "halfFull": "13_33_1050",
+        "size": "3_4_1504"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_0-2_4-0_104580",
+        "handicap": "1_0_3_3983",
+        "halfFull": "13_00_33_3412",
+        "size": "3_2_4_4587"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2022-09-30 02:00",
+      "matchId": "1170928",
+      "league": "荷乙",
+      "home": "阿尔梅勒",
+      "away": "罗达JC",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.150",
+        "score_result": "2:1",
+        "score_odds": "8.300",
+        "goal_result": "3",
+        "goal_odds": "3.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2022-09-30 03:00",
+      "matchId": "1175458",
+      "league": "英冠",
+      "home": "赫尔城",
+      "away": "卢顿",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.000",
+        "score_result": "0:2",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2022-09-30 03:00",
+      "matchId": "1176060",
+      "league": "西甲",
+      "home": "毕尔巴鄂",
+      "away": "阿梅里亚",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.920",
+        "score_result": "4:0",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.750"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2017-02-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_0-1_8500",
+        "handicap": "0_0_383",
+        "halfFull": "00_10_1387",
+        "size": "3_1_1343"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-3_0-1_0-1_44200",
+        "handicap": "0_0_1_1120",
+        "halfFull": "00_10_10_5550",
+        "size": "3_1_1_5372"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_0-1_0-1_1-1_287300",
+        "handicap": "0_0_1_3_1803",
+        "halfFull": "00_10_10_11_28304",
+        "size": "3_1_1_2_16653"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_0_2705",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_0_0_3814",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_0_0_1_13733",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_0_0_1_1_46008",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_5-2_120000",
+        "handicap": "0_3_861",
+        "halfFull": "00_33_610",
+        "size": "3_7+_7820"
+      },
+      "team": "001_045"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_0-1_3-0_5-2_15300000",
+        "handicap": "0_0_3_3_6062",
+        "halfFull": "00_10_33_33_14423",
+        "size": "3_1_3_7+_115833"
+      },
+      "team": "001_002_044_045"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2017-02-19 14:00",
+      "matchId": "876428",
+      "league": "澳超",
+      "home": "中央海岸水手",
+      "away": "墨尔本胜利",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.180",
+        "score_result": "0:3",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2017-02-19 19:00",
+      "matchId": "891636",
+      "league": "西甲",
+      "home": "皇家社会",
+      "away": "比利亚雷亚尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.760",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "3.950",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2017-02-19 19:30",
+      "matchId": "897004",
+      "league": "意甲",
+      "home": "博洛尼亚",
+      "away": "国际米兰",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "2.920",
+        "score_result": "0:1",
+        "score_odds": "5.200",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2017-02-19 19:30",
+      "matchId": "880050",
+      "league": "荷甲",
+      "home": "威廉二世",
+      "away": "阿尔克马尔",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.610",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2017-02-19 20:30",
+      "matchId": "885116",
+      "league": "德乙",
+      "home": "比勒费尔德",
+      "away": "圣保利",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2017-02-19 20:30",
+      "matchId": "885118",
+      "league": "德乙",
+      "home": "德累斯顿",
+      "away": "汉诺威96",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2017-02-19 20:30",
+      "matchId": "885111",
+      "league": "德乙",
+      "home": "卡尔斯鲁厄",
+      "away": "柏林联合",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.180",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2017-02-19 21:00",
+      "matchId": "879009",
+      "league": "苏超",
+      "home": "基尔马诺克",
+      "away": "阿伯丁",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-0",
+        "half_full_odds": "23.000"
+      }
+    },
+    {
+      "num": "周日044",
+      "match_time": "2017-02-19 06:00",
+      "matchId": "926762",
+      "league": "墨联",
+      "home": "普埃布拉",
+      "away": "美洲虎",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.920",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.000",
+        "score_result": "3:0",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周日045",
+      "match_time": "2017-02-19 07:30",
+      "matchId": "931080",
+      "league": "智利甲",
+      "home": "西班牙联合",
+      "away": "特木科体育",
+      "result": {
+        "half": "3-2",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.990",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.950",
+        "score_result": "5:2",
+        "score_odds": "120.000",
+        "goal_result": "7+",
+        "goal_odds": "23.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    }
+  ]
+}

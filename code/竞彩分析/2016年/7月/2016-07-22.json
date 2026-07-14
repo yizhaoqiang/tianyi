@@ -1,0 +1,331 @@
+{
+  "time": "2016-07-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-4_1-2_23120",
+        "handicap": "0_1_1825",
+        "halfFull": "00_00_675",
+        "size": "5_3_2625"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-4_1-2_0-1_190740",
+        "handicap": "0_1_0_2719",
+        "halfFull": "00_00_10_4387",
+        "size": "5_3_1_9975"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-4_1-2_0-1_2-1_1239809",
+        "handicap": "0_1_0_1_9245",
+        "halfFull": "00_00_10_33_11407",
+        "size": "5_3_1_3_33915"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_3_20155",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_3_3_96744",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_3_3_0_154791",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_3_3_0_3_998402",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-4_1-1_20400",
+        "handicap": "0_0_885",
+        "halfFull": "00_01_4875",
+        "size": "5_2_2240"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-4_1-2_2-0_1-1_1525920",
+        "handicap": "0_1_3_0_20835",
+        "halfFull": "00_00_33_01_36416",
+        "size": "5_3_2_2_26040"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2016-07-22 20:00",
+      "matchId": "874323",
+      "league": "吉尼斯杯",
+      "home": "曼彻斯特联",
+      "away": "多特蒙德",
+      "result": {
+        "half": "0-2",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.320",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.000",
+        "score_result": "1:4",
+        "score_odds": "34.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2016-07-22 23:30",
+      "matchId": "873424",
+      "league": "球会友谊",
+      "home": "基尔",
+      "away": "沙尔克04",
+      "result": {
+        "half": "1-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:2",
+        "score_odds": "6.800",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2016-07-22 00:00",
+      "matchId": "883908",
+      "league": "球会友谊",
+      "home": "梅斯",
+      "away": "圣旺红星",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "0:1",
+        "score_odds": "8.250",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2016-07-22 00:30",
+      "matchId": "883888",
+      "league": "球会友谊",
+      "home": "蒙彼利埃",
+      "away": "克莱蒙",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2016-07-22 01:00",
+      "matchId": "846914",
+      "league": "挪超",
+      "home": "布兰",
+      "away": "奥勒松",
+      "result": {
+        "half": "2-0",
+        "full": "6-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.180",
+        "score_result": "胜其他",
+        "score_odds": "26.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2016-07-22 01:00",
+      "matchId": "883900",
+      "league": "球会友谊",
+      "home": "图卢兹",
+      "away": "奥萨苏纳",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.800",
+        "score_result": "2:0",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2016-07-22 02:45",
+      "matchId": "891853",
+      "league": "苏联杯",
+      "home": "东斯特灵郡",
+      "away": "格拉斯哥流浪者",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "0:3",
+        "score_odds": "6.800",
+        "goal_result": "3",
+        "goal_odds": "4.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.200"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2016-07-22 10:00",
+      "matchId": "878539",
+      "league": "墨联",
+      "home": "韦拉克鲁斯",
+      "away": "桑托斯拉古纳",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "6.450",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.150"
+      }
+    },
+    {
+      "num": "周五009",
+      "match_time": "2016-07-22 11:00",
+      "matchId": "850132",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "圣何塞地震",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.770",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    }
+  ]
+}

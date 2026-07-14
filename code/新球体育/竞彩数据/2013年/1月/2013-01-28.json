@@ -1,0 +1,188 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2013-01-29 01:00",
+    "matchId": "808621",
+    "league": "非洲杯",
+    "home": "刚果民主共和国",
+    "away": "马里",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.15",
+        "d": "3.10",
+        "l": "2.08"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.10",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "1:1",
+      "score_odds": "5.40",
+      "goal_result": "2",
+      "goal_odds": "3.10",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.50"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2013-01-29 01:00",
+    "matchId": "808624",
+    "league": "非洲杯",
+    "home": "尼日尔",
+    "away": "加纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "8.75",
+        "d": "4.20",
+        "l": "1.30"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.30",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "0:3",
+      "score_odds": "9.00",
+      "goal_result": "3",
+      "goal_odds": "4.10",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.95"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2013-01-29 03:00",
+    "matchId": "714315",
+    "league": "荷乙",
+    "home": "福伦丹",
+    "away": "阿尔梅勒城",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.43",
+        "d": "4.30",
+        "l": "5.25"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.43",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "2:1",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "0-3",
+      "half_full_odds": "20.00"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2013-01-29 03:30",
+    "matchId": "713327",
+    "league": "法乙",
+    "home": "第戎",
+    "away": "朗斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.23",
+        "d": "2.80",
+        "l": "3.15"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.23",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "2:1",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "4.20",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.60"
+    }
+  },
+  {
+    "num": "周一005",
+    "match_time": "2013-01-29 04:00",
+    "matchId": "728329",
+    "league": "葡超",
+    "home": "波尔图",
+    "away": "吉维森特",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.38",
+        "d": "4.50",
+        "l": "5.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.38",
+        "d": "4.50",
+        "l": "5.50"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "5-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.38",
+      "score_result": "5:0",
+      "score_odds": "12.00",
+      "goal_result": "5",
+      "goal_odds": "7.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.40"
+    }
+  },
+  {
+    "num": "周一006",
+    "match_time": "2013-01-29 04:30",
+    "matchId": "722680",
+    "league": "西甲",
+    "home": "塞维利亚",
+    "away": "格拉纳达",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.33",
+        "d": "4.30",
+        "l": "7.30"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.33",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "3:0",
+      "score_odds": "8.50",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.95"
+    }
+  }
+]

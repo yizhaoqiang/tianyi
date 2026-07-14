@@ -1,0 +1,354 @@
+{
+  "time": "2012-08-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-1_8500",
+        "handicap": "1_3_1095",
+        "halfFull": "11_33_2500",
+        "size": "0_3_3400"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-1_3-2_238000",
+        "handicap": "1_3_3_1927",
+        "halfFull": "11_33_03_60000",
+        "size": "0_3_5_37400"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-1_3-2_1-1_1190000",
+        "handicap": "1_3_3_1_5685",
+        "halfFull": "11_33_03_11_240000",
+        "size": "0_3_5_2_112200"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_1_0_31268",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_1_0_1_95369",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_1_0_1_3_240332",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_1_0_1_3_1_769062",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-0_7650",
+        "handicap": "1_1_1186",
+        "halfFull": "11_11_2400",
+        "size": "0_0_7650"
+      },
+      "team": "001_026"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-1_3-1_0-0_1071000",
+        "handicap": "1_3_3_1_6227",
+        "halfFull": "11_33_13_11_52800",
+        "size": "0_3_4_0_174420"
+      },
+      "team": "001_002_025_026"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2012-08-22 17:00",
+      "matchId": "199109",
+      "league": "日本乙级联赛",
+      "home": "岐阜FC",
+      "away": "千叶市原",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2012-08-22 18:00",
+      "matchId": "199119",
+      "league": "日本乙级联赛",
+      "home": "大分三神",
+      "away": "东京绿茵",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "3.000",
+        "score_result": "2:1",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2012-08-22 18:00",
+      "matchId": "199117",
+      "league": "日本乙级联赛",
+      "home": "福冈黄蜂",
+      "away": "富山胜利",
+      "result": {
+        "half": "0-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.760",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.760",
+        "score_result": "3:2",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2012-08-22 18:00",
+      "matchId": "199115",
+      "league": "日本乙级联赛",
+      "home": "冈山绿雉",
+      "away": "北九州向日葵",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "1:1",
+        "score_odds": "5.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2012-08-22 18:00",
+      "matchId": "199114",
+      "league": "日本乙级联赛",
+      "home": "京都不死鸟",
+      "away": "松本山雅",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.500",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "5.500",
+        "score_result": "0:1",
+        "score_odds": "12.000",
+        "goal_result": "1",
+        "goal_odds": "3.950",
+        "half_full_result": "0-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2012-08-22 18:00",
+      "matchId": "199118",
+      "league": "日本乙级联赛",
+      "home": "熊本深红",
+      "away": "草津温泉",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.050",
+        "score_result": "1:1",
+        "score_odds": "5.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2012-08-22 18:00",
+      "matchId": "199110",
+      "league": "日本乙级联赛",
+      "home": "枥木SC",
+      "away": "爱媛FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.520",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.520",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2012-08-22 18:00",
+      "matchId": "199116",
+      "league": "日本乙级联赛",
+      "home": "德岛漩涡",
+      "away": "湘南海洋",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三025",
+      "match_time": "2012-08-22 09:00",
+      "matchId": "209689",
+      "league": "南美俱乐部杯",
+      "home": "博塔弗戈",
+      "away": "帕尔梅拉斯",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.750",
+        "score_result": "3:1",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周三026",
+      "match_time": "2012-08-22 09:00",
+      "matchId": "214434",
+      "league": "南美优胜者杯",
+      "home": "智利大学",
+      "away": "桑托斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    }
+  ]
+}

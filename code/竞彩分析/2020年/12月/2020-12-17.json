@@ -1,0 +1,200 @@
+{
+  "time": "2020-12-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_4-1_62500",
+        "handicap": "0_3_288",
+        "halfFull": "11_33_2596",
+        "size": "0_5_12500"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_4-1_3-1_562500",
+        "handicap": "0_3_3_507",
+        "halfFull": "11_33_33_4672",
+        "size": "0_5_4_50625"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_4-1_3-1_2-3_12375000",
+        "handicap": "0_3_3_1_1699",
+        "halfFull": "11_33_33_00_8784",
+        "size": "0_5_4_5_430312"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_5183",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-6_62500",
+        "handicap": "0_0_619",
+        "halfFull": "11_00_1563",
+        "size": "0_7+_37500"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_4-1_2-3_2-6_68750000",
+        "handicap": "0_3_1_0_2945",
+        "halfFull": "11_33_00_00_12933",
+        "size": "0_5_5_7+_3187500"
+      },
+      "team": "001_002_004_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2020-12-17 02:00",
+      "matchId": "1110070",
+      "league": "英超",
+      "home": "阿斯顿维拉",
+      "away": "伯恩利",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.030",
+        "score_result": "0:0",
+        "score_odds": "12.500",
+        "goal_result": "0",
+        "goal_odds": "12.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.900"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2020-12-17 03:30",
+      "matchId": "1107429",
+      "league": "德乙",
+      "home": "奥厄",
+      "away": "卡尔斯鲁厄",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "4:1",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2020-12-17 03:45",
+      "matchId": "1116175",
+      "league": "意甲",
+      "home": "罗马",
+      "away": "都灵",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.760",
+        "score_result": "3:1",
+        "score_odds": "9.000",
+        "goal_result": "4",
+        "goal_odds": "4.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2020-12-17 04:00",
+      "matchId": "1110074",
+      "league": "英超",
+      "home": "谢菲尔德联",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "1-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:3",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.880"
+      }
+    },
+    {
+      "num": "周四009",
+      "match_time": "2020-12-17 08:30",
+      "matchId": "1122184",
+      "league": "解放者杯",
+      "home": "蒙得维的亚国民",
+      "away": "河床",
+      "result": {
+        "half": "1-2",
+        "full": "2-6",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.600",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.050",
+        "score_result": "负其他",
+        "score_odds": "50.000",
+        "goal_result": "7+",
+        "goal_odds": "30.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.650"
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "time": "2018-03-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_1-2_17100",
+        "handicap": "1_0_624",
+        "halfFull": "00_10_1863",
+        "size": "5_3_2662"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_1-2_2-0_102600",
+        "handicap": "1_0_3_1348",
+        "halfFull": "00_10_13_7172",
+        "size": "5_3_2_8653"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_1-2_2-0_1-4_10260000",
+        "handicap": "1_0_3_0_2386",
+        "halfFull": "00_10_13_30_286902",
+        "size": "5_3_2_5_112490"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_1-4_180000",
+        "handicap": "1_0_699",
+        "halfFull": "00_30_10800",
+        "size": "5_5_9750"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_1-2_2-0_1-4_10260000",
+        "handicap": "1_0_3_0_2386",
+        "halfFull": "00_10_13_30_286902",
+        "size": "5_3_2_5_112490"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2018-03-29 18:30",
+      "matchId": "991983",
+      "league": "澳超",
+      "home": "珀斯光荣",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-3",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.940",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "2:3",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "7.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2018-03-29 02:45",
+      "matchId": "958885",
+      "league": "英甲",
+      "home": "吉灵汉姆",
+      "away": "米尔顿凯恩斯",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.120",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.900"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2018-03-29 02:45",
+      "matchId": "959037",
+      "league": "英甲",
+      "home": "布莱克本",
+      "away": "布拉德福德",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.160",
+        "score_result": "2:0",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2018-03-29 03:00",
+      "matchId": "967598",
+      "league": "葡超",
+      "home": "阿维斯",
+      "away": "塞图巴尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.770",
+        "score_result": "1:4",
+        "score_odds": "100.000",
+        "goal_result": "5",
+        "goal_odds": "13.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2021-09-11 02:00",
+    "matchId": "2025895",
+    "league": "荷乙",
+    "home": "特尔斯达",
+    "away": "阿尔梅勒城",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.60",
+        "d": "3.80",
+        "l": "1.67"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.88",
+        "d": "3.28",
+        "l": "3.30"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.80",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.88",
+      "score_result": "1:1",
+      "score_odds": "7.10",
+      "goal_result": "2",
+      "goal_odds": "4.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.50"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2021-09-11 02:00",
+    "matchId": "2025894",
+    "league": "荷乙",
+    "home": "SBV精英",
+    "away": "多德勒支",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.26",
+        "d": "5.00",
+        "l": "6.85"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "3.25",
+        "d": "4.45",
+        "l": "1.65"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.26",
+      "handicap": "-2",
+      "handicap_result": "1",
+      "handicap_odds": "4.45",
+      "score_result": "3:1",
+      "score_odds": "9.75",
+      "goal_result": "4",
+      "goal_odds": "4.05",
+      "half_full_result": "0-3",
+      "half_full_odds": "19.00"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2021-09-11 02:00",
+    "matchId": "2025892",
+    "league": "荷乙",
+    "home": "格拉夫夏普",
+    "away": "福伦丹",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.65",
+        "d": "3.80",
+        "l": "3.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.89",
+        "d": "3.75",
+        "l": "1.90"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.70",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.90",
+      "score_result": "0:3",
+      "score_odds": "50.00",
+      "goal_result": "3",
+      "goal_odds": "3.55",
+      "half_full_result": "0-0",
+      "half_full_odds": "6.50"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2021-09-11 03:00",
+    "matchId": "2034649",
+    "league": "法甲",
+    "home": "洛里昂",
+    "away": "里尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.60",
+        "d": "3.10",
+        "l": "1.86"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.68",
+        "d": "3.45",
+        "l": "3.95"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.60",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.68",
+      "score_result": "2:1",
+      "score_odds": "12.00",
+      "goal_result": "3",
+      "goal_odds": "3.55",
+      "half_full_result": "1-3",
+      "half_full_odds": "8.50"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2021-09-11 07:25",
+    "matchId": "1998858",
+    "league": "美职业",
+    "home": "亚特兰大联",
+    "away": "奥兰多城",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.10",
+        "d": "3.15",
+        "l": "2.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.45",
+        "d": "3.90",
+        "l": "1.52"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.10",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.45",
+      "score_result": "3:0",
+      "score_odds": "19.00",
+      "goal_result": "3",
+      "goal_odds": "3.35",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.35"
+    }
+  }
+]

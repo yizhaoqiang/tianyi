@@ -1,0 +1,164 @@
+{
+  "time": "2024-08-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_3-2_16800",
+        "handicap": "3_1_915",
+        "halfFull": "33_13_1313",
+        "size": "2_5_2956"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_3-2_1-0_134400",
+        "handicap": "3_1_1_3029",
+        "halfFull": "33_13_33_2757",
+        "size": "2_5_1_19217"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_3-2_1-0_0-4_4704000",
+        "handicap": "3_1_1_0_9754",
+        "halfFull": "33_13_33_00_7168",
+        "size": "2_5_1_4_104734"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-4_24500",
+        "handicap": "3_0_669",
+        "halfFull": "33_00_525",
+        "size": "2_4_1989"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_3-2_1-0_0-4_4704000",
+        "handicap": "3_1_1_0_9754",
+        "halfFull": "33_13_33_00_7168",
+        "size": "2_5_1_4_104734"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2024-08-01 01:00",
+      "matchId": "1272672",
+      "league": "欧联",
+      "home": "埃夫斯堡",
+      "away": "谢里夫",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.080",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.020"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2024-08-01 01:15",
+      "matchId": "1261899",
+      "league": "欧联",
+      "home": "锡尔克堡",
+      "away": "莫尔德",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.460",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.400",
+        "score_result": "3:2",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "8.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2024-08-01 02:00",
+      "matchId": "1261895",
+      "league": "欧联",
+      "home": "色格拉",
+      "away": "基马诺克",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.310",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.100"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2024-08-01 02:00",
+      "matchId": "1272670",
+      "league": "欧联",
+      "home": "普博泰夫",
+      "away": "帕纳辛纳",
+      "result": {
+        "half": "0-3",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.220",
+        "score_result": "0:4",
+        "score_odds": "35.000",
+        "goal_result": "4",
+        "goal_odds": "5.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.600"
+      }
+    }
+  ]
+}

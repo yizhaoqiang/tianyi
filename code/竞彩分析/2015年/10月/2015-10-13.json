@@ -1,0 +1,354 @@
+{
+  "time": "2015-10-13",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_3-0_4505",
+        "handicap": "0_3_528",
+        "halfFull": "33_33_284",
+        "size": "1_3_1632"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_3-0_0-3_76584",
+        "handicap": "0_3_0_1956",
+        "halfFull": "33_33_00_911",
+        "size": "1_3_3_6042"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_3-0_0-3_1-0_440363",
+        "handicap": "0_3_0_1_6749",
+        "halfFull": "33_33_00_33_1641",
+        "size": "1_3_3_1_27793"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_9854",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_3_15569",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_3_3_26312",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_3_3_3_61835",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_3-4_53000",
+        "handicap": "0_1_857",
+        "halfFull": "33_00_494",
+        "size": "1_7+_16100"
+      },
+      "team": "001_032"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_3-0_1-0_3-4_2477749",
+        "handicap": "0_3_1_1_6561",
+        "halfFull": "33_33_33_00_1692",
+        "size": "1_3_1_7+_240050"
+      },
+      "team": "001_002_030_031"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2015-10-13 15:30",
+      "matchId": "789527",
+      "league": "世亚预",
+      "home": "朝鲜",
+      "away": "也门",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.090",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.350",
+        "score_result": "1:0",
+        "score_odds": "5.300",
+        "goal_result": "1",
+        "goal_odds": "4.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2015-10-13 19:00",
+      "matchId": "837453",
+      "league": "友谊赛",
+      "home": "韩国",
+      "away": "牙买加",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "3:0",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2015-10-13 20:00",
+      "matchId": "789487",
+      "league": "世亚预",
+      "home": "越南",
+      "away": "泰国",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.700",
+        "score_result": "0:3",
+        "score_odds": "17.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2015-10-13 21:00",
+      "matchId": "788928",
+      "league": "世亚预",
+      "home": "土库曼斯坦",
+      "away": "关岛",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "5.750",
+        "goal_result": "1",
+        "goal_odds": "4.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2015-10-13 21:30",
+      "matchId": "836980",
+      "league": "友谊赛",
+      "home": "伊朗",
+      "away": "日本",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.460",
+        "score_result": "1:1",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2015-10-13 22:00",
+      "matchId": "788917",
+      "league": "世亚预",
+      "home": "吉尔吉斯斯坦",
+      "away": "孟加拉国",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.120",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "2:0",
+        "score_odds": "5.200",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.550"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2015-10-13 22:30",
+      "matchId": "788929",
+      "league": "世亚预",
+      "home": "阿曼",
+      "away": "印度",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.690",
+        "score_result": "3:0",
+        "score_odds": "5.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2015-10-13 23:00",
+      "matchId": "789528",
+      "league": "世亚预",
+      "home": "巴林",
+      "away": "菲律宾",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.350",
+        "score_result": "2:0",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周二030",
+      "match_time": "2015-10-13 10:00",
+      "matchId": "837454",
+      "league": "友谊赛",
+      "home": "墨西哥",
+      "away": "巴拿马",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周二031",
+      "match_time": "2015-10-13 10:15",
+      "matchId": "815970",
+      "league": "世南美预",
+      "home": "秘鲁",
+      "away": "智利",
+      "result": {
+        "half": "2-3",
+        "full": "3-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.090",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "负其他",
+        "score_odds": "100.000",
+        "goal_result": "7+",
+        "goal_odds": "35.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.300"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "time": "2022-10-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-1_5800",
+        "handicap": "3_0_609",
+        "halfFull": "33_01_2482",
+        "size": "3_2_1242"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_1-1_2-2_84100",
+        "handicap": "3_0_0_1371",
+        "halfFull": "33_01_01_43435",
+        "size": "3_2_4_6644"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_1-1_2-2_0-3_1429700",
+        "handicap": "3_0_0_0_4402",
+        "halfFull": "33_01_01_00_119446",
+        "size": "3_2_4_3_21595"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_7000",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_0-3_21750",
+        "handicap": "3_0_381",
+        "halfFull": "33_00_620",
+        "size": "3_3_1296"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_1-1_0-3_0-3_2958000",
+        "handicap": "3_0_0_0_3111",
+        "halfFull": "33_01_00_00_29008",
+        "size": "3_2_3_3_14531"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2022-10-26 03:00",
+      "matchId": "1195670",
+      "league": "欧冠",
+      "home": "那不勒斯",
+      "away": "流浪者",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "3:0",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.460"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2022-10-26 03:00",
+      "matchId": "1195674",
+      "league": "欧冠",
+      "home": "热刺",
+      "away": "里斯本",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.540",
+        "score_result": "1:1",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2022-10-26 03:00",
+      "matchId": "1195672",
+      "league": "欧冠",
+      "home": "马竞",
+      "away": "勒沃库森",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.820",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.250",
+        "score_result": "2:2",
+        "score_odds": "14.500",
+        "goal_result": "4",
+        "goal_odds": "5.350",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.500"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2022-10-26 03:00",
+      "matchId": "1195671",
+      "league": "欧冠",
+      "home": "阿贾克斯",
+      "away": "利物浦",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.770",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.210",
+        "score_result": "0:3",
+        "score_odds": "17.000",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2022-10-26 03:00",
+      "matchId": "1195673",
+      "league": "欧冠",
+      "home": "巴萨",
+      "away": "拜仁",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.680",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.590",
+        "score_result": "0:3",
+        "score_odds": "30.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.250"
+      }
+    }
+  ]
+}

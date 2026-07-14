@@ -1,0 +1,236 @@
+{
+  "time": "2020-01-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-1_8320",
+        "handicap": "0_0_285",
+        "halfFull": "31_31_19500",
+        "size": "4_2_1920"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_1-1_1-2_141440",
+        "handicap": "0_0_0_771",
+        "halfFull": "31_31_10_253500",
+        "size": "4_2_3_6720"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-1_1-2_1-0_919360",
+        "handicap": "0_0_0_1_2546",
+        "halfFull": "31_31_10_13_963300",
+        "size": "4_2_3_1_40320"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_0_4583",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_0_0_10357",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-1_10800",
+        "handicap": "0_0_424",
+        "halfFull": "31_11_9000",
+        "size": "4_2_1950"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-1_2-3_1-1_2134080",
+        "handicap": "0_0_0_0_1162",
+        "halfFull": "31_31_10_11_936000",
+        "size": "4_2_5_2_71760"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2020-01-09 18:15",
+      "matchId": "1079163",
+      "league": "亚青赛",
+      "home": "卡塔尔U23",
+      "away": "叙利亚U23",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.880",
+        "score_result": "2:2",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2020-01-09 18:15",
+      "matchId": "1079169",
+      "league": "亚青赛",
+      "home": "乌兹别克U23",
+      "away": "伊朗U23",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "1:1",
+        "score_odds": "5.200",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2020-01-09 21:15",
+      "matchId": "1079164",
+      "league": "亚青赛",
+      "home": "日本U23",
+      "away": "沙特U23",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.700",
+        "score_result": "1:2",
+        "score_odds": "17.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2020-01-09 21:15",
+      "matchId": "1079170",
+      "league": "亚青赛",
+      "home": "韩国U23",
+      "away": "中国U23",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2020-01-09 03:00",
+      "matchId": "1080620",
+      "league": "西超杯",
+      "home": "巴塞罗那",
+      "away": "马德里竞技",
+      "result": {
+        "half": "0-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "2:3",
+        "score_odds": "38.000",
+        "goal_result": "5",
+        "goal_odds": "11.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2020-01-09 04:15",
+      "matchId": "1080918",
+      "league": "意大利杯",
+      "home": "都灵",
+      "away": "热那亚",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.260",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    }
+  ]
+}

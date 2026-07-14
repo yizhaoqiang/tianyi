@@ -1,0 +1,354 @@
+{
+  "time": "2018-08-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-1_6930",
+        "handicap": "3_1_648",
+        "halfFull": "03_10_8360",
+        "size": "4_1_2622"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_0-1_2-2_103950",
+        "handicap": "3_1_0_978",
+        "halfFull": "03_10_31_117039",
+        "size": "4_1_4_17567"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-1_2-2_0-0_1247400",
+        "handicap": "3_1_0_0_2788",
+        "halfFull": "03_10_31_11_731499",
+        "size": "4_1_4_0_210808"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_8170",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_3_19609",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_3_3_42553",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_3_3_1_129788",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_1-1_7612",
+        "handicap": "3_0_268",
+        "halfFull": "03_11_12650",
+        "size": "4_2_1725"
+      },
+      "team": "001_013"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-1_1-1_1-1_351697",
+        "handicap": "3_1_3_0_1515",
+        "halfFull": "03_10_11_11_293226",
+        "size": "4_1_2_2_36871"
+      },
+      "team": "001_002_012_013"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2018-08-23 00:00",
+      "matchId": "1043674",
+      "league": "欧洲联赛",
+      "home": "圣彼得堡泽尼特",
+      "away": "莫尔德",
+      "result": {
+        "half": "0-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.800",
+        "score_result": "3:1",
+        "score_odds": "10.500",
+        "goal_result": "4",
+        "goal_odds": "4.600",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2018-08-23 01:00",
+      "matchId": "1043661",
+      "league": "欧洲联赛",
+      "home": "奥洛穆茨",
+      "away": "塞维利亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.140",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "0:1",
+        "score_odds": "6.600",
+        "goal_result": "1",
+        "goal_odds": "5.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2018-08-23 01:15",
+      "matchId": "1043658",
+      "league": "欧洲联赛",
+      "home": "马尔默",
+      "away": "中日德兰",
+      "result": {
+        "half": "2-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.820",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.700",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2018-08-23 02:00",
+      "matchId": "1043693",
+      "league": "欧洲联赛",
+      "home": "亚特兰大",
+      "away": "哥本哈根",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.850",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2018-08-23 02:00",
+      "matchId": "1043732",
+      "league": "欧洲联赛",
+      "home": "奥林匹亚科斯",
+      "away": "伯恩利",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.930",
+        "score_result": "3:1",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2018-08-23 02:30",
+      "matchId": "1043733",
+      "league": "欧洲联赛",
+      "home": "卢甘斯克黎明",
+      "away": "莱比锡红牛",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2018-08-23 02:30",
+      "matchId": "1043707",
+      "league": "欧洲联赛",
+      "home": "亨克",
+      "away": "布隆德比",
+      "result": {
+        "half": "2-0",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.170",
+        "score_result": "5:2",
+        "score_odds": "100.000",
+        "goal_result": "7+",
+        "goal_odds": "18.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.980"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2018-08-23 02:45",
+      "matchId": "1043704",
+      "league": "欧洲联赛",
+      "home": "格拉斯哥流浪者",
+      "away": "乌法",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.050",
+        "score_result": "1:0",
+        "score_odds": "4.300",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周四012",
+      "match_time": "2018-08-23 07:00",
+      "matchId": "1004106",
+      "league": "美职",
+      "home": "芝加哥火焰",
+      "away": "哥伦布机员",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.570",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.100"
+      }
+    },
+    {
+      "num": "周四013",
+      "match_time": "2018-08-23 09:00",
+      "matchId": "1004101",
+      "league": "美职",
+      "home": "休斯敦迪纳摩",
+      "away": "达拉斯FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.750"
+      }
+    }
+  ]
+}

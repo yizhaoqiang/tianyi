@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五057",
+    "match_time": "2022-12-09 23:00",
+    "matchId": "2302885",
+    "league": "世界杯",
+    "home": "克罗地亚",
+    "away": "巴西",
+    "finish_odds": {
+      "wdl": {
+        "w": "8.70",
+        "d": "4.60",
+        "l": "1.24"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "3.05",
+        "d": "3.42",
+        "l": "1.93"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.60",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "3.05",
+      "score_result": "0:0",
+      "score_odds": "12.00",
+      "goal_result": "0",
+      "goal_odds": "12.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.85"
+    }
+  },
+  {
+    "num": "周五058",
+    "match_time": "2022-12-10 03:00",
+    "matchId": "2302884",
+    "league": "世界杯",
+    "home": "荷兰",
+    "away": "阿根廷",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.26",
+        "d": "2.88",
+        "l": "2.06"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.55",
+        "d": "3.40",
+        "l": "5.00"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.88",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.55",
+      "score_result": "2:2",
+      "score_odds": "16.00",
+      "goal_result": "4",
+      "goal_odds": "6.75",
+      "half_full_result": "0-1",
+      "half_full_odds": "16.00"
+    }
+  }
+]

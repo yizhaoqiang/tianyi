@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2018-10-19 02:00",
+    "matchId": "1630877",
+    "league": "西杯",
+    "home": "瑞欧马加达宏达",
+    "away": "希洪竞技",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.60",
+        "d": "2.90",
+        "l": "2.50"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.39",
+        "d": "4.05",
+        "l": "6.20"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.90",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.39",
+      "score_result": "1:1",
+      "score_odds": "5.65",
+      "goal_result": "2",
+      "goal_odds": "2.90",
+      "half_full_result": "0-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2018-10-19 09:00",
+    "matchId": "1500470",
+    "league": "美职业",
+    "home": "皇家盐湖城",
+    "away": "新英格兰革命",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.50",
+        "d": "4.25",
+        "l": "4.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.55",
+        "d": "3.60",
+        "l": "2.18"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "4-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.50",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.55",
+      "score_result": "4:1",
+      "score_odds": "18.00",
+      "goal_result": "5",
+      "goal_odds": "6.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.02"
+    }
+  }
+]

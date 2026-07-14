@@ -1,0 +1,354 @@
+{
+  "time": "2020-01-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-0_3881",
+        "handicap": "1_1_1152",
+        "halfFull": "33_33_550",
+        "size": "3_1_1470"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_1-0_2-1_29109",
+        "handicap": "1_1_1_4262",
+        "halfFull": "33_33_33_1952",
+        "size": "3_1_3_5586"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-0_2-1_4-2_1164375",
+        "handicap": "1_1_1_3_9718",
+        "halfFull": "33_33_33_33_4197",
+        "size": "3_1_3_6_72618"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_3_3_19630",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_3_3_0_30820",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_3_3_0_3_75510",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_3_3_0_3_1_226530",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-1_4725",
+        "handicap": "1_1_1188",
+        "halfFull": "33_00_687",
+        "size": "3_1_1455"
+      },
+      "team": "001_029"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-0_2-2_0-1_407531",
+        "handicap": "1_1_3_1_11784",
+        "halfFull": "33_33_31_00_30250",
+        "size": "3_1_4_1_30300"
+      },
+      "team": "001_002_028_029"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2020-01-04 16:30",
+      "matchId": "1077049",
+      "league": "澳超",
+      "home": "悉尼FC",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:1",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2020-01-04 20:00",
+      "matchId": "1064761",
+      "league": "西甲",
+      "home": "巴伦西亚",
+      "away": "埃瓦尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "5.750",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.200"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2020-01-04 20:31",
+      "matchId": "1080878",
+      "league": "足总杯",
+      "home": "伯明翰",
+      "away": "布莱克本",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.110",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2020-01-04 20:31",
+      "matchId": "1080866",
+      "league": "足总杯",
+      "home": "伯恩利",
+      "away": "彼得堡联",
+      "result": {
+        "half": "3-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.280",
+        "score_result": "4:2",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "13.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2020-01-04 20:31",
+      "matchId": "1080870",
+      "league": "足总杯",
+      "home": "米尔沃尔",
+      "away": "纽波特郡",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.020",
+        "score_result": "3:0",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2020-01-04 20:31",
+      "matchId": "1080891",
+      "league": "足总杯",
+      "home": "罗瑟汉姆",
+      "away": "赫尔城",
+      "result": {
+        "half": "2-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "2:3",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "7.750",
+        "half_full_result": "3-0",
+        "half_full_odds": "30.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2020-01-04 20:31",
+      "matchId": "1081153",
+      "league": "足总杯",
+      "home": "罗奇代尔",
+      "away": "纽卡斯尔联",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.450",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "0-1",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2020-01-04 22:00",
+      "matchId": "1080997",
+      "league": "法国杯",
+      "home": "摩纳哥",
+      "away": "兰斯",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.000",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周六028",
+      "match_time": "2020-01-04 04:00",
+      "matchId": "1064756",
+      "league": "西甲",
+      "home": "西班牙人",
+      "away": "巴塞罗那",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "3.100",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "4.250",
+        "half_full_result": "3-1",
+        "half_full_odds": "20.000"
+      }
+    },
+    {
+      "num": "周六029",
+      "match_time": "2020-01-04 04:30",
+      "matchId": "1066808",
+      "league": "葡超",
+      "home": "吉马良斯",
+      "away": "本菲卡",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.690",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "4.850",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.750"
+      }
+    }
+  ]
+}

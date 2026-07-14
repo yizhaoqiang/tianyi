@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2015-06-27 04:00",
+    "matchId": "1133235",
+    "league": "女世界杯",
+    "home": "德国女足",
+    "away": "法国女足",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.80",
+        "d": "3.30",
+        "l": "3.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.60",
+        "d": "3.45",
+        "l": "1.78"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.30",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.78",
+      "score_result": "1:1",
+      "score_odds": "6.50",
+      "goal_result": "2",
+      "goal_odds": "3.15",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.75"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2015-06-27 07:30",
+    "matchId": "1133879",
+    "league": "女世界杯",
+    "home": "中国女足",
+    "away": "美国女足",
+    "finish_odds": {
+      "wdl": {
+        "w": "7.15",
+        "d": "4.10",
+        "l": "1.35"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.57",
+        "d": "3.25",
+        "l": "2.31"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.35",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.25",
+      "score_result": "0:1",
+      "score_odds": "4.80",
+      "goal_result": "1",
+      "goal_odds": "3.80",
+      "half_full_result": "1-0",
+      "half_full_odds": "3.20"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2015-06-27 07:30",
+    "matchId": "1133233",
+    "league": "美洲杯",
+    "home": "阿根廷",
+    "away": "哥伦比亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.66",
+        "d": "3.20",
+        "l": "4.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.25",
+        "d": "3.25",
+        "l": "1.95"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.20",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.95",
+      "score_result": "0:0",
+      "score_odds": "8.00",
+      "goal_result": "0",
+      "goal_odds": "8.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2015-06-27 10:15",
+    "matchId": "1094358",
+    "league": "美职业",
+    "home": "达拉斯FC",
+    "away": "休斯敦迪纳摩",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.65",
+        "d": "3.55",
+        "l": "4.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.05",
+        "d": "3.45",
+        "l": "1.96"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.65",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.05",
+      "score_result": "2:0",
+      "score_odds": "7.50",
+      "goal_result": "2",
+      "goal_odds": "3.20",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.65"
+    }
+  }
+]

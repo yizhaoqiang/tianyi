@@ -1,0 +1,354 @@
+{
+  "time": "2012-02-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-2_10450",
+        "handicap": "0_0_661",
+        "halfFull": "00_10_2372",
+        "size": "2_3_1287"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_1-2_0-2_229900",
+        "handicap": "0_0_0_3702",
+        "halfFull": "00_10_10_28470",
+        "size": "2_3_2_4247"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_1-2_0-2_1-1_1724250",
+        "handicap": "0_0_0_1_14255",
+        "halfFull": "00_10_10_11_170819",
+        "size": "2_3_2_2_16563"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_1_62724",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_1_3_110394",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_1_3_3_256114",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_1_3_3_3_422589",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-0_7700",
+        "handicap": "0_1_684",
+        "halfFull": "00_11_1496",
+        "size": "2_0_2310"
+      },
+      "team": "001_037"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_1-2_1-1_0-0_438900",
+        "handicap": "0_0_1_1_6729",
+        "halfFull": "00_10_11_11_46690",
+        "size": "2_3_2_0_27927"
+      },
+      "team": "001_002_038_033"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2012-02-12 12:00",
+      "matchId": "195654",
+      "league": "澳A联",
+      "home": "惠灵顿凤凰",
+      "away": "布里斯班狮吼",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.320",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "0:2",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2012-02-12 14:30",
+      "matchId": "195653",
+      "league": "澳A联",
+      "home": "黄金海岸联",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.850",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2012-02-12 19:00",
+      "matchId": "189338",
+      "league": "西甲",
+      "home": "西班牙人",
+      "away": "萨拉戈萨",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.600",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "5.600",
+        "score_result": "0:2",
+        "score_odds": "22.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2012-02-12 19:30",
+      "matchId": "189687",
+      "league": "荷甲",
+      "home": "乌德勒支",
+      "away": "ADO海牙",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2012-02-12 19:30",
+      "matchId": "190003",
+      "league": "荷乙",
+      "home": "泽沃勒",
+      "away": "前进之鹰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.400",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "4.400",
+        "score_result": "0:0",
+        "score_odds": "17.000",
+        "goal_result": "0",
+        "goal_odds": "17.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2012-02-12 20:30",
+      "matchId": "184972",
+      "league": "德乙",
+      "home": "圣保利",
+      "away": "波鸿",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.760",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.760",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2012-02-12 20:30",
+      "matchId": "184973",
+      "league": "德乙",
+      "home": "罗斯托克",
+      "away": "杜伊斯堡",
+      "result": {
+        "half": "2-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.320",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.320",
+        "score_result": "4:2",
+        "score_odds": "70.000",
+        "goal_result": "6",
+        "goal_odds": "22.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2012-02-12 20:30",
+      "matchId": "184975",
+      "league": "德乙",
+      "home": "菲尔特",
+      "away": "帕德博恩",
+      "result": {
+        "half": "3-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "5:1",
+        "score_odds": "70.000",
+        "goal_result": "6",
+        "goal_odds": "18.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周日038",
+      "match_time": "2012-02-12 06:10",
+      "matchId": "197433",
+      "league": "阿甲",
+      "home": "萨斯菲尔德",
+      "away": "戈多伊克鲁兹",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周日033",
+      "match_time": "2012-02-12 09:10",
+      "matchId": "197430",
+      "league": "阿甲",
+      "home": "阿根廷青年人",
+      "away": "圣塔菲联",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    }
+  ]
+}

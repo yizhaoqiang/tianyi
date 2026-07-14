@@ -1,0 +1,328 @@
+{
+  "time": "2012-11-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-1_3850",
+        "handicap": "3_1_500",
+        "halfFull": "13_31_6300",
+        "size": "2_2_1088"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_1-1_3-0_61600",
+        "handicap": "3_1_3_975",
+        "halfFull": "13_31_33_18270",
+        "size": "2_2_3_4247"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-1_3-0_3-0_1047200",
+        "handicap": "3_1_3_3_1854",
+        "halfFull": "13_31_33_33_56637",
+        "size": "2_2_3_3_16138"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_0_4914",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_0_1_15970",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-0_5950",
+        "handicap": "3_1_500",
+        "halfFull": "13_11_1974",
+        "size": "2_0_2804"
+      },
+      "team": "001_026"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-1_1-1_0-0_186532",
+        "handicap": "3_1_1_1_5042",
+        "halfFull": "13_31_01_11_414540",
+        "size": "2_2_2_0_29620"
+      },
+      "team": "001_002_025_026"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2012-11-22 01:00",
+      "matchId": "570814",
+      "league": "欧洲联赛",
+      "home": "安郅马哈奇卡拉",
+      "away": "乌迪内斯",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.540",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2012-11-22 01:00",
+      "matchId": "570827",
+      "league": "欧洲联赛",
+      "home": "纳夫兹",
+      "away": "贝尔格莱德游击",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2012-11-22 01:00",
+      "matchId": "570832",
+      "league": "欧洲联赛",
+      "home": "喀山红宝石",
+      "away": "国际米兰",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.950",
+        "score_result": "3:0",
+        "score_odds": "16.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2012-11-22 02:00",
+      "matchId": "570795",
+      "league": "欧洲联赛",
+      "home": "巴塞尔",
+      "away": "里斯本竞技",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "3:0",
+        "score_odds": "17.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2012-11-22 02:00",
+      "matchId": "570818",
+      "league": "欧洲联赛",
+      "home": "维迪奥顿",
+      "away": "亨克",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.650",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2012-11-22 02:00",
+      "matchId": "570831",
+      "league": "欧洲联赛",
+      "home": "布拉格斯巴达",
+      "away": "里昂",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:1",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2012-11-22 02:00",
+      "matchId": "570820",
+      "league": "欧洲联赛",
+      "home": "谢莫纳夏普尔",
+      "away": "毕尔巴鄂竞技",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2012-11-22 02:00",
+      "matchId": "570829",
+      "league": "欧洲联赛",
+      "home": "帕纳辛纳科斯",
+      "away": "马里博尔",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.700",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周四025",
+      "match_time": "2012-11-22 06:15",
+      "matchId": "577471",
+      "league": "南俱杯",
+      "home": "天主大学",
+      "away": "圣保罗",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周四026",
+      "match_time": "2012-11-22 08:45",
+      "matchId": "577594",
+      "league": "南俱杯",
+      "home": "老虎竞技",
+      "away": "波哥大百万富翁",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    }
+  ]
+}

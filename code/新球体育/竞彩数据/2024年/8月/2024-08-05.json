@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2024-08-05 23:59",
+    "matchId": "2642387",
+    "league": "奥运男足",
+    "home": "摩洛哥U23",
+    "away": "西班牙U23",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.32",
+        "d": "3.00",
+        "l": "2.02"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.60",
+        "d": "3.72",
+        "l": "4.25"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.02",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.72",
+      "score_result": "1:2",
+      "score_odds": "7.25",
+      "goal_result": "3",
+      "goal_odds": "3.45",
+      "half_full_result": "3-0",
+      "half_full_odds": "25.00"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2024-08-06 03:00",
+    "matchId": "2642388",
+    "league": "奥运男足",
+    "home": "法国U23",
+    "away": "埃及U23",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.24",
+        "d": "4.60",
+        "l": "9.50"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "3.90",
+        "d": "3.80",
+        "l": "1.64"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.60",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "1.64",
+      "score_result": "1:1",
+      "score_odds": "9.50",
+      "goal_result": "2",
+      "goal_odds": "3.30",
+      "half_full_result": "1-1",
+      "half_full_odds": "7.45"
+    }
+  }
+]

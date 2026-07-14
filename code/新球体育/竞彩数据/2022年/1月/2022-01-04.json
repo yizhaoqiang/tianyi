@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周二001",
+    "match_time": "2022-01-05 04:00",
+    "matchId": "2133126",
+    "league": "西杯",
+    "home": "邦弗拉甸拿",
+    "away": "西班牙人",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.10",
+        "d": "3.18",
+        "l": "1.72"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.81",
+        "d": "3.65",
+        "l": "3.20"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.18",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.81",
+      "score_result": "1:1",
+      "score_odds": "5.50",
+      "goal_result": "2",
+      "goal_odds": "3.05",
+      "half_full_result": "0-1",
+      "half_full_odds": "16.00"
+    }
+  },
+  {
+    "num": "周二002",
+    "match_time": "2022-01-05 04:00",
+    "matchId": "2134408",
+    "league": "法国杯",
+    "home": "朗斯",
+    "away": "里尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.05",
+        "d": "3.16",
+        "l": "3.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.45",
+        "d": "3.65",
+        "l": "1.56"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.16",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.56",
+      "score_result": "2:2",
+      "score_odds": "11.00",
+      "goal_result": "4",
+      "goal_odds": "5.10",
+      "half_full_result": "0-1",
+      "half_full_odds": "12.00"
+    }
+  }
+]

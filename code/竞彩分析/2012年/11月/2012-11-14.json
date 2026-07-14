@@ -1,0 +1,354 @@
+{
+  "time": "2012-11-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-2_9490",
+        "handicap": "0_0_523",
+        "halfFull": "10_00_1742",
+        "size": "3_3_1722"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-2_1-1_52194",
+        "handicap": "0_0_1_1623",
+        "halfFull": "10_00_11_7666",
+        "size": "3_3_2_5338"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-2_1-1_1-0_271414",
+        "handicap": "0_0_1_3_3084",
+        "halfFull": "10_00_11_13_35268",
+        "size": "3_3_2_1_19217"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_3_4255",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_3_1_15108",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_3_1_0_41548",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_3_1_0_3_78942",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-3_33800",
+        "handicap": "0_0_1116",
+        "halfFull": "10_10_5525",
+        "size": "3_4_2814"
+      },
+      "team": "001_031"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-2_0-0_1-3_1973919",
+        "handicap": "0_0_1_0_4555",
+        "halfFull": "10_00_11_10_50968",
+        "size": "3_3_0_4_92299"
+      },
+      "team": "001_002_030_031"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2012-11-14 18:00",
+      "matchId": "576450",
+      "league": "友谊赛",
+      "home": "韩国",
+      "away": "澳大利亚",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.850",
+        "score_result": "1:2",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2012-11-14 19:30",
+      "matchId": "203449",
+      "league": "世亚预",
+      "home": "阿曼",
+      "away": "日本",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.360",
+        "score_result": "1:2",
+        "score_odds": "7.300",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2012-11-14 19:35",
+      "matchId": "576451",
+      "league": "友谊赛",
+      "home": "中国",
+      "away": "新西兰",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2012-11-14 21:00",
+      "matchId": "203450",
+      "league": "世亚预",
+      "home": "伊拉克",
+      "away": "约旦",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "1:0",
+        "score_odds": "5.200",
+        "goal_result": "1",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2012-11-14 22:45",
+      "matchId": "203429",
+      "league": "世亚预",
+      "home": "卡塔尔",
+      "away": "黎巴嫩",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.380",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "4.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2012-11-14 23:00",
+      "matchId": "576023",
+      "league": "友谊赛",
+      "home": "俄罗斯",
+      "away": "美国",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "2:2",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "3-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2012-11-14 00:00",
+      "matchId": "576459",
+      "league": "友谊赛",
+      "home": "保加利亚",
+      "away": "乌克兰",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.750",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2012-11-14 00:30",
+      "matchId": "573135",
+      "league": "友谊赛",
+      "home": "捷克",
+      "away": "斯洛伐克",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "3:0",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周三030",
+      "match_time": "2012-11-14 08:30",
+      "matchId": "211106",
+      "league": "阿甲",
+      "home": "拉斐拉竞技",
+      "away": "河床",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.000",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三031",
+      "match_time": "2012-11-14 09:05",
+      "matchId": "576457",
+      "league": "友谊赛",
+      "home": "委内瑞拉",
+      "away": "尼日利亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.900",
+        "score_result": "1:3",
+        "score_odds": "26.000",
+        "goal_result": "4",
+        "goal_odds": "6.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "time": "2024-05-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_0-0_19500",
+        "handicap": "3_0_553",
+        "halfFull": "11_11_4800",
+        "size": "4_0_6110"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_0-0_0-3_448500",
+        "handicap": "3_0_0_2501",
+        "halfFull": "11_11_00_16319",
+        "size": "4_0_3_20774"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_0-0_0-3_2-4_67275000",
+        "handicap": "3_0_0_0_7780",
+        "halfFull": "11_11_00_00_220319",
+        "size": "4_0_3_6_186966"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_1_23341",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_1_3_38981",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_1_3_0_55742",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_3-3_120000",
+        "handicap": "3_0_386",
+        "halfFull": "11_31_11200",
+        "size": "4_6_13630"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_0-0_2-2_3-3_17160000",
+        "handicap": "3_0_3_0_1321",
+        "halfFull": "11_11_01_31_974400",
+        "size": "4_0_4_6_726479"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2024-05-20 23:00",
+      "matchId": "1242893",
+      "league": "挪超",
+      "home": "克里斯蒂",
+      "away": "布兰",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.700",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2024-05-20 23:00",
+      "matchId": "1242892",
+      "league": "挪超",
+      "home": "奥斯KFUM",
+      "away": "奥德",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.050",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2024-05-20 23:00",
+      "matchId": "1242896",
+      "league": "挪超",
+      "home": "桑纳菲",
+      "away": "维京",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.520",
+        "score_result": "0:3",
+        "score_odds": "23.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2024-05-20 23:00",
+      "matchId": "1242895",
+      "league": "挪超",
+      "home": "莫尔德",
+      "away": "萨普斯堡",
+      "result": {
+        "half": "1-2",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.110",
+        "score_result": "2:4",
+        "score_odds": "150.000",
+        "goal_result": "6",
+        "goal_odds": "9.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "13.500"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2024-05-20 00:30",
+      "matchId": "1228157",
+      "league": "意甲",
+      "home": "萨勒尼塔",
+      "away": "维罗纳",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.000",
+        "score_result": "1:2",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.240"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2024-05-20 01:10",
+      "matchId": "1242357",
+      "league": "瑞典超",
+      "home": "赫根",
+      "away": "马尔默",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.670",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.500"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2024-05-20 02:45",
+      "matchId": "1228161",
+      "league": "意甲",
+      "home": "博洛尼亚",
+      "away": "尤文图斯",
+      "result": {
+        "half": "2-0",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "3:3",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "29.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    }
+  ]
+}

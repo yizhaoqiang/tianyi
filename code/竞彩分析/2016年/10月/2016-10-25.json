@@ -1,0 +1,354 @@
+{
+  "time": "2016-10-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_4-0_54600",
+        "handicap": "0_3_2063",
+        "halfFull": "00_33_1202",
+        "size": "2_4_2444"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_4-0_0-1_518700",
+        "handicap": "0_3_0_3921",
+        "halfFull": "00_33_10_10341",
+        "size": "2_4_1_10512"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_4-0_0-1_0-0_3890250",
+        "handicap": "0_3_0_0_6705",
+        "halfFull": "00_33_10_11_47570",
+        "size": "2_4_1_0_78843"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_14350",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_3_50944",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_3_0_229252",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_3_0_1_848234",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-0_15400",
+        "handicap": "0_0_926",
+        "halfFull": "00_11_2072",
+        "size": "2_0_4235"
+      },
+      "team": "001_026"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_4-0_2-0_0-0_3753750",
+        "handicap": "0_3_3_0_13344",
+        "halfFull": "00_33_33_11_18518",
+        "size": "2_4_2_0_82021"
+      },
+      "team": "001_002_025_026"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2016-10-25 16:30",
+      "matchId": "919415",
+      "league": "足总杯",
+      "home": "墨尔本胜利",
+      "away": "墨尔本城",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.320",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.800",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2016-10-25 22:30",
+      "matchId": "901123",
+      "league": "葡联杯",
+      "home": "费雷拉",
+      "away": "葡萄牙国民",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.010",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.300",
+        "score_result": "4:0",
+        "score_odds": "39.000",
+        "goal_result": "4",
+        "goal_odds": "6.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2016-10-25 00:30",
+      "matchId": "914087",
+      "league": "德国杯",
+      "home": "德累斯顿",
+      "away": "比勒费尔德",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "4.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.600"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2016-10-25 00:30",
+      "matchId": "914090",
+      "league": "德国杯",
+      "home": "维尔茨堡踢球者",
+      "away": "慕尼黑1860",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.710",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2016-10-25 00:30",
+      "matchId": "914083",
+      "league": "德国杯",
+      "home": "弗赖堡",
+      "away": "桑德豪森",
+      "result": {
+        "half": "1-1",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.140",
+        "score_result": "3:3",
+        "score_odds": "70.000",
+        "goal_result": "6",
+        "goal_odds": "18.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2016-10-25 00:30",
+      "matchId": "914093",
+      "league": "德国杯",
+      "home": "洛特",
+      "away": "勒沃库森",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "3.550",
+        "score_result": "1:1",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "4.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2016-10-25 00:45",
+      "matchId": "916853",
+      "league": "法联杯",
+      "home": "拉瓦勒",
+      "away": "蒙彼利埃",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.500",
+        "score_result": "0:2",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2016-10-25 02:00",
+      "matchId": "919547",
+      "league": "荷兰杯",
+      "home": "海牙",
+      "away": "特尔斯达",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-3",
+        "half_full_odds": "23.000"
+      }
+    },
+    {
+      "num": "周二025",
+      "match_time": "2016-10-25 08:00",
+      "matchId": "919632",
+      "league": "南俱杯",
+      "home": "波特诺山丘",
+      "away": "麦德林独立",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.660",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.350",
+        "score_result": "2:0",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周二026",
+      "match_time": "2016-10-25 10:00",
+      "matchId": "921532",
+      "league": "墨西哥杯",
+      "home": "托卢卡",
+      "away": "克雷塔罗",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.930",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    }
+  ]
+}

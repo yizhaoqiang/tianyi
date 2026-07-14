@@ -1,0 +1,331 @@
+{
+  "time": "2023-09-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-0_6000",
+        "handicap": "0_3_793",
+        "halfFull": "01_33_5760",
+        "size": "2_2_1039"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_2-0_3-0_114000",
+        "handicap": "0_3_3_3727",
+        "halfFull": "01_33_33_20160",
+        "size": "2_2_3_3534"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_2-0_3-0_1-0_712500",
+        "handicap": "0_3_3_3_5218",
+        "halfFull": "01_33_33_33_100800",
+        "size": "2_2_3_1_12546"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_16699",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_1_52603",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_1_3_81009",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_1_3_1_279482",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-2_7200",
+        "handicap": "0_0_292",
+        "halfFull": "01_01_25600",
+        "size": "2_4_1354"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_2-0_1-2_2-2_504000",
+        "handicap": "0_3_1_0_5198",
+        "halfFull": "01_33_10_01_377856",
+        "size": "2_2_3_4_15197"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2023-09-10 17:00",
+      "matchId": "1227465",
+      "league": "日联杯",
+      "home": "鹿岛鹿角",
+      "away": "名古屋鲸",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2023-09-10 18:00",
+      "matchId": "1227466",
+      "league": "日联杯",
+      "home": "福冈黄蜂",
+      "away": "东京FC",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.150",
+        "score_result": "2:0",
+        "score_odds": "10.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2023-09-10 18:00",
+      "matchId": "1227467",
+      "league": "日联杯",
+      "home": "浦和红钻",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.700",
+        "score_result": "3:0",
+        "score_odds": "19.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2023-09-10 21:00",
+      "matchId": "1198429",
+      "league": "欧预赛",
+      "home": "哈萨克",
+      "away": "北爱尔兰",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.740",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.400",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2023-09-10 00:00",
+      "matchId": "1198430",
+      "league": "欧预赛",
+      "home": "芬兰",
+      "away": "丹麦",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "0:1",
+        "score_odds": "5.250",
+        "goal_result": "1",
+        "goal_odds": "4.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2023-09-10 00:00",
+      "matchId": "1198404",
+      "league": "欧预赛",
+      "home": "黑山",
+      "away": "保加利亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.590",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2023-09-10 02:45",
+      "matchId": "1198365",
+      "league": "欧预赛",
+      "home": "阿尔巴尼",
+      "away": "波兰",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "2:0",
+        "score_odds": "17.000",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2023-09-10 02:45",
+      "matchId": "1198304",
+      "league": "欧预赛",
+      "home": "爱尔兰",
+      "away": "荷兰",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周日009",
+      "match_time": "2023-09-10 08:00",
+      "matchId": "1216440",
+      "league": "美职",
+      "home": "洛城银河",
+      "away": "圣路易城",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "4.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    }
+  ]
+}

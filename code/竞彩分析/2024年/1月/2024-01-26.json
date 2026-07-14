@@ -1,0 +1,200 @@
+{
+  "time": "2024-01-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-0_13600",
+        "handicap": "0_0_288",
+        "halfFull": "11_11_5025",
+        "size": "2_0_6969"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-0_1-1_92480",
+        "handicap": "0_0_3_524",
+        "halfFull": "11_11_01_75375",
+        "size": "2_0_2_24394"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-0_1-1_0-0_924800",
+        "handicap": "0_0_3_3_786",
+        "halfFull": "11_11_01_11_376875",
+        "size": "2_0_2_0_243949"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_3_1_2950",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-1_8800",
+        "handicap": "0_1_603",
+        "halfFull": "11_10_3225",
+        "size": "2_1_3608"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-0_0-0_0-1_1496000",
+        "handicap": "0_0_3_1_1621",
+        "halfFull": "11_11_11_10_108037",
+        "size": "2_0_0_1_613360"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2024-01-26 16:45",
+      "matchId": "1237323",
+      "league": "澳超",
+      "home": "墨胜利",
+      "away": "悉尼FC",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "1:1",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "4.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2024-01-26 03:45",
+      "matchId": "1245872",
+      "league": "足总杯",
+      "home": "切尔西",
+      "away": "维拉",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.790",
+        "score_result": "0:0",
+        "score_odds": "17.000",
+        "goal_result": "0",
+        "goal_odds": "17.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.700"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2024-01-26 03:45",
+      "matchId": "1245867",
+      "league": "足总杯",
+      "home": "谢周三",
+      "away": "考文垂",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.820",
+        "score_result": "1:1",
+        "score_odds": "6.800",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2024-01-26 03:45",
+      "matchId": "1246860",
+      "league": "足总杯",
+      "home": "布城",
+      "away": "诺丁汉",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.830",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2024-01-26 04:00",
+      "matchId": "1245865",
+      "league": "足总杯",
+      "home": "热刺",
+      "away": "曼城",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "0:1",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "8.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

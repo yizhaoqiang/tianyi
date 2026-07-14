@@ -1,0 +1,164 @@
+{
+  "time": "2021-05-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_3-0_10462",
+        "handicap": "1_3_1217",
+        "halfFull": "33_33_590",
+        "size": "3_3_1139"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_3-0_3-2_198787",
+        "handicap": "1_3_1_4384",
+        "halfFull": "33_33_33_1062",
+        "size": "3_3_5_8257"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_3-0_3-2_1-1_1590300",
+        "handicap": "1_3_1_0_9864",
+        "halfFull": "33_33_33_01_16992",
+        "size": "3_3_5_2_33856"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-1_5400",
+        "handicap": "1_0_776",
+        "halfFull": "33_01_3200",
+        "size": "3_2_1393"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_3-0_3-2_1-1_1590300",
+        "handicap": "1_3_1_0_9864",
+        "halfFull": "33_33_33_01_16992",
+        "size": "3_3_5_2_33856"
+      },
+      "team": "001_003_002_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2021-05-20 00:30",
+      "matchId": "1124377",
+      "league": "瑞典超",
+      "home": "马尔默",
+      "away": "埃尔夫斯堡",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:1",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2021-05-20 00:45",
+      "matchId": "1134295",
+      "league": "荷甲",
+      "home": "奈梅亨",
+      "away": "罗达JC",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.530",
+        "score_result": "3:0",
+        "score_odds": "15.500",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2021-05-20 02:30",
+      "matchId": "1132824",
+      "league": "挪超",
+      "home": "罗森博格",
+      "away": "布兰",
+      "result": {
+        "half": "1-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "3:2",
+        "score_odds": "19.000",
+        "goal_result": "5",
+        "goal_odds": "7.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2021-05-20 03:00",
+      "matchId": "1134299",
+      "league": "荷甲",
+      "home": "埃门",
+      "away": "布雷达",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.250",
+        "score_result": "1:1",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "4.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    }
+  ]
+}

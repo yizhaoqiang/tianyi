@@ -1,0 +1,164 @@
+{
+  "time": "2018-07-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_0-2_24000",
+        "handicap": "1_0_432",
+        "halfFull": "33_00_1071",
+        "size": "5_2_2743"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_0-2_0-1_240000",
+        "handicap": "1_0_1_1706",
+        "halfFull": "33_00_00_3105",
+        "size": "5_2_1_17009"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_0-2_0-1_0-0_1680000",
+        "handicap": "1_0_1_0_2627",
+        "halfFull": "33_00_00_11_13976",
+        "size": "5_2_1_0_119067"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_0-0_14000",
+        "handicap": "1_0_492",
+        "halfFull": "33_11_1147",
+        "size": "5_0_6510"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_0-2_0-1_0-0_1680000",
+        "handicap": "1_0_1_0_2627",
+        "halfFull": "33_00_00_11_13976",
+        "size": "5_2_1_0_119067"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2018-07-20 08:00",
+      "matchId": "1026944",
+      "league": "智利甲",
+      "home": "康塞普西翁大学",
+      "away": "巴勒斯坦人",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.660",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "3:2",
+        "score_odds": "20.000",
+        "goal_result": "5",
+        "goal_odds": "9.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2018-07-20 08:00",
+      "matchId": "1030299",
+      "league": "墨联",
+      "home": "韦拉克鲁斯",
+      "away": "美洲狮",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.560",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "0:2",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2018-07-20 09:00",
+      "matchId": "1036363",
+      "league": "吉尼斯杯",
+      "home": "曼彻斯特城",
+      "away": "多特蒙德",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "0:1",
+        "score_odds": "10.000",
+        "goal_result": "1",
+        "goal_odds": "6.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2018-07-20 10:00",
+      "matchId": "1030300",
+      "league": "墨联",
+      "home": "阿特拉斯",
+      "away": "克雷塔罗",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.920",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    }
+  ]
+}

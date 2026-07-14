@@ -1,0 +1,11 @@
+﻿var arrLeague = [26,'瑞典超级联赛','瑞典超級聯賽','Swedish Allsvenskan','2016','#004488','league_match/images/20200420031221.jpg','瑞典超','瑞典超','SWE D1'];
+var arrTeam = [[400,'索尔纳','AIK蘇納','AIK Solna','','images/400/1h8asp945qp.png',0],[404,'赫尔辛堡','希爾星堡','Helsingborg','','images/404/1h4yn3a5rr27.png',0],[406,'松兹瓦尔','辛斯華爾','GIF Sundsvall','','images/406/1h8fzp9tbvz.png',0],[408,'马尔默','馬模','Malmo FF','','images/408/1hptap45j3v.png',0],[410,'哈马比','哈馬比','Hammarby','','images/410/1h6wfe05rw26.png',0],[413,'哥德堡','哥登堡','IFK Goteborg','','images/413/1hg209brnt23.png',0],[417,'埃尔夫斯堡','艾夫斯堡','Elfsborg','','images/417/1h8wtxnzmc2g.png',0],[419,'奥雷布洛','奧雷布洛','Orebro','','images/419/1htbmr8n137.png',0],[421,'尤尔加登','佐加頓斯','Djurgardens','','images/421/1gv1yreqw82.png',0],[426,'卡尔马','卡馬亞','Kalmar','','images/426/1h6wfe05rcg.png',0],[1518,'赫根','赫根','Hacken','','images/1518/1h53w2zt69f.png',0],[1519,'耶夫勒','加費萊','Gefle IF','','images/1519/1h8wtya6e20.png',0],[1527,'法尔肯堡','科根堡','Falkenberg','','images/1jqgkz50bg14.png',0],[2156,'奥斯特桑斯','奧斯達辛斯','Ostersunds FK','','images/2156/1h8fzp9swx2r.png',0],[2165,'北雪平','諾高平','IFK Norrkoping FK','','images/2165/1ht6ehmpr52t.png',0],[2322,'佐高平斯','索特拿','Jonkopings Sodra IF','','images/2322/1h8fzp9tbp17.png',0]];
+var TotalBs = [];
+var HomeBs = [];
+var GuestBs = [];
+var TotalBsHalf = [];
+var HomeBsHalf = [];
+var GuestBsHalf = [];
+var addUp = [0,0,0,0,0,0,[0],[0],[0],[0],[0],[0]];
+var addUpHalf = [0,0,0,0,0,0,[0],[0],[0],[0],[0],[0]];
+var lastUpdateTime = '2026-04-07 16:27:49';

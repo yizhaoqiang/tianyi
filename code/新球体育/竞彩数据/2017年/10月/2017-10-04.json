@@ -1,0 +1,110 @@
+[
+  {
+    "num": "周三001",
+    "match_time": "2017-10-04 18:00",
+    "matchId": "1466565",
+    "league": "日联杯",
+    "home": "大阪樱花",
+    "away": "大阪钢巴",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.32",
+        "d": "3.25",
+        "l": "2.56"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.32",
+        "d": "3.98",
+        "l": "1.45"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.25",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.45",
+      "score_result": "2:2",
+      "score_odds": "12.00",
+      "goal_result": "4",
+      "goal_odds": "5.25",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.80"
+    }
+  },
+  {
+    "num": "周三002",
+    "match_time": "2017-10-04 18:00",
+    "matchId": "1466566",
+    "league": "日联杯",
+    "home": "仙台维加泰",
+    "away": "川崎前锋",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.02",
+        "d": "3.80",
+        "l": "1.62"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.96",
+        "d": "3.50",
+        "l": "3.00"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "4.02",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.96",
+      "score_result": "3:2",
+      "score_odds": "29.00",
+      "goal_result": "5",
+      "goal_odds": "7.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "6.25"
+    }
+  },
+  {
+    "num": "周三003",
+    "match_time": "2017-10-05 08:10",
+    "matchId": "1467346",
+    "league": "阿根廷杯",
+    "home": "图库曼竞技",
+    "away": "萨尔米安杜",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.71",
+        "d": "3.12",
+        "l": "4.46"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.52",
+        "d": "3.20",
+        "l": "1.88"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.71",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.52",
+      "score_result": "4:0",
+      "score_odds": "34.00",
+      "goal_result": "4",
+      "goal_odds": "6.80",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.70"
+    }
+  }
+]

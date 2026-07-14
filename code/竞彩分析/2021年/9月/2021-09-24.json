@@ -1,0 +1,200 @@
+{
+  "time": "2021-09-24",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_2-2_13050",
+        "handicap": "1_0_693",
+        "halfFull": "33_01_8120",
+        "size": "3_4_1303"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_2-2_1-0_81562",
+        "handicap": "1_0_0_1282",
+        "halfFull": "33_01_13_28420",
+        "size": "3_4_1_7429"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_2-2_1-0_2-1_562781",
+        "handicap": "1_0_0_1_4105",
+        "halfFull": "33_01_13_03_625240",
+        "size": "3_4_1_3_24890"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_1_0_6691",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-1_5981",
+        "handicap": "1_0_546",
+        "halfFull": "33_10_2175",
+        "size": "3_1_1237"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_2-2_2-1_0-1_742871",
+        "handicap": "1_0_1_0_3617",
+        "halfFull": "33_01_03_10_1339800",
+        "size": "3_4_3_1_16375"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2021-09-24 00:30",
+      "matchId": "1138778",
+      "league": "德乙",
+      "home": "海登海姆",
+      "away": "达姆施塔特",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2021-09-24 02:00",
+      "matchId": "1136371",
+      "league": "荷乙",
+      "home": "阿尔梅勒城",
+      "away": "多德勒支",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.070",
+        "score_result": "2:2",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "3.950",
+        "half_full_result": "0-1",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2021-09-24 02:00",
+      "matchId": "1146053",
+      "league": "葡超",
+      "home": "里斯本竞技",
+      "away": "马里迪莫",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "5.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2021-09-24 03:00",
+      "matchId": "1136882",
+      "league": "英冠",
+      "home": "西布罗姆维奇",
+      "away": "女王公园巡游者",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "2:1",
+        "score_odds": "6.900",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2021-09-24 03:00",
+      "matchId": "1139482",
+      "league": "法乙",
+      "home": "尼姆",
+      "away": "勒阿弗尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.760",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "0:1",
+        "score_odds": "8.250",
+        "goal_result": "1",
+        "goal_odds": "3.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    }
+  ]
+}

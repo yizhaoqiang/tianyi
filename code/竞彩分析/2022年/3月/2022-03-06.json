@@ -1,0 +1,315 @@
+{
+  "time": "2022-03-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-1_5462",
+        "handicap": "3_0_236",
+        "halfFull": "11_11_1551",
+        "size": "0_2_2755"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_1-1_2-0_39603",
+        "handicap": "3_0_3_646",
+        "halfFull": "11_11_33_3536",
+        "size": "0_2_2_10744"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_2-0_0-1_308904",
+        "handicap": "3_0_3_0_1079",
+        "halfFull": "11_11_33_10_26526",
+        "size": "0_2_2_1_37605"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_0_1889",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_5-1_57000",
+        "handicap": "3_3_404",
+        "halfFull": "11_33_1019",
+        "size": "0_6_18050"
+      },
+      "team": "001_039"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_3-1_5-1_5899500",
+        "handicap": "3_0_3_3_2779",
+        "halfFull": "11_11_13_33_17870",
+        "size": "0_2_4_6_314070"
+      },
+      "team": "001_002_038_039"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2022-03-06 13:00",
+      "matchId": "1161574",
+      "league": "J联赛",
+      "home": "福冈黄蜂",
+      "away": "札幌冈萨",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2022-03-06 13:00",
+      "matchId": "1161571",
+      "league": "J联赛",
+      "home": "名古屋鲸",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.720",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "1:1",
+        "score_odds": "5.750",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2022-03-06 13:00",
+      "matchId": "1161572",
+      "league": "J联赛",
+      "home": "横滨水手",
+      "away": "清水鼓动",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.730",
+        "score_result": "2:0",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.280"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2022-03-06 13:00",
+      "matchId": "1161873",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "秋田闪电",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "0:1",
+        "score_odds": "7.800",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2022-03-06 13:00",
+      "matchId": "1161872",
+      "league": "J2联赛",
+      "home": "仙台七夕",
+      "away": "群马温泉",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.750",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2022-03-06 13:05",
+      "matchId": "1157591",
+      "league": "澳超",
+      "home": "惠灵顿",
+      "away": "墨尔本城",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "+1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2022-03-06 14:00",
+      "matchId": "1161576",
+      "league": "J联赛",
+      "home": "大阪钢巴",
+      "away": "川崎前锋",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.180",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "4.850",
+        "half_full_result": "3-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2022-03-06 14:00",
+      "matchId": "1161575",
+      "league": "J联赛",
+      "home": "浦和红钻",
+      "away": "湘南海洋",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.100",
+        "score_result": "2:0",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周日038",
+      "match_time": "2022-03-06 04:30",
+      "matchId": "1146222",
+      "league": "葡超",
+      "home": "圣克拉拉",
+      "away": "维兹拉",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.300",
+        "score_result": "3:1",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周日039",
+      "match_time": "2022-03-06 05:00",
+      "matchId": "1157851",
+      "league": "美职",
+      "home": "奥斯汀FC",
+      "away": "迈国际",
+      "result": {
+        "half": "2-0",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.730",
+        "score_result": "5:1",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "19.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    }
+  ]
+}

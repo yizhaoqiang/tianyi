@@ -1,0 +1,200 @@
+{
+  "time": "2024-05-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-2_6270",
+        "handicap": "0_1_578",
+        "halfFull": "31_10_6720",
+        "size": "2_2_1922"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-2_5-0_112860",
+        "handicap": "0_1_3_1445",
+        "halfFull": "31_10_33_10214",
+        "size": "2_2_5_13454"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-2_5-0_0-1_2708640",
+        "handicap": "0_1_3_0_2991",
+        "halfFull": "31_10_33_10_112358",
+        "size": "2_2_5_1_134540"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_3_5684",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-0_3562",
+        "handicap": "0_3_260",
+        "halfFull": "31_33_2880",
+        "size": "2_2_1178"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-2_0-1_2-0_940500",
+        "handicap": "0_1_0_3_2273",
+        "halfFull": "31_10_10_33_133056",
+        "size": "2_2_1_2_73036"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2024-05-14 01:30",
+      "matchId": "1219357",
+      "league": "西甲",
+      "home": "奥萨苏纳",
+      "away": "马洛卡",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.370",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2024-05-14 03:00",
+      "matchId": "1255287",
+      "league": "英超",
+      "home": "热刺",
+      "away": "曼城",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "4.220",
+        "score_result": "0:2",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "6.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2024-05-14 03:30",
+      "matchId": "1219359",
+      "league": "西甲",
+      "home": "皇马",
+      "away": "阿拉维斯",
+      "result": {
+        "half": "3-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.120",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.500",
+        "score_result": "5:0",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.520"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2024-05-14 04:00",
+      "matchId": "1219351",
+      "league": "西甲",
+      "home": "赫罗纳",
+      "away": "比利亚雷",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.980",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.070",
+        "score_result": "0:1",
+        "score_odds": "24.000",
+        "goal_result": "1",
+        "goal_odds": "10.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "11.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2024-05-14 08:30",
+      "matchId": "1252529",
+      "league": "解放者杯",
+      "home": "河床",
+      "away": "亚自由",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "2:0",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    }
+  ]
+}

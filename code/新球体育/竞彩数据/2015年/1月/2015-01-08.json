@@ -1,0 +1,110 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2015-01-09 03:00",
+    "matchId": "1076102",
+    "league": "西杯",
+    "home": "格拉纳达",
+    "away": "塞维利亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.10",
+        "d": "3.35",
+        "l": "1.72"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.87",
+        "d": "3.40",
+        "l": "3.35"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.72",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.40",
+      "score_result": "1:2",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.50",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.40"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2015-01-09 04:00",
+    "matchId": "1076703",
+    "league": "葡杯",
+    "home": "马里迪莫",
+    "away": "葡萄牙国民",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.97",
+        "d": "3.05",
+        "l": "3.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.15",
+        "d": "3.60",
+        "l": "1.64"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.64",
+      "score_result": "1:1",
+      "score_odds": "5.80",
+      "goal_result": "2",
+      "goal_odds": "2.90",
+      "half_full_result": "3-1",
+      "half_full_odds": "15.00"
+    }
+  },
+  {
+    "num": "周四003",
+    "match_time": "2015-01-09 05:00",
+    "matchId": "1076099",
+    "league": "西杯",
+    "home": "巴塞罗那",
+    "away": "埃尔切",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.68",
+        "d": "4.45",
+        "l": "3.25"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "1.68",
+        "d": "4.45",
+        "l": "3.25"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "5-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "3",
+      "handicap_odds": "1.68",
+      "score_result": "5:0",
+      "score_odds": "10.00",
+      "goal_result": "5",
+      "goal_odds": "4.95",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.18"
+    }
+  }
+]

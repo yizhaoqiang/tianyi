@@ -1,0 +1,38 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2023-12-24 21:00",
+    "matchId": "2399236",
+    "league": "英超",
+    "home": "狼队",
+    "away": "切尔西",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.08",
+        "d": "3.40",
+        "l": "1.92"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.63",
+        "d": "3.75",
+        "l": "3.85"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.08",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.63",
+      "score_result": "2:1",
+      "score_odds": "9.50",
+      "goal_result": "3",
+      "goal_odds": "3.65",
+      "half_full_result": "1-3",
+      "half_full_odds": "7.30"
+    }
+  }
+]

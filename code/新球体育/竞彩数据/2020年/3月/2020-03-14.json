@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周六001",
+    "match_time": "2020-03-14 14:00",
+    "matchId": "1783972",
+    "league": "澳超",
+    "home": "悉尼FC",
+    "away": "珀斯光荣",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.91",
+        "d": "3.30",
+        "l": "3.15"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.77",
+        "d": "3.70",
+        "l": "1.63"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.30",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.63",
+      "score_result": "0:0",
+      "score_odds": "13.00",
+      "goal_result": "0",
+      "goal_odds": "13.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.75"
+    }
+  },
+  {
+    "num": "周六002",
+    "match_time": "2020-03-14 16:30",
+    "matchId": "1783971",
+    "league": "澳超",
+    "home": "墨尔本城",
+    "away": "西悉尼流浪者",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.52",
+        "d": "3.90",
+        "l": "4.35"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.70",
+        "d": "3.30",
+        "l": "2.10"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.10",
+      "score_result": "1:1",
+      "score_odds": "7.30",
+      "goal_result": "2",
+      "goal_odds": "3.95",
+      "half_full_result": "1-1",
+      "half_full_odds": "7.00"
+    }
+  }
+]

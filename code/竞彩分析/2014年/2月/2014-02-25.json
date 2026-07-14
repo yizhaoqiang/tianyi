@@ -1,0 +1,354 @@
+{
+  "time": "2014-02-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-1_4250",
+        "handicap": "0_0_492",
+        "halfFull": "11_11_2529",
+        "size": "2_2_1023"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-1_2-0_24650",
+        "handicap": "0_0_3_1019",
+        "halfFull": "11_11_33_4806",
+        "size": "2_2_2_3480"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-1_2-0_1-1_135575",
+        "handicap": "0_0_3_0_1508",
+        "halfFull": "11_11_33_01_67297",
+        "size": "2_2_2_2_11660"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_5205",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_0_9369",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_0_0_14335",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_0_0_0_21503",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-0_4760",
+        "handicap": "0_3_467",
+        "halfFull": "11_33_990",
+        "size": "2_3_1170"
+      },
+      "team": "001_023"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-1_3-0_3-0_312375",
+        "handicap": "0_0_3_3_2716",
+        "halfFull": "11_11_33_33_10474",
+        "size": "2_2_3_3_13820"
+      },
+      "team": "001_002_022_023"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2014-02-25 15:30",
+      "matchId": "669878",
+      "league": "亚冠杯",
+      "home": "山东鲁能",
+      "away": "布里兰",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.500",
+        "score_result": "1:1",
+        "score_odds": "6.800",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2014-02-25 18:00",
+      "matchId": "679927",
+      "league": "亚冠杯",
+      "home": "广岛三箭",
+      "away": "北京国安",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.970",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2014-02-25 18:30",
+      "matchId": "669881",
+      "league": "亚冠杯",
+      "home": "首尔FC",
+      "away": "中央海岸水手",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.070",
+        "score_result": "2:0",
+        "score_odds": "5.800",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2014-02-25 18:30",
+      "matchId": "60853",
+      "league": "亚冠杯",
+      "home": "浦项制铁",
+      "away": "大阪樱花",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2014-02-25 23:20",
+      "matchId": "669882",
+      "league": "亚冠杯",
+      "home": "阿布扎比贾兹拉",
+      "away": "赖扬",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "3:2",
+        "score_odds": "19.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2014-02-25 00:00",
+      "matchId": "669879",
+      "league": "亚冠杯",
+      "home": "德黑兰独立",
+      "away": "利雅得沙巴布",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "0:1",
+        "score_odds": "10.500",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2014-02-25 01:00",
+      "matchId": "679925",
+      "league": "亚冠杯",
+      "home": "武装体育",
+      "away": "胡齐斯坦",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2014-02-25 01:00",
+      "matchId": "669885",
+      "league": "亚冠杯",
+      "home": "哈萨法泰赫",
+      "away": "创造者",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周二022",
+      "match_time": "2014-02-25 09:00",
+      "matchId": "672612",
+      "league": "解放者杯",
+      "home": "格雷米奥",
+      "away": "麦德林国民竞技",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.950",
+        "score_result": "3:0",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周二023",
+      "match_time": "2014-02-25 09:00",
+      "matchId": "672613",
+      "league": "解放者杯",
+      "home": "兵工厂",
+      "away": "安索阿特吉",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.870",
+        "score_result": "3:0",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    }
+  ]
+}

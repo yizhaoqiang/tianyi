@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2023-09-25 16:00",
+    "matchId": "2479032",
+    "league": "亚运男足",
+    "home": "乌兹别克斯坦U23",
+    "away": "中国香港U23",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.70",
+        "d": "4.15",
+        "l": "3.22"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "1.70",
+        "d": "4.15",
+        "l": "3.22"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "3.22",
+      "score_result": "2:1",
+      "score_odds": "13.00",
+      "goal_result": "3",
+      "goal_odds": "4.15",
+      "half_full_result": "0-3",
+      "half_full_odds": "34.00"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2023-09-25 19:30",
+    "matchId": "2465990",
+    "league": "亚运男足",
+    "home": "巴勒斯坦U23",
+    "away": "日本U23",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.17",
+        "d": "3.85",
+        "l": "2.39"
+      },
+      "handicap": {
+        "line": "2",
+        "w": "2.17",
+        "d": "3.85",
+        "l": "2.39"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "",
+      "handicap": "+2",
+      "handicap_result": "3",
+      "handicap_odds": "2.17",
+      "score_result": "0:1",
+      "score_odds": "7.25",
+      "goal_result": "1",
+      "goal_odds": "7.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.50"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2023-09-25 19:30",
+    "matchId": "2470972",
+    "league": "亚运女足",
+    "home": "菲律宾女足",
+    "away": "韩国女足",
+    "finish_odds": {
+      "wdl": {
+        "w": "11.50",
+        "d": "5.75",
+        "l": "1.14"
+      },
+      "handicap": {
+        "line": "2",
+        "w": "1.95",
+        "d": "3.90",
+        "l": "2.70"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "1-5",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.14",
+      "handicap": "+2",
+      "handicap_result": "0",
+      "handicap_odds": "2.70",
+      "score_result": "1:5",
+      "score_odds": "31.00",
+      "goal_result": "6",
+      "goal_odds": "11.50",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.64"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2023-09-26 01:00",
+    "matchId": "2325289",
+    "league": "瑞典超",
+    "home": "哈尔姆斯塔德",
+    "away": "埃尔夫斯堡",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.50",
+        "d": "3.85",
+        "l": "1.52"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.10",
+        "d": "3.45",
+        "l": "2.68"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.52",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.45",
+      "score_result": "0:1",
+      "score_odds": "8.00",
+      "goal_result": "1",
+      "goal_odds": "6.10",
+      "half_full_result": "1-0",
+      "half_full_odds": "4.10"
+    }
+  },
+  {
+    "num": "周一005",
+    "match_time": "2023-09-26 03:15",
+    "matchId": "2421919",
+    "league": "葡超",
+    "home": "葡萄牙体育",
+    "away": "里奥阿维",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.24",
+        "d": "3.75",
+        "l": "2.35"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.24",
+        "d": "3.75",
+        "l": "2.35"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "1",
+      "handicap_odds": "3.75",
+      "score_result": "2:0",
+      "score_odds": "5.50",
+      "goal_result": "2",
+      "goal_odds": "4.15",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.55"
+    }
+  }
+]

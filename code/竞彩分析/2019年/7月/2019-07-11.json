@@ -1,0 +1,236 @@
+{
+  "time": "2019-07-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_7-1_6370",
+        "handicap": "3_3_227",
+        "halfFull": "01_33_2070",
+        "size": "2_7+_4800"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_7-1_2-2_114660",
+        "handicap": "3_3_0_522",
+        "halfFull": "01_33_31_33120",
+        "size": "2_7+_4_26400"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_7-1_2-2_0-2_687960",
+        "handicap": "3_3_0_0_1384",
+        "halfFull": "01_33_31_10_130824",
+        "size": "2_7+_4_2_81840"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_4985",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_3_19043",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-0_6615",
+        "handicap": "3_3_611",
+        "halfFull": "01_33_3944",
+        "size": "2_3_1185"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_7-1_0-3_3-0_1031940",
+        "handicap": "3_3_0_3_3124",
+        "halfFull": "01_33_10_33_19326",
+        "size": "2_7+_3_3_83424"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2019-07-11 00:00",
+      "matchId": "1065476",
+      "league": "非洲杯",
+      "home": "科特迪瓦",
+      "away": "阿尔及利亚",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.600",
+        "score_result": "1:1",
+        "score_odds": "4.900",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2019-07-11 01:00",
+      "matchId": "1061707",
+      "league": "欧洲联赛",
+      "home": "莫尔德",
+      "away": "雷克雅未克",
+      "result": {
+        "half": "4-0",
+        "full": "7-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.070",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "胜其他",
+        "score_odds": "13.000",
+        "goal_result": "7+",
+        "goal_odds": "16.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.380"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2019-07-11 01:00",
+      "matchId": "1061705",
+      "league": "欧洲联赛",
+      "home": "布兰",
+      "away": "沙姆洛克流浪",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "2:2",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2019-07-11 02:45",
+      "matchId": "1061710",
+      "league": "欧洲联赛",
+      "home": "圣帕特里克",
+      "away": "北雪平",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.650",
+        "score_result": "0:2",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2019-07-11 03:00",
+      "matchId": "1065477",
+      "league": "非洲杯",
+      "home": "马达加斯加",
+      "away": "突尼斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.600",
+        "score_result": "0:3",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "4.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2019-07-11 07:00",
+      "matchId": "1060478",
+      "league": "巴西杯",
+      "home": "克鲁塞罗",
+      "away": "米内罗竞技",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.820",
+        "score_result": "3:0",
+        "score_odds": "13.500",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.630"
+      }
+    }
+  ]
+}

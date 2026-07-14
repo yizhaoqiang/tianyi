@@ -1,0 +1,354 @@
+{
+  "time": "2017-09-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-4_6-0_71500",
+        "handicap": "0_3_293",
+        "halfFull": "00_33_814",
+        "size": "7+_6_14625"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-4_6-0_1-0_858000",
+        "handicap": "0_3_3_540",
+        "halfFull": "00_33_13_6518",
+        "size": "7+_6_1_84825"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-4_6-0_1-0_2-1_6006000",
+        "handicap": "0_3_3_1_1783",
+        "halfFull": "00_33_13_33_14992",
+        "size": "7+_6_1_3_296887"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_3780",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_0_5935",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_0_3_15729",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_0_3_1_56626",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-4_1-3_126500",
+        "handicap": "0_0_230",
+        "halfFull": "00_00_2085",
+        "size": "7+_4_9900"
+      },
+      "team": "001_014"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-4_6-0_1-1_1-3_9867000",
+        "handicap": "0_3_0_0_752",
+        "halfFull": "00_33_01_00_49050",
+        "size": "7+_6_2_4_299227"
+      },
+      "team": "001_002_013_014"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2017-09-25 01:00",
+      "matchId": "929930",
+      "league": "瑞典超",
+      "home": "天狼星",
+      "away": "厄勒布鲁",
+      "result": {
+        "half": "0-2",
+        "full": "3-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "负其他",
+        "score_odds": "55.000",
+        "goal_result": "7+",
+        "goal_odds": "15.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.850"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2017-09-25 01:00",
+      "matchId": "929928",
+      "league": "瑞典超",
+      "home": "马尔默",
+      "away": "埃尔夫斯堡",
+      "result": {
+        "half": "2-0",
+        "full": "6-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.780",
+        "score_result": "胜其他",
+        "score_odds": "13.000",
+        "goal_result": "6",
+        "goal_odds": "9.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.680"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2017-09-25 01:00",
+      "matchId": "929929",
+      "league": "瑞典超",
+      "home": "埃斯基尔斯蒂纳",
+      "away": "IFK哥德堡",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.840",
+        "score_result": "1:0",
+        "score_odds": "12.000",
+        "goal_result": "1",
+        "goal_odds": "5.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2017-09-25 01:00",
+      "matchId": "947020",
+      "league": "挪超",
+      "home": "萨尔普斯堡",
+      "away": "奥德",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2017-09-25 02:00",
+      "matchId": "956029",
+      "league": "荷乙",
+      "home": "阿贾克斯青年队",
+      "away": "特尔斯达",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.950",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.120",
+        "score_result": "1:1",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "5.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2017-09-25 02:00",
+      "matchId": "956028",
+      "league": "荷乙",
+      "home": "埃因霍温青年队",
+      "away": "奈梅亨",
+      "result": {
+        "half": "1-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "3:3",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "12.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2017-09-25 02:30",
+      "matchId": "962501",
+      "league": "德乙",
+      "home": "柏林联合",
+      "away": "凯泽斯劳滕",
+      "result": {
+        "half": "4-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.490",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.650",
+        "score_result": "5:0",
+        "score_odds": "55.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2017-09-25 02:45",
+      "matchId": "955272",
+      "league": "法乙",
+      "home": "克莱蒙",
+      "away": "朗斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:0",
+        "score_odds": "7.200",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周一013",
+      "match_time": "2017-09-25 07:00",
+      "matchId": "944957",
+      "league": "巴西甲",
+      "home": "累西腓体育",
+      "away": "瓦斯科达伽马",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.830",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周一014",
+      "match_time": "2017-09-25 08:05",
+      "matchId": "984007",
+      "league": "阿甲",
+      "home": "拉普拉塔大学生",
+      "away": "圣洛伦索",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "1:3",
+        "score_odds": "23.000",
+        "goal_result": "4",
+        "goal_odds": "6.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

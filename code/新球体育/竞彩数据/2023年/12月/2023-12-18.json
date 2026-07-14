@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2023-12-18 16:00",
+    "matchId": "2474965",
+    "league": "澳超",
+    "home": "麦克阿瑟FC",
+    "away": "惠灵顿凤凰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.84",
+        "d": "3.65",
+        "l": "3.12"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.52",
+        "d": "3.65",
+        "l": "1.72"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.12",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.72",
+      "score_result": "0:3",
+      "score_odds": "38.00",
+      "goal_result": "3",
+      "goal_odds": "3.80",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.65"
+    }
+  },
+  {
+    "num": "周一005",
+    "match_time": "2023-12-19 02:00",
+    "matchId": "2508370",
+    "league": "世俱杯",
+    "home": "弗鲁米嫩塞",
+    "away": "开罗国民",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.74",
+        "d": "3.15",
+        "l": "4.05"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.50",
+        "d": "3.30",
+        "l": "1.82"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.74",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.50",
+      "score_result": "2:0",
+      "score_odds": "8.00",
+      "goal_result": "2",
+      "goal_odds": "2.85",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.00"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2023-12-19 04:00",
+    "matchId": "2402819",
+    "league": "英冠",
+    "home": "伯明翰",
+    "away": "莱斯特城",
+    "finish_odds": {
+      "wdl": {
+        "w": "6.35",
+        "d": "4.35",
+        "l": "1.33"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.70",
+        "d": "3.10",
+        "l": "2.24"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.33",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.10",
+      "score_result": "2:3",
+      "score_odds": "20.00",
+      "goal_result": "5",
+      "goal_odds": "9.75",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.95"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2023-12-19 04:00",
+    "matchId": "2404457",
+    "league": "西甲",
+    "home": "赫罗纳",
+    "away": "阿拉维斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.45",
+        "d": "3.95",
+        "l": "5.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.44",
+        "d": "3.35",
+        "l": "2.32"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.45",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.44",
+      "score_result": "3:0",
+      "score_odds": "10.00",
+      "goal_result": "3",
+      "goal_odds": "3.30",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.20"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2023-12-19 04:15",
+    "matchId": "2421991",
+    "league": "葡超",
+    "home": "葡萄牙体育",
+    "away": "波尔图",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.01",
+        "d": "3.13",
+        "l": "3.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.40",
+        "d": "3.65",
+        "l": "1.57"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.01",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.40",
+      "score_result": "2:0",
+      "score_odds": "10.00",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.50"
+    }
+  }
+]

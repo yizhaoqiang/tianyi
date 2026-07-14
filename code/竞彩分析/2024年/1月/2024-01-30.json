@@ -1,0 +1,200 @@
+{
+  "time": "2024-01-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_4-0_116250",
+        "handicap": "1_3_714",
+        "halfFull": "10_33_3138",
+        "size": "3_4_1704"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_4-0_0-0_1278750",
+        "handicap": "1_3_0_1078",
+        "halfFull": "10_33_11_16478",
+        "size": "3_4_0_18744"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_4-0_0-0_3-2_35805000",
+        "handicap": "1_3_0_1_3342",
+        "halfFull": "10_33_11_13_62618",
+        "size": "3_4_0_5_234300"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_1_0_6451",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-3_18600",
+        "handicap": "1_0_665",
+        "halfFull": "10_00_2531",
+        "size": "3_4_1579"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_4-0_3-2_1-3_78120000",
+        "handicap": "1_3_1_0_4272",
+        "halfFull": "10_33_13_00_74545",
+        "size": "3_4_5_4_94785"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2024-01-30 03:30",
+      "matchId": "1216683",
+      "league": "英超",
+      "home": "诺丁汉",
+      "away": "阿森纳",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:2",
+        "score_odds": "7.750",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.050"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2024-01-30 03:45",
+      "matchId": "1216682",
+      "league": "英超",
+      "home": "卢顿",
+      "away": "布赖顿",
+      "result": {
+        "half": "3-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.070",
+        "score_result": "4:0",
+        "score_odds": "150.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "7.750"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2024-01-30 03:45",
+      "matchId": "1216681",
+      "league": "英超",
+      "home": "富勒姆",
+      "away": "埃弗顿",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.930",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.250"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2024-01-30 04:00",
+      "matchId": "1216687",
+      "league": "英超",
+      "home": "水晶宫",
+      "away": "谢菲联",
+      "result": {
+        "half": "2-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "3:2",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "12.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2024-01-30 04:15",
+      "matchId": "1216680",
+      "league": "英超",
+      "home": "维拉",
+      "away": "纽卡斯尔",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.930",
+        "score_result": "1:3",
+        "score_odds": "24.000",
+        "goal_result": "4",
+        "goal_odds": "4.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.250"
+      }
+    }
+  ]
+}

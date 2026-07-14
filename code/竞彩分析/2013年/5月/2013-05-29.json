@@ -1,0 +1,354 @@
+{
+  "time": "2013-05-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-1_9800",
+        "handicap": "1_1_1443",
+        "halfFull": "11_11_3079",
+        "size": "0_2_4900"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_1-1_1-1_55860",
+        "handicap": "1_1_1_4764",
+        "halfFull": "11_11_31_43119",
+        "size": "0_2_2_16169"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_1-1_2-2_670320",
+        "handicap": "1_1_1_1_15484",
+        "halfFull": "11_11_31_31_646799",
+        "size": "0_2_2_4_92169"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_1_3_26013",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_1_3_1_120962",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_1_3_1_1_387080",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_1_3_1_1_3_592233",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_5-1_28000",
+        "handicap": "1_3_427",
+        "halfFull": "11_33_839",
+        "size": "0_6_12600"
+      },
+      "team": "001_019"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_1-1_5-1_1058400",
+        "handicap": "1_1_1_3_5349",
+        "halfFull": "11_11_31_33_69299",
+        "size": "0_2_2_6_141120"
+      },
+      "team": "001_002_018_019"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2013-05-29 18:00",
+      "matchId": "591592",
+      "league": "J联赛",
+      "home": "广岛三箭",
+      "away": "柏太阳神",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "0:0",
+        "score_odds": "14.000",
+        "goal_result": "0",
+        "goal_odds": "14.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2013-05-29 18:30",
+      "matchId": "591554",
+      "league": "J联赛",
+      "home": "浦和红钻",
+      "away": "仙台维加泰",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2013-05-29 01:00",
+      "matchId": "581122",
+      "league": "瑞典超",
+      "home": "马尔默",
+      "away": "赫尔辛堡",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2013-05-29 02:00",
+      "matchId": "599453",
+      "league": "巴西甲",
+      "home": "巴拉纳竞技",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2013-05-29 02:30",
+      "matchId": "588337",
+      "league": "友谊赛",
+      "home": "德国",
+      "away": "厄瓜多尔",
+      "result": {
+        "half": "4-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.680",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.680",
+        "score_result": "4:2",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "15.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2013-05-29 03:00",
+      "matchId": "604355",
+      "league": "友谊赛",
+      "home": "英格兰",
+      "away": "爱尔兰",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.650",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "4.650",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2013-05-29 06:30",
+      "matchId": "604375",
+      "league": "解放者杯",
+      "home": "纽维尔老男孩",
+      "away": "博卡青年",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "0:0",
+        "score_odds": "6.500",
+        "goal_result": "0",
+        "goal_odds": "6.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2013-05-29 06:30",
+      "matchId": "599470",
+      "league": "巴西甲",
+      "home": "博塔弗戈",
+      "away": "桑托斯",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.530",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.350"
+      }
+    },
+    {
+      "num": "周三018",
+      "match_time": "2013-05-29 09:00",
+      "matchId": "599455",
+      "league": "巴西甲",
+      "home": "戈亚斯",
+      "away": "科林蒂安",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三019",
+      "match_time": "2013-05-29 10:30",
+      "matchId": "604619",
+      "league": "美公开杯",
+      "home": "波特兰伐木工",
+      "away": "威尔明顿铁锤",
+      "result": {
+        "half": "4-0",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.140",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.140",
+        "score_result": "5:1",
+        "score_odds": "20.000",
+        "goal_result": "6",
+        "goal_odds": "9.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.500"
+      }
+    }
+  ]
+}

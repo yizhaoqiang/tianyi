@@ -1,0 +1,354 @@
+{
+  "time": "2020-12-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-2_8250",
+        "handicap": "1_3_503",
+        "halfFull": "33_31_3360",
+        "size": "1_4_2600"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_2-2_2-2_99000",
+        "handicap": "1_3_0_770",
+        "halfFull": "33_31_01_43680",
+        "size": "1_4_4_14300"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-2_2-2_0-1_613800",
+        "handicap": "1_3_0_0_1032",
+        "halfFull": "33_31_01_00_192192",
+        "size": "1_4_4_1_52910"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_4543",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_0_13177",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_0_3_18579",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_0_3_0_25082",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-1_5775",
+        "handicap": "1_1_1069",
+        "halfFull": "33_33_611",
+        "size": "1_3_2502"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-2_1-0_2-1_288750",
+        "handicap": "1_3_1_1_4918",
+        "halfFull": "33_31_33_33_21848",
+        "size": "1_4_1_3_40040"
+      },
+      "team": "001_002_014_015"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2020-12-27 20:00",
+      "matchId": "1110092",
+      "league": "英超",
+      "home": "利兹联",
+      "away": "伯恩利",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "8.250",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2020-12-27 21:30",
+      "matchId": "1116675",
+      "league": "荷甲",
+      "home": "乌德勒支",
+      "away": "阿尔克马尔",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.460",
+        "score_result": "2:2",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2020-12-27 22:15",
+      "matchId": "1110097",
+      "league": "英超",
+      "home": "西汉姆联",
+      "away": "布赖顿",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2020-12-27 23:00",
+      "matchId": "1114229",
+      "league": "葡超",
+      "home": "法马利康",
+      "away": "吉维森特",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.340",
+        "score_result": "0:1",
+        "score_odds": "6.200",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2020-12-27 23:00",
+      "matchId": "1114230",
+      "league": "葡超",
+      "home": "葡萄牙国民",
+      "away": "通德拉",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.400",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2020-12-27 00:30",
+      "matchId": "1110094",
+      "league": "英超",
+      "home": "利物浦",
+      "away": "西布罗姆维奇",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.900",
+        "score_result": "1:1",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "5.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2020-12-27 01:30",
+      "matchId": "1114236",
+      "league": "葡超",
+      "home": "法伦斯",
+      "away": "费雷拉",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.410",
+        "score_result": "1:1",
+        "score_odds": "5.300",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.550"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2020-12-27 03:00",
+      "matchId": "1087798",
+      "league": "巴西甲",
+      "home": "博塔弗戈",
+      "away": "科林蒂安",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.560",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "0:2",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周日014",
+      "match_time": "2020-12-27 05:15",
+      "matchId": "1087799",
+      "league": "巴西甲",
+      "home": "帕尔梅拉斯",
+      "away": "布拉干蒂诺RB",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.640",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周日015",
+      "match_time": "2020-12-27 07:30",
+      "matchId": "1087802",
+      "league": "巴西甲",
+      "home": "格雷米奥",
+      "away": "戈亚尼亚竞技",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.550"
+      }
+    }
+  ]
+}

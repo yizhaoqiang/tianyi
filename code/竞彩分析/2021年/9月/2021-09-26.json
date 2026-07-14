@@ -1,0 +1,354 @@
+{
+  "time": "2021-09-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_5-0_35100",
+        "handicap": "0_3_668",
+        "halfFull": "11_33_986",
+        "size": "4_5_3450"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_5-0_4-2_1755000",
+        "handicap": "0_3_3_949",
+        "halfFull": "11_33_33_4042",
+        "size": "4_5_6_48300"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_5-0_4-2_1-2_18427500",
+        "handicap": "0_3_3_0_1529",
+        "halfFull": "11_33_33_00_27085",
+        "size": "4_5_6_3_178710"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_3_2354",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_3_3_10949",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_3_3_3_33395",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_3_3_3_0_45417",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_4-2_195000",
+        "handicap": "0_3_273",
+        "halfFull": "11_33_2900",
+        "size": "4_6_13339"
+      },
+      "team": "001_019"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_5-0_2-1_4-2_39487500",
+        "handicap": "0_3_1_3_3129",
+        "halfFull": "11_33_33_33_13804",
+        "size": "4_5_3_6_385192"
+      },
+      "team": "001_002_018_019"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2021-09-26 19:30",
+      "matchId": "1138776",
+      "league": "德乙",
+      "home": "汉堡",
+      "away": "纽伦堡",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "4.600",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2021-09-26 20:30",
+      "matchId": "1141124",
+      "league": "荷甲",
+      "home": "阿尔克马尔",
+      "away": "前进之鹰",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "3.520",
+        "score_result": "5:0",
+        "score_odds": "27.000",
+        "goal_result": "5",
+        "goal_odds": "7.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.700"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2021-09-26 21:00",
+      "matchId": "1147769",
+      "league": "意甲",
+      "home": "恩波利",
+      "away": "博洛尼亚",
+      "result": {
+        "half": "2-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "4:2",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2021-09-26 21:00",
+      "matchId": "1139090",
+      "league": "法甲",
+      "home": "布雷斯特",
+      "away": "梅斯",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "1:2",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.700"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2021-09-26 21:00",
+      "matchId": "1124441",
+      "league": "瑞典超",
+      "home": "米亚尔比",
+      "away": "埃尔夫斯堡",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "4:0",
+        "score_odds": "80.000",
+        "goal_result": "4",
+        "goal_odds": "6.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.150"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2021-09-26 23:30",
+      "matchId": "1135913",
+      "league": "英超",
+      "home": "阿森纳",
+      "away": "托特纳姆热刺",
+      "result": {
+        "half": "3-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.110",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.650",
+        "score_result": "3:1",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "6.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2021-09-26 23:30",
+      "matchId": "1138457",
+      "league": "德甲",
+      "home": "弗赖堡",
+      "away": "奥格斯堡",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.560",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.050",
+        "score_result": "3:0",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2021-09-26 23:30",
+      "matchId": "1124435",
+      "league": "瑞典超",
+      "home": "赫根",
+      "away": "哈马比",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.360",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "4.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日018",
+      "match_time": "2021-09-26 03:00",
+      "matchId": "1134713",
+      "league": "巴西甲",
+      "home": "弗鲁米嫩塞",
+      "away": "布拉干蒂诺RB",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.790",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周日019",
+      "match_time": "2021-09-26 05:15",
+      "matchId": "1134709",
+      "league": "巴西甲",
+      "home": "巴拉纳竞技",
+      "away": "格雷米奥",
+      "result": {
+        "half": "2-0",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.440",
+        "score_result": "4:2",
+        "score_odds": "150.000",
+        "goal_result": "6",
+        "goal_odds": "29.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.000"
+      }
+    }
+  ]
+}

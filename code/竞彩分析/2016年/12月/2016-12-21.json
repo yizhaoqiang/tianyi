@@ -1,0 +1,354 @@
+{
+  "time": "2016-12-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_9-1_2640",
+        "handicap": "3_3_722",
+        "halfFull": "33__260",
+        "size": "4_7+_1705"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_9-1_2-0_15840",
+        "handicap": "3_3_3_1177",
+        "halfFull": "33__33_392",
+        "size": "4_7+_2_6393"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_9-1_2-0_1-1_95040",
+        "handicap": "3_3_3_3_1718",
+        "halfFull": "33__33_11_1963",
+        "size": "4_7+_2_2_19181"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_3523",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_0_5990",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_0_3_15275",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_0_3_0_36661",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_7-0_4320",
+        "handicap": "3_3_992",
+        "halfFull": "33__260",
+        "size": "4_7+_2475"
+      },
+      "team": "001_029"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_9-1_3-1_7-0_133056",
+        "handicap": "3_3_3_3_7743",
+        "halfFull": "33__33__676",
+        "size": "4_7+_4_7+_49871"
+      },
+      "team": "001_002_028_029"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2016-12-21 02:00",
+      "matchId": "920833",
+      "league": "国王杯",
+      "home": "埃瓦尔",
+      "away": "希洪竞技",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.100",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2016-12-21 02:00",
+      "matchId": "920835",
+      "league": "国王杯",
+      "home": "塞维利亚",
+      "away": "福门特拉",
+      "result": {
+        "half": "6-0",
+        "full": "9-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-4",
+        "handicap_result": "3",
+        "handicap_odds": "2.330",
+        "score_result": "胜其他",
+        "score_odds": "2.200",
+        "goal_result": "7+",
+        "goal_odds": "3.100",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2016-12-21 02:00",
+      "matchId": "895533",
+      "league": "葡超",
+      "home": "本菲卡",
+      "away": "里奥阿维",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.630",
+        "score_result": "2:0",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.510"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2016-12-21 03:00",
+      "matchId": "884764",
+      "league": "德甲",
+      "home": "科隆",
+      "away": "勒沃库森",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.460",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2016-12-21 03:00",
+      "matchId": "884760",
+      "league": "德甲",
+      "home": "拜仁慕尼黑",
+      "away": "莱比锡红牛",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "3:0",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.750"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2016-12-21 03:00",
+      "matchId": "884766",
+      "league": "德甲",
+      "home": "因戈尔施塔特",
+      "away": "弗赖堡",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.680",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "1:2",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2016-12-21 03:00",
+      "matchId": "884763",
+      "league": "德甲",
+      "home": "柏林赫塔",
+      "away": "达姆施塔特",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.550",
+        "score_result": "2:0",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2016-12-21 03:00",
+      "matchId": "884767",
+      "league": "德甲",
+      "home": "霍芬海姆",
+      "away": "云达不来梅",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "1:1",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "4.450",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三028",
+      "match_time": "2016-12-21 04:00",
+      "matchId": "920855",
+      "league": "国王杯",
+      "home": "拉科鲁尼亚",
+      "away": "皇家贝蒂斯",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.350",
+        "score_result": "3:1",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周三029",
+      "match_time": "2016-12-21 05:00",
+      "matchId": "920836",
+      "league": "国王杯",
+      "home": "巴塞罗那",
+      "away": "埃尔库莱斯",
+      "result": {
+        "half": "2-0",
+        "full": "7-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-4",
+        "handicap_result": "3",
+        "handicap_odds": "3.200",
+        "score_result": "胜其他",
+        "score_odds": "3.600",
+        "goal_result": "7+",
+        "goal_odds": "4.500",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "time": "2021-10-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_0-0_48750",
+        "handicap": "3_0_1282",
+        "halfFull": "33_11_1893",
+        "size": "4_0_5250"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_0-0_1-1_282750",
+        "handicap": "3_0_0_2590",
+        "halfFull": "33_11_01_34087",
+        "size": "4_0_2_15750"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_1-1_37700",
+        "handicap": "3_0_1151",
+        "halfFull": "33_01_6750",
+        "size": "4_2_2100"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_0-0_1-1_282750",
+        "handicap": "3_0_0_2590",
+        "halfFull": "33_11_01_34087",
+        "size": "4_0_2_15750"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2021-10-14 04:00",
+      "matchId": "1092514",
+      "league": "世南美预",
+      "home": "玻利维亚",
+      "away": "巴拉圭",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.700",
+        "score_result": "4:0",
+        "score_odds": "65.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2021-10-14 05:00",
+      "matchId": "1092516",
+      "league": "世南美预",
+      "home": "哥伦比亚",
+      "away": "厄瓜多尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.250",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.050"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2021-10-14 06:00",
+      "matchId": "1134758",
+      "league": "巴西甲",
+      "home": "圣保罗",
+      "away": "塞阿拉",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.020",
+        "score_result": "1:1",
+        "score_odds": "5.800",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "18.000"
+      }
+    }
+  ]
+}

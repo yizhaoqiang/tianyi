@@ -1,0 +1,354 @@
+{
+  "time": "2018-03-07",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-2_16900",
+        "handicap": "0_0_385",
+        "halfFull": "00_11_3225",
+        "size": "2_4_1332"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_2-2_1-1_143650",
+        "handicap": "0_0_0_1157",
+        "halfFull": "00_11_11_22575",
+        "size": "2_4_2_4930"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-2_1-1_1-1_969637",
+        "handicap": "0_0_0_0_2083",
+        "halfFull": "00_11_11_11_108359",
+        "size": "2_4_2_2_15283"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_3_3042",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_3_3_5020",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_3_3_0_8283",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_3_3_0_0_25016",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_4-1_28600",
+        "handicap": "0_3_357",
+        "halfFull": "00_33_868",
+        "size": "2_5_2600"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-2_3-0_4-1_5205200",
+        "handicap": "0_0_3_3_2679",
+        "halfFull": "00_11_13_33_28012",
+        "size": "2_4_3_5_36244"
+      },
+      "team": "001_002_026_027"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2018-03-07 16:30",
+      "matchId": "1004506",
+      "league": "亚冠杯",
+      "home": "悉尼FC",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.520",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.440",
+        "score_result": "0:2",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2018-03-07 18:00",
+      "matchId": "1004511",
+      "league": "亚冠杯",
+      "home": "川崎前锋",
+      "away": "墨尔本胜利",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.680",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "4.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2018-03-07 18:00",
+      "matchId": "1008516",
+      "league": "亚冠杯",
+      "home": "水原三星",
+      "away": "上海申花",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.000",
+        "score_result": "1:1",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2018-03-07 18:00",
+      "matchId": "1014180",
+      "league": "日联杯",
+      "home": "仙台七夕",
+      "away": "新泻天鹅",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2018-03-07 18:00",
+      "matchId": "1014183",
+      "league": "日联杯",
+      "home": "清水鼓动",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.530",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.460",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "3.950",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2018-03-07 18:00",
+      "matchId": "1014182",
+      "league": "日联杯",
+      "home": "甲府风林",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "3:0",
+        "score_odds": "35.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2018-03-07 18:00",
+      "matchId": "1014184",
+      "league": "日联杯",
+      "home": "大阪钢巴",
+      "away": "广岛三箭",
+      "result": {
+        "half": "0-3",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.080",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "0:4",
+        "score_odds": "80.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2018-03-07 18:00",
+      "matchId": "1014185",
+      "league": "日联杯",
+      "home": "名古屋鲸八",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-4",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.020",
+        "score_result": "1:4",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "7.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周三026",
+      "match_time": "2018-03-07 11:05",
+      "matchId": "1015747",
+      "league": "墨西哥杯",
+      "home": "美洲狮",
+      "away": "普埃布拉大学",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.800",
+        "score_result": "3:0",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周三027",
+      "match_time": "2018-03-07 11:06",
+      "matchId": "1015748",
+      "league": "墨西哥杯",
+      "home": "莱昂",
+      "away": "塞拉亚",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.480",
+        "score_result": "4:1",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.020"
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "time": "2022-02-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_0-0_13600",
+        "handicap": "3_0_333",
+        "halfFull": "33_11_772",
+        "size": "4_0_3800"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_0-0_0-0_156400",
+        "handicap": "3_0_0_773",
+        "halfFull": "33_11_11_4825",
+        "size": "4_0_0_43700"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_0-0_19550",
+        "handicap": "3_0_468",
+        "halfFull": "33_11_1206",
+        "size": "4_0_5462"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_0-0_0-0_156400",
+        "handicap": "3_0_0_773",
+        "halfFull": "33_11_11_4825",
+        "size": "4_0_0_43700"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2022-02-28 03:50",
+      "matchId": "1147978",
+      "league": "意甲",
+      "home": "亚特兰大",
+      "away": "桑普",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.020",
+        "score_result": "4:0",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "4.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.930"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2022-02-28 04:00",
+      "matchId": "1140028",
+      "league": "西甲",
+      "home": "格拉纳达",
+      "away": "加的斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.830",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2022-02-28 04:15",
+      "matchId": "1146208",
+      "league": "葡超",
+      "home": "布拉加",
+      "away": "圣克拉拉",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.250"
+      }
+    }
+  ]
+}

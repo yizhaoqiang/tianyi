@@ -1,0 +1,354 @@
+{
+  "time": "2017-09-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_1-0_4987",
+        "handicap": "3_1_554",
+        "halfFull": "33_33_434",
+        "size": "4_1_1728"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_1-0_1-1_34912",
+        "handicap": "3_1_0_1097",
+        "halfFull": "33_33_11_2392",
+        "size": "4_1_2_5788"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_1-0_1-1_0-0_331668",
+        "handicap": "3_1_0_0_2633",
+        "halfFull": "33_33_11_11_12919",
+        "size": "4_1_2_0_54993"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_0_10797",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_0_0_20623",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_0_0_0_32584",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_0_0_0_3_78203",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_1-1_6175",
+        "handicap": "3_0_347",
+        "halfFull": "33_01_2400",
+        "size": "4_2_1392"
+      },
+      "team": "001_028"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_1-0_3-0_1-1_1102237",
+        "handicap": "3_1_3_0_1770",
+        "halfFull": "33_33_33_01_36191",
+        "size": "4_1_3_2_19794"
+      },
+      "team": "001_002_027_028"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2017-09-14 01:00",
+      "matchId": "989811",
+      "league": "欧洲联赛",
+      "home": "比利亚雷亚尔",
+      "away": "阿斯塔纳",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.140",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.630",
+        "score_result": "3:1",
+        "score_odds": "9.500",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.500"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2017-09-14 01:00",
+      "matchId": "989810",
+      "league": "欧洲联赛",
+      "home": "布拉格斯拉维亚",
+      "away": "特拉维夫马卡比",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:0",
+        "score_odds": "5.250",
+        "goal_result": "1",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2017-09-14 01:00",
+      "matchId": "989812",
+      "league": "欧洲联赛",
+      "home": "年轻人",
+      "away": "贝尔格莱德游击",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.980",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2017-09-14 01:00",
+      "matchId": "989817",
+      "league": "欧洲联赛",
+      "home": "伊斯坦布尔",
+      "away": "卢多戈雷茨",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2017-09-14 01:00",
+      "matchId": "991903",
+      "league": "欧洲联赛",
+      "home": "霍芬海姆",
+      "away": "布拉加",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "10.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "4.100",
+        "score_result": "1:2",
+        "score_odds": "28.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "1-0",
+        "half_full_odds": "21.000"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2017-09-14 01:00",
+      "matchId": "989816",
+      "league": "欧洲联赛",
+      "home": "奥地利维也纳",
+      "away": "AC米兰",
+      "result": {
+        "half": "0-3",
+        "full": "1-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.260",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.910",
+        "score_result": "1:5",
+        "score_odds": "35.000",
+        "goal_result": "6",
+        "goal_odds": "12.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.750"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2017-09-14 01:00",
+      "matchId": "989813",
+      "league": "欧洲联赛",
+      "home": "里耶卡",
+      "away": "雅典AEK",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2017-09-14 01:00",
+      "matchId": "989815",
+      "league": "欧洲联赛",
+      "home": "利马索尔阿波罗",
+      "away": "里昂",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.050",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.900"
+      }
+    },
+    {
+      "num": "周四027",
+      "match_time": "2017-09-14 08:45",
+      "matchId": "982369",
+      "league": "解放者杯",
+      "home": "维尔斯特曼",
+      "away": "河床",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.020",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "3:0",
+        "score_odds": "34.000",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周四028",
+      "match_time": "2017-09-14 08:45",
+      "matchId": "981676",
+      "league": "南俱杯",
+      "home": "圣菲独立",
+      "away": "亚松森自由",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.130",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周六102",
+    "match_time": "2016-02-14 11:00",
+    "matchId": "1203726",
+    "league": "墨西联",
+    "home": "多拉多斯",
+    "away": "美洲狮",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.10",
+        "d": "3.20",
+        "l": "2.05"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.58",
+        "d": "3.75",
+        "l": "4.35"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.05",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.75",
+      "score_result": "2:3",
+      "score_odds": "27.00",
+      "goal_result": "5",
+      "goal_odds": "11.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.25"
+    }
+  },
+  {
+    "num": "周六101",
+    "match_time": "2016-02-14 11:15",
+    "matchId": "1216452",
+    "league": "球会友谊",
+    "home": "洛杉矶银河",
+    "away": "圣何塞地震",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.77",
+        "d": "3.45",
+        "l": "3.75"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.45",
+        "d": "3.55",
+        "l": "1.80"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.77",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.55",
+      "score_result": "1:0",
+      "score_odds": "6.75",
+      "goal_result": "1",
+      "goal_odds": "4.40",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.70"
+    }
+  }
+]

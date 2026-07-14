@@ -1,0 +1,354 @@
+{
+  "time": "2012-07-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_2-1_8250",
+        "handicap": "0_3_300",
+        "halfFull": "10_33_1225",
+        "size": "4_3_1672"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-3_2-1_0-1_61875",
+        "handicap": "0_3_0_705",
+        "halfFull": "10_33_10_6985",
+        "size": "4_3_1_6688"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_2-1_0-1_2-2_928125",
+        "handicap": "0_3_0_1_2432",
+        "halfFull": "10_33_10_01_118750",
+        "size": "4_3_1_4_40128"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_1_9972",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_1_3_13163",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_1_3_3_20403",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_1_3_3_3_33869",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_1-0_6600",
+        "handicap": "0_3_366",
+        "halfFull": "10_13_2565",
+        "size": "4_1_1848"
+      },
+      "team": "001_025"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_2-1_2-0_1-0_371250",
+        "handicap": "0_3_3_3_960",
+        "halfFull": "10_33_33_13_14889",
+        "size": "4_3_2_1_22471"
+      },
+      "team": "001_002_024_025"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2012-07-25 18:00",
+      "matchId": "205716",
+      "league": "日联杯",
+      "home": "大阪钢巴",
+      "away": "柏太阳神",
+      "result": {
+        "half": "0-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.000",
+        "score_result": "1:3",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2012-07-25 18:00",
+      "matchId": "205718",
+      "league": "日联杯",
+      "home": "鹿岛鹿角",
+      "away": "大阪樱花",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2012-07-25 18:00",
+      "matchId": "205715",
+      "league": "日联杯",
+      "home": "清水鼓动",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.350",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2012-07-25 18:00",
+      "matchId": "205717",
+      "league": "日联杯",
+      "home": "仙台维加泰",
+      "away": "东京FC",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2012-07-25 20:00",
+      "matchId": "206557",
+      "league": "热身赛",
+      "home": "上海申花",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "6.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2012-07-25 23:00",
+      "matchId": "205920",
+      "league": "奥运女足",
+      "home": "英国女足",
+      "away": "新西兰女足",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.320",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2012-07-25 23:59",
+      "matchId": "205925",
+      "league": "奥运女足",
+      "home": "日本女足",
+      "away": "加拿大女足",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.550",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2012-07-25 23:59",
+      "matchId": "205931",
+      "league": "奥运女足",
+      "home": "美国女足",
+      "away": "法国女足",
+      "result": {
+        "half": "2-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.660",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "4:2",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "18.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周三024",
+      "match_time": "2012-07-25 08:50",
+      "matchId": "202668",
+      "league": "巴西甲",
+      "home": "科林蒂安",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.750",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周三025",
+      "match_time": "2012-07-25 08:50",
+      "matchId": "202669",
+      "league": "巴西甲",
+      "home": "格雷米奥",
+      "away": "弗鲁米嫩塞",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.830",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.830",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    }
+  ]
+}

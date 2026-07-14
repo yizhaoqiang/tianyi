@@ -1,0 +1,354 @@
+{
+  "time": "2015-09-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-1_5025",
+        "handicap": "3_1_676",
+        "halfFull": "33_10_3132",
+        "size": "1_1_1168"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_0-1_3-1_50250",
+        "handicap": "3_1_3_1270",
+        "halfFull": "33_10_33_5387",
+        "size": "1_1_4_5256"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_0-1_3-1_0-4_246225",
+        "handicap": "3_1_3_1_6100",
+        "halfFull": "33_10_33__5387",
+        "size": "1_1_4_4_23126"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_0_18910",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_0_0_34984",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_0_0_0_48279",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_0_0_0_0_108144",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_3-3_75000",
+        "handicap": "3_0_532",
+        "halfFull": "33_01_12760",
+        "size": "1_6_4480"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_0-1_0-1_3-3_3015000",
+        "handicap": "3_1_1_0_8198",
+        "halfFull": "33_10_10_01_351410",
+        "size": "1_1_1_6_54779"
+      },
+      "team": "001_002_014_015"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2015-09-04 00:00",
+      "matchId": "686093",
+      "league": "欧洲杯预",
+      "home": "格鲁吉亚",
+      "away": "苏格兰",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.690",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2015-09-04 02:45",
+      "matchId": "798197",
+      "league": "友谊赛",
+      "home": "葡萄牙",
+      "away": "法国",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.370",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "0:1",
+        "score_odds": "6.700",
+        "goal_result": "1",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2015-09-04 02:45",
+      "matchId": "686096",
+      "league": "欧洲杯预",
+      "home": "德国",
+      "away": "波兰",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.260",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.880",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.720"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2015-09-04 02:45",
+      "matchId": "686094",
+      "league": "欧洲杯预",
+      "home": "直布罗陀",
+      "away": "爱尔兰",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+4",
+        "handicap_result": "1",
+        "handicap_odds": "4.800",
+        "score_result": "0:4",
+        "score_odds": "4.900",
+        "goal_result": "4",
+        "goal_odds": "4.400",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2015-09-04 02:45",
+      "matchId": "686126",
+      "league": "欧洲杯预",
+      "home": "法罗群岛",
+      "away": "北爱尔兰",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.100",
+        "score_result": "1:3",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2015-09-04 02:45",
+      "matchId": "686135",
+      "league": "欧洲杯预",
+      "home": "希腊",
+      "away": "芬兰",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "3.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2015-09-04 02:45",
+      "matchId": "686203",
+      "league": "欧洲杯预",
+      "home": "匈牙利",
+      "away": "罗马尼亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "0:0",
+        "score_odds": "6.000",
+        "goal_result": "0",
+        "goal_odds": "6.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2015-09-04 02:45",
+      "matchId": "686131",
+      "league": "欧洲杯预",
+      "home": "丹麦",
+      "away": "阿尔巴尼亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.240",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五014",
+      "match_time": "2015-09-04 09:30",
+      "matchId": "830402",
+      "league": "友谊赛",
+      "home": "巴拿马",
+      "away": "乌拉圭",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.350",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周五015",
+      "match_time": "2015-09-04 10:00",
+      "matchId": "830407",
+      "league": "友谊赛",
+      "home": "墨西哥",
+      "away": "特立尼达和多巴哥",
+      "result": {
+        "half": "1-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.150",
+        "score_result": "3:3",
+        "score_odds": "100.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "22.000"
+      }
+    }
+  ]
+}

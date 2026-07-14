@@ -1,0 +1,354 @@
+{
+  "time": "2013-11-07",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-0_3779",
+        "handicap": "3_1_454",
+        "halfFull": "01_33_2842",
+        "size": "2_1_1344"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-0_2-0_20033",
+        "handicap": "3_1_3_686",
+        "halfFull": "01_33_33_4319",
+        "size": "2_1_2_4905"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-0_2-0_2-3_400679",
+        "handicap": "3_1_3_1_2435",
+        "halfFull": "01_33_33_10_18575",
+        "size": "2_1_2_5_46603"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_3_4749",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_3_1_17099",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_3_1_0_72672",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_3_1_0_0_111915",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-2_15119",
+        "handicap": "3_1_518",
+        "halfFull": "01_33_3990",
+        "size": "2_5_3520"
+      },
+      "team": "001_028"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-0_1-0_3-2_703079",
+        "handicap": "3_1_1_1_7048",
+        "halfFull": "01_33_33_33_30778",
+        "size": "2_1_1_5_59136"
+      },
+      "team": "001_002_027_028"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2013-11-07 01:00",
+      "matchId": "656085",
+      "league": "欧洲联赛",
+      "home": "库班",
+      "away": "斯旺西",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "1:1",
+        "score_odds": "6.300",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2013-11-07 01:00",
+      "matchId": "656090",
+      "league": "欧洲联赛",
+      "home": "喀山红宝石",
+      "away": "维冈竞技",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.030"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2013-11-07 02:00",
+      "matchId": "656073",
+      "league": "欧洲联赛",
+      "home": "第聂伯罗",
+      "away": "费雷拉",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.100",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "2:0",
+        "score_odds": "5.300",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.520"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2013-11-07 02:00",
+      "matchId": "656089",
+      "league": "欧洲联赛",
+      "home": "圣加仑",
+      "away": "巴伦西亚",
+      "result": {
+        "half": "1-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "2:3",
+        "score_odds": "20.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2013-11-07 02:00",
+      "matchId": "656078",
+      "league": "欧洲联赛",
+      "home": "PSV埃因霍温",
+      "away": "萨格勒布迪纳摩",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.270",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.950",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2013-11-07 02:00",
+      "matchId": "656080",
+      "league": "欧洲联赛",
+      "home": "埃斯比约",
+      "away": "埃尔夫斯堡",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.850"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2013-11-07 02:00",
+      "matchId": "656079",
+      "league": "欧洲联赛",
+      "home": "标准列日",
+      "away": "萨尔茨堡",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.250",
+        "score_result": "1:3",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2013-11-07 02:00",
+      "matchId": "656075",
+      "league": "欧洲联赛",
+      "home": "马里博尔",
+      "away": "聚尔特瓦雷赫姆",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周四027",
+      "match_time": "2013-11-07 10:00",
+      "matchId": "662925",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "洛杉矶银河",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.570",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.250",
+        "score_result": "1:0",
+        "score_odds": "7.750",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周四028",
+      "match_time": "2013-11-07 12:00",
+      "matchId": "663086",
+      "league": "美职",
+      "home": "波特兰伐木工",
+      "away": "西雅图海湾人",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "3:2",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.850"
+      }
+    }
+  ]
+}

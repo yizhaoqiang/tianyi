@@ -1,0 +1,354 @@
+{
+  "time": "2016-08-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-5_0-0_22800",
+        "handicap": "0_0_324",
+        "halfFull": "00_11_759",
+        "size": "6_0_9000"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-5_0-0_4-1_547200",
+        "handicap": "0_0_3_912",
+        "halfFull": "00_11_13_3491",
+        "size": "6_0_5_70200"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-5_0-0_4-1_1-2_5472000",
+        "handicap": "0_0_3_0_1551",
+        "halfFull": "00_11_13_00_17456",
+        "size": "6_0_5_3_249210"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_6128",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_0_9622",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_0_0_14048",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_0_0_0_70943",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-5_3-1_22800",
+        "handicap": "0_3_695",
+        "halfFull": "00_33_358",
+        "size": "6_4_3825"
+      },
+      "team": "001_017"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-5_0-0_2-2_3-1_3283200",
+        "handicap": "0_0_0_3_2075",
+        "halfFull": "00_11_31_33_25654",
+        "size": "6_0_4_4_215729"
+      },
+      "team": "001_002_016_017"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2016-08-30 18:00",
+      "matchId": "906656",
+      "league": "足总杯",
+      "home": "埃奇沃斯老鹰",
+      "away": "西悉尼漫步者",
+      "result": {
+        "half": "0-2",
+        "full": "1-5",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "1:5",
+        "score_odds": "19.000",
+        "goal_result": "6",
+        "goal_odds": "7.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.380"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2016-08-30 18:30",
+      "matchId": "906654",
+      "league": "足总杯",
+      "home": "珀斯光荣",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2016-08-30 02:00",
+      "matchId": "914428",
+      "league": "英锦赛",
+      "home": "贝里",
+      "away": "莫克姆",
+      "result": {
+        "half": "1-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.810",
+        "score_result": "4:1",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "7.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2016-08-30 02:30",
+      "matchId": "914427",
+      "league": "英锦赛",
+      "home": "吉灵汉姆",
+      "away": "卢顿",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2016-08-30 02:45",
+      "matchId": "914432",
+      "league": "英锦赛",
+      "home": "布莱克浦",
+      "away": "切尔滕汉姆",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2016-08-30 02:45",
+      "matchId": "914425",
+      "league": "英锦赛",
+      "home": "阿克宁顿",
+      "away": "克鲁",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.130",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "0:3",
+        "score_odds": "36.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2016-08-30 02:45",
+      "matchId": "914417",
+      "league": "英锦赛",
+      "home": "奥德汉姆",
+      "away": "卡利斯尔联",
+      "result": {
+        "half": "1-3",
+        "full": "4-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "负其他",
+        "score_odds": "90.000",
+        "goal_result": "7+",
+        "goal_odds": "31.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2016-08-30 02:45",
+      "matchId": "914422",
+      "league": "英锦赛",
+      "home": "曼斯菲尔德",
+      "away": "唐卡斯特",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.260",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.050",
+        "score_result": "0:2",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周二016",
+      "match_time": "2016-08-30 02:45",
+      "matchId": "914413",
+      "league": "英锦赛",
+      "home": "米尔顿凯恩斯",
+      "away": "巴尼特",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.130",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周二017",
+      "match_time": "2016-08-30 02:45",
+      "matchId": "914433",
+      "league": "英锦赛",
+      "home": "莱顿东方",
+      "away": "斯蒂文尼奇",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.000",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    }
+  ]
+}

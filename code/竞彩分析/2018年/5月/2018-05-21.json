@@ -1,0 +1,354 @@
+{
+  "time": "2018-05-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-0_6525",
+        "handicap": "1_3_529",
+        "halfFull": "00_33_993",
+        "size": "3_1_1615"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-0_4-0_456750",
+        "handicap": "1_3_3_746",
+        "halfFull": "00_33_33_3975",
+        "size": "3_1_4_8641"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-0_4-0_3-1_10048500",
+        "handicap": "1_3_3_3_1134",
+        "halfFull": "00_33_33_03_119250",
+        "size": "3_1_4_4_41479"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_1_3856",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_1_1_16776",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_1_1_3_80525",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_1_1_3_0_115151",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-0_6162",
+        "handicap": "1_3_930",
+        "halfFull": "00_33_490",
+        "size": "3_3_1366"
+      },
+      "team": "001_013"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-0_2-2_3-0_721012",
+        "handicap": "1_3_0_3_2294",
+        "halfFull": "00_33_31_33_23899",
+        "size": "3_1_4_3_36068"
+      },
+      "team": "001_002_012_013"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2018-05-21 00:00",
+      "matchId": "1002894",
+      "league": "挪超",
+      "home": "海于格松",
+      "away": "罗森博格",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:2",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2018-05-21 00:00",
+      "matchId": "1002897",
+      "league": "挪超",
+      "home": "斯达",
+      "away": "博德闪耀",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.560",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.450",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2018-05-21 00:00",
+      "matchId": "1002888",
+      "league": "挪超",
+      "home": "克里斯蒂安松",
+      "away": "斯特罗姆加斯特",
+      "result": {
+        "half": "3-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.410",
+        "score_result": "4:0",
+        "score_odds": "70.000",
+        "goal_result": "4",
+        "goal_odds": "5.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2018-05-21 00:00",
+      "matchId": "1002889",
+      "league": "挪超",
+      "home": "兰赫姆",
+      "away": "莫尔德",
+      "result": {
+        "half": "0-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.810",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "3:1",
+        "score_odds": "22.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "0-3",
+        "half_full_odds": "30.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2018-05-21 00:00",
+      "matchId": "1002893",
+      "league": "挪超",
+      "home": "桑纳菲尤尔",
+      "away": "萨尔普斯堡",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "0:1",
+        "score_odds": "5.750",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2018-05-21 00:00",
+      "matchId": "1002891",
+      "league": "挪超",
+      "home": "斯塔贝克",
+      "away": "奥德",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.470",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.350",
+        "score_result": "2:1",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2018-05-21 00:00",
+      "matchId": "1002890",
+      "league": "挪超",
+      "home": "特罗姆瑟",
+      "away": "瓦勒伦加",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.800",
+        "score_result": "3:0",
+        "score_odds": "22.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.450"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2018-05-21 01:00",
+      "matchId": "1002174",
+      "league": "瑞典超",
+      "home": "埃尔夫斯堡",
+      "away": "IFK哥德堡",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.180",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周一012",
+      "match_time": "2018-05-21 03:00",
+      "matchId": "1009566",
+      "league": "智利甲",
+      "home": "特木科体育",
+      "away": "基约塔",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.160",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周一013",
+      "match_time": "2018-05-21 07:00",
+      "matchId": "1012858",
+      "league": "巴西甲",
+      "home": "巴西国际",
+      "away": "沙佩科恩斯",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.550",
+        "score_result": "3:0",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "time": "2013-04-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-1_4020",
+        "handicap": "1_1_1062",
+        "halfFull": "11_11_2430",
+        "size": "0_2_2211"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_1-1_0-3_321600",
+        "handicap": "1_1_0_5469",
+        "halfFull": "11_11_10_25515",
+        "size": "0_2_3_8622"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_0-3_2-2_5467200",
+        "handicap": "1_1_0_1_18869",
+        "halfFull": "11_11_10_11_122472",
+        "size": "0_2_3_4_55186"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_1_0_56607",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_1_0_0_94534",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-2_5360",
+        "handicap": "1_0_492",
+        "halfFull": "11_10_2115",
+        "size": "0_2_2345"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_0-1_0-2_289440",
+        "handicap": "1_1_0_0_5320",
+        "halfFull": "11_11_10_10_74236",
+        "size": "0_2_1_2_41787"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2013-04-30 18:00",
+      "matchId": "580440",
+      "league": "亚冠杯",
+      "home": "广岛三箭",
+      "away": "北京国安",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "0:0",
+        "score_odds": "6.700",
+        "goal_result": "0",
+        "goal_odds": "6.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2013-04-30 18:00",
+      "matchId": "580450",
+      "league": "亚冠杯",
+      "home": "浦项制铁",
+      "away": "创造者",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2013-04-30 18:30",
+      "matchId": "583520",
+      "league": "亚冠杯",
+      "home": "中央海岸水手",
+      "away": "柏太阳神",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.150",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "5.150",
+        "score_result": "0:3",
+        "score_odds": "80.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2013-04-30 18:30",
+      "matchId": "580442",
+      "league": "亚冠杯",
+      "home": "贵州人和",
+      "away": "水原三星",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "6.400",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2013-04-30 23:50",
+      "matchId": "580449",
+      "league": "亚冠杯",
+      "home": "阿布扎比艾因",
+      "away": "德黑兰独立",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.000",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "5.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2013-04-30 23:50",
+      "matchId": "580441",
+      "league": "亚冠杯",
+      "home": "赖扬",
+      "away": "利雅得希拉尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "0:2",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.700"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2016-07-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_2-2_28900",
+        "handicap": "0_0_1512",
+        "halfFull": "30_31_36800",
+        "size": "4_4_1936"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-3_2-2_0-0_260100",
+        "handicap": "0_0_0_2313",
+        "halfFull": "30_31_11_158240",
+        "size": "4_4_0_17424"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_2-2_0-0_3-0_1560600",
+        "handicap": "0_0_0_3_3724",
+        "halfFull": "30_31_11_13_545928",
+        "size": "4_4_0_3_60984"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_3_7002",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_3_3_13514",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_3_3_0_20000",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_3_3_0_1_71002",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_3-0_39100",
+        "handicap": "0_3_3051",
+        "halfFull": "30_33_8970",
+        "size": "4_3_1628"
+      },
+      "team": "001_016"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_2-2_2-0_3-0_3888494",
+        "handicap": "0_0_3_3_17341",
+        "halfFull": "30_31_13_33_538200",
+        "size": "4_4_2_3_23996"
+      },
+      "team": "001_002_015_016"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2016-07-19 23:00",
+      "matchId": "885531",
+      "league": "球会友谊",
+      "home": "摩纳哥",
+      "away": "圣彼得堡泽尼特",
+      "result": {
+        "half": "1-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.460",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.400",
+        "score_result": "1:3",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "4.400",
+        "half_full_result": "3-0",
+        "half_full_odds": "23.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2016-07-19 00:00",
+      "matchId": "888726",
+      "league": "球会友谊",
+      "home": "西汉姆联",
+      "away": "斯洛瓦茨科",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.800",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "4.400",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2016-07-19 01:00",
+      "matchId": "878387",
+      "league": "欧冠",
+      "home": "谢里夫",
+      "away": "贝尔谢巴夏普尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2016-07-19 01:00",
+      "matchId": "887360",
+      "league": "欧冠",
+      "home": "希腊人竞技",
+      "away": "新圣徒",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.610",
+        "score_result": "3:0",
+        "score_odds": "6.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.450"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2016-07-19 01:00",
+      "matchId": "878398",
+      "league": "欧冠",
+      "home": "塞伊奈约基",
+      "away": "巴特",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.880",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2016-07-19 01:15",
+      "matchId": "878404",
+      "league": "欧冠",
+      "home": "哥本哈根",
+      "away": "十字军",
+      "result": {
+        "half": "2-0",
+        "full": "6-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.930",
+        "score_result": "胜其他",
+        "score_odds": "9.000",
+        "goal_result": "6",
+        "goal_odds": "9.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.330"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2016-07-19 01:30",
+      "matchId": "876043",
+      "league": "球会友谊",
+      "home": "巴塞尔",
+      "away": "沃尔夫斯堡",
+      "result": {
+        "half": "0-1",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "3:3",
+        "score_odds": "34.000",
+        "goal_result": "6",
+        "goal_odds": "12.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2016-07-19 02:45",
+      "matchId": "875248",
+      "league": "球会友谊",
+      "home": "牛津联",
+      "away": "莱切斯特城",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:2",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周二015",
+      "match_time": "2016-07-19 10:00",
+      "matchId": "889727",
+      "league": "墨西哥杯",
+      "home": "蓝十字",
+      "away": "特皮克",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.030",
+        "score_result": "2:0",
+        "score_odds": "5.850",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周二016",
+      "match_time": "2016-07-19 10:00",
+      "matchId": "889726",
+      "league": "墨西哥杯",
+      "home": "蒂华纳",
+      "away": "托卢卡",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.650",
+        "score_result": "3:0",
+        "score_odds": "23.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.900"
+      }
+    }
+  ]
+}

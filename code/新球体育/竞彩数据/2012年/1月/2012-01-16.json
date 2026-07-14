@@ -1,0 +1,128 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2012-01-17 03:00",
+    "matchId": "566753",
+    "league": "荷乙",
+    "home": "赫尔蒙德",
+    "away": "阿帕多恩",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.77",
+        "d": "3.90",
+        "l": "3.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.77",
+        "d": "3.90",
+        "l": "3.25"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.90",
+      "score_result": "1:0",
+      "score_odds": "10.00",
+      "goal_result": "1",
+      "goal_odds": "7.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.78"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2012-01-17 03:00",
+    "matchId": "566768",
+    "league": "荷乙",
+    "home": "马斯特里赫特",
+    "away": "威廉二世",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.50",
+        "d": "3.50",
+        "l": "2.30"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.50",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "3:1",
+      "score_odds": "16.00",
+      "goal_result": "4",
+      "goal_odds": "4.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.75"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2012-01-17 03:45",
+    "matchId": "581969",
+    "league": "意甲",
+    "home": "那不勒斯",
+    "away": "博洛尼亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.25",
+        "d": "4.55",
+        "l": "9.50"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.55",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "1:1",
+      "score_odds": "7.50",
+      "goal_result": "2",
+      "goal_odds": "3.60",
+      "half_full_result": "0-1",
+      "half_full_odds": "19.00"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2012-01-17 04:00",
+    "matchId": "561369",
+    "league": "英超",
+    "home": "维冈竞技",
+    "away": "曼彻斯特城",
+    "finish_odds": {
+      "wdl": {
+        "w": "8.50",
+        "d": "4.70",
+        "l": "1.28"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.28",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "0:1",
+      "score_odds": "7.00",
+      "goal_result": "1",
+      "goal_odds": "5.80",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.85"
+    }
+  }
+]

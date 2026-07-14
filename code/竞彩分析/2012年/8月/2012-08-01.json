@@ -1,0 +1,354 @@
+{
+  "time": "2012-08-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_3-1_9750",
+        "handicap": "3_3_286",
+        "halfFull": "33_13_641",
+        "size": "3_4_2279"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_3-1_1-0_58500",
+        "handicap": "3_3_3_526",
+        "halfFull": "33_13_13_3016",
+        "size": "3_4_1_8891"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_3-1_1-0_0-0_643500",
+        "handicap": "3_3_3_1_2053",
+        "halfFull": "33_13_13_11_17196",
+        "size": "3_4_1_0_97811"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_1_1_5647",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_1_1_1_22591",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_1_1_1_1_73422",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_1_1_1_1_3_104993",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_2-0_5850",
+        "handicap": "3_3_276",
+        "halfFull": "33_13_655",
+        "size": "3_2_1216"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_3-1_0-2_2-0_1053000",
+        "handicap": "3_3_0_3_1378",
+        "halfFull": "33_13_00_13_12196",
+        "size": "3_4_2_2_23347"
+      },
+      "team": "001_002_023_024"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2012-08-01 21:30",
+      "matchId": "202098",
+      "league": "奥运男足",
+      "home": "巴西国奥",
+      "away": "新西兰国奥",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.350",
+        "score_result": "3:0",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.310"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2012-08-01 21:30",
+      "matchId": "202099",
+      "league": "奥运男足",
+      "home": "埃及国奥",
+      "away": "白俄罗斯国奥",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "3:1",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2012-08-01 23:59",
+      "matchId": "202092",
+      "league": "奥运男足",
+      "home": "墨西哥国奥",
+      "away": "瑞士国奥",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.840",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.840",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2012-08-01 23:59",
+      "matchId": "202093",
+      "league": "奥运男足",
+      "home": "韩国国奥",
+      "away": "加蓬国奥",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2012-08-01 23:59",
+      "matchId": "202104",
+      "league": "奥运男足",
+      "home": "日本国奥",
+      "away": "洪都拉斯国奥",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.750",
+        "score_result": "0:0",
+        "score_odds": "6.500",
+        "goal_result": "0",
+        "goal_odds": "6.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2012-08-01 23:59",
+      "matchId": "202105",
+      "league": "奥运男足",
+      "home": "西班牙国奥",
+      "away": "摩洛哥国奥",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "0:0",
+        "score_odds": "14.000",
+        "goal_result": "0",
+        "goal_odds": "14.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2012-08-01 23:59",
+      "matchId": "210362",
+      "league": "冠军杯",
+      "home": "巴特",
+      "away": "德布勒森",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2012-08-01 00:30",
+      "matchId": "210365",
+      "league": "冠军杯",
+      "home": "谢莫纳夏普尔",
+      "away": "纳夫兹",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.430",
+        "score_result": "4:0",
+        "score_odds": "22.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.100"
+      }
+    },
+    {
+      "num": "周三023",
+      "match_time": "2012-08-01 08:50",
+      "matchId": "209685",
+      "league": "南俱杯",
+      "home": "巴伊亚",
+      "away": "圣保罗",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.350",
+        "score_result": "0:2",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周三024",
+      "match_time": "2012-08-01 08:50",
+      "matchId": "209684",
+      "league": "南俱杯",
+      "home": "帕尔梅拉斯",
+      "away": "博塔弗戈",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "2:0",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    }
+  ]
+}

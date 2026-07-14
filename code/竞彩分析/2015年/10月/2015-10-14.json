@@ -1,0 +1,354 @@
+{
+  "time": "2015-10-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-0_15400",
+        "handicap": "0_0_557",
+        "halfFull": "00_11_4420",
+        "size": "3_0_4900"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_0-0_3-0_111650",
+        "handicap": "0_0_3_914",
+        "halfFull": "00_11_33_6983",
+        "size": "3_0_3_16660"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_0-0_3-0_0-0_949025",
+        "handicap": "0_0_3_0_1801",
+        "halfFull": "00_11_33_11_32473",
+        "size": "3_0_3_0_141610"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_6306",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_0_9837",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_0_1_32465",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_0_1_1_110381",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-1_10450",
+        "handicap": "0_0_331",
+        "halfFull": "00_10_4420",
+        "size": "3_1_1575"
+      },
+      "team": "001_023"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_0-0_2-0_0-1_1170400",
+        "handicap": "0_0_3_0_2939",
+        "halfFull": "00_11_33_10_76134",
+        "size": "3_0_2_1_70560"
+      },
+      "team": "001_002_022_023"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2015-10-14 18:00",
+      "matchId": "834519",
+      "league": "天皇杯",
+      "home": "新泻天鹅",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.800"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2015-10-14 18:00",
+      "matchId": "834515",
+      "league": "天皇杯",
+      "home": "鹿岛鹿角",
+      "away": "水户蜀葵",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.860",
+        "score_result": "0:0",
+        "score_odds": "14.000",
+        "goal_result": "0",
+        "goal_odds": "14.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2015-10-14 18:00",
+      "matchId": "834524",
+      "league": "天皇杯",
+      "home": "川崎前锋",
+      "away": "京都不死鸟",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.170",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.640",
+        "score_result": "3:0",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.580"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2015-10-14 18:00",
+      "matchId": "834517",
+      "league": "天皇杯",
+      "home": "鸟栖沙岩",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.970",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.650"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2015-10-14 18:00",
+      "matchId": "834520",
+      "league": "天皇杯",
+      "home": "广岛三箭",
+      "away": "熊本深红",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.050"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2015-10-14 18:00",
+      "matchId": "834516",
+      "league": "天皇杯",
+      "home": "仙台维加泰",
+      "away": "大宫松鼠",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2015-10-14 18:00",
+      "matchId": "834521",
+      "league": "天皇杯",
+      "home": "甲府风林",
+      "away": "爱媛FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2015-10-14 18:00",
+      "matchId": "834523",
+      "league": "天皇杯",
+      "home": "神户胜利船",
+      "away": "千叶市原",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.600",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:0",
+        "score_odds": "6.300",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周三022",
+      "match_time": "2015-10-14 09:00",
+      "matchId": "767763",
+      "league": "美职",
+      "home": "达拉斯FC",
+      "away": "温哥华白帽",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.100",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周三023",
+      "match_time": "2015-10-14 09:30",
+      "matchId": "767778",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "波特兰伐木工",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    }
+  ]
+}

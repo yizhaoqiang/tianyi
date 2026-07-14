@@ -1,0 +1,354 @@
+{
+  "time": "2019-10-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "7-0_5-0_1488",
+        "handicap": "3_3_279",
+        "halfFull": "_33_143",
+        "size": "7+_5_1225"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "7-0_5-0_1-0_8183",
+        "handicap": "3_3_1_894",
+        "halfFull": "_33_33_323",
+        "size": "7+_5_1_5328"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "7-0_5-0_1-0_0-0_63425",
+        "handicap": "3_3_1_0_1914",
+        "halfFull": "_33_33_11_1551",
+        "size": "7+_5_1_0_41297"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_0_3_3330",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_0_3_1_12988",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_0_3_1_3_25067",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_0_3_1_3_0_36599",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "7-0_3-1_1364",
+        "handicap": "3_3_286",
+        "halfFull": "_33_202",
+        "size": "7+_4_875"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "7-0_5-0_0-0_3-1_94115",
+        "handicap": "3_3_0_3_836",
+        "halfFull": "_33_11_33_1068",
+        "size": "7+_5_0_4_35218"
+      },
+      "team": "001_002_014_015"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2019-10-10 20:00",
+      "matchId": "1070018",
+      "league": "世亚预",
+      "home": "中国",
+      "away": "关岛",
+      "result": {
+        "half": "6-0",
+        "full": "7-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-4",
+        "handicap_result": "3",
+        "handicap_odds": "1.300",
+        "score_result": "胜其他",
+        "score_odds": "1.240",
+        "goal_result": "7+",
+        "goal_odds": "1.750",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2019-10-10 20:00",
+      "matchId": "1070080",
+      "league": "世亚预",
+      "home": "乌兹别克斯坦",
+      "away": "也门",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.150",
+        "score_result": "5:0",
+        "score_odds": "12.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.430"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2019-10-10 21:00",
+      "matchId": "1070140",
+      "league": "世亚预",
+      "home": "越南",
+      "away": "马来西亚",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.260"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2019-10-10 00:00",
+      "matchId": "1070042",
+      "league": "世亚预",
+      "home": "约旦",
+      "away": "科威特",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.140",
+        "score_result": "0:0",
+        "score_odds": "7.750",
+        "goal_result": "0",
+        "goal_odds": "7.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2019-10-10 01:00",
+      "matchId": "1070081",
+      "league": "世亚预",
+      "home": "沙特",
+      "away": "新加坡",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.740",
+        "score_result": "3:0",
+        "score_odds": "5.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.330"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2019-10-10 02:45",
+      "matchId": "1054038",
+      "league": "欧预赛",
+      "home": "荷兰",
+      "away": "北爱尔兰",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.110",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "3:1",
+        "score_odds": "10.500",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2019-10-10 02:45",
+      "matchId": "1054041",
+      "league": "欧预赛",
+      "home": "克罗地亚",
+      "away": "匈牙利",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.930",
+        "score_result": "3:0",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.880"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2019-10-10 02:45",
+      "matchId": "1054040",
+      "league": "欧预赛",
+      "home": "斯洛伐克",
+      "away": "威尔士",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "1:1",
+        "score_odds": "5.300",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周四014",
+      "match_time": "2019-10-10 06:15",
+      "matchId": "1058304",
+      "league": "巴西甲",
+      "home": "阿瓦伊",
+      "away": "瓦斯科达伽马",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.360",
+        "score_result": "0:0",
+        "score_odds": "5.750",
+        "goal_result": "0",
+        "goal_odds": "5.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周四015",
+      "match_time": "2019-10-10 07:00",
+      "matchId": "1058302",
+      "league": "巴西甲",
+      "home": "弗拉门戈",
+      "away": "米内罗竞技",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.200",
+        "score_result": "3:1",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.020"
+      }
+    }
+  ]
+}

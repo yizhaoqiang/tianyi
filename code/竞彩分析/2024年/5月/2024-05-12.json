@@ -1,0 +1,354 @@
+{
+  "time": "2024-05-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-2_12650",
+        "handicap": "0_3_258",
+        "halfFull": "11_31_7500",
+        "size": "0_4_6325"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-2_1-1_82225",
+        "handicap": "0_3_0_552",
+        "halfFull": "11_31_31_112500",
+        "size": "0_4_2_23402"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-2_1-1_2-0_534462",
+        "handicap": "0_3_0_3_1426",
+        "halfFull": "11_31_31_33_241875",
+        "size": "0_4_2_2_81908"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_2296",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_0_3789",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_0_1_12506",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_0_1_1_55655",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-2_17250",
+        "handicap": "0_0_459",
+        "halfFull": "11_10_2937",
+        "size": "0_2_6670"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-2_1-3_0-2_9487500",
+        "handicap": "0_3_0_0_2093",
+        "halfFull": "11_31_10_10_599250",
+        "size": "0_4_4_2_152242"
+      },
+      "team": "001_002_026_027"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2024-05-12 14:00",
+      "matchId": "1256288",
+      "league": "澳超",
+      "home": "墨胜利",
+      "away": "惠灵顿",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2024-05-12 15:00",
+      "matchId": "1248525",
+      "league": "J2联赛",
+      "home": "甲府风林",
+      "away": "千叶市原",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.020",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2024-05-12 15:30",
+      "matchId": "1246946",
+      "league": "K联赛",
+      "home": "浦项制铁",
+      "away": "济州联",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.630",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.140",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2024-05-12 18:30",
+      "matchId": "1228148",
+      "league": "意甲",
+      "home": "拉齐奥",
+      "away": "恩波利",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.580",
+        "score_result": "2:0",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2024-05-12 19:00",
+      "matchId": "1256281",
+      "league": "英冠",
+      "home": "诺维奇",
+      "away": "利兹联",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.110",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.610",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2024-05-12 19:30",
+      "matchId": "1226540",
+      "league": "德乙",
+      "home": "卡斯鲁厄",
+      "away": "汉诺威96",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2024-05-12 20:00",
+      "matchId": "1219343",
+      "league": "西甲",
+      "home": "加的斯",
+      "away": "赫塔费",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.920",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2024-05-12 20:00",
+      "matchId": "1242338",
+      "league": "瑞典超",
+      "home": "北雪平",
+      "away": "哈马比",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.450",
+        "score_result": "1:2",
+        "score_odds": "8.750",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.300"
+      }
+    },
+    {
+      "num": "周日026",
+      "match_time": "2024-05-12 03:00",
+      "matchId": "1225497",
+      "league": "法甲",
+      "home": "巴黎圣曼",
+      "away": "图卢兹",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.000",
+        "score_result": "1:3",
+        "score_odds": "50.000",
+        "goal_result": "4",
+        "goal_odds": "4.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周日027",
+      "match_time": "2024-05-12 03:00",
+      "matchId": "1225504",
+      "league": "法甲",
+      "home": "蒙彼利埃",
+      "away": "摩纳哥",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.700",
+        "score_result": "0:2",
+        "score_odds": "15.000",
+        "goal_result": "2",
+        "goal_odds": "5.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.700"
+      }
+    }
+  ]
+}

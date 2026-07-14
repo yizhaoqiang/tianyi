@@ -1,0 +1,354 @@
+{
+  "time": "2016-11-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_1-1_7475",
+        "handicap": "3_0_226",
+        "halfFull": "33_11_684",
+        "size": "5_2_1860"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-1_1-1_2-1_52325",
+        "handicap": "3_0_1_825",
+        "halfFull": "33_11_33_1224",
+        "size": "5_2_3_6510"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_1-1_2-1_0-0_523250",
+        "handicap": "3_0_1_0_1189",
+        "halfFull": "33_11_33_11_6244",
+        "size": "5_2_3_0_65100"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_1807",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_1_5966",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_1_3_14975",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_1_3_0_28452",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_0-0_9750",
+        "handicap": "3_3_218",
+        "halfFull": "33_11_653",
+        "size": "5_0_4500"
+      },
+      "team": "001_019"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_1-1_2-1_0-0_616687",
+        "handicap": "3_0_3_3_520",
+        "halfFull": "33_11_33_11_16911",
+        "size": "5_2_3_0_55102"
+      },
+      "team": "001_002_018_019"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2016-11-02 18:00",
+      "matchId": "920095",
+      "league": "K联赛",
+      "home": "全北现代",
+      "away": "尚州尚武",
+      "result": {
+        "half": "1-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.110",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.550",
+        "score_result": "4:1",
+        "score_odds": "13.000",
+        "goal_result": "5",
+        "goal_odds": "6.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.520"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2016-11-02 18:00",
+      "matchId": "920112",
+      "league": "K联赛",
+      "home": "光州FC",
+      "away": "浦项制铁",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "1:1",
+        "score_odds": "5.750",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2016-11-02 18:30",
+      "matchId": "920094",
+      "league": "K联赛",
+      "home": "首尔FC",
+      "away": "全南天龙",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.790"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2016-11-02 18:30",
+      "matchId": "920100",
+      "league": "K联赛",
+      "home": "蔚山现代",
+      "away": "济州联",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.440",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2016-11-02 18:30",
+      "matchId": "920106",
+      "league": "K联赛",
+      "home": "城南FC",
+      "away": "水原城",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.760",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "1:2",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.450"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2016-11-02 18:30",
+      "matchId": "920105",
+      "league": "K联赛",
+      "home": "水原三星",
+      "away": "仁川联",
+      "result": {
+        "half": "1-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.730",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "3:2",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2016-11-02 03:45",
+      "matchId": "913831",
+      "league": "欧冠",
+      "home": "摩纳哥",
+      "away": "莫斯科中央陆军",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.510",
+        "score_result": "3:0",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2016-11-02 03:45",
+      "matchId": "913833",
+      "league": "欧冠",
+      "home": "托特纳姆热刺",
+      "away": "勒沃库森",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周三018",
+      "match_time": "2016-11-02 08:10",
+      "matchId": "921958",
+      "league": "阿根廷杯",
+      "home": "罗萨里奥中央",
+      "away": "博卡青年",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.630",
+        "score_result": "2:1",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周三019",
+      "match_time": "2016-11-02 10:00",
+      "matchId": "922071",
+      "league": "墨西哥杯",
+      "home": "克雷塔罗",
+      "away": "瓜达拉哈拉",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.410",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

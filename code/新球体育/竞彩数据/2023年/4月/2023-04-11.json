@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周二001",
+    "match_time": "2023-04-12 03:00",
+    "matchId": "2365683",
+    "league": "欧冠杯",
+    "home": "本菲卡",
+    "away": "国际米兰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.94",
+        "d": "3.13",
+        "l": "3.28"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.10",
+        "d": "3.60",
+        "l": "1.62"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.28",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.62",
+      "score_result": "0:2",
+      "score_odds": "18.00",
+      "goal_result": "2",
+      "goal_odds": "3.30",
+      "half_full_result": "1-0",
+      "half_full_odds": "8.85"
+    }
+  },
+  {
+    "num": "周二002",
+    "match_time": "2023-04-12 03:00",
+    "matchId": "2365682",
+    "league": "欧冠杯",
+    "home": "曼彻斯特城",
+    "away": "拜仁慕尼黑",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.48",
+        "d": "4.20",
+        "l": "4.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.50",
+        "d": "3.40",
+        "l": "2.25"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.48",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.50",
+      "score_result": "3:0",
+      "score_odds": "13.00",
+      "goal_result": "3",
+      "goal_odds": "3.80",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.50"
+    }
+  }
+]

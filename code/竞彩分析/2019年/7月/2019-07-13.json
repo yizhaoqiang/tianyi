@@ -1,0 +1,354 @@
+{
+  "time": "2019-07-13",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-1_3900",
+        "handicap": "1_1_1202",
+        "halfFull": "10_13_2060",
+        "size": "1_3_1239"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_2-1_2-1_37050",
+        "handicap": "1_1_3_1996",
+        "halfFull": "10_13_03_70040",
+        "size": "1_3_3_4090"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_2-1_1-0_203775",
+        "handicap": "1_1_3_1_6487",
+        "halfFull": "10_13_03_13_287164",
+        "size": "1_3_3_1_15543"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_3_1_3_25949",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_3_1_3_1_103799",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_3_1_3_1_3_149471",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_3_1_3_1_3_0_627781",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-2_7800",
+        "handicap": "1_0_962",
+        "halfFull": "10_11_3862",
+        "size": "1_4_1340"
+      },
+      "team": "001_035"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_0-3_2-2_963300",
+        "handicap": "1_1_0_0_12037",
+        "halfFull": "10_13_00_11_47895",
+        "size": "1_3_3_4_16361"
+      },
+      "team": "001_002_034_035"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2019-07-13 17:00",
+      "matchId": "1060278",
+      "league": "J联赛",
+      "home": "松本山雅",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.270",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.350",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.150"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2019-07-13 17:00",
+      "matchId": "1053100",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "长崎航海",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2019-07-13 17:00",
+      "matchId": "1053101",
+      "league": "J2联赛",
+      "home": "枥木SC",
+      "away": "山口雷诺法",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "2:1",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "0-3",
+        "half_full_odds": "34.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2019-07-13 17:00",
+      "matchId": "1053102",
+      "league": "J2联赛",
+      "home": "甲府风林",
+      "away": "爱媛FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2019-07-13 18:00",
+      "matchId": "1060282",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.000",
+        "score_result": "3:0",
+        "score_odds": "18.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2019-07-13 18:00",
+      "matchId": "1060281",
+      "league": "J联赛",
+      "home": "大阪钢巴",
+      "away": "清水鼓动",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "5.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2019-07-13 18:00",
+      "matchId": "1060283",
+      "league": "J联赛",
+      "home": "大分三神",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.430",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.440",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.650"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2019-07-13 18:00",
+      "matchId": "1060279",
+      "league": "J联赛",
+      "home": "仙台七夕",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-2",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.200",
+        "score_result": "0:4",
+        "score_odds": "50.000",
+        "goal_result": "4",
+        "goal_odds": "5.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周六034",
+      "match_time": "2019-07-13 10:00",
+      "matchId": "1050941",
+      "league": "美职",
+      "home": "温哥华白帽",
+      "away": "堪萨斯城竞技",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.850",
+        "score_result": "0:3",
+        "score_odds": "19.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周六035",
+      "match_time": "2019-07-13 11:00",
+      "matchId": "1050943",
+      "league": "美职",
+      "home": "波特兰伐木工",
+      "away": "科罗拉多急流",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.600",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "4.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.500"
+      }
+    }
+  ]
+}

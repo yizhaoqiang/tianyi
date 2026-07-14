@@ -1,0 +1,200 @@
+{
+  "time": "2023-10-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_2-1_40700",
+        "handicap": "3_1_1128",
+        "halfFull": "13_33_1291",
+        "size": "6_3_7920"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-2_2-1_3-0_610500",
+        "handicap": "3_1_3_3271",
+        "halfFull": "13_33_33_3306",
+        "size": "6_3_3_25344"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-2_2-1_3-0_1-0_7936500",
+        "handicap": "3_1_3_0_6411",
+        "halfFull": "13_33_33_13_16531",
+        "size": "6_3_3_1_304128"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_3_18273",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_2-0_41250",
+        "handicap": "3_3_835",
+        "halfFull": "13_33_1066",
+        "size": "6_2_7259"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-2_2-1_1-0_2-0_3968250",
+        "handicap": "3_1_0_3_6301",
+        "halfFull": "13_33_13_33_16789",
+        "size": "6_3_1_2_313632"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2023-10-20 18:00",
+      "matchId": "1206590",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "1-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.600",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.930",
+        "score_result": "4:2",
+        "score_odds": "55.000",
+        "goal_result": "6",
+        "goal_odds": "22.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2023-10-20 00:30",
+      "matchId": "1226333",
+      "league": "德乙",
+      "home": "汉诺威96",
+      "away": "马格德堡",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.870",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "2:1",
+        "score_odds": "7.400",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2023-10-20 00:30",
+      "matchId": "1226336",
+      "league": "德乙",
+      "home": "埃沃斯堡",
+      "away": "不伦瑞克",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.900",
+        "score_result": "3:0",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.560"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2023-10-20 02:30",
+      "matchId": "1226005",
+      "league": "德甲",
+      "home": "多特蒙德",
+      "away": "不来梅",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.960",
+        "score_result": "1:0",
+        "score_odds": "13.000",
+        "goal_result": "1",
+        "goal_odds": "12.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2023-10-20 03:00",
+      "matchId": "1219098",
+      "league": "西甲",
+      "home": "奥萨苏纳",
+      "away": "格拉纳达",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.850",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    }
+  ]
+}

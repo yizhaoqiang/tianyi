@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2021-05-15 02:00",
+    "matchId": "1918191",
+    "league": "葡超",
+    "home": "费雷拉",
+    "away": "吉维森特",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.42",
+        "d": "2.87",
+        "l": "2.58"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.70",
+        "d": "4.10",
+        "l": "1.37"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.58",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.37",
+      "score_result": "0:2",
+      "score_odds": "12.00",
+      "goal_result": "2",
+      "goal_odds": "3.20",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.55"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2021-05-15 03:00",
+    "matchId": "1904115",
+    "league": "英超",
+    "home": "纽卡斯尔联",
+    "away": "曼彻斯特城",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.84",
+        "d": "3.85",
+        "l": "2.90"
+      },
+      "handicap": {
+        "line": "2",
+        "w": "1.84",
+        "d": "3.85",
+        "l": "2.90"
+      }
+    },
+    "result": {
+      "half": "2-2",
+      "full": "3-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "",
+      "handicap": "+2",
+      "handicap_result": "3",
+      "handicap_odds": "1.84",
+      "score_result": "3:4",
+      "score_odds": "17.00",
+      "goal_result": "7+",
+      "goal_odds": "15.00",
+      "half_full_result": "1-0",
+      "half_full_odds": "4.10"
+    }
+  }
+]

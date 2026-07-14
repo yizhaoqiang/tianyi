@@ -1,0 +1,354 @@
+{
+  "time": "2015-01-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_2-0_39200",
+        "handicap": "3_3_386",
+        "halfFull": "13_33_1096",
+        "size": "5_2_4480"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-1_2-0_0-2_294000",
+        "handicap": "3_3_0_1274",
+        "halfFull": "13_33_10_4385",
+        "size": "5_2_2_13439"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_2-0_0-2_3-1_3528000",
+        "handicap": "3_3_0_3_3353",
+        "halfFull": "13_33_10_33_9210",
+        "size": "5_2_2_4_69887"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_7477",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_0_12262",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_0_1_41693",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_0_1_0_70044",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_0-0_52500",
+        "handicap": "3_0_291",
+        "halfFull": "13_11_2142",
+        "size": "5_0_12000"
+      },
+      "team": "001_025"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_2-0_3-1_0-0_3234000",
+        "handicap": "3_3_3_0_1942",
+        "halfFull": "13_33_33_11_8796",
+        "size": "5_2_4_0_168000"
+      },
+      "team": "001_002_024_025"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2015-01-11 15:00",
+      "matchId": "690006",
+      "league": "亚洲杯",
+      "home": "阿联酋",
+      "away": "卡塔尔",
+      "result": {
+        "half": "1-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.590",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.370",
+        "score_result": "4:1",
+        "score_odds": "70.000",
+        "goal_result": "5",
+        "goal_odds": "16.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2015-01-11 17:00",
+      "matchId": "690009",
+      "league": "亚洲杯",
+      "home": "伊朗",
+      "away": "巴林",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.820",
+        "score_result": "2:0",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "2.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2015-01-11 19:00",
+      "matchId": "734203",
+      "league": "西甲",
+      "home": "阿尔梅里亚",
+      "away": "塞维利亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.300",
+        "score_result": "0:2",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2015-01-11 19:30",
+      "matchId": "736765",
+      "league": "意甲",
+      "home": "国际米兰",
+      "away": "热那亚",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.630",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.100"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2015-01-11 21:30",
+      "matchId": "706059",
+      "league": "英超",
+      "home": "阿森纳",
+      "away": "斯托克城",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.230",
+        "score_result": "3:0",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2015-01-11 22:00",
+      "matchId": "707080",
+      "league": "英冠",
+      "home": "布莱克本",
+      "away": "狼队",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.640",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2015-01-11 22:00",
+      "matchId": "736752",
+      "league": "意甲",
+      "home": "佛罗伦萨",
+      "away": "巴勒莫",
+      "result": {
+        "half": "1-0",
+        "full": "4-3",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "胜其他",
+        "score_odds": "35.000",
+        "goal_result": "7+",
+        "goal_odds": "23.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周日009",
+      "match_time": "2015-01-11 22:00",
+      "matchId": "736763",
+      "league": "意甲",
+      "home": "罗马",
+      "away": "拉齐奥",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日024",
+      "match_time": "2015-01-11 04:00",
+      "matchId": "734232",
+      "league": "西甲",
+      "home": "巴塞罗那",
+      "away": "马德里竞技",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.360",
+        "score_result": "3:1",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.910"
+      }
+    },
+    {
+      "num": "周日025",
+      "match_time": "2015-01-11 04:00",
+      "matchId": "702710",
+      "league": "法甲",
+      "home": "摩纳哥",
+      "away": "波尔多",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.130",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    }
+  ]
+}

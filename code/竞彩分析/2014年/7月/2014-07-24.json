@@ -1,0 +1,354 @@
+{
+  "time": "2014-07-24",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-1_6587",
+        "handicap": "0_0_238",
+        "halfFull": "11_00_2115",
+        "size": "0_1_3894"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_0-1_0-1_98812",
+        "handicap": "0_0_0_638",
+        "halfFull": "11_00_10_26437",
+        "size": "0_1_1_18501"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-1_0-1_2-0_553350",
+        "handicap": "0_0_0_3_1041",
+        "halfFull": "11_00_10_13_93853",
+        "size": "0_1_1_2_65679"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_2457",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_0_7741",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_0_0_20516",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_0_0_3_40622",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_3-1_10200",
+        "handicap": "0_3_402",
+        "halfFull": "11_13_1890",
+        "size": "0_4_4940"
+      },
+      "team": "001_014"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-1_0-3_3-1_3557250",
+        "handicap": "0_0_0_3_1274",
+        "halfFull": "11_00_00_13_53298",
+        "size": "0_1_3_4_70889"
+      },
+      "team": "001_002_013_014"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2014-07-24 21:30",
+      "matchId": "722085",
+      "league": "欧洲联赛",
+      "home": "贝尔谢巴夏普尔",
+      "away": "RNK斯普利特",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2014-07-24 00:00",
+      "matchId": "721268",
+      "league": "欧洲联赛",
+      "home": "国际巴库",
+      "away": "埃尔夫斯堡",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "0:1",
+        "score_odds": "7.750",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2014-07-24 01:00",
+      "matchId": "722131",
+      "league": "欧洲联赛",
+      "home": "IFK哥德堡",
+      "away": "杰尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.680",
+        "score_result": "0:1",
+        "score_odds": "15.000",
+        "goal_result": "1",
+        "goal_odds": "4.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "12.500"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2014-07-24 01:00",
+      "matchId": "717440",
+      "league": "欧洲联赛",
+      "home": "AIK索尔纳",
+      "away": "林菲尔德",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.170",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.630",
+        "score_result": "2:0",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2014-07-24 01:30",
+      "matchId": "722112",
+      "league": "欧洲联赛",
+      "home": "格罗宁根",
+      "away": "阿伯丁",
+      "result": {
+        "half": "1-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.360",
+        "score_result": "1:2",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2014-07-24 02:00",
+      "matchId": "722118",
+      "league": "欧洲联赛",
+      "home": "斯莱戈流浪",
+      "away": "罗森博格",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.690",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.150",
+        "score_result": "1:3",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2014-07-24 02:15",
+      "matchId": "722089",
+      "league": "欧洲联赛",
+      "home": "斯普利特海杜克",
+      "away": "邓多克",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.650",
+        "score_result": "1:2",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-0",
+        "half_full_odds": "50.000"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2014-07-24 02:30",
+      "matchId": "711096",
+      "league": "欧洲联赛",
+      "home": "戈里察",
+      "away": "莫尔德",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.980",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周四013",
+      "match_time": "2014-07-24 08:00",
+      "matchId": "727057",
+      "league": "国际冠军赛",
+      "home": "AC米兰",
+      "away": "奥林匹亚科斯",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.980",
+        "score_result": "0:3",
+        "score_odds": "45.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周四014",
+      "match_time": "2014-07-24 10:00",
+      "matchId": "665508",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "蒙特利尔冲击",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.700",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    }
+  ]
+}

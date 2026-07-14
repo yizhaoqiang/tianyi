@@ -1,0 +1,354 @@
+{
+  "time": "2023-07-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-0_0-0_180000",
+        "handicap": "3_0_666",
+        "halfFull": "33_11_1653",
+        "size": "5_0_18000"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "5-0_0-0_2-1_1530000",
+        "handicap": "3_0_1_2599",
+        "halfFull": "33_11_33_7355",
+        "size": "5_0_3_67500"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "5-0_0-0_2-1_4-1_91800000",
+        "handicap": "3_0_1_3_13649",
+        "halfFull": "33_11_33_33_30158",
+        "size": "5_0_3_5_708750"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_3_0_24432",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_3_0_1_92844",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_3_0_1_1_357453",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_3_0_1_1_0_482561",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-0_1-0_135000",
+        "handicap": "3_1_1289",
+        "halfFull": "33_13_1623",
+        "size": "5_1_9000"
+      },
+      "team": "001_017"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "5-0_0-0_0-5_1-0_1620000",
+        "handicap": "3_0_0_1_4388",
+        "halfFull": "33_11_00_13_58780",
+        "size": "5_0_5_1_1458000"
+      },
+      "team": "001_002_016_017"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2023-07-29 15:30",
+      "matchId": "1199205",
+      "league": "女足世界杯",
+      "home": "瑞典女",
+      "away": "意大利女",
+      "result": {
+        "half": "3-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.640",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.350",
+        "score_result": "5:0",
+        "score_odds": "150.000",
+        "goal_result": "5",
+        "goal_odds": "15.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2023-07-29 17:00",
+      "matchId": "1207046",
+      "league": "J2联赛",
+      "home": "东京绿茵",
+      "away": "水户蜀葵",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.990",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2023-07-29 18:00",
+      "matchId": "1199200",
+      "league": "女足世界杯",
+      "home": "法国女",
+      "away": "巴西女",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.330",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.450"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2023-07-29 18:00",
+      "matchId": "1207051",
+      "league": "J2联赛",
+      "home": "长崎航海",
+      "away": "熊本深红",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.430",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.250",
+        "score_result": "4:1",
+        "score_odds": "60.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2023-07-29 18:00",
+      "matchId": "1207049",
+      "league": "J2联赛",
+      "home": "仙台七夕",
+      "away": "藤枝MYFC",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.790",
+        "score_result": "1:1",
+        "score_odds": "7.700",
+        "goal_result": "2",
+        "goal_odds": "4.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.500"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2023-07-29 19:00",
+      "matchId": "1226255",
+      "league": "德乙",
+      "home": "奥斯纳",
+      "away": "卡斯鲁厄",
+      "result": {
+        "half": "1-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "2:3",
+        "score_odds": "20.000",
+        "goal_result": "5",
+        "goal_odds": "8.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2023-07-29 19:00",
+      "matchId": "1226250",
+      "league": "德乙",
+      "home": "凯泽",
+      "away": "圣保利",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.040",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2023-07-29 19:00",
+      "matchId": "1226256",
+      "league": "德乙",
+      "home": "韦恩",
+      "away": "马格德堡",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.470",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周六016",
+      "match_time": "2023-07-29 02:00",
+      "matchId": "1200461",
+      "league": "瑞典超",
+      "home": "哈尔姆斯",
+      "away": "瓦尔贝里",
+      "result": {
+        "half": "0-4",
+        "full": "0-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.680",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.710",
+        "score_result": "0:5",
+        "score_odds": "1,000.000",
+        "goal_result": "5",
+        "goal_odds": "13.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.350"
+      }
+    },
+    {
+      "num": "周六017",
+      "match_time": "2023-07-29 02:30",
+      "matchId": "1226249",
+      "league": "德乙",
+      "home": "杜塞多夫",
+      "away": "柏林赫塔",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.040",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.600"
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "time": "2014-10-16",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-1_4500",
+        "handicap": "3_0_484",
+        "halfFull": "33_01_3679",
+        "size": "2_2_930"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_1-1_0-1_31500",
+        "handicap": "3_0_1_2204",
+        "halfFull": "33_01_10_21712",
+        "size": "2_2_1_3580"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-1_0-1_1-2_267750",
+        "handicap": "3_0_1_0_3240",
+        "halfFull": "33_01_10_30_586224",
+        "size": "2_2_1_3_12173"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_17661",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_0_3_46448",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_5-0_33750",
+        "handicap": "3_3_749",
+        "halfFull": "33_33_505",
+        "size": "2_5_3100"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-1_1-3_5-0_4657500",
+        "handicap": "3_0_0_3_6944",
+        "halfFull": "33_01_30_33_267168",
+        "size": "2_2_4_5_74400"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2014-10-16 03:00",
+      "matchId": "760482",
+      "league": "西班牙国王杯",
+      "home": "拉斯帕尔马斯",
+      "away": "努曼西亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.850",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2014-10-16 06:10",
+      "matchId": "761097",
+      "league": "阿根廷杯",
+      "home": "阿根廷青年人",
+      "away": "卡塞罗斯大学生",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2014-10-16 06:15",
+      "matchId": "760810",
+      "league": "南俱杯",
+      "home": "维多利亚",
+      "away": "麦德林国民竞技",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.690",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.550",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.850",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.900"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2014-10-16 08:00",
+      "matchId": "665651",
+      "league": "美职",
+      "home": "休斯顿迪纳摩",
+      "away": "新英格兰革命",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.480",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-0",
+        "half_full_odds": "27.000"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2014-10-16 08:30",
+      "matchId": "760801",
+      "league": "南俱杯",
+      "home": "亚松森自由",
+      "away": "河床",
+      "result": {
+        "half": "1-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.270",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.450",
+        "score_result": "1:3",
+        "score_odds": "23.000",
+        "goal_result": "4",
+        "goal_odds": "8.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "33.000"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2014-10-16 08:30",
+      "matchId": "758981",
+      "league": "巴西杯",
+      "home": "桑托斯",
+      "away": "博塔弗戈",
+      "result": {
+        "half": "3-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.630",
+        "score_result": "5:0",
+        "score_odds": "45.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.200"
+      }
+    }
+  ]
+}

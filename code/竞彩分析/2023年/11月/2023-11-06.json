@@ -1,0 +1,200 @@
+{
+  "time": "2023-11-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-2_22400",
+        "handicap": "3_3_491",
+        "halfFull": "33_10_5405",
+        "size": "2_2_2372"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_0-2_2-1_162400",
+        "handicap": "3_3_1_1697",
+        "halfFull": "33_10_13_22160",
+        "size": "2_2_3_8066"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-2_2-1_1-4_8120000",
+        "handicap": "3_3_1_0_2681",
+        "halfFull": "33_10_13_10_166203",
+        "size": "2_2_3_5_76631"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_0_1_7911",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-0_13300",
+        "handicap": "3_1_708",
+        "halfFull": "33_13_4082",
+        "size": "2_1_1332"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-2_1-4_1-0_5320000",
+        "handicap": "3_3_0_1_2293",
+        "halfFull": "33_10_10_13_143908",
+        "size": "2_2_5_1_82266"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2023-11-06 20:00",
+      "matchId": "1236639",
+      "league": "亚冠杯",
+      "home": "巴空军",
+      "away": "吉达联合",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "2:0",
+        "score_odds": "28.000",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "11.500"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2023-11-06 22:00",
+      "matchId": "1236638",
+      "league": "亚冠杯",
+      "home": "孟买城",
+      "away": "利雅新月",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+3",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "0:2",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "6.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2023-11-06 03:45",
+      "matchId": "1227896",
+      "league": "意甲",
+      "home": "都灵",
+      "away": "萨索洛",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.830",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2023-11-06 04:00",
+      "matchId": "1216579",
+      "league": "英超",
+      "home": "热刺",
+      "away": "切尔西",
+      "result": {
+        "half": "1-1",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "1:4",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2023-11-06 04:00",
+      "matchId": "1219116",
+      "league": "西甲",
+      "home": "赫塔费",
+      "away": "加的斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "1:0",
+        "score_odds": "4.750",
+        "goal_result": "1",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.550"
+      }
+    }
+  ]
+}

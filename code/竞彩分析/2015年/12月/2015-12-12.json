@@ -1,0 +1,354 @@
+{
+  "time": "2015-12-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_2-0_8337",
+        "handicap": "1_3_1620",
+        "halfFull": "03_13_11660",
+        "size": "3_2_1242"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_2-0_2-1_58362",
+        "handicap": "1_3_1_5994",
+        "halfFull": "03_13_03_233200",
+        "size": "3_2_3_4347"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_2-0_2-1_0-3_1634150",
+        "handicap": "1_3_1_0_8451",
+        "halfFull": "03_13_03_00_909479",
+        "size": "3_2_3_3_15214"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_1_32115",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_1_1_123646",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_1_1_1_457490",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_1_1_1_3_667935",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-0_4531",
+        "handicap": "1_1_1296",
+        "halfFull": "03_13_10560",
+        "size": "3_1_1386"
+      },
+      "team": "001_066"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_2-0_2-4_1-0_2605468",
+        "handicap": "1_3_0_1_13296",
+        "halfFull": "03_13_00_13_112495",
+        "size": "3_2_6_1_66943"
+      },
+      "team": "001_002_065_066"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2015-12-12 14:15",
+      "matchId": "802887",
+      "league": "澳超",
+      "home": "布里斯班狮吼",
+      "away": "惠灵顿凤凰",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2015-12-12 16:30",
+      "matchId": "802885",
+      "league": "澳超",
+      "home": "西悉尼漫步者",
+      "away": "墨尔本胜利",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.500",
+        "score_result": "2:0",
+        "score_odds": "11.500",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2015-12-12 18:40",
+      "matchId": "802886",
+      "league": "澳超",
+      "home": "珀斯光荣",
+      "away": "中央海岸水手",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.760",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "20.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2015-12-12 20:00",
+      "matchId": "800862",
+      "league": "德乙",
+      "home": "杜塞尔多夫",
+      "away": "柏林联合",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.560",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "0:3",
+        "score_odds": "28.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2015-12-12 20:00",
+      "matchId": "800869",
+      "league": "德乙",
+      "home": "卡尔斯鲁厄",
+      "away": "菲尔特",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2015-12-12 20:30",
+      "matchId": "793486",
+      "league": "英冠",
+      "home": "米尔顿凯恩斯",
+      "away": "伊普斯维奇",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "0:1",
+        "score_odds": "6.900",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2015-12-12 20:30",
+      "matchId": "797214",
+      "league": "苏超",
+      "home": "阿伯丁",
+      "away": "哈茨",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:0",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2015-12-12 20:45",
+      "matchId": "792484",
+      "league": "英超",
+      "home": "诺维奇",
+      "away": "埃弗顿",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.460",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "0-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周六065",
+      "match_time": "2015-12-12 04:45",
+      "matchId": "806256",
+      "league": "葡超",
+      "home": "塞图巴尔",
+      "away": "本菲卡",
+      "result": {
+        "half": "0-2",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.280",
+        "score_result": "2:4",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.010"
+      }
+    },
+    {
+      "num": "周六066",
+      "match_time": "2015-12-12 05:05",
+      "matchId": "808708",
+      "league": "西甲",
+      "home": "拉斯帕尔马斯",
+      "away": "皇家贝蒂斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.940",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "time": "2014-05-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-0_2990",
+        "handicap": "0_1_672",
+        "halfFull": "11_13_1872",
+        "size": "2_1_1212"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-0_0-1_17939",
+        "handicap": "0_1_1_2520",
+        "halfFull": "11_13_10_9360",
+        "size": "2_1_1_4123"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-0_0-1_0-2_116609",
+        "handicap": "0_1_1_0_7434",
+        "halfFull": "11_13_10_10_37440",
+        "size": "2_1_1_2_12782"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_0_3_11002",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_0_3_0_21454",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_0_3_0_3_43981",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_5-1_11700",
+        "handicap": "0_3_430",
+        "halfFull": "11_33_552",
+        "size": "2_6_2126"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-0_2-2_5-1_592020",
+        "handicap": "0_1_0_3_2686",
+        "halfFull": "11_13_01_33_30139",
+        "size": "2_1_4_6_40930"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2014-05-26 17:30",
+      "matchId": "701197",
+      "league": "友谊赛",
+      "home": "澳大利亚",
+      "away": "南非",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2014-05-26 22:00",
+      "matchId": "700697",
+      "league": "友谊赛",
+      "home": "俄罗斯",
+      "away": "斯洛伐克",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "4.600",
+        "goal_result": "1",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2014-05-26 22:00",
+      "matchId": "701828",
+      "league": "英乙",
+      "home": "伯顿",
+      "away": "福利特伍德",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.190",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2014-05-26 01:00",
+      "matchId": "701539",
+      "league": "友谊赛",
+      "home": "马其顿",
+      "away": "喀麦隆",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.950",
+        "score_result": "0:2",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2014-05-26 01:00",
+      "matchId": "669299",
+      "league": "瑞典超",
+      "home": "耶夫勒",
+      "away": "佐加顿斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "1:1",
+        "score_odds": "5.800",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2014-05-26 01:05",
+      "matchId": "669302",
+      "league": "瑞典超",
+      "home": "马尔默",
+      "away": "AIK索尔纳",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2014-05-26 02:45",
+      "matchId": "701420",
+      "league": "友谊赛",
+      "home": "比利时",
+      "away": "卢森堡",
+      "result": {
+        "half": "2-1",
+        "full": "5-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "5:1",
+        "score_odds": "18.000",
+        "goal_result": "6",
+        "goal_odds": "6.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.150"
+      }
+    }
+  ]
+}

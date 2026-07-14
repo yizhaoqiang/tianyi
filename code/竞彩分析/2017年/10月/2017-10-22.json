@@ -1,0 +1,354 @@
+{
+  "time": "2017-10-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-1_5850",
+        "handicap": "0_1_574",
+        "halfFull": "00_03_11280",
+        "size": "1_3_1655"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_2-1_0-0_43875",
+        "handicap": "0_1_3_815",
+        "halfFull": "00_03_11_45120",
+        "size": "1_3_0_12419"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_0-0_1-1_285187",
+        "handicap": "0_1_3_3_1672",
+        "halfFull": "00_03_11_31_631680",
+        "size": "1_3_0_2_39744"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_2475",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_0_4059",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_0_0_9946",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_0_0_0_14124",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-3_23400",
+        "handicap": "0_1_608",
+        "halfFull": "00_00_1574",
+        "size": "1_5_5759"
+      },
+      "team": "001_082"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_2-1_2-3_1064700",
+        "handicap": "0_1_1_1_7239",
+        "halfFull": "00_03_03_00_717972",
+        "size": "1_3_3_5_69552"
+      },
+      "team": "001_002_081_082"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2017-10-22 13:00",
+      "matchId": "956462",
+      "league": "J2联赛",
+      "home": "福冈黄蜂",
+      "away": "千叶市原",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.690",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2017-10-22 13:00",
+      "matchId": "956460",
+      "league": "J2联赛",
+      "home": "冈山绿雉",
+      "away": "群马温泉",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-3",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2017-10-22 13:00",
+      "matchId": "956461",
+      "league": "J2联赛",
+      "home": "赞岐釜玉海",
+      "away": "山形山神",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2017-10-22 13:00",
+      "matchId": "956443",
+      "league": "J2联赛",
+      "home": "熊本深红",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2017-10-22 13:00",
+      "matchId": "956590",
+      "league": "J2联赛",
+      "home": "金泽塞维根",
+      "away": "京都不死鸟",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2017-10-22 14:00",
+      "matchId": "992017",
+      "league": "澳超",
+      "home": "布里斯班狮吼",
+      "away": "纽卡斯尔喷气机",
+      "result": {
+        "half": "1-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.640",
+        "score_result": "1:2",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2017-10-22 14:00",
+      "matchId": "997050",
+      "league": "K联赛",
+      "home": "江原FC",
+      "away": "全北现代",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.450",
+        "score_result": "0:4",
+        "score_odds": "23.000",
+        "goal_result": "4",
+        "goal_odds": "4.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2017-10-22 14:00",
+      "matchId": "997049",
+      "league": "K联赛",
+      "home": "蔚山现代",
+      "away": "济州联",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.420",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周日081",
+      "match_time": "2017-10-22 07:30",
+      "matchId": "962732",
+      "league": "智利甲",
+      "home": "智利大学",
+      "away": "巴勒斯坦人",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周日082",
+      "match_time": "2017-10-22 08:15",
+      "matchId": "959643",
+      "league": "墨联",
+      "home": "韦拉克鲁斯",
+      "away": "瓜达拉哈拉",
+      "result": {
+        "half": "0-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:3",
+        "score_odds": "26.000",
+        "goal_result": "5",
+        "goal_odds": "12.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    }
+  ]
+}

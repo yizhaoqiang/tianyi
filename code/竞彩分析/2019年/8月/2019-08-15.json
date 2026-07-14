@@ -1,0 +1,308 @@
+{
+  "time": "2019-08-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-0_6500",
+        "handicap": "1_0_904",
+        "halfFull": "03_11_12000",
+        "size": "3_0_3350"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_0-0_3-1_117000",
+        "handicap": "1_0_3_4973",
+        "halfFull": "03_11_13_60000",
+        "size": "3_0_4_19095"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-0_3-1_2-1_789750",
+        "handicap": "1_0_3_1_17405",
+        "halfFull": "03_11_13_33_156000",
+        "size": "3_0_4_3_64923"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_1_60920",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_1_3_137071",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_1_3_3_308409",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_1_3_3_0_456446",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-2_8450",
+        "handicap": "1_0_488",
+        "halfFull": "03_00_10000",
+        "size": "3_2_1055"
+      },
+      "team": "001_008"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-0_3-0_0-2_802750",
+        "handicap": "1_0_3_0_3010",
+        "halfFull": "03_11_13_00_186000",
+        "size": "3_0_3_2_35350"
+      },
+      "team": "001_002_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2019-08-15 00:45",
+      "matchId": "1071470",
+      "league": "欧洲联赛",
+      "home": "莫斯科斯巴达",
+      "away": "图恩",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "0-3",
+        "half_full_odds": "20.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2019-08-15 01:00",
+      "matchId": "1075127",
+      "league": "欧洲联赛",
+      "home": "巴特",
+      "away": "萨拉热窝",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.080",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.740",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2019-08-15 01:30",
+      "matchId": "1075152",
+      "league": "欧洲联赛",
+      "home": "贝尔谢巴夏普尔",
+      "away": "北雪平",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.380",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.500",
+        "score_result": "3:1",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2019-08-15 01:30",
+      "matchId": "1071472",
+      "league": "欧洲联赛",
+      "home": "特拉布宗体育",
+      "away": "布拉格斯巴达",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2019-08-15 02:00",
+      "matchId": "1075111",
+      "league": "欧洲联赛",
+      "home": "比尔森",
+      "away": "安特卫普",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2019-08-15 02:30",
+      "matchId": "1075158",
+      "league": "欧洲联赛",
+      "home": "阿尔克马尔",
+      "away": "马里乌波尔",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "4:0",
+        "score_odds": "8.500",
+        "goal_result": "4",
+        "goal_odds": "4.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.420"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2019-08-15 02:30",
+      "matchId": "1075159",
+      "league": "欧洲联赛",
+      "home": "根特",
+      "away": "AEK拉纳卡",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "3:0",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2019-08-15 02:45",
+      "matchId": "1075185",
+      "league": "欧洲联赛",
+      "home": "阿伯丁",
+      "away": "里耶卡",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "0:2",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    }
+  ]
+}

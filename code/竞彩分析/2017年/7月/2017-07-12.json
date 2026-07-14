@@ -1,0 +1,328 @@
+{
+  "time": "2017-07-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-2_5270",
+        "handicap": "3_0_413",
+        "halfFull": "31_00_3185",
+        "size": "2_2_1168"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-2_1-4_263500",
+        "handicap": "3_0_0_2110",
+        "halfFull": "31_00_00_11466",
+        "size": "2_2_5_11680"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-2_1-4_0-5_8432000",
+        "handicap": "3_0_0_0_3904",
+        "halfFull": "31_00_00_00_19836",
+        "size": "2_2_5_5_85264"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_7614",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_0_17664",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_0_3_31266",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_0_3_3_53778",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2017-07-12 18:00",
+      "matchId": "960826",
+      "league": "天皇杯",
+      "home": "新泻天鹅",
+      "away": "大阪樱花",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.550",
+        "score_result": "1:1",
+        "score_odds": "6.800",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2017-07-12 18:00",
+      "matchId": "960839",
+      "league": "天皇杯",
+      "home": "千叶市原",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.670",
+        "score_result": "0:2",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2017-07-12 18:00",
+      "matchId": "960827",
+      "league": "天皇杯",
+      "home": "湘南海洋",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "0-2",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.100",
+        "score_result": "1:4",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2017-07-12 18:00",
+      "matchId": "960837",
+      "league": "天皇杯",
+      "home": "山形山神",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-1",
+        "full": "0-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "0:5",
+        "score_odds": "32.000",
+        "goal_result": "5",
+        "goal_odds": "7.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.730"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2017-07-12 18:00",
+      "matchId": "960838",
+      "league": "天皇杯",
+      "home": "大分三神",
+      "away": "柏太阳神",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "0:2",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2017-07-12 18:00",
+      "matchId": "960833",
+      "league": "天皇杯",
+      "home": "群马温泉",
+      "away": "川崎前锋",
+      "result": {
+        "half": "0-2",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.100",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "0:4",
+        "score_odds": "8.500",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.400"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2017-07-12 18:00",
+      "matchId": "960834",
+      "league": "天皇杯",
+      "home": "爱媛FC",
+      "away": "大宫松鼠",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.770",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2017-07-12 18:00",
+      "matchId": "960830",
+      "league": "天皇杯",
+      "home": "松本山雅",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "2:1",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.800"
+      }
+    },
+    {
+      "num": "周三036",
+      "match_time": "2017-07-12 09:00",
+      "matchId": "954775",
+      "league": "金杯赛",
+      "home": "美国",
+      "away": "马提尼克",
+      "result": {
+        "half": "0-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.100",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "3:2",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周三029",
+      "match_time": "2017-07-12 10:00",
+      "matchId": "968226",
+      "league": "美公开杯",
+      "home": "迈阿密FC",
+      "away": "辛辛那提FC",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "-1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "time": "2022-10-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_5-0_110000",
+        "handicap": "0_3_2266",
+        "halfFull": "10_33_1653",
+        "size": "2_5_3150"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_5-0_4-0_1430000",
+        "handicap": "0_3_3_4577",
+        "halfFull": "10_33_33_2927",
+        "size": "2_5_4_15750"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_5-0_4-0_0-3_9438000",
+        "handicap": "0_3_3_0_12953",
+        "halfFull": "10_33_33_00_4449",
+        "size": "2_5_4_3_51975"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_0_19819",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-1_10450",
+        "handicap": "0_0_787",
+        "halfFull": "10_10_3806",
+        "size": "2_1_1784"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_5-0_0-3_0-1_6897000",
+        "handicap": "0_3_0_0_9811",
+        "halfFull": "10_33_00_10_18224",
+        "size": "2_5_3_1_53014"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2022-10-21 00:30",
+      "matchId": "1174620",
+      "league": "德乙",
+      "home": "罗斯托克",
+      "away": "凯泽",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.320",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.150",
+        "score_result": "0:2",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.250"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2022-10-21 02:30",
+      "matchId": "1172593",
+      "league": "德甲",
+      "home": "美因茨",
+      "away": "科隆",
+      "result": {
+        "half": "3-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.400",
+        "score_result": "5:0",
+        "score_odds": "100.000",
+        "goal_result": "5",
+        "goal_odds": "9.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2022-10-21 02:45",
+      "matchId": "1176475",
+      "league": "意甲",
+      "home": "尤文图斯",
+      "away": "恩波利",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.020",
+        "score_result": "4:0",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.770"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2022-10-21 03:00",
+      "matchId": "1172230",
+      "league": "法甲",
+      "home": "阿雅克肖",
+      "away": "巴黎圣曼",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.180",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "2.830",
+        "score_result": "0:3",
+        "score_odds": "6.600",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.520"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2022-10-21 03:15",
+      "matchId": "1188509",
+      "league": "葡超",
+      "home": "波尔图",
+      "away": "本菲卡",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.930",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.250"
+      }
+    }
+  ]
+}

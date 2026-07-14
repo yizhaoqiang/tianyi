@@ -1,0 +1,289 @@
+{
+  "time": "2015-08-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-2_4218",
+        "handicap": "3_1_489",
+        "halfFull": "01_00_3219",
+        "size": "2_3_1118"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-2_2-0_44296",
+        "handicap": "3_1_3_2937",
+        "halfFull": "01_00_13_16905",
+        "size": "2_3_2_3466"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-1_4687",
+        "handicap": "3_1_561",
+        "halfFull": "01_03_36400",
+        "size": "2_3_1102"
+      },
+      "team": "001_052"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-2_0-3_2-1_1265625",
+        "handicap": "3_1_0_1_3036",
+        "halfFull": "01_00_00_03_418599",
+        "size": "2_3_3_3_14481"
+      },
+      "team": "001_002_051_052"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2015-08-01 17:00",
+      "matchId": "777626",
+      "league": "J2联赛",
+      "home": "福冈黄蜂",
+      "away": "大分三神",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.440",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2015-08-01 17:00",
+      "matchId": "777627",
+      "league": "J2联赛",
+      "home": "北九州向日葵",
+      "away": "大宫松鼠",
+      "result": {
+        "half": "1-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.490",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:2",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2015-08-01 17:00",
+      "matchId": "777625",
+      "league": "J2联赛",
+      "home": "京都不死鸟",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.520",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "6.000",
+        "score_result": "2:0",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.250"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2015-08-01 17:00",
+      "matchId": "777623",
+      "league": "J2联赛",
+      "home": "群马温泉",
+      "away": "岐阜FC",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "-1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2015-08-01 17:00",
+      "matchId": "777624",
+      "league": "J2联赛",
+      "home": "东京绿茵",
+      "away": "赞岐釜玉海",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.050",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2015-08-01 17:00",
+      "matchId": "777628",
+      "league": "J2联赛",
+      "home": "长崎航海",
+      "away": "横滨FC",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.730",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.600",
+        "score_result": "2:0",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2015-08-01 17:00",
+      "matchId": "777622",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "金泽塞维根",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2015-08-01 17:30",
+      "matchId": "777629",
+      "league": "J2联赛",
+      "home": "冈山绿雉",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.840",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:2",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周六051",
+      "match_time": "2015-08-01 10:00",
+      "matchId": "767674",
+      "league": "美职",
+      "home": "西雅图海湾人",
+      "away": "温哥华白帽",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.590",
+        "score_result": "0:3",
+        "score_odds": "40.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周六052",
+      "match_time": "2015-08-01 10:00",
+      "matchId": "793903",
+      "league": "墨联",
+      "home": "美洲虎",
+      "away": "桑托斯拉古纳",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "26.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2021-12-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_4-1_75000",
+        "handicap": "0_3_876",
+        "halfFull": "11_33_3385",
+        "size": "0_5_21000"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_4-1_0-1_581250",
+        "handicap": "0_3_0_1182",
+        "halfFull": "11_33_10_18958",
+        "size": "0_5_1_102900"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_4-1_0-1_2-1_4010625",
+        "handicap": "0_3_0_1_3974",
+        "halfFull": "11_33_10_13_77731",
+        "size": "0_5_1_3_349860"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_10809",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_1_38375",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_1_3_201852",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_1_3_0_440038",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_4-0_27000",
+        "handicap": "0_3_394",
+        "halfFull": "11_33_1692",
+        "size": "0_4_10125"
+      },
+      "team": "001_017"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_4-1_2-0_4-0_11475000",
+        "handicap": "0_3_3_3_7190",
+        "halfFull": "11_33_33_33_18163",
+        "size": "0_5_2_4_467775"
+      },
+      "team": "001_002_016_017"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2021-12-12 13:00",
+      "matchId": "1156731",
+      "league": "天皇杯",
+      "home": "川崎前锋",
+      "away": "大分三神",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.770",
+        "score_result": "0:0",
+        "score_odds": "15.000",
+        "goal_result": "0",
+        "goal_odds": "15.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "9.150"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2021-12-12 13:00",
+      "matchId": "1157420",
+      "league": "K联赛",
+      "home": "江原FC",
+      "away": "大田市民",
+      "result": {
+        "half": "3-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.950",
+        "score_result": "4:1",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2021-12-12 20:30",
+      "matchId": "1138863",
+      "league": "德乙",
+      "home": "奥厄",
+      "away": "德累斯顿",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.280",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "0:1",
+        "score_odds": "7.750",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2021-12-12 21:30",
+      "matchId": "1141206",
+      "league": "荷甲",
+      "home": "维迪斯",
+      "away": "赫拉克勒斯",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.360",
+        "score_result": "2:1",
+        "score_odds": "6.900",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2021-12-12 22:00",
+      "matchId": "1136019",
+      "league": "英超",
+      "home": "莱切斯特城",
+      "away": "纽卡斯尔联",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.540",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.720",
+        "score_result": "4:0",
+        "score_odds": "25.000",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2021-12-12 22:00",
+      "matchId": "1147880",
+      "league": "意甲",
+      "home": "维罗纳",
+      "away": "亚特兰大",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:2",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2021-12-12 22:00",
+      "matchId": "1139182",
+      "league": "法甲",
+      "home": "梅斯",
+      "away": "洛里昂",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.260",
+        "score_result": "4:1",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2021-12-12 23:45",
+      "matchId": "1141205",
+      "league": "荷甲",
+      "home": "阿贾克斯",
+      "away": "阿尔克马尔",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.180",
+        "score_result": "1:2",
+        "score_odds": "23.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "27.000"
+      }
+    },
+    {
+      "num": "周日016",
+      "match_time": "2021-12-12 04:00",
+      "matchId": "1139941",
+      "league": "西甲",
+      "home": "皇家马德里",
+      "away": "马德里竞技",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.680",
+        "score_result": "2:0",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周日017",
+      "match_time": "2021-12-12 04:30",
+      "matchId": "1157447",
+      "league": "巴西杯",
+      "home": "米内罗竞技",
+      "away": "巴拉纳竞技",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.230",
+        "score_result": "4:0",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "6.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    }
+  ]
+}

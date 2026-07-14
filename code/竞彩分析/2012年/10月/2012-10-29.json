@@ -1,0 +1,305 @@
+{
+  "time": "2012-10-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_2-0_16900",
+        "handicap": "0_3_915",
+        "halfFull": "30_33_6290",
+        "size": "5_2_2442"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_2-0_1-3_253500",
+        "handicap": "0_3_0_2104",
+        "halfFull": "30_33_00_22958",
+        "size": "5_2_4_11233"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_2-0_1-3_2-2_3549000",
+        "handicap": "0_3_0_1_6313",
+        "halfFull": "30_33_00_01_367336",
+        "size": "5_2_4_4_75262"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_9470",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_1_35986",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_1_1_116957",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_3_1_1_1_350872",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2012-10-29 02:00",
+      "matchId": "201049",
+      "league": "挪超",
+      "home": "布兰",
+      "away": "利勒斯特罗姆",
+      "result": {
+        "half": "2-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.000",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "5.000",
+        "score_result": "2:3",
+        "score_odds": "26.000",
+        "goal_result": "5",
+        "goal_odds": "6.600",
+        "half_full_result": "3-0",
+        "half_full_odds": "34.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2012-10-29 02:05",
+      "matchId": "200741",
+      "league": "瑞典超",
+      "home": "埃尔夫斯堡",
+      "away": "耶夫勒",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.830",
+        "score_result": "2:0",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2012-10-29 03:00",
+      "matchId": "210102",
+      "league": "荷乙",
+      "home": "阿尔梅勒城",
+      "away": "芬丹",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "1:3",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "4.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2012-10-29 03:30",
+      "matchId": "207809",
+      "league": "法乙",
+      "home": "朗斯",
+      "away": "克莱蒙",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.000",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "6.700",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2012-10-29 03:45",
+      "matchId": "212528",
+      "league": "英甲",
+      "home": "谢菲尔德联",
+      "away": "朴次茅斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "4.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2012-10-29 04:15",
+      "matchId": "212957",
+      "league": "葡超",
+      "home": "里斯本竞技",
+      "away": "科英布拉大学",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2012-10-29 04:30",
+      "matchId": "208803",
+      "league": "西甲",
+      "home": "巴利亚多利德",
+      "away": "皇家社会",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2012-10-29 05:00",
+      "matchId": "211075",
+      "league": "阿甲",
+      "home": "科隆竞技",
+      "away": "戈多伊克鲁斯",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.000",
+        "score_result": "1:1",
+        "score_odds": "5.300",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周一009",
+      "match_time": "2012-10-29 07:10",
+      "matchId": "211068",
+      "league": "阿甲",
+      "home": "阿根廷独立",
+      "away": "老虎竞技",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    }
+  ]
+}

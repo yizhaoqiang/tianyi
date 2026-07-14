@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2022-09-02 02:00",
+    "matchId": "2213248",
+    "league": "荷甲",
+    "home": "阿尔克马尔",
+    "away": "奈梅亨",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.37",
+        "d": "4.20",
+        "l": "5.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.22",
+        "d": "3.50",
+        "l": "2.50"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.20",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.50",
+      "score_result": "1:1",
+      "score_odds": "7.25",
+      "goal_result": "2",
+      "goal_odds": "3.30",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.75"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2022-09-02 02:00",
+    "matchId": "2217224",
+    "league": "荷乙",
+    "home": "特尔斯达",
+    "away": "格拉夫夏普",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.55",
+        "d": "3.35",
+        "l": "1.80"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.75",
+        "d": "3.45",
+        "l": "3.60"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.80",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.45",
+      "score_result": "0:1",
+      "score_odds": "8.25",
+      "goal_result": "1",
+      "goal_odds": "6.00",
+      "half_full_result": "1-0",
+      "half_full_odds": "4.75"
+    }
+  },
+  {
+    "num": "周四003",
+    "match_time": "2022-09-02 02:45",
+    "matchId": "2222822",
+    "league": "意甲",
+    "home": "亚特兰大",
+    "away": "都灵",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.59",
+        "d": "3.55",
+        "l": "4.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.06",
+        "d": "3.25",
+        "l": "1.98"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.59",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.06",
+      "score_result": "3:1",
+      "score_odds": "11.50",
+      "goal_result": "4",
+      "goal_odds": "4.75",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.30"
+    }
+  },
+  {
+    "num": "周四004",
+    "match_time": "2022-09-02 02:45",
+    "matchId": "2222823",
+    "league": "意甲",
+    "home": "博洛尼亚",
+    "away": "萨勒尼塔纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.88",
+        "d": "3.00",
+        "l": "3.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.00",
+        "d": "3.50",
+        "l": "1.66"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.00",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.66",
+      "score_result": "1:1",
+      "score_odds": "6.50",
+      "goal_result": "2",
+      "goal_odds": "3.15",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.40"
+    }
+  },
+  {
+    "num": "周四005",
+    "match_time": "2022-09-02 03:00",
+    "matchId": "2213588",
+    "league": "英超",
+    "home": "莱斯特城",
+    "away": "曼彻斯特联",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.15",
+        "d": "3.45",
+        "l": "1.88"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.68",
+        "d": "3.85",
+        "l": "3.55"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.88",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.85",
+      "score_result": "0:1",
+      "score_odds": "9.50",
+      "goal_result": "1",
+      "goal_odds": "6.45",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.95"
+    }
+  }
+]

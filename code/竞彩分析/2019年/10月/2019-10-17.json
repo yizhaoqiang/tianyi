@@ -1,0 +1,128 @@
+{
+  "time": "2019-10-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-2_5250",
+        "handicap": "1_0_1511",
+        "halfFull": "03_00_8000",
+        "size": "3_2_1005"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_0-2_1-2_47250",
+        "handicap": "1_0_0_2206",
+        "halfFull": "03_00_10_48000",
+        "size": "3_2_3_3165"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-2_6300",
+        "handicap": "1_0_474",
+        "halfFull": "03_10_15000",
+        "size": "3_3_1055"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_0-2_1-2_47250",
+        "handicap": "1_0_0_2206",
+        "halfFull": "03_00_10_48000",
+        "size": "3_2_3_3165"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2019-10-17 06:15",
+      "matchId": "1058321",
+      "league": "巴西甲",
+      "home": "桑托斯",
+      "away": "塞阿拉",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "0-3",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2019-10-17 06:15",
+      "matchId": "1058324",
+      "league": "巴西甲",
+      "home": "阿瓦伊",
+      "away": "巴西国际",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.920",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.650",
+        "score_result": "0:2",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2019-10-17 08:00",
+      "matchId": "1058323",
+      "league": "巴西甲",
+      "home": "弗鲁米嫩塞",
+      "away": "巴拉纳竞技",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "1:2",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    }
+  ]
+}

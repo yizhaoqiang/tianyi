@@ -1,0 +1,354 @@
+{
+  "time": "2018-01-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-0_2-2_180000",
+        "handicap": "3_0_659",
+        "halfFull": "33_11_1251",
+        "size": "5_4_7875"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "5-0_2-2_0-1_1260000",
+        "handicap": "3_0_1_2375",
+        "halfFull": "33_11_10_5880",
+        "size": "5_4_1_35437"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "5-0_2-2_0-1_2-3_32760000",
+        "handicap": "3_0_1_0_3800",
+        "halfFull": "33_11_10_10_38813",
+        "size": "5_4_1_5_336656"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_3_10908",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_3_0_17016",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_3_0_3_31991",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_3_0_3_0_48626",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-0_1-0_80000",
+        "handicap": "3_1_1473",
+        "halfFull": "33_13_1560",
+        "size": "5_1_5460"
+      },
+      "team": "001_036"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "5-0_2-2_0-4_1-0_24480000",
+        "handicap": "3_0_0_1_5457",
+        "halfFull": "33_11_00_13_11411",
+        "size": "5_4_4_1_233415"
+      },
+      "team": "001_002_035_036"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2018-01-21 16:00",
+      "matchId": "992046",
+      "league": "澳超",
+      "home": "墨尔本城",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.150",
+        "score_result": "5:0",
+        "score_odds": "100.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2018-01-21 19:00",
+      "matchId": "973909",
+      "league": "西甲",
+      "home": "阿拉维斯",
+      "away": "莱加内斯",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.780",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.590",
+        "score_result": "2:2",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2018-01-21 19:30",
+      "matchId": "976049",
+      "league": "意甲",
+      "home": "亚特兰大",
+      "away": "那不勒斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.840",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2018-01-21 19:30",
+      "matchId": "955850",
+      "league": "荷甲",
+      "home": "鹿特丹斯巴达",
+      "away": "SBV精英",
+      "result": {
+        "half": "2-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.980",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "2:3",
+        "score_odds": "26.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.600"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2018-01-21 21:30",
+      "matchId": "955852",
+      "league": "荷甲",
+      "home": "阿贾克斯",
+      "away": "费耶诺德",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.870",
+        "score_result": "2:0",
+        "score_odds": "8.250",
+        "goal_result": "2",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2018-01-21 21:30",
+      "matchId": "955851",
+      "league": "荷甲",
+      "home": "威廉二世",
+      "away": "格罗宁根",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "11.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2018-01-21 21:30",
+      "matchId": "954183",
+      "league": "比甲",
+      "home": "安特卫普",
+      "away": "布鲁日",
+      "result": {
+        "half": "2-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.880",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2018-01-21 22:00",
+      "matchId": "976045",
+      "league": "意甲",
+      "home": "维罗纳",
+      "away": "克罗托内",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "0:3",
+        "score_odds": "35.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日035",
+      "match_time": "2018-01-21 05:30",
+      "matchId": "1004973",
+      "league": "巴圣联",
+      "home": "圣卡埃塔诺",
+      "away": "科林蒂安",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.330",
+        "score_result": "0:4",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周日036",
+      "match_time": "2018-01-21 08:00",
+      "matchId": "1001348",
+      "league": "墨联",
+      "home": "桑托斯拉古纳",
+      "away": "莫雷利亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.710",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "5.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2018-03-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-0_4480",
+        "handicap": "1_3_1386",
+        "halfFull": "33_33_1033",
+        "size": "1_2_960"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_2-0_1-2_32479",
+        "handicap": "1_3_1_4712",
+        "halfFull": "33_33_00_2945",
+        "size": "1_2_3_3504"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-0_1-2_0-0_276080",
+        "handicap": "1_3_1_3_7115",
+        "halfFull": "33_33_00_11_12960",
+        "size": "1_2_3_0_29784"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_3_1_30241",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_3_1_1_113406",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_3_1_1_0_195059",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_3_1_1_0_3_286737",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-0_3527",
+        "handicap": "1_1_1443",
+        "halfFull": "33_33_1287",
+        "size": "1_1_989"
+      },
+      "team": "001_018"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-0_3-0_1-0_423359",
+        "handicap": "1_3_3_1_18295",
+        "halfFull": "33_33_33_33_8867",
+        "size": "1_2_3_1_11088"
+      },
+      "team": "001_002_017_018"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2018-03-25 13:00",
+      "matchId": "1007994",
+      "league": "J2联赛",
+      "home": "冈山绿雉",
+      "away": "甲府风林",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.360",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:0",
+        "score_odds": "5.600",
+        "goal_result": "1",
+        "goal_odds": "3.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2018-03-25 13:00",
+      "matchId": "1007971",
+      "league": "J2联赛",
+      "home": "千叶市原",
+      "away": "京都不死鸟",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.840",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.600",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2018-03-25 13:00",
+      "matchId": "1007995",
+      "league": "J2联赛",
+      "home": "赞岐釜玉海",
+      "away": "大分三神",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.840",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:2",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2018-03-25 13:00",
+      "matchId": "1007972",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "横滨FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.120",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2018-03-25 13:00",
+      "matchId": "1007976",
+      "league": "J2联赛",
+      "home": "新泻天鹅",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.720",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.250",
+        "score_result": "1:0",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2018-03-25 13:00",
+      "matchId": "1007975",
+      "league": "J2联赛",
+      "home": "枥木SC",
+      "away": "熊本深红",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2018-03-25 13:00",
+      "matchId": "1007970",
+      "league": "J2联赛",
+      "home": "东京绿茵",
+      "away": "山形山神",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.720",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2018-03-25 13:00",
+      "matchId": "1007973",
+      "league": "J2联赛",
+      "home": "金泽塞维根",
+      "away": "町田泽维亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周日017",
+      "match_time": "2018-03-25 23:00",
+      "matchId": "958963",
+      "league": "英甲",
+      "home": "朴次茅斯",
+      "away": "牛津联",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.520",
+        "score_result": "3:0",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周日018",
+      "match_time": "2018-03-25 03:00",
+      "matchId": "1018895",
+      "league": "巴圣联",
+      "home": "圣保罗",
+      "away": "科林蒂安",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.170",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:0",
+        "score_odds": "6.300",
+        "goal_result": "1",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    }
+  ]
+}

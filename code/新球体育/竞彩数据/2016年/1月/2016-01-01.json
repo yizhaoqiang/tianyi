@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2016-01-01 13:15",
+    "matchId": "1203661",
+    "league": "日皇杯",
+    "home": "浦和红钻",
+    "away": "大阪钢巴",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.45",
+        "d": "3.10",
+        "l": "2.54"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.60",
+        "d": "4.25",
+        "l": "1.40"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.54",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.40",
+      "score_result": "1:2",
+      "score_odds": "8.50",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "1-0",
+      "half_full_odds": "5.50"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2016-01-01 16:40",
+    "matchId": "1141881",
+    "league": "澳超",
+    "home": "西悉尼流浪者",
+    "away": "阿德莱德联",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.66",
+        "d": "3.60",
+        "l": "4.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.10",
+        "d": "3.50",
+        "l": "1.93"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.60",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.93",
+      "score_result": "0:0",
+      "score_odds": "10.00",
+      "goal_result": "0",
+      "goal_odds": "10.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.50"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2016-01-01 23:00",
+    "matchId": "1131524",
+    "league": "英冠",
+    "home": "布莱顿",
+    "away": "狼队",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.08",
+        "d": "3.05",
+        "l": "3.18"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.50",
+        "d": "3.75",
+        "l": "1.56"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.18",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.56",
+      "score_result": "0:1",
+      "score_odds": "7.25",
+      "goal_result": "1",
+      "goal_odds": "3.50",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.00"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2016-01-02 01:15",
+    "matchId": "1131532",
+    "league": "英冠",
+    "home": "女王公园巡游者",
+    "away": "赫尔城",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.92",
+        "d": "2.90",
+        "l": "2.29"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.46",
+        "d": "3.90",
+        "l": "5.35"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.29",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.90",
+      "score_result": "1:2",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.95",
+      "half_full_result": "1-0",
+      "half_full_odds": "4.95"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+{
+  "time": "2021-10-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_4-2_22800",
+        "handicap": "3_1_651",
+        "halfFull": "13_33_897",
+        "size": "1_6_3815"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_4-2_1-1_142500",
+        "handicap": "3_1_0_1041",
+        "halfFull": "13_33_31_13455",
+        "size": "1_6_2_13161"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_4-2_1-1_2-1_1047375",
+        "handicap": "3_1_0_0_1791",
+        "halfFull": "13_33_31_03_309465",
+        "size": "1_6_2_3_42775"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_9316",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-0_8075",
+        "handicap": "3_3_806",
+        "halfFull": "13_33_2311",
+        "size": "1_2_1580"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_4-2_2-1_2-0_1424430",
+        "handicap": "3_1_0_3_5822",
+        "halfFull": "13_33_03_33_69113",
+        "size": "1_6_3_2_35956"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2021-10-29 00:30",
+      "matchId": "1138816",
+      "league": "德乙",
+      "home": "海登海姆",
+      "away": "沙尔克04",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.870",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.550",
+        "score_result": "1:0",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "5.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.900"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2021-10-29 02:00",
+      "matchId": "1136427",
+      "league": "荷乙",
+      "home": "福伦丹",
+      "away": "多德勒支",
+      "result": {
+        "half": "2-1",
+        "full": "4-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "4.200",
+        "score_result": "4:2",
+        "score_odds": "24.000",
+        "goal_result": "6",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.300"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2021-10-29 02:45",
+      "matchId": "1136950",
+      "league": "英冠",
+      "home": "女王公园巡游者",
+      "away": "诺丁汉森林",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2021-10-29 03:00",
+      "matchId": "1139136",
+      "league": "法甲",
+      "home": "巴黎圣日尔曼",
+      "away": "里尔",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.720",
+        "score_result": "2:1",
+        "score_odds": "7.350",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "0-3",
+        "half_full_odds": "23.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2021-10-29 03:15",
+      "matchId": "1146088",
+      "league": "葡超",
+      "home": "阿罗卡",
+      "away": "通德拉",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.200",
+        "score_result": "2:0",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    }
+  ]
+}

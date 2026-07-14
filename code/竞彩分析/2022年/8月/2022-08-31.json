@@ -1,0 +1,272 @@
+{
+  "time": "2022-08-31",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "6-0_2-1_3888",
+        "handicap": "3_1_838",
+        "halfFull": "33_33_226",
+        "size": "6_3_2518"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "6-0_2-1_0-0_36936",
+        "handicap": "3_1_3_1316",
+        "halfFull": "33_33_11_949",
+        "size": "6_3_0_23928"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "6-0_2-1_0-0_1-1_240084",
+        "handicap": "3_1_3_3_2198",
+        "halfFull": "33_33_11_01_14244",
+        "size": "6_3_0_2_78962"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_1_8352",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_1_0_16120",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_3_1_0_0_38689",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "6-0_0-3_3915",
+        "handicap": "3_0_583",
+        "halfFull": "33_00_173",
+        "size": "6_3_2983"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "6-0_2-1_2-1_0-3_204363",
+        "handicap": "3_1_0_0_3883",
+        "halfFull": "33_33_03_00_7262",
+        "size": "6_3_3_3_32485"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2022-08-31 02:30",
+      "matchId": "1171456",
+      "league": "英超",
+      "home": "曼城",
+      "away": "诺丁汉",
+      "result": {
+        "half": "3-0",
+        "full": "6-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "3",
+        "handicap_odds": "2.430",
+        "score_result": "胜其他",
+        "score_odds": "5.400",
+        "goal_result": "6",
+        "goal_odds": "7.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.190"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2022-08-31 02:30",
+      "matchId": "1171448",
+      "league": "英超",
+      "home": "阿森纳",
+      "away": "维拉",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:1",
+        "score_odds": "7.200",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2022-08-31 02:30",
+      "matchId": "1171447",
+      "league": "英超",
+      "home": "伯恩茅斯",
+      "away": "狼队",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.570",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2022-08-31 02:45",
+      "matchId": "1171452",
+      "league": "英超",
+      "home": "西汉姆联",
+      "away": "热刺",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.670",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2022-08-31 02:45",
+      "matchId": "1176405",
+      "league": "意甲",
+      "home": "尤文图斯",
+      "away": "斯佩齐亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.170",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "2:0",
+        "score_odds": "5.900",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.520"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2022-08-31 03:00",
+      "matchId": "1171455",
+      "league": "英超",
+      "home": "利物浦",
+      "away": "纽卡斯尔",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.930",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2022-08-31 03:00",
+      "matchId": "1172169",
+      "league": "法甲",
+      "home": "图卢兹",
+      "away": "巴黎圣曼",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.140",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "0:3",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.460"
+      }
+    }
+  ]
+}

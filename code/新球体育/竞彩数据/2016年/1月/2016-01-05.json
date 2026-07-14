@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周二001",
+    "match_time": "2016-01-06 03:45",
+    "matchId": "1160072",
+    "league": "意甲",
+    "home": "热那亚",
+    "away": "桑普多利亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.03",
+        "d": "3.15",
+        "l": "3.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.35",
+        "d": "3.70",
+        "l": "1.59"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.20",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.59",
+      "score_result": "2:3",
+      "score_odds": "35.00",
+      "goal_result": "5",
+      "goal_odds": "11.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.00"
+    }
+  },
+  {
+    "num": "周二002",
+    "match_time": "2016-01-06 04:00",
+    "matchId": "1200975",
+    "league": "英联杯",
+    "home": "斯托克城",
+    "away": "利物浦",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.98",
+        "d": "3.00",
+        "l": "2.20"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.50",
+        "d": "3.80",
+        "l": "5.00"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.20",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.80",
+      "score_result": "0:1",
+      "score_odds": "6.25",
+      "goal_result": "1",
+      "goal_odds": "3.55",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.60"
+    }
+  }
+]

@@ -1,0 +1,354 @@
+{
+  "time": "2019-12-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-1_8100",
+        "handicap": "0_0_226",
+        "halfFull": "10_11_3190",
+        "size": "2_2_992"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_1-1_0-2_85050",
+        "handicap": "0_0_0_963",
+        "halfFull": "10_11_00_10846",
+        "size": "2_2_2_3621"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_1-1_0-2_0-0_1020600",
+        "handicap": "0_0_0_0_1841",
+        "halfFull": "10_11_00_11_59653",
+        "size": "2_2_2_0_43460"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_1_6995",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_1_0_11613",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_1_0_0_28104",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_1_0_0_1_92744",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_3-0_16500",
+        "handicap": "0_3_537",
+        "halfFull": "10_13_2900",
+        "size": "2_3_1260"
+      },
+      "team": "001_053"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_1-1_2-0_3-0_445500",
+        "handicap": "0_0_3_3_1139",
+        "halfFull": "10_11_33_13_19778",
+        "size": "2_2_2_3_14883"
+      },
+      "team": "001_002_052_053"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2019-12-01 12:05",
+      "matchId": "1080763",
+      "league": "J联赛",
+      "home": "大宫松鼠",
+      "away": "山形山神",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "0:2",
+        "score_odds": "15.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.250"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2019-12-01 12:05",
+      "matchId": "1080764",
+      "league": "J联赛",
+      "home": "德岛漩涡",
+      "away": "甲府风林",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2019-12-01 13:00",
+      "matchId": "1078426",
+      "league": "澳超",
+      "home": "西部联",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.250",
+        "score_result": "0:2",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2019-12-01 14:00",
+      "matchId": "1079469",
+      "league": "K联赛",
+      "home": "大邱FC",
+      "away": "首尔FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.910",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2019-12-01 14:00",
+      "matchId": "1079468",
+      "league": "K联赛",
+      "home": "全北现代",
+      "away": "江原FC",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "6.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2019-12-01 14:00",
+      "matchId": "1079467",
+      "league": "K联赛",
+      "home": "蔚山现代",
+      "away": "浦项制铁",
+      "result": {
+        "half": "1-1",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.660",
+        "score_result": "1:4",
+        "score_odds": "70.000",
+        "goal_result": "5",
+        "goal_odds": "9.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.750"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2019-12-01 15:00",
+      "matchId": "1077030",
+      "league": "澳超",
+      "home": "阿德莱德联",
+      "away": "惠灵顿凤凰",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.420",
+        "score_result": "1:2",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2019-12-01 19:00",
+      "matchId": "1064721",
+      "league": "西甲",
+      "home": "塞维利亚",
+      "away": "莱加内斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "5.400",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周日052",
+      "match_time": "2019-12-01 06:00",
+      "matchId": "1058422",
+      "league": "巴西甲",
+      "home": "桑托斯",
+      "away": "沙佩科恩斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.120",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.570",
+        "score_result": "2:0",
+        "score_odds": "5.000",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.550"
+      }
+    },
+    {
+      "num": "周日053",
+      "match_time": "2019-12-01 06:00",
+      "matchId": "1058426",
+      "league": "巴西甲",
+      "home": "格雷米奥",
+      "away": "圣保罗",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.200",
+        "score_result": "3:0",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "time": "2022-01-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_8912",
+        "handicap": "0_0_421",
+        "halfFull": "30_01_44800",
+        "size": "3_2_1275"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-1_0-2_57931",
+        "handicap": "0_0_0_1104",
+        "halfFull": "30_01_00_100352",
+        "size": "3_2_2_4143"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_0-2_3-1_811037",
+        "handicap": "0_0_0_3_4806",
+        "halfFull": "30_01_00_33_321126",
+        "size": "3_2_2_4_19890"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_10045",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_7475",
+        "handicap": "0_0_413",
+        "halfFull": "30_01_47600",
+        "size": "3_2_1088"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_3-1_1-1_811037",
+        "handicap": "0_0_3_0_3834",
+        "halfFull": "30_01_33_01_2437120",
+        "size": "3_2_4_2_19584"
+      },
+      "team": "001_003_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2022-01-06 19:30",
+      "matchId": "1147915",
+      "league": "意甲",
+      "home": "桑普多利亚",
+      "away": "卡利亚里",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.980",
+        "score_result": "1:2",
+        "score_odds": "11.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-0",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2022-01-06 23:30",
+      "matchId": "1147916",
+      "league": "意甲",
+      "home": "萨索洛",
+      "away": "热那亚",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.130",
+        "score_result": "1:1",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2022-01-06 01:00",
+      "matchId": "1158119",
+      "league": "国王杯",
+      "home": "萨拉戈萨",
+      "away": "塞维利亚",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.620",
+        "score_result": "0:2",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.240"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2022-01-06 01:30",
+      "matchId": "1147913",
+      "league": "意甲",
+      "home": "AC米兰",
+      "away": "罗马",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.350",
+        "score_result": "3:1",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2022-01-06 03:45",
+      "matchId": "1147911",
+      "league": "意甲",
+      "home": "尤文图斯",
+      "away": "那不勒斯",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.090",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    }
+  ]
+}

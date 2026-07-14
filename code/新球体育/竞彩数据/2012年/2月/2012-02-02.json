@@ -1,0 +1,128 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2012-02-03 03:45",
+    "matchId": "581997",
+    "league": "意甲",
+    "home": "诺瓦拉",
+    "away": "切沃",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.62",
+        "d": "2.95",
+        "l": "2.62"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.62",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "1:2",
+      "score_odds": "9.00",
+      "goal_result": "3",
+      "goal_odds": "4.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.10"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2012-02-03 03:45",
+    "matchId": "667343",
+    "league": "荷兰杯",
+    "home": "埃因霍温",
+    "away": "奈梅亨",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.05",
+        "d": "4.25",
+        "l": "2.63"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.05",
+        "d": "4.25",
+        "l": "2.63"
+      }
+    },
+    "result": {
+      "half": "3-2",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "2.63",
+      "score_result": "3:2",
+      "score_odds": "23.00",
+      "goal_result": "5",
+      "goal_odds": "5.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.38"
+    }
+  },
+  {
+    "num": "周四003",
+    "match_time": "2012-02-03 07:30",
+    "matchId": "665927",
+    "league": "解放者杯",
+    "home": "加拉加斯",
+    "away": "佩纳罗尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.50",
+        "d": "3.30",
+        "l": "2.50"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.30",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "1:1",
+      "score_odds": "5.50",
+      "goal_result": "2",
+      "goal_odds": "3.30",
+      "half_full_result": "0-1",
+      "half_full_odds": "14.00"
+    }
+  },
+  {
+    "num": "周四004",
+    "match_time": "2012-02-03 10:00",
+    "matchId": "665928",
+    "league": "解放者杯",
+    "home": "老虎大学",
+    "away": "西班牙联合",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.75",
+        "d": "3.40",
+        "l": "4.20"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.40",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "2:2",
+      "score_odds": "15.50",
+      "goal_result": "4",
+      "goal_odds": "6.00",
+      "half_full_result": "3-1",
+      "half_full_odds": "16.00"
+    }
+  }
+]

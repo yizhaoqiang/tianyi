@@ -1,0 +1,354 @@
+{
+  "time": "2012-02-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-0_3300",
+        "handicap": "3_3_193",
+        "halfFull": "13_33_740",
+        "size": "1_1_2450"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_1-0_0-1_23100",
+        "handicap": "3_3_0_519",
+        "halfFull": "13_33_00_3112",
+        "size": "1_1_1_10535"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-0_0-1_1-0_138600",
+        "handicap": "3_3_0_3_748",
+        "halfFull": "13_33_00_33_6068",
+        "size": "1_1_1_1_51621"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_0_2125",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_0_3_3145",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_0_3_1_11795",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_0_3_1_0_25007",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-2_8800",
+        "handicap": "3_1_530",
+        "halfFull": "13_31_6839",
+        "size": "1_4_2750"
+      },
+      "team": "001_019"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-0_2-1_2-2_396000",
+        "handicap": "3_3_1_1_2687",
+        "halfFull": "13_33_13_31_49350",
+        "size": "1_1_3_4_49857"
+      },
+      "team": "001_002_018_019"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2012-02-23 02:00",
+      "matchId": "197289",
+      "league": "欧洲联赛",
+      "home": "毕尔巴鄂",
+      "away": "莫斯科火车头",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.400",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2012-02-23 02:00",
+      "matchId": "197288",
+      "league": "欧洲联赛",
+      "home": "瓦伦西亚",
+      "away": "斯托克城",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.380",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2012-02-23 02:00",
+      "matchId": "197293",
+      "league": "欧洲联赛",
+      "home": "布鲁日",
+      "away": "汉诺威96",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.690",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.690",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "4.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2012-02-23 02:00",
+      "matchId": "197290",
+      "league": "欧洲联赛",
+      "home": "特温特",
+      "away": "布加勒斯特星",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.440",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2012-02-23 02:00",
+      "matchId": "197291",
+      "league": "欧洲联赛",
+      "home": "塞萨洛尼基",
+      "away": "乌迪内斯",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.840",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.840",
+        "score_result": "0:3",
+        "score_odds": "34.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2012-02-23 02:00",
+      "matchId": "197292",
+      "league": "欧洲联赛",
+      "home": "埃因霍温",
+      "away": "特拉布宗体育",
+      "result": {
+        "half": "3-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "4:1",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "9.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.020"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2012-02-23 02:00",
+      "matchId": "197294",
+      "league": "欧洲联赛",
+      "home": "标准列日",
+      "away": "克拉科夫",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2012-02-23 03:45",
+      "matchId": "182464",
+      "league": "英冠",
+      "home": "德比郡",
+      "away": "莱切斯特城",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.120",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周四018",
+      "match_time": "2012-02-23 08:45",
+      "matchId": "197437",
+      "league": "解放者杯",
+      "home": "最强者",
+      "away": "胡安奥里奇",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.670",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周四019",
+      "match_time": "2012-02-23 08:45",
+      "matchId": "197462",
+      "league": "解放者杯",
+      "home": "卡托利卡",
+      "away": "巴兰基利亚青年",
+      "result": {
+        "half": "2-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.790",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.790",
+        "score_result": "2:2",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "18.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "time": "2017-12-31",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-0_27300",
+        "handicap": "0_3_351",
+        "halfFull": "11_11_4860",
+        "size": "0_0_27300"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-0_27300",
+        "handicap": "0_3_351",
+        "halfFull": "11_11_4860",
+        "size": "0_0_27300"
+      },
+      "team": "001_002"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2017-12-31 16:00",
+      "matchId": "991991",
+      "league": "澳超",
+      "home": "中央海岸水手",
+      "away": "惠灵顿凤凰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2017-12-31 20:00",
+      "matchId": "954661",
+      "league": "英超",
+      "home": "水晶宫",
+      "away": "曼彻斯特城",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.550",
+        "handicap": "+2",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "0:0",
+        "score_odds": "21.000",
+        "goal_result": "0",
+        "goal_odds": "21.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "9.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "time": "2017-08-31",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-0_4200",
+        "handicap": "3_1_1124",
+        "halfFull": "33_13_1196",
+        "size": "2_1_1147"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_1-0_0-0_23520",
+        "handicap": "3_1_0_2002",
+        "halfFull": "33_13_11_5262",
+        "size": "2_1_0_6423"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-0_0-0_1-2_164640",
+        "handicap": "3_1_0_1_7367",
+        "halfFull": "33_13_11_00_17629",
+        "size": "2_1_0_3_23444"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_1_3_37723",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_1_3_3_61866",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-0_5075",
+        "handicap": "3_3_498",
+        "halfFull": "33_13_1560",
+        "size": "2_1_976"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-0_3-1_1-0_578550",
+        "handicap": "3_1_3_3_9444",
+        "halfFull": "33_13_13_13_34444",
+        "size": "2_1_4_1_24388"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2017-08-31 18:35",
+      "matchId": "870536",
+      "league": "世亚预",
+      "home": "日本",
+      "away": "澳大利亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.040",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2017-08-31 20:00",
+      "matchId": "870529",
+      "league": "世亚预",
+      "home": "中国",
+      "away": "乌兹别克斯坦",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2017-08-31 20:00",
+      "matchId": "870530",
+      "league": "世亚预",
+      "home": "韩国",
+      "away": "伊朗",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.780",
+        "score_result": "0:0",
+        "score_odds": "5.600",
+        "goal_result": "0",
+        "goal_odds": "5.600",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2017-08-31 20:00",
+      "matchId": "870534",
+      "league": "世亚预",
+      "home": "泰国",
+      "away": "伊拉克",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.970",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.680",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2017-08-31 20:00",
+      "matchId": "870528",
+      "league": "世亚预",
+      "home": "叙利亚",
+      "away": "卡塔尔",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.120",
+        "score_result": "3:1",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "6.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2017-08-31 21:00",
+      "matchId": "884003",
+      "league": "世非预",
+      "home": "乌干达",
+      "away": "埃及",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.740",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.640",
+        "score_result": "1:0",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "3.150",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.000"
+      }
+    }
+  ]
+}

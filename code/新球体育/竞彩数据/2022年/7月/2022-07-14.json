@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2022-07-15 07:00",
+    "matchId": "2214020",
+    "league": "巴西杯",
+    "home": "帕尔梅拉斯",
+    "away": "圣保罗",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.45",
+        "d": "3.65",
+        "l": "5.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.55",
+        "d": "3.20",
+        "l": "2.30"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.45",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.20",
+      "score_result": "2:1",
+      "score_odds": "7.25",
+      "goal_result": "3",
+      "goal_odds": "3.35",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.15"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2022-07-15 08:00",
+    "matchId": "2214019",
+    "league": "巴西杯",
+    "home": "博塔弗戈",
+    "away": "米内罗美洲",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.76",
+        "d": "3.15",
+        "l": "3.95"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.70",
+        "d": "3.30",
+        "l": "1.77"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.95",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.77",
+      "score_result": "0:2",
+      "score_odds": "18.00",
+      "goal_result": "2",
+      "goal_odds": "2.75",
+      "half_full_result": "0-0",
+      "half_full_odds": "7.30"
+    }
+  }
+]

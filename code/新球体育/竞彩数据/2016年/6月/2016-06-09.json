@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周四101",
+    "match_time": "2016-06-10 07:30",
+    "matchId": "1223664",
+    "league": "美洲杯",
+    "home": "乌拉圭",
+    "away": "委内瑞拉",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.53",
+        "d": "3.55",
+        "l": "5.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.80",
+        "d": "3.30",
+        "l": "2.14"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "5.30",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.14",
+      "score_result": "0:1",
+      "score_odds": "12.00",
+      "goal_result": "1",
+      "goal_odds": "4.22",
+      "half_full_result": "0-0",
+      "half_full_odds": "8.50"
+    }
+  },
+  {
+    "num": "周四102",
+    "match_time": "2016-06-10 10:00",
+    "matchId": "1223663",
+    "league": "美洲杯",
+    "home": "墨西哥",
+    "away": "牙买加",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.13",
+        "d": "5.80",
+        "l": "15.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.60",
+        "d": "3.75",
+        "l": "4.25"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.13",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.60",
+      "score_result": "2:0",
+      "score_odds": "5.00",
+      "goal_result": "2",
+      "goal_odds": "3.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.44"
+    }
+  }
+]

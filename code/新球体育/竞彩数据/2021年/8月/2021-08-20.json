@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2021-08-21 00:30",
+    "matchId": "2036118",
+    "league": "德乙",
+    "home": "杜塞尔多夫",
+    "away": "荷尔斯泰因",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.63",
+        "d": "3.55",
+        "l": "4.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.05",
+        "d": "3.40",
+        "l": "1.94"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.55",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.94",
+      "score_result": "2:2",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "4.85",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.70"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2021-08-21 02:00",
+    "matchId": "2025867",
+    "league": "荷乙",
+    "home": "特尔斯达",
+    "away": "罗达JC",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.90",
+        "d": "3.40",
+        "l": "2.00"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.60",
+        "d": "3.75",
+        "l": "4.05"
+      }
+    },
+    "result": {
+      "half": "3-1",
+      "full": "3-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.00",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.75",
+      "score_result": "3:4",
+      "score_odds": "36.00",
+      "goal_result": "7+",
+      "goal_odds": "18.00",
+      "half_full_result": "3-0",
+      "half_full_odds": "23.00"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2021-08-21 02:30",
+    "matchId": "2032711",
+    "league": "德甲",
+    "home": "RB莱比锡",
+    "away": "斯图加特",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.27",
+        "d": "4.80",
+        "l": "7.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.98",
+        "d": "3.35",
+        "l": "2.98"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.27",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.98",
+      "score_result": "4:0",
+      "score_odds": "16.00",
+      "goal_result": "4",
+      "goal_odds": "4.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.80"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2021-08-21 02:45",
+    "matchId": "2036421",
+    "league": "英冠",
+    "home": "布里斯托城",
+    "away": "斯旺西",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.03",
+        "d": "2.93",
+        "l": "3.27"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.65",
+        "d": "3.50",
+        "l": "1.57"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.27",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.57",
+      "score_result": "0:1",
+      "score_odds": "7.50",
+      "goal_result": "1",
+      "goal_odds": "4.30",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.30"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2021-08-21 03:00",
+    "matchId": "2034628",
+    "league": "法甲",
+    "home": "布雷斯特",
+    "away": "巴黎圣日耳曼",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.98",
+        "d": "3.90",
+        "l": "2.65"
+      },
+      "handicap": {
+        "line": "2",
+        "w": "1.98",
+        "d": "3.90",
+        "l": "2.65"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "2-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "",
+      "handicap": "+2",
+      "handicap_result": "1",
+      "handicap_odds": "3.90",
+      "score_result": "2:4",
+      "score_odds": "30.00",
+      "goal_result": "6",
+      "goal_odds": "9.25",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.50"
+    }
+  }
+]

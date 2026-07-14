@@ -1,0 +1,164 @@
+{
+  "time": "2023-05-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-1_5075",
+        "handicap": "1_1_1088",
+        "halfFull": "13_10_1639",
+        "size": "3_1_2000"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_0-1_1-1_29688",
+        "handicap": "1_1_3_1633",
+        "halfFull": "13_10_11_7048",
+        "size": "3_1_2_6100"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-1_1-1_1-2_207821",
+        "handicap": "1_1_3_1_5880",
+        "halfFull": "13_10_11_10_27490",
+        "size": "3_1_2_3_20435"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-2_4900",
+        "handicap": "1_1_1188",
+        "halfFull": "13_10_1618",
+        "size": "3_3_1072"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-1_1-1_1-2_207821",
+        "handicap": "1_1_3_1_5880",
+        "halfFull": "13_10_11_10_27490",
+        "size": "3_1_2_3_20435"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2023-05-26 02:00",
+      "matchId": "1215474",
+      "league": "荷甲",
+      "home": "阿尔梅勒",
+      "away": "埃因FC",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.150"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2023-05-26 02:45",
+      "matchId": "1173330",
+      "league": "法乙",
+      "home": "索肖",
+      "away": "梅斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "0:1",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "6.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2023-05-26 02:45",
+      "matchId": "1173333",
+      "league": "法乙",
+      "home": "巴斯蒂亚",
+      "away": "勒阿弗尔",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "1:1",
+        "score_odds": "5.850",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2023-05-26 04:15",
+      "matchId": "1188726",
+      "league": "葡超",
+      "home": "维兹拉",
+      "away": "里斯本",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.900"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2020-10-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-0_5250",
+        "handicap": "1_3_562",
+        "halfFull": "00_33_371",
+        "size": "3_3_1313"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_3-0_2-2_68250",
+        "handicap": "1_3_0_1096",
+        "halfFull": "00_33_01_5198",
+        "size": "3_3_4_6698"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-0_2-2_1-0_1160250",
+        "handicap": "1_3_0_3_2884",
+        "halfFull": "00_33_01_33_51982",
+        "size": "3_3_4_1_46891"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_3_0_5075",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_3_0_0_11928",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_3_0_0_0_34591",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_3_0_0_0_0_46699",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-5_140000",
+        "handicap": "1_0_507",
+        "halfFull": "00_00_1080",
+        "size": "3_5_3700"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-0_1-0_0-5_5040000",
+        "handicap": "1_3_1_0_2727",
+        "halfFull": "00_33_33_00_2988",
+        "size": "3_3_1_5_53853"
+      },
+      "team": "001_002_014_015"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2020-10-29 01:55",
+      "matchId": "1118927",
+      "league": "欧洲联赛",
+      "home": "雅典AEK",
+      "away": "莱切斯特城",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.350"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2020-10-29 01:55",
+      "matchId": "1118930",
+      "league": "欧洲联赛",
+      "home": "AC米兰",
+      "away": "布拉格斯巴达",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.170",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.630",
+        "score_result": "3:0",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.580"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2020-10-29 01:55",
+      "matchId": "1118931",
+      "league": "欧洲联赛",
+      "home": "里尔",
+      "away": "凯尔特人",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2020-10-29 01:55",
+      "matchId": "1118939",
+      "league": "欧洲联赛",
+      "home": "安特卫普",
+      "away": "托特纳姆热刺",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "6.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.630",
+        "score_result": "1:0",
+        "score_odds": "17.000",
+        "goal_result": "1",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2020-10-29 01:55",
+      "matchId": "1118942",
+      "league": "欧洲联赛",
+      "home": "莫斯科中央陆军",
+      "away": "萨格勒布迪纳摩",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.760",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2020-10-29 01:55",
+      "matchId": "1118943",
+      "league": "欧洲联赛",
+      "home": "费耶诺德",
+      "away": "沃尔夫斯贝格",
+      "result": {
+        "half": "0-2",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.350",
+        "score_result": "1:4",
+        "score_odds": "100.000",
+        "goal_result": "5",
+        "goal_odds": "6.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2020-10-29 01:55",
+      "matchId": "1118946",
+      "league": "欧洲联赛",
+      "home": "根特",
+      "away": "霍芬海姆",
+      "result": {
+        "half": "0-1",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.660",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.900",
+        "score_result": "1:4",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2020-10-29 02:00",
+      "matchId": "1120289",
+      "league": "瑞典超",
+      "home": "天狼星",
+      "away": "AIK索尔纳",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周四014",
+      "match_time": "2020-10-29 08:30",
+      "matchId": "1119273",
+      "league": "巴西杯",
+      "home": "格雷米奥",
+      "away": "尤文图德",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "4.800",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.750"
+      }
+    },
+    {
+      "num": "周四015",
+      "match_time": "2020-10-29 11:00",
+      "matchId": "1100837",
+      "league": "墨联",
+      "home": "圣路易斯",
+      "away": "马萨特兰",
+      "result": {
+        "half": "0-5",
+        "full": "0-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.620",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "0:5",
+        "score_odds": "200.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    }
+  ]
+}

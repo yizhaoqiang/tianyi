@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2023-12-15 16:45",
+    "matchId": "2474960",
+    "league": "澳超",
+    "home": "西悉尼流浪者",
+    "away": "阿德莱德联",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.57",
+        "d": "4.10",
+        "l": "3.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.62",
+        "d": "3.80",
+        "l": "2.02"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.57",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.80",
+      "score_result": "1:0",
+      "score_odds": "12.00",
+      "goal_result": "1",
+      "goal_odds": "9.25",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.40"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2023-12-15 22:30",
+    "matchId": "2505504",
+    "league": "世俱杯",
+    "home": "莱昂",
+    "away": "浦和红钻",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.00",
+        "d": "3.20",
+        "l": "3.06"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.20",
+        "d": "3.75",
+        "l": "1.58"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.06",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.58",
+      "score_result": "0:1",
+      "score_odds": "9.50",
+      "goal_result": "1",
+      "goal_odds": "4.70",
+      "half_full_result": "1-0",
+      "half_full_odds": "7.00"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2023-12-16 03:45",
+    "matchId": "2419684",
+    "league": "意甲",
+    "home": "热那亚",
+    "away": "尤文图斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.80",
+        "d": "3.05",
+        "l": "1.66"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.89",
+        "d": "3.08",
+        "l": "3.50"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.89",
+      "score_result": "1:1",
+      "score_odds": "6.25",
+      "goal_result": "2",
+      "goal_odds": "2.90",
+      "half_full_result": "0-1",
+      "half_full_odds": "18.00"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2023-12-16 04:00",
+    "matchId": "2399225",
+    "league": "英超",
+    "home": "诺丁汉森林",
+    "away": "托特纳姆热刺",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.60",
+        "d": "3.95",
+        "l": "1.50"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.15",
+        "d": "3.70",
+        "l": "2.48"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.50",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "2.48",
+      "score_result": "0:2",
+      "score_odds": "9.25",
+      "goal_result": "2",
+      "goal_odds": "4.30",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.27"
+    }
+  }
+]

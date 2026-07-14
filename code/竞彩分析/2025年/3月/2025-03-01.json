@@ -1,0 +1,354 @@
+{
+  "time": "2025-03-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-0_7200",
+        "handicap": "3_1_1463",
+        "halfFull": "13_13_2420",
+        "size": "2_1_1716"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_1-0_1-0_57600",
+        "handicap": "3_1_1_5925",
+        "halfFull": "13_13_13_13310",
+        "size": "2_1_1_7378"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-0_1-0_1-1_432000",
+        "handicap": "3_1_1_3_11791",
+        "halfFull": "13_13_13_31_192995",
+        "size": "2_1_1_2_29515"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_0_19808",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_0_0_36646",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_0_0_3_54603",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_0_0_3_1_204762",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-0_10400",
+        "handicap": "3_3_2052",
+        "halfFull": "13_33_1848",
+        "size": "2_2_1138"
+      },
+      "team": "001_087"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-0_1-0_2-0_538200",
+        "handicap": "3_1_1_3_24885",
+        "halfFull": "13_13_13_33_42688",
+        "size": "2_1_1_2_25160"
+      },
+      "team": "001_002_028_029"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2025-03-01 13:00",
+      "matchId": "1283281",
+      "league": "J联赛",
+      "home": "鹿岛鹿角",
+      "away": "东京FC",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.790",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.800",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2025-03-01 13:00",
+      "matchId": "1283486",
+      "league": "J2联赛",
+      "home": "长崎航海",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "5.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2025-03-01 13:00",
+      "matchId": "1284029",
+      "league": "K联赛",
+      "home": "蔚山现代",
+      "away": "全北现代",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.430",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "4.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2025-03-01 14:00",
+      "matchId": "1274480",
+      "league": "澳超",
+      "home": "布里斯班",
+      "away": "墨胜利",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.990",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.500"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2025-03-01 14:00",
+      "matchId": "1283283",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "京都",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "0:1",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "5.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.750"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2025-03-01 19:30",
+      "matchId": "1283715",
+      "league": "U20亚洲杯",
+      "home": "澳大利20",
+      "away": "沙特20",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2025-03-01 20:15",
+      "matchId": "1287574",
+      "league": "足总杯",
+      "home": "普雷斯顿",
+      "away": "伯恩利",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.070",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.490",
+        "score_result": "3:0",
+        "score_odds": "40.000",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2025-03-01 20:15",
+      "matchId": "1287797",
+      "league": "足总杯",
+      "home": "水晶宫",
+      "away": "米尔沃尔",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.190",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "3:1",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.650"
+      }
+    },
+    {
+      "num": "周六028",
+      "match_time": "2025-03-01 04:30",
+      "matchId": "1270259",
+      "league": "葡超",
+      "home": "吉马良斯",
+      "away": "卡萨皮亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.640",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "1:0",
+        "score_odds": "5.750",
+        "goal_result": "1",
+        "goal_odds": "4.250",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周六029",
+      "match_time": "2025-03-01 05:30",
+      "matchId": "1282767",
+      "league": "美职",
+      "home": "盐湖城",
+      "away": "西雅图",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.340",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.400",
+        "score_result": "2:0",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.200"
+      }
+    }
+  ]
+}

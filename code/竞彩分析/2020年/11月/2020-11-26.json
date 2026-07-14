@@ -1,0 +1,354 @@
+{
+  "time": "2020-11-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_3-3_30000",
+        "handicap": "1_3_597",
+        "halfFull": "00_31_3150",
+        "size": "1_6_8159"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_3-3_4-1_1500000",
+        "handicap": "1_3_3_967",
+        "halfFull": "00_31_33_15750",
+        "size": "1_6_5_59159"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_3-3_4-1_1-1_9375000",
+        "handicap": "1_3_3_0_1383",
+        "halfFull": "00_31_33_11_85050",
+        "size": "1_6_5_2_212975"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_3044",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_0_5388",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_0_0_7974",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_0_0_0_19457",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_1-3_15000",
+        "handicap": "1_0_481",
+        "halfFull": "00_00_1080",
+        "size": "1_4_3315"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_3-3_1-1_1-3_5250000",
+        "handicap": "1_3_0_0_2092",
+        "halfFull": "00_31_01_00_287280",
+        "size": "1_6_2_4_169728"
+      },
+      "team": "001_002_015_016"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2020-11-26 01:55",
+      "matchId": "1118896",
+      "league": "欧洲联赛",
+      "home": "索菲亚中央陆军",
+      "away": "年轻人",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2020-11-26 01:55",
+      "matchId": "1118973",
+      "league": "欧洲联赛",
+      "home": "布拉加",
+      "away": "莱切斯特城",
+      "result": {
+        "half": "2-1",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.810",
+        "score_result": "3:3",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2020-11-26 01:55",
+      "matchId": "1118978",
+      "league": "欧洲联赛",
+      "home": "布拉格斯巴达",
+      "away": "凯尔特人",
+      "result": {
+        "half": "2-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.070",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.620",
+        "score_result": "4:1",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "7.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2020-11-26 01:55",
+      "matchId": "1118979",
+      "league": "欧洲联赛",
+      "home": "里尔",
+      "away": "AC米兰",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2020-11-26 01:55",
+      "matchId": "1118984",
+      "league": "欧洲联赛",
+      "home": "特拉维夫马卡比",
+      "away": "比利亚雷亚尔",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.200",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2020-11-26 01:55",
+      "matchId": "1118996",
+      "league": "欧洲联赛",
+      "home": "莫斯科中央陆军",
+      "away": "费耶诺德",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.770",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2020-11-26 01:55",
+      "matchId": "1119002",
+      "league": "欧洲联赛",
+      "home": "根特",
+      "away": "贝尔格莱德红星",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2020-11-26 04:00",
+      "matchId": "1118897",
+      "league": "欧洲联赛",
+      "home": "克卢日",
+      "away": "罗马",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.440",
+        "score_result": "0:2",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周四015",
+      "match_time": "2020-11-26 07:00",
+      "matchId": "1087765",
+      "league": "巴西甲",
+      "home": "福塔雷萨",
+      "away": "戈亚斯",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-1",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周四016",
+      "match_time": "2020-11-26 09:00",
+      "matchId": "1121534",
+      "league": "墨联",
+      "home": "老虎大学",
+      "away": "蓝十字",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "1:3",
+        "score_odds": "25.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.800"
+      }
+    }
+  ]
+}

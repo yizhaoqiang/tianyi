@@ -1,0 +1,354 @@
+{
+  "time": "2022-10-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_4-0_18000",
+        "handicap": "3_3_592",
+        "halfFull": "33_33_286",
+        "size": "5_4_2667"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-1_4-0_0-0_270000",
+        "handicap": "3_3_0_1244",
+        "halfFull": "33_33_11_1787",
+        "size": "5_4_0_40004"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_4-0_0-0_6-2_2362500",
+        "handicap": "3_3_0_3_2863",
+        "halfFull": "33_33_11_33_2574",
+        "size": "5_4_0_7+_320039"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_8303",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_1_27816",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_1_3_42558",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_1_3_0_71073",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_3-1_18900",
+        "handicap": "3_3_611",
+        "halfFull": "33_33_418",
+        "size": "5_4_2857"
+      },
+      "team": "001_025"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_4-0_3-0_3-1_1266300",
+        "handicap": "3_3_3_3_3703",
+        "halfFull": "33_33_33_33_878",
+        "size": "5_4_3_4_40805"
+      },
+      "team": "001_002_024_025"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2022-10-29 14:00",
+      "matchId": "1161837",
+      "league": "J联赛",
+      "home": "横滨水手",
+      "away": "浦和红钻",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "4:1",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "6.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2022-10-29 21:00",
+      "matchId": "1176488",
+      "league": "意甲",
+      "home": "那不勒斯",
+      "away": "萨索洛",
+      "result": {
+        "half": "3-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.470",
+        "score_result": "4:0",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.430"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2022-10-29 21:00",
+      "matchId": "1160911",
+      "league": "瑞典超",
+      "home": "代格福什",
+      "away": "韦纳穆",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "0:0",
+        "score_odds": "15.000",
+        "goal_result": "0",
+        "goal_odds": "15.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2022-10-29 21:30",
+      "matchId": "1172599",
+      "league": "德甲",
+      "home": "拜仁",
+      "away": "美因茨",
+      "result": {
+        "half": "3-1",
+        "full": "6-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.300",
+        "score_result": "胜其他",
+        "score_odds": "8.750",
+        "goal_result": "7+",
+        "goal_odds": "8.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.440"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2022-10-29 22:00",
+      "matchId": "1171546",
+      "league": "英超",
+      "home": "纽卡斯尔",
+      "away": "维拉",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.900",
+        "score_result": "4:0",
+        "score_odds": "35.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2022-10-29 22:00",
+      "matchId": "1171541",
+      "league": "英超",
+      "home": "水晶宫",
+      "away": "南安普敦",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.790",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "4.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.820"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2022-10-29 22:00",
+      "matchId": "1171540",
+      "league": "英超",
+      "home": "布赖顿",
+      "away": "切尔西",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.530",
+        "score_result": "4:1",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "13.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2022-10-29 22:00",
+      "matchId": "1171539",
+      "league": "英超",
+      "home": "布伦特",
+      "away": "狼队",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周六024",
+      "match_time": "2022-10-29 02:45",
+      "matchId": "1176484",
+      "league": "意甲",
+      "home": "国际米兰",
+      "away": "桑普",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.450",
+        "score_result": "3:0",
+        "score_odds": "6.700",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.470"
+      }
+    },
+    {
+      "num": "周六025",
+      "match_time": "2022-10-29 03:00",
+      "matchId": "1170614",
+      "league": "荷甲",
+      "home": "前进之鹰",
+      "away": "SBV精英",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.490",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.550",
+        "score_result": "3:1",
+        "score_odds": "10.500",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.090"
+      }
+    }
+  ]
+}

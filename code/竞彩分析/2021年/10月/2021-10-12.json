@@ -1,0 +1,200 @@
+{
+  "time": "2021-10-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-2_16050",
+        "handicap": "0_1_489",
+        "halfFull": "11_33_770",
+        "size": "2_5_3900"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_3-2_2-0_100312",
+        "handicap": "0_1_3_1664",
+        "halfFull": "11_33_13_3041",
+        "size": "2_5_2_11115"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-2_2-0_1-0_561750",
+        "handicap": "0_1_3_1_5576",
+        "halfFull": "11_33_13_13_12166",
+        "size": "2_5_2_1_49461"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_1_0_14220",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-1_6419",
+        "handicap": "0_0_390",
+        "halfFull": "11_11_4427",
+        "size": "2_2_1200"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-2_1-0_1-1_1078559",
+        "handicap": "0_1_1_0_4182",
+        "halfFull": "11_33_13_11_35420",
+        "size": "2_5_1_2_69420"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2021-10-12 21:30",
+      "matchId": "1150561",
+      "league": "世亚预",
+      "home": "伊朗",
+      "away": "韩国",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "1:1",
+        "score_odds": "5.350",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2021-10-12 01:00",
+      "matchId": "1150590",
+      "league": "世亚预",
+      "home": "沙特",
+      "away": "中国",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "3:2",
+        "score_odds": "30.000",
+        "goal_result": "5",
+        "goal_odds": "13.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2021-10-12 02:45",
+      "matchId": "1122402",
+      "league": "世欧预",
+      "home": "瑞典",
+      "away": "希腊",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.560",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.400",
+        "score_result": "2:0",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "2.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2021-10-12 02:45",
+      "matchId": "1122488",
+      "league": "世欧预",
+      "home": "丹麦",
+      "away": "奥地利",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:0",
+        "score_odds": "5.600",
+        "goal_result": "1",
+        "goal_odds": "4.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2021-10-12 02:45",
+      "matchId": "1122579",
+      "league": "世欧预",
+      "home": "英格兰",
+      "away": "匈牙利",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.550",
+        "score_result": "1:1",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "11.500"
+      }
+    }
+  ]
+}

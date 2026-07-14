@@ -1,0 +1,354 @@
+{
+  "time": "2017-04-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-3_37800",
+        "handicap": "3_0_344",
+        "halfFull": "31_11_9120",
+        "size": "2_6_5100"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_3-3_3-2_945000",
+        "handicap": "3_0_0_695",
+        "halfFull": "31_11_33_13680",
+        "size": "2_6_5_33150"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-3_3-2_1-1_5292000",
+        "handicap": "3_0_0_3_1161",
+        "halfFull": "31_11_33_11_54720",
+        "size": "2_6_5_2_91162"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_1927",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_0_5398",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_0_3_26720",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_0_3_1_98867",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-1_4320",
+        "handicap": "3_1_596",
+        "halfFull": "31_13_8000",
+        "size": "2_3_1139"
+      },
+      "team": "001_109"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-3_1-3_2-1_6652800",
+        "handicap": "3_0_0_1_2379",
+        "halfFull": "31_11_00_13_228000",
+        "size": "2_6_4_3_91086"
+      },
+      "team": "001_002_108_109"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2017-04-22 12:00",
+      "matchId": "932701",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2017-04-22 13:00",
+      "matchId": "932483",
+      "league": "J联赛",
+      "home": "广岛三箭",
+      "away": "仙台七夕",
+      "result": {
+        "half": "0-0",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.280",
+        "score_result": "3:3",
+        "score_odds": "70.000",
+        "goal_result": "6",
+        "goal_odds": "17.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2017-04-22 13:00",
+      "matchId": "932481",
+      "league": "J联赛",
+      "home": "浦和红钻",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.020",
+        "score_result": "3:2",
+        "score_odds": "25.000",
+        "goal_result": "5",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.500"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2017-04-22 13:00",
+      "matchId": "932482",
+      "league": "J联赛",
+      "home": "甲府风林",
+      "away": "大阪樱花",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.670",
+        "score_result": "1:1",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "2.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2017-04-22 13:00",
+      "matchId": "932702",
+      "league": "J2联赛",
+      "home": "名古屋鲸八",
+      "away": "山口雷诺法",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.380",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.660",
+        "score_result": "0:2",
+        "score_odds": "17.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2017-04-22 14:00",
+      "matchId": "932484",
+      "league": "J联赛",
+      "home": "鹿岛鹿角",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "7.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.800",
+        "score_result": "0:3",
+        "score_odds": "80.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2017-04-22 14:00",
+      "matchId": "932485",
+      "league": "J联赛",
+      "home": "柏太阳神",
+      "away": "横滨水手",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.950",
+        "score_result": "2:0",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2017-04-22 14:00",
+      "matchId": "932706",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "长崎航海",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:0",
+        "score_odds": "5.250",
+        "goal_result": "1",
+        "goal_odds": "3.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周六108",
+      "match_time": "2017-04-22 09:30",
+      "matchId": "929387",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "亚特兰大联",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.750",
+        "score_result": "1:3",
+        "score_odds": "22.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周六109",
+      "match_time": "2017-04-22 10:00",
+      "matchId": "926811",
+      "league": "墨联",
+      "home": "内卡萨",
+      "away": "莫雷利亚",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.400",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2017-09-24",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_1-2_18750",
+        "handicap": "3_1_1081",
+        "halfFull": "33_00_709",
+        "size": "4_3_2129"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_1-2_2-3_731250",
+        "handicap": "3_1_0_2594",
+        "halfFull": "33_00_30_28380",
+        "size": "4_3_5_15974"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_1-2_2-3_0-1_6032812",
+        "handicap": "3_1_0_0_4903",
+        "halfFull": "33_00_30_10_241230",
+        "size": "4_3_5_1_51918"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_8189",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_0_15641",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_0_1_59438",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_0_1_3_235374",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_3-0_26250",
+        "handicap": "3_3_652",
+        "halfFull": "33_33_404",
+        "size": "4_3_2100"
+      },
+      "team": "001_079"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_1-2_1-0_3-0_1515937",
+        "handicap": "3_1_1_3_9243",
+        "halfFull": "33_00_13_33_6669",
+        "size": "4_3_1_3_34292"
+      },
+      "team": "001_002_074_075"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2017-09-24 12:00",
+      "matchId": "956414",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "群马温泉",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.860",
+        "score_result": "4:0",
+        "score_odds": "25.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2017-09-24 13:00",
+      "matchId": "956411",
+      "league": "J2联赛",
+      "home": "岐阜FC",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.780",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2017-09-24 13:00",
+      "matchId": "956401",
+      "league": "J2联赛",
+      "home": "松本山雅",
+      "away": "山口雷诺法",
+      "result": {
+        "half": "1-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "2:3",
+        "score_odds": "39.000",
+        "goal_result": "5",
+        "goal_odds": "7.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2017-09-24 14:00",
+      "matchId": "956412",
+      "league": "J2联赛",
+      "home": "山形山神",
+      "away": "熊本深红",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.420",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.890",
+        "score_result": "0:1",
+        "score_odds": "8.250",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2017-09-24 14:00",
+      "matchId": "956416",
+      "league": "J2联赛",
+      "home": "金泽塞维根",
+      "away": "大分三神",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.670",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2017-09-24 14:10",
+      "matchId": "934217",
+      "league": "K联赛",
+      "home": "首尔FC",
+      "away": "浦项制铁",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.910",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2017-09-24 15:00",
+      "matchId": "956536",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "横滨FC",
+      "result": {
+        "half": "1-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.230",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "2:3",
+        "score_odds": "27.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2017-09-24 16:00",
+      "matchId": "956409",
+      "league": "J2联赛",
+      "home": "名古屋鲸八",
+      "away": "东京绿茵",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.960",
+        "score_result": "4:1",
+        "score_odds": "34.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周日074",
+      "match_time": "2017-09-24 07:30",
+      "matchId": "962798",
+      "league": "智利甲",
+      "home": "瓦奇巴托",
+      "away": "伊基克体育",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:0",
+        "score_odds": "7.700",
+        "goal_result": "1",
+        "goal_odds": "4.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周日075",
+      "match_time": "2017-09-24 08:00",
+      "matchId": "929365",
+      "league": "美职",
+      "home": "波特兰伐木工",
+      "away": "奥兰多城",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.280",
+        "score_result": "3:0",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.880"
+      }
+    }
+  ]
+}

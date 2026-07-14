@@ -1,0 +1,354 @@
+{
+  "time": "2019-10-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-1_4875",
+        "handicap": "0_0_306",
+        "halfFull": "11_11_3212",
+        "size": "2_2_1400"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-1_1-3_141375",
+        "handicap": "0_0_0_498",
+        "halfFull": "11_11_10_23133",
+        "size": "2_2_4_7000"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-1_1-3_3-0_2544750",
+        "handicap": "0_0_0_3_2444",
+        "halfFull": "11_11_10_33_75184",
+        "size": "2_2_4_3_25900"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_3543",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_3_7512",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_3_3_13673",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_0_3_3_3_36918",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-3_24700",
+        "handicap": "0_0_408",
+        "halfFull": "11_00_4207",
+        "size": "2_4_1470"
+      },
+      "team": "001_014"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-1_5-1_1-3_3705000",
+        "handicap": "0_0_3_0_1388",
+        "halfFull": "11_11_33_00_36049",
+        "size": "2_2_6_4_48804"
+      },
+      "team": "001_002_013_014"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2019-10-29 18:00",
+      "matchId": "1076455",
+      "league": "J联赛",
+      "home": "广岛三箭",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2019-10-29 01:30",
+      "matchId": "1076987",
+      "league": "德国杯",
+      "home": "汉堡",
+      "away": "斯图加特",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.300"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2019-10-29 01:30",
+      "matchId": "1076990",
+      "league": "德国杯",
+      "home": "弗赖堡",
+      "away": "柏林联合",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.180",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "1:3",
+        "score_odds": "29.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.200"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2019-10-29 01:45",
+      "matchId": "1078578",
+      "league": "法联杯",
+      "home": "尼姆",
+      "away": "朗斯",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.170",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.900",
+        "score_result": "3:0",
+        "score_odds": "18.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2019-10-29 02:00",
+      "matchId": "1074609",
+      "league": "意甲",
+      "home": "帕尔马",
+      "away": "维罗纳",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.150",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2019-10-29 02:00",
+      "matchId": "1064673",
+      "league": "西甲",
+      "home": "阿拉维斯",
+      "away": "马德里竞技",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.220",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2019-10-29 03:00",
+      "matchId": "1076985",
+      "league": "德国杯",
+      "home": "波鸿",
+      "away": "拜仁慕尼黑",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+3",
+        "handicap_result": "3",
+        "handicap_odds": "1.820",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "4.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "20.000"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2019-10-29 03:45",
+      "matchId": "1078855",
+      "league": "英联杯",
+      "home": "埃弗顿",
+      "away": "沃特福德",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.700",
+        "score_result": "2:0",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周二013",
+      "match_time": "2019-10-29 04:15",
+      "matchId": "1064675",
+      "league": "西甲",
+      "home": "巴塞罗那",
+      "away": "巴利亚多利德",
+      "result": {
+        "half": "3-1",
+        "full": "5-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.890",
+        "score_result": "5:1",
+        "score_odds": "20.000",
+        "goal_result": "6",
+        "goal_odds": "8.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.360"
+      }
+    },
+    {
+      "num": "周二014",
+      "match_time": "2019-10-29 10:00",
+      "matchId": "1079585",
+      "league": "美职",
+      "home": "洛杉矶FC",
+      "away": "西雅图海湾人",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "1:3",
+        "score_odds": "38.000",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.250"
+      }
+    }
+  ]
+}

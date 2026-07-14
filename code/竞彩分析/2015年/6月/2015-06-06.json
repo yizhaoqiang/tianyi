@@ -1,0 +1,354 @@
+{
+  "time": "2015-06-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_1-1_6600",
+        "handicap": "0_3_387",
+        "halfFull": "00_11_847",
+        "size": "4_2_1566"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-3_1-1_0-0_46200",
+        "handicap": "0_3_0_686",
+        "halfFull": "00_11_11_3472",
+        "size": "4_2_0_10962"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_1-1_0-0_1-3_1848000",
+        "handicap": "0_3_0_0_1399",
+        "halfFull": "00_11_11_10_31254",
+        "size": "4_2_0_4_63579"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_1_4688",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_1_0_8204",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_1_0_1_26255",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_1_0_1_0_41221",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_3-1_26400",
+        "handicap": "0_3_1427",
+        "halfFull": "00_33_803",
+        "size": "4_4_3780"
+      },
+      "team": "001_019"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_1-1_2-0_3-1_1161600",
+        "handicap": "0_3_3_3_6837",
+        "halfFull": "00_11_13_33_12984",
+        "size": "4_2_2_4_35626"
+      },
+      "team": "001_024_040_023"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2015-06-06 02:45",
+      "matchId": "790093",
+      "league": "欧冠",
+      "home": "尤文图斯",
+      "away": "巴塞罗那",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.550",
+        "score_result": "1:3",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.200"
+      }
+    },
+    {
+      "num": "周六024",
+      "match_time": "2015-06-06 04:15",
+      "matchId": "768564",
+      "league": "阿甲",
+      "home": "坦珀利",
+      "away": "拉努斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周六025",
+      "match_time": "2015-06-06 05:00",
+      "matchId": "768559",
+      "league": "阿甲",
+      "home": "圣洛伦索",
+      "away": "贝尔格拉诺",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.770",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周六026",
+      "match_time": "2015-06-06 05:30",
+      "matchId": "787566",
+      "league": "巴西甲",
+      "home": "米内罗竞技",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.040",
+        "score_result": "1:3",
+        "score_odds": "40.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周六027",
+      "match_time": "2015-06-06 05:30",
+      "matchId": "787564",
+      "league": "巴西甲",
+      "home": "弗拉门戈",
+      "away": "沙佩科恩斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:0",
+        "score_odds": "5.400",
+        "goal_result": "1",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周六028",
+      "match_time": "2015-06-06 05:30",
+      "matchId": "787562",
+      "league": "巴西甲",
+      "home": "桑托斯",
+      "away": "庞特普雷塔",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.750",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周六029",
+      "match_time": "2015-06-06 06:00",
+      "matchId": "771132",
+      "league": "女足世界杯",
+      "home": "加拿大女足",
+      "away": "中国女足",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "5.200",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周六030",
+      "match_time": "2015-06-06 07:00",
+      "matchId": "767611",
+      "league": "美职",
+      "home": "华盛顿联",
+      "away": "多伦多FC",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "1:2",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周六040",
+      "match_time": "2015-06-06 10:30",
+      "matchId": "767618",
+      "league": "美职",
+      "home": "波特兰伐木工",
+      "away": "新英格兰革命",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.680",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.150",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周六023",
+      "match_time": "2015-06-06 22:00",
+      "matchId": "768570",
+      "league": "阿甲",
+      "home": "北克鲁塞罗",
+      "away": "圣胡安圣马丁",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.430",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.600",
+        "score_result": "3:1",
+        "score_odds": "22.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.650"
+      }
+    }
+  ]
+}

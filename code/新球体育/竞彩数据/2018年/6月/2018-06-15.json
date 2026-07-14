@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周五002",
+    "match_time": "2018-06-15 20:00",
+    "matchId": "1482824",
+    "league": "世界杯",
+    "home": "埃及",
+    "away": "乌拉圭",
+    "finish_odds": {
+      "wdl": {
+        "w": "9.30",
+        "d": "4.26",
+        "l": "1.27"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.93",
+        "d": "3.10",
+        "l": "2.15"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.27",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.10",
+      "score_result": "0:1",
+      "score_odds": "5.00",
+      "goal_result": "1",
+      "goal_odds": "4.10",
+      "half_full_result": "1-0",
+      "half_full_odds": "3.75"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2018-06-15 23:00",
+    "matchId": "1482829",
+    "league": "世界杯",
+    "home": "摩洛哥",
+    "away": "伊朗",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.94",
+        "d": "2.87",
+        "l": "3.76"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.22",
+        "d": "3.45",
+        "l": "1.66"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.76",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.66",
+      "score_result": "0:1",
+      "score_odds": "6.50",
+      "goal_result": "1",
+      "goal_odds": "3.00",
+      "half_full_result": "1-0",
+      "half_full_odds": "7.00"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2018-06-16 02:00",
+    "matchId": "1482830",
+    "league": "世界杯",
+    "home": "葡萄牙",
+    "away": "西班牙",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.44",
+        "d": "3.26",
+        "l": "1.88"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.68",
+        "d": "3.52",
+        "l": "4.00"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "3-3",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.26",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.68",
+      "score_result": "3:3",
+      "score_odds": "60.00",
+      "goal_result": "6",
+      "goal_odds": "20.00",
+      "half_full_result": "3-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周五101",
+    "match_time": "2018-06-16 11:00",
+    "matchId": "1551199",
+    "league": "美公开赛",
+    "home": "波特兰伐木者",
+    "away": "洛杉矶银河",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.89",
+        "d": "3.50",
+        "l": "3.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.60",
+        "d": "3.80",
+        "l": "1.70"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.89",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.80",
+      "score_result": "1:0",
+      "score_odds": "8.50",
+      "goal_result": "1",
+      "goal_odds": "5.75",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.65"
+    }
+  }
+]

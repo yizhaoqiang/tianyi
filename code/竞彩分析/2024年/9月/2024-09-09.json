@@ -1,0 +1,200 @@
+{
+  "time": "2024-09-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_1-2_7250",
+        "handicap": "3_1_741",
+        "halfFull": "13_00_1289",
+        "size": "4_3_2008"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_1-2_2-1_54375",
+        "handicap": "3_1_1_2935",
+        "halfFull": "13_00_13_6706",
+        "size": "4_3_3_7230"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_1-2_2-1_3-0_435000",
+        "handicap": "3_1_1_3_5664",
+        "halfFull": "13_00_13_33_11937",
+        "size": "4_3_3_3_27114"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_3_17561",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_2-0_9000",
+        "handicap": "3_3_675",
+        "halfFull": "13_33_1097",
+        "size": "4_2_1905"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_1-2_3-0_2-0_522000",
+        "handicap": "3_1_3_3_4434",
+        "halfFull": "13_00_33_33_6542",
+        "size": "4_3_3_2_27867"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2024-09-09 02:45",
+      "matchId": "1250322",
+      "league": "欧国联",
+      "home": "土耳其",
+      "away": "冰岛",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.180",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "5.150",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2024-09-09 02:45",
+      "matchId": "1250321",
+      "league": "欧国联",
+      "home": "黑山",
+      "away": "威尔士",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:2",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2024-09-09 02:45",
+      "matchId": "1250309",
+      "league": "欧国联",
+      "home": "挪威",
+      "away": "奥地利",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.210",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.960",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2024-09-09 02:45",
+      "matchId": "1250310",
+      "league": "欧国联",
+      "home": "斯洛文尼",
+      "away": "哈萨克",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.930",
+        "score_result": "3:0",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.780"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2024-09-09 02:45",
+      "matchId": "1250249",
+      "league": "欧国联",
+      "home": "法国",
+      "away": "比利时",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.640",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.100",
+        "score_result": "2:0",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.850"
+      }
+    }
+  ]
+}

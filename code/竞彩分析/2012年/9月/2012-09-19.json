@@ -1,0 +1,354 @@
+{
+  "time": "2012-09-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-0_9000",
+        "handicap": "1_3_548",
+        "halfFull": "31_33_4240",
+        "size": "4_1_2730"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_1-0_0-0_81000",
+        "handicap": "1_3_1_1783",
+        "halfFull": "31_33_11_20776",
+        "size": "4_1_0_24570"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-0_0-0_1-1_469800",
+        "handicap": "1_3_1_1_5260",
+        "halfFull": "31_33_11_11_83104",
+        "size": "4_1_0_2_78624"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_1_3_11836",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_1_3_1_37284",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_1_3_1_3_57418",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_1_3_1_3_3_70625",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-0_0",
+        "handicap": "1_3_502",
+        "halfFull": "31_33_4000",
+        "size": "4_1_0"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-0_2-2_1-0_0",
+        "handicap": "1_3_1_3_4177",
+        "halfFull": "31_33_01_33_222600",
+        "size": "4_1_4_1_0"
+      },
+      "team": "001_002_024_018"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2012-09-19 17:30",
+      "matchId": "215920",
+      "league": "亚冠杯",
+      "home": "阿德莱德联",
+      "away": "创造者",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2012-09-19 18:30",
+      "matchId": "215921",
+      "league": "亚冠杯",
+      "home": "蔚山现代",
+      "away": "利雅得希拉尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.770",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.770",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2012-09-19 23:59",
+      "matchId": "215922",
+      "league": "亚冠杯",
+      "home": "塞帕汉",
+      "away": "吉达阿赫利",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2012-09-19 01:00",
+      "matchId": "216342",
+      "league": "葡联杯",
+      "home": "塞图巴尔",
+      "away": "雷克斯欧斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "1:1",
+        "score_odds": "5.800",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2012-09-19 01:35",
+      "matchId": "215923",
+      "league": "亚冠杯",
+      "home": "吉达伊蒂哈德",
+      "away": "广州恒大",
+      "result": {
+        "half": "1-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "4:2",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "25.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "27.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2012-09-19 02:45",
+      "matchId": "216323",
+      "league": "欧冠",
+      "home": "切尔西",
+      "away": "尤文图斯",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2012-09-19 02:45",
+      "matchId": "216322",
+      "league": "欧冠",
+      "home": "顿涅茨克矿工",
+      "away": "北西兰",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "2:0",
+        "score_odds": "5.300",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.520"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2012-09-19 02:45",
+      "matchId": "216325",
+      "league": "欧冠",
+      "home": "拜仁慕尼黑",
+      "away": "巴伦西亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.230",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周三024",
+      "match_time": "2012-09-19 10:30",
+      "matchId": "199963",
+      "league": "美职",
+      "home": "圣何塞地震",
+      "away": "波特兰伐木工",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.700",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "4.700",
+        "score_result": "2:2",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "21.000"
+      }
+    },
+    {
+      "num": "周三018",
+      "match_time": "2012-09-19 07:15",
+      "matchId": "215798",
+      "league": "南俱杯",
+      "home": "蒙得维的亚利物浦",
+      "away": "恩维加多",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.620",
+        "score_result": "1:0",
+        "score_odds": "0.000",
+        "goal_result": "1",
+        "goal_odds": "0.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2012-01-06 03:00",
+    "matchId": "658678",
+    "league": "西杯",
+    "home": "科尔多瓦",
+    "away": "西班牙人",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.78",
+        "d": "3.05",
+        "l": "2.30"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.78",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "2:1",
+      "score_odds": "10.00",
+      "goal_result": "3",
+      "goal_odds": "4.10",
+      "half_full_result": "0-3",
+      "half_full_odds": "40.00"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2012-01-06 05:00",
+    "matchId": "658679",
+    "league": "西杯",
+    "home": "巴伦西亚",
+    "away": "塞维利亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.67",
+        "d": "3.45",
+        "l": "4.30"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.67",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "1:0",
+      "score_odds": "6.50",
+      "goal_result": "1",
+      "goal_odds": "4.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.60"
+    }
+  }
+]

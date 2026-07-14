@@ -1,0 +1,328 @@
+{
+  "time": "2017-09-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_2-2_43750",
+        "handicap": "0_0_433",
+        "halfFull": "30_11_28600",
+        "size": "5_4_3341"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_2-2_0-0_437500",
+        "handicap": "0_0_3_1048",
+        "halfFull": "30_11_11_164450",
+        "size": "5_4_0_33412"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_2-2_0-0_0-3_28437500",
+        "handicap": "0_0_3_0_2181",
+        "halfFull": "30_11_11_10_1644500",
+        "size": "5_4_0_3_116943"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_5018",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_0_7025",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_0_3_30911",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_0_3_3_65531",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2017-09-21 00:00",
+      "matchId": "929927",
+      "league": "瑞典超",
+      "home": "厄勒布鲁",
+      "away": "埃斯基尔斯蒂纳",
+      "result": {
+        "half": "2-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.580",
+        "score_result": "2:3",
+        "score_odds": "35.000",
+        "goal_result": "5",
+        "goal_odds": "6.750",
+        "half_full_result": "3-0",
+        "half_full_odds": "55.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2017-09-21 00:00",
+      "matchId": "983327",
+      "league": "挪超",
+      "home": "特罗姆瑟",
+      "away": "奥德",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "2:2",
+        "score_odds": "12.500",
+        "goal_result": "4",
+        "goal_odds": "4.950",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2017-09-21 01:00",
+      "matchId": "929926",
+      "league": "瑞典超",
+      "home": "松兹瓦尔",
+      "away": "AIK索尔纳",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.420",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2017-09-21 01:00",
+      "matchId": "990752",
+      "league": "挪威杯",
+      "home": "莫尔德",
+      "away": "利勒斯特罗姆",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.080",
+        "score_result": "0:3",
+        "score_odds": "65.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2017-09-21 02:00",
+      "matchId": "973759",
+      "league": "西甲",
+      "home": "比利亚雷亚尔",
+      "away": "西班牙人",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2017-09-21 02:00",
+      "matchId": "992879",
+      "league": "国王杯",
+      "home": "莱昂内萨",
+      "away": "巴利亚多利德",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.480",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "0:4",
+        "score_odds": "65.000",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2017-09-21 02:30",
+      "matchId": "962573",
+      "league": "德乙",
+      "home": "纽伦堡",
+      "away": "波鸿",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.400",
+        "score_result": "3:1",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "4.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.550"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2017-09-21 02:45",
+      "matchId": "982171",
+      "league": "苏联杯",
+      "home": "马瑟韦尔",
+      "away": "阿伯丁",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "3:0",
+        "score_odds": "60.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周四014",
+      "match_time": "2017-09-21 08:45",
+      "matchId": "982368",
+      "league": "解放者杯",
+      "home": "拉努斯",
+      "away": "圣洛伦索",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.650",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周四015",
+      "match_time": "2017-09-21 09:00",
+      "matchId": "993145",
+      "league": "墨西哥杯",
+      "home": "桑托斯拉古纳",
+      "away": "内卡萨",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "-1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    }
+  ]
+}

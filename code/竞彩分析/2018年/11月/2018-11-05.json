@@ -1,0 +1,354 @@
+{
+  "time": "2018-11-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-2_7139",
+        "handicap": "1_0_660",
+        "halfFull": "13_00_3600",
+        "size": "1_3_1376"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_1-2_2-1_71399",
+        "handicap": "1_0_3_943",
+        "halfFull": "13_00_33_16200",
+        "size": "1_3_3_5574"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-2_2-1_1-2_499799",
+        "handicap": "1_0_3_1_3445",
+        "halfFull": "13_00_33_10_68850",
+        "size": "1_3_3_3_18116"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_0_7614",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_0_0_11573",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_0_0_1_44558",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_0_0_1_0_74859",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-1_3417",
+        "handicap": "1_0_590",
+        "halfFull": "13_10_3900",
+        "size": "1_1_991"
+      },
+      "team": "001_018"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-2_1-0_0-1_277460",
+        "handicap": "1_0_1_0_3469",
+        "halfFull": "13_00_13_10_112319",
+        "size": "1_3_1_1_16368"
+      },
+      "team": "001_002_017_018"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2018-11-05 19:00",
+      "matchId": "1041010",
+      "league": "俄超",
+      "home": "奥伦堡",
+      "away": "喀山红宝石",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.760",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "1:0",
+        "score_odds": "5.100",
+        "goal_result": "1",
+        "goal_odds": "2.960",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2018-11-05 21:30",
+      "matchId": "1041006",
+      "league": "俄超",
+      "home": "乌法",
+      "away": "苏维埃之翼",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "1:2",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "4.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2018-11-05 00:00",
+      "matchId": "1041008",
+      "league": "俄超",
+      "home": "安郅马哈奇卡拉",
+      "away": "克拉斯诺亚尔斯克",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.820",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.430",
+        "score_result": "2:1",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "4.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2018-11-05 02:00",
+      "matchId": "1002285",
+      "league": "瑞典超",
+      "home": "达尔库尔德人",
+      "away": "佐加顿斯",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2018-11-05 02:00",
+      "matchId": "1002287",
+      "league": "瑞典超",
+      "home": "埃尔夫斯堡",
+      "away": "布鲁马波卡纳",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.210",
+        "score_result": "1:2",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2018-11-05 02:00",
+      "matchId": "1002278",
+      "league": "瑞典超",
+      "home": "天狼星",
+      "away": "卡尔马",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2018-11-05 02:00",
+      "matchId": "1002286",
+      "league": "瑞典超",
+      "home": "特雷勒堡",
+      "away": "厄斯特松德",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "0:1",
+        "score_odds": "7.600",
+        "goal_result": "1",
+        "goal_odds": "6.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2018-11-05 02:00",
+      "matchId": "1003018",
+      "league": "挪超",
+      "home": "利勒斯特罗姆",
+      "away": "博德闪耀",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周一017",
+      "match_time": "2018-11-05 07:00",
+      "matchId": "1013116",
+      "league": "巴西甲",
+      "home": "累西腓体育",
+      "away": "塞阿拉",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.130",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:0",
+        "score_odds": "5.800",
+        "goal_result": "1",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周一018",
+      "match_time": "2018-11-05 08:00",
+      "matchId": "1041539",
+      "league": "阿甲",
+      "home": "拉努斯",
+      "away": "飓风",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.440",
+        "score_result": "0:1",
+        "score_odds": "6.700",
+        "goal_result": "1",
+        "goal_odds": "3.350",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    }
+  ]
+}

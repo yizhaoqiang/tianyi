@@ -1,0 +1,236 @@
+{
+  "time": "2016-12-24",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-1_5400",
+        "handicap": "1_1_1328",
+        "halfFull": "13_13_2279",
+        "size": "1_3_1488"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_2-1_1-2_37800",
+        "handicap": "1_1_1_4848",
+        "halfFull": "13_13_00_7976",
+        "size": "1_3_3_4910"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-1_1-2_1-1_226800",
+        "handicap": "1_1_1_0_7417",
+        "halfFull": "13_13_00_31_95718",
+        "size": "1_3_3_2_14485"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_0_0_17208",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_0_0_1_55068",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-0_3881",
+        "handicap": "1_1_1104",
+        "halfFull": "13_33_696",
+        "size": "1_1_2604"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-1_0-3_1-0_217350",
+        "handicap": "1_1_0_1_9860",
+        "halfFull": "13_13_00_33_5058",
+        "size": "1_3_3_1_28748"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2016-12-24 12:00",
+      "matchId": "923422",
+      "league": "天皇杯",
+      "home": "鹿岛鹿角",
+      "away": "广岛三箭",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.690",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "4.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2016-12-24 12:00",
+      "matchId": "923421",
+      "league": "天皇杯",
+      "home": "横滨水手",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2016-12-24 15:00",
+      "matchId": "923424",
+      "league": "天皇杯",
+      "home": "东京FC",
+      "away": "川崎前锋",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2016-12-24 15:00",
+      "matchId": "923423",
+      "league": "天皇杯",
+      "home": "大宫松鼠",
+      "away": "湘南海洋",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "3-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2016-12-24 20:30",
+      "matchId": "878971",
+      "league": "苏超",
+      "home": "汉密尔顿",
+      "away": "凯尔特人",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.100",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "0:3",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.370"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2016-12-24 20:30",
+      "matchId": "878974",
+      "league": "苏超",
+      "home": "格拉斯哥流浪者",
+      "away": "因弗内斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "5.750",
+        "goal_result": "1",
+        "goal_odds": "5.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.620"
+      }
+    }
+  ]
+}

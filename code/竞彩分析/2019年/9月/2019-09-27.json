@@ -1,0 +1,354 @@
+{
+  "time": "2019-09-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-0_13650",
+        "handicap": "1_3_594",
+        "halfFull": "10_33_2200",
+        "size": "1_2_2502"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_2-0_2-0_102375",
+        "handicap": "1_3_3_2496",
+        "halfFull": "10_33_33_6600",
+        "size": "1_2_2_7882"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-0_2-0_0-1_1382062",
+        "handicap": "1_3_3_0_5992",
+        "halfFull": "10_33_33_10_75900",
+        "size": "1_2_2_1_34684"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_9288",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_0_15325",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_0_0_32184",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_0_0_1_99772",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-0_7875",
+        "handicap": "1_0_705",
+        "halfFull": "10_11_2475",
+        "size": "1_0_4875"
+      },
+      "team": "001_022"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-0_5-1_0-0_5630625",
+        "handicap": "1_3_3_0_3036",
+        "halfFull": "10_33_33_11_24255",
+        "size": "1_2_6_0_262762"
+      },
+      "team": "001_002_021_022"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2019-09-27 00:30",
+      "matchId": "1063297",
+      "league": "德乙",
+      "home": "比勒费尔德",
+      "away": "斯图加特",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.210",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "0:1",
+        "score_odds": "10.500",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2019-09-27 00:30",
+      "matchId": "1063304",
+      "league": "德乙",
+      "home": "韦恩",
+      "away": "奥斯纳布吕克",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.440",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.450",
+        "score_result": "2:0",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2019-09-27 02:00",
+      "matchId": "1067907",
+      "league": "法乙",
+      "home": "阿雅克肖",
+      "away": "瓦朗谢纳",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.200",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2019-09-27 02:00",
+      "matchId": "1067909",
+      "league": "法乙",
+      "home": "勒阿弗尔",
+      "away": "沙托鲁",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "0:1",
+        "score_odds": "13.500",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "11.500"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2019-09-27 02:00",
+      "matchId": "1067901",
+      "league": "法乙",
+      "home": "尼奥尔",
+      "away": "欧塞尔",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.770",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.550",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2019-09-27 02:00",
+      "matchId": "1067908",
+      "league": "法乙",
+      "home": "克莱蒙",
+      "away": "南锡",
+      "result": {
+        "half": "2-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2019-09-27 02:00",
+      "matchId": "1067902",
+      "league": "法乙",
+      "home": "特鲁瓦",
+      "away": "奥尔良",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "1:2",
+        "score_odds": "11.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2019-09-27 02:00",
+      "matchId": "1067906",
+      "league": "法乙",
+      "home": "格勒诺布尔",
+      "away": "卡昂",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:0",
+        "score_odds": "4.500",
+        "goal_result": "1",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.050"
+      }
+    },
+    {
+      "num": "周五021",
+      "match_time": "2019-09-27 03:00",
+      "matchId": "1064642",
+      "league": "西甲",
+      "home": "比利亚雷亚尔",
+      "away": "皇家贝蒂斯",
+      "result": {
+        "half": "1-0",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.540",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.970",
+        "score_result": "5:1",
+        "score_odds": "55.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周五022",
+      "match_time": "2019-09-27 03:30",
+      "matchId": "1066733",
+      "league": "葡超",
+      "home": "博阿维斯塔",
+      "away": "通德拉",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.720",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    }
+  ]
+}

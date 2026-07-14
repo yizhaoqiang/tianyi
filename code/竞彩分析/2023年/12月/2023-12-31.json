@@ -1,0 +1,128 @@
+{
+  "time": "2023-12-31",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_2-1_51000",
+        "handicap": "3_3_489",
+        "halfFull": "33_13_2625",
+        "size": "6_3_3412"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-2_2-1_3-1_561000",
+        "handicap": "3_3_3_1384",
+        "halfFull": "33_13_33_6956",
+        "size": "6_3_4_14673"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_3-1_33000",
+        "handicap": "3_3_594",
+        "halfFull": "33_33_556",
+        "size": "6_4_4192"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-2_2-1_3-1_561000",
+        "handicap": "3_3_3_1384",
+        "halfFull": "33_13_33_6956",
+        "size": "6_3_4_14673"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2023-12-31 16:00",
+      "matchId": "1237302",
+      "league": "澳超",
+      "home": "中央海岸",
+      "away": "珀斯",
+      "result": {
+        "half": "3-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.100",
+        "score_result": "4:2",
+        "score_odds": "30.000",
+        "goal_result": "6",
+        "goal_odds": "9.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.100"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2023-12-31 22:00",
+      "matchId": "1216662",
+      "league": "英超",
+      "home": "富勒姆",
+      "away": "阿森纳",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.330",
+        "score_result": "2:1",
+        "score_odds": "17.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "12.500"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2023-12-31 22:00",
+      "matchId": "1216667",
+      "league": "英超",
+      "home": "热刺",
+      "away": "伯恩茅斯",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.830",
+        "score_result": "3:1",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    }
+  ]
+}

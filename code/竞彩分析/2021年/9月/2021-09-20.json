@@ -1,0 +1,200 @@
+{
+  "time": "2021-09-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-0_6200",
+        "handicap": "1_1_1307",
+        "halfFull": "13_33_1176",
+        "size": "1_1_3283"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_1-0_3-1_58900",
+        "handicap": "1_1_1_4836",
+        "halfFull": "13_33_33_1599",
+        "size": "1_1_4_13952"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-0_3-1_1-1_559550",
+        "handicap": "1_1_1_0_9093",
+        "halfFull": "13_33_33_01_39984",
+        "size": "1_1_4_2_61392"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_0_3_12639",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-2_13175",
+        "handicap": "1_3_576",
+        "halfFull": "13_01_9519",
+        "size": "1_4_4287"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-0_1-1_2-2_1001300",
+        "handicap": "1_1_0_3_3416",
+        "halfFull": "13_33_01_01_499800",
+        "size": "1_1_2_4_126395"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2021-09-20 00:30",
+      "matchId": "1141973",
+      "league": "俄超",
+      "home": "莫斯科中央陆军",
+      "away": "莫斯科斯巴达",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.510",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.150",
+        "score_result": "1:0",
+        "score_odds": "7.750",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2021-09-20 01:00",
+      "matchId": "1124423",
+      "league": "瑞典超",
+      "home": "哈马比",
+      "away": "瓦尔贝里",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "6.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.100"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2021-09-20 02:00",
+      "matchId": "1146045",
+      "league": "葡超",
+      "home": "本菲卡",
+      "away": "博阿维斯塔",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "3:1",
+        "score_odds": "9.500",
+        "goal_result": "4",
+        "goal_odds": "4.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.360"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2021-09-20 03:00",
+      "matchId": "1139816",
+      "league": "西甲",
+      "home": "巴塞罗那",
+      "away": "格拉纳达CF",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.880",
+        "score_result": "1:1",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "4.400",
+        "half_full_result": "0-1",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2021-09-20 07:00",
+      "matchId": "1134705",
+      "league": "巴西甲",
+      "home": "库亚巴",
+      "away": "弗鲁米嫩塞",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.480",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.390",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "8.750",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    }
+  ]
+}

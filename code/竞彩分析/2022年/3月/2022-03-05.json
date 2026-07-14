@@ -1,0 +1,354 @@
+{
+  "time": "2022-03-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-4_1-2_76000",
+        "handicap": "0_0_248",
+        "halfFull": "00_10_4025",
+        "size": "5_3_4940"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-4_1-2_0-1_364800",
+        "handicap": "0_0_1_868",
+        "halfFull": "00_10_10_19320",
+        "size": "5_3_1_13832"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-4_1-2_0-1_2-2_6931200",
+        "handicap": "0_0_1_3_1241",
+        "halfFull": "00_10_10_11_67620",
+        "size": "5_3_1_4_152152"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_1_4593",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_1_1_16996",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_1_1_3_37222",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_3_1_1_3_3_108690",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-4_0-1_68000",
+        "handicap": "0_1_592",
+        "halfFull": "00_10_2961",
+        "size": "5_1_6825"
+      },
+      "team": "001_056"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-4_1-2_0-0_0-1_7752000",
+        "handicap": "0_0_0_1_1674",
+        "halfFull": "00_10_11_10_114008",
+        "size": "5_3_0_1_311220"
+      },
+      "team": "001_002_055_056"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2022-03-05 13:00",
+      "matchId": "1161570",
+      "league": "J联赛",
+      "home": "京都",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "0-1",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.120",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "1:4",
+        "score_odds": "80.000",
+        "goal_result": "5",
+        "goal_odds": "13.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2022-03-05 13:00",
+      "matchId": "1161870",
+      "league": "J2联赛",
+      "home": "长崎航海",
+      "away": "甲府风林",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.160",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2022-03-05 13:00",
+      "matchId": "1161869",
+      "league": "J2联赛",
+      "home": "枥木SC",
+      "away": "冈山绿雉",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "0:1",
+        "score_odds": "4.800",
+        "goal_result": "1",
+        "goal_odds": "2.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2022-03-05 13:00",
+      "matchId": "1161185",
+      "league": "K联赛",
+      "home": "城南FC",
+      "away": "水原三星",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.430",
+        "score_result": "2:2",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2022-03-05 14:05",
+      "matchId": "1157588",
+      "league": "澳超",
+      "home": "中央海岸",
+      "away": "布里斯班",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2022-03-05 20:30",
+      "matchId": "1136135",
+      "league": "英超",
+      "home": "莱切斯特",
+      "away": "利兹联",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.790",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:0",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2022-03-05 20:30",
+      "matchId": "1137197",
+      "league": "英冠",
+      "home": "富勒姆",
+      "away": "布莱克本",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.190",
+        "score_result": "2:0",
+        "score_odds": "5.900",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2022-03-05 20:30",
+      "matchId": "1138934",
+      "league": "德乙",
+      "home": "圣保利",
+      "away": "卡斯鲁厄",
+      "result": {
+        "half": "3-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.920",
+        "score_result": "3:1",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "4.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周六055",
+      "match_time": "2022-03-05 07:00",
+      "matchId": "1157841",
+      "league": "美职",
+      "home": "芝加哥",
+      "away": "奥兰多",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.430",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周六056",
+      "match_time": "2022-03-05 07:00",
+      "matchId": "1157840",
+      "league": "美职",
+      "home": "辛辛那提",
+      "away": "华盛顿",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.940",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "5.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.150"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2016-04-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-1_5075",
+        "handicap": "1_1_1235",
+        "halfFull": "00_33_799",
+        "size": "1_3_1650"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_2-1_1-0_29942",
+        "handicap": "1_1_1_4878",
+        "halfFull": "00_33_13_4234",
+        "size": "1_3_1_5197"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_1-0_2-1_217083",
+        "handicap": "1_1_1_1_16342",
+        "halfFull": "00_33_13_33_11010",
+        "size": "1_3_1_3_19230"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_1_0_22061",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_1_0_0_33534",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_1_0_0_0_115692",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_1_0_0_0_1_410708",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-2_7612",
+        "handicap": "1_0_1425",
+        "halfFull": "00_00_1071",
+        "size": "1_2_1496"
+      },
+      "team": "001_108"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_2-0_0-2_500902",
+        "handicap": "1_1_3_0_18061",
+        "halfFull": "00_33_13_00_13339",
+        "size": "1_3_2_2_18232"
+      },
+      "team": "001_002_107_108"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2016-04-02 13:00",
+      "matchId": "858194",
+      "league": "J联赛",
+      "home": "福冈黄蜂",
+      "away": "新泻天鹅",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "0:1",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2016-04-02 13:00",
+      "matchId": "856717",
+      "league": "K联赛",
+      "home": "全北现代",
+      "away": "济州联",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.560",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.350"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2016-04-02 13:00",
+      "matchId": "856718",
+      "league": "K联赛",
+      "home": "城南FC",
+      "away": "浦项制铁",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.520",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "1:0",
+        "score_odds": "5.900",
+        "goal_result": "1",
+        "goal_odds": "3.150",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2016-04-02 13:00",
+      "matchId": "856721",
+      "league": "K联赛",
+      "home": "水原三星",
+      "away": "尚州尚武",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2016-04-02 14:00",
+      "matchId": "858200",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "1:1",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.100"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2016-04-02 14:00",
+      "matchId": "858198",
+      "league": "J联赛",
+      "home": "鸟栖沙岩",
+      "away": "柏太阳神",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "1:1",
+        "score_odds": "6.700",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2016-04-02 14:15",
+      "matchId": "802951",
+      "league": "澳超",
+      "home": "惠灵顿凤凰",
+      "away": "墨尔本胜利",
+      "result": {
+        "half": "0-2",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.450",
+        "score_result": "1:4",
+        "score_odds": "27.000",
+        "goal_result": "5",
+        "goal_odds": "7.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2016-04-02 15:00",
+      "matchId": "858193",
+      "league": "J联赛",
+      "home": "东京FC",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "3:2",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周六107",
+      "match_time": "2016-04-02 10:30",
+      "matchId": "848612",
+      "league": "墨联",
+      "home": "莫雷利亚",
+      "away": "普埃布拉",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.900",
+        "score_result": "2:0",
+        "score_odds": "9.400",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六108",
+      "match_time": "2016-04-02 11:00",
+      "matchId": "848606",
+      "league": "墨联",
+      "home": "美洲虎",
+      "away": "墨西哥美洲",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.940",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.750",
+        "score_result": "0:2",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.150"
+      }
+    }
+  ]
+}

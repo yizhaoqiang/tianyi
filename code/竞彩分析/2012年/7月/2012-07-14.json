@@ -1,0 +1,354 @@
+{
+  "time": "2012-07-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-5_0-1_48000",
+        "handicap": "0_0_490",
+        "halfFull": "10_00_1907",
+        "size": "7+_1_14400"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-5_0-1_1-2_432000",
+        "handicap": "0_0_0_1299",
+        "halfFull": "10_00_00_8013",
+        "size": "7+_1_3_53280"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-5_0-1_1-2_4-1_6480000",
+        "handicap": "0_0_0_3_1493",
+        "halfFull": "10_00_00_33_12581",
+        "size": "7+_1_3_5_372960"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_1_4780",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_1_1_15536",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_1_1_1_50493",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_3_1_1_1_3_118659",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-5_3-5_420000",
+        "handicap": "0_0_451",
+        "halfFull": "10_00_1775",
+        "size": "7+_7+_84000"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-5_0-1_5-0_3-5_268800000",
+        "handicap": "0_0_3_0_1976",
+        "halfFull": "10_00_33_00_19814",
+        "size": "7+_1_5_7+_4032000"
+      },
+      "team": "001_002_023_024"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2012-07-14 17:00",
+      "matchId": "198611",
+      "league": "J联赛",
+      "home": "清水鼓动",
+      "away": "柏太阳神",
+      "result": {
+        "half": "1-1",
+        "full": "3-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.150",
+        "score_result": "负其他",
+        "score_odds": "60.000",
+        "goal_result": "7+",
+        "goal_odds": "30.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2012-07-14 18:00",
+      "matchId": "198617",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.280",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.280",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "4.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2012-07-14 18:00",
+      "matchId": "198616",
+      "league": "J联赛",
+      "home": "大阪钢巴",
+      "away": "横滨水手",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.650",
+        "score_result": "1:2",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2012-07-14 18:00",
+      "matchId": "198614",
+      "league": "J联赛",
+      "home": "磐田喜悦",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.150",
+        "score_result": "4:1",
+        "score_odds": "15.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.570"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2012-07-14 18:00",
+      "matchId": "198615",
+      "league": "J联赛",
+      "home": "名古屋鲸八",
+      "away": "仙台维加泰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2012-07-14 18:00",
+      "matchId": "198613",
+      "league": "J联赛",
+      "home": "新泻天鹅",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2012-07-14 18:00",
+      "matchId": "198612",
+      "league": "J联赛",
+      "home": "大宫松鼠",
+      "away": "神户胜利船",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2012-07-14 18:00",
+      "matchId": "198619",
+      "league": "J联赛",
+      "home": "鸟栖沙岩",
+      "away": "东京FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.350",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周六023",
+      "match_time": "2012-07-14 10:30",
+      "matchId": "199873",
+      "league": "美职",
+      "home": "圣何塞地震",
+      "away": "皇家盐湖城",
+      "result": {
+        "half": "1-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.920",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.920",
+        "score_result": "5:0",
+        "score_odds": "80.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周六024",
+      "match_time": "2012-07-14 11:00",
+      "matchId": "199874",
+      "league": "美职",
+      "home": "波特兰伐木工",
+      "away": "洛杉矶银河",
+      "result": {
+        "half": "2-4",
+        "full": "3-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "负其他",
+        "score_odds": "70.000",
+        "goal_result": "7+",
+        "goal_odds": "28.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    }
+  ]
+}

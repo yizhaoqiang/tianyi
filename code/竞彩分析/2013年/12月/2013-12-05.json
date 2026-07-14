@@ -1,0 +1,128 @@
+{
+  "time": "2013-12-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_4-1_46000",
+        "handicap": "3_3_768",
+        "halfFull": "11_33_2013",
+        "size": "0_5_12075"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_4-1_1-1_257600",
+        "handicap": "3_3_0_1497",
+        "halfFull": "11_33_31_28195",
+        "size": "0_5_2_38036"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-1_6439",
+        "handicap": "3_0_312",
+        "halfFull": "11_31_7420",
+        "size": "0_2_3622"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_4-1_1-1_257600",
+        "handicap": "3_3_0_1497",
+        "halfFull": "11_33_31_28195",
+        "size": "0_5_2_38036"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2013-12-05 03:45",
+      "matchId": "664483",
+      "league": "足总杯",
+      "home": "盖茨海德",
+      "away": "牛津联",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.600",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2013-12-05 04:00",
+      "matchId": "656191",
+      "league": "意大利杯",
+      "home": "桑普多利亚",
+      "away": "维罗纳",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.800",
+        "score_result": "4:1",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2013-12-05 04:00",
+      "matchId": "607214",
+      "league": "法甲",
+      "home": "里昂",
+      "away": "图卢兹",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "1:1",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "time": "2020-08-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_1-2_12400",
+        "handicap": "3_1_1620",
+        "halfFull": "33_00_1147",
+        "size": "4_3_2307"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_1-2_1-0_105400",
+        "handicap": "3_1_1_6480",
+        "halfFull": "33_00_33_3842",
+        "size": "4_3_1_12575"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_1-2_1-0_3-0_1212100",
+        "handicap": "3_1_1_3_16977",
+        "halfFull": "33_00_33_33_8453",
+        "size": "4_3_1_3_42129"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_3_44990",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_3_0_106627",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_3_0_3_228183",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_3-0_12800",
+        "handicap": "3_3_866",
+        "halfFull": "33_33_604",
+        "size": "4_3_2470"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_1-2_2-5_3-0_34720000",
+        "handicap": "3_1_0_3_8216",
+        "halfFull": "33_00_00_33_17893",
+        "size": "4_3_7+_3_140295"
+      },
+      "team": "001_002_006_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2020-08-25 02:00",
+      "matchId": "1108119",
+      "league": "欧冠",
+      "home": "塞萨洛尼基",
+      "away": "贝西克塔斯",
+      "result": {
+        "half": "3-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.920",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.050",
+        "score_result": "3:1",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2020-08-25 07:00",
+      "matchId": "1107205",
+      "league": "美职",
+      "home": "华盛顿联",
+      "away": "新英格兰革命",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.290",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "1:2",
+        "score_odds": "7.750",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2020-08-25 07:30",
+      "matchId": "1107172",
+      "league": "美职",
+      "home": "费城联合",
+      "away": "纽约红牛",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.160",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "1:0",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "5.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2020-08-25 07:30",
+      "matchId": "1107202",
+      "league": "美职",
+      "home": "芝加哥火焰",
+      "away": "辛辛那提FC",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.620",
+        "score_result": "3:0",
+        "score_odds": "11.500",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.200"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2020-08-25 08:00",
+      "matchId": "1108295",
+      "league": "美职",
+      "home": "蒙特利尔冲击",
+      "away": "温哥华白帽",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.650",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.350"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2020-08-25 08:30",
+      "matchId": "1107194",
+      "league": "美职",
+      "home": "堪萨斯城竞技",
+      "away": "休斯敦迪纳摩",
+      "result": {
+        "half": "1-2",
+        "full": "2-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.370",
+        "score_result": "2:5",
+        "score_odds": "350.000",
+        "goal_result": "7+",
+        "goal_odds": "16.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周二009",
+      "match_time": "2020-08-25 08:30",
+      "matchId": "1108309",
+      "league": "巴西杯",
+      "home": "弗鲁米嫩塞",
+      "away": "费古埃伦斯",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.140",
+        "score_result": "3:0",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    }
+  ]
+}

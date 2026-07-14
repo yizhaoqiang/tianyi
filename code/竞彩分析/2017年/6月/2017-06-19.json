@@ -1,0 +1,200 @@
+{
+  "time": "2017-06-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_1-2_13700",
+        "handicap": "1_1_1062",
+        "halfFull": "00_30_3366",
+        "size": "5_3_2187"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_1-2_5-0_616500",
+        "handicap": "1_1_3_2548",
+        "halfFull": "00_30_33_6328",
+        "size": "5_3_5_18593"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_1-2_5-0_2-2_8014500",
+        "handicap": "1_1_3_0_3389",
+        "halfFull": "00_30_33_01_94921",
+        "size": "5_3_5_4_102265"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_3_0_0_5118",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_3-3_140000",
+        "handicap": "1_0_543",
+        "halfFull": "00_01_2295",
+        "size": "5_6_15000"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_1-2_2-2_3-3_12467000",
+        "handicap": "1_1_0_0_2132",
+        "halfFull": "00_30_01_01_757350",
+        "size": "5_3_4_6_288750"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2017-06-19 23:00",
+      "matchId": "926375",
+      "league": "联合会杯",
+      "home": "澳大利亚",
+      "away": "德国",
+      "result": {
+        "half": "1-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.180",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:3",
+        "score_odds": "20.000",
+        "goal_result": "5",
+        "goal_odds": "6.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.530"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2017-06-19 00:00",
+      "matchId": "939357",
+      "league": "U21欧洲杯",
+      "home": "斯洛伐克U21",
+      "away": "英格兰U21",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "2.950",
+        "score_result": "1:2",
+        "score_odds": "6.850",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2017-06-19 01:00",
+      "matchId": "928386",
+      "league": "挪超",
+      "home": "布兰",
+      "away": "斯塔贝克",
+      "result": {
+        "half": "3-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "5:0",
+        "score_odds": "45.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.880"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2017-06-19 02:45",
+      "matchId": "939358",
+      "league": "U21欧洲杯",
+      "home": "波兰U21",
+      "away": "瑞典U21",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.120",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.330",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2017-06-19 07:00",
+      "matchId": "944808",
+      "league": "巴西甲",
+      "home": "克鲁塞罗",
+      "away": "格雷米奥",
+      "result": {
+        "half": "1-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.020",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "3:3",
+        "score_odds": "70.000",
+        "goal_result": "6",
+        "goal_odds": "24.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    }
+  ]
+}

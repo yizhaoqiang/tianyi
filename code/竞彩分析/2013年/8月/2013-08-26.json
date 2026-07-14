@@ -1,0 +1,354 @@
+{
+  "time": "2013-08-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-0_6934",
+        "handicap": "0_1_646",
+        "halfFull": "11_13_2254",
+        "size": "0_1_4655"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_1-0_2-0_72817",
+        "handicap": "0_1_3_2228",
+        "halfFull": "11_13_33_7663",
+        "size": "0_1_2_16292"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-0_2-0_1-3_1092262",
+        "handicap": "0_1_3_0_7733",
+        "halfFull": "11_13_33_30_191590",
+        "size": "0_1_2_4_96125"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_0_11987",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_0_0_27330",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_0_0_1_98389",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_0_0_1_1_344364",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_3-2_47500",
+        "handicap": "0_3_270",
+        "halfFull": "11_13_3675",
+        "size": "0_5_16150"
+      },
+      "team": "001_012"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-0_2-1_3-2_2687312",
+        "handicap": "0_1_1_3_3954",
+        "halfFull": "11_13_33_13_28738",
+        "size": "0_1_3_5_288842"
+      },
+      "team": "001_002_011_012"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2013-08-26 01:00",
+      "matchId": "581130",
+      "league": "瑞典超",
+      "home": "奥特维达堡",
+      "away": "卡尔马",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2013-08-26 01:00",
+      "matchId": "581166",
+      "league": "瑞典超",
+      "home": "赫根",
+      "away": "北雪平",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.760",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "7.300",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2013-08-26 01:00",
+      "matchId": "580971",
+      "league": "瑞典超",
+      "home": "布鲁马波卡纳",
+      "away": "米亚尔比",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.450",
+        "score_result": "2:0",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2013-08-26 01:05",
+      "matchId": "580968",
+      "league": "瑞典超",
+      "home": "叙利亚人",
+      "away": "佐加顿斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.470",
+        "score_result": "1:3",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "5.900",
+        "half_full_result": "3-0",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2013-08-26 02:00",
+      "matchId": "606327",
+      "league": "荷乙",
+      "home": "特温特青年队",
+      "away": "登博思",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "0:0",
+        "score_odds": "15.000",
+        "goal_result": "0",
+        "goal_odds": "15.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2013-08-26 02:00",
+      "matchId": "606308",
+      "league": "荷乙",
+      "home": "阿贾克斯青年队",
+      "away": "埃门",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.280",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.950",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.700"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2013-08-26 02:15",
+      "matchId": "611870",
+      "league": "德乙",
+      "home": "圣保利",
+      "away": "德累斯顿",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2013-08-26 02:45",
+      "matchId": "639397",
+      "league": "意甲",
+      "home": "佛罗伦萨",
+      "away": "卡塔尼亚",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周一011",
+      "match_time": "2013-08-26 03:00",
+      "matchId": "620382",
+      "league": "葡超",
+      "home": "布拉加",
+      "away": "比兰尼塞斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "2:1",
+        "score_odds": "7.750",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.700"
+      }
+    },
+    {
+      "num": "周一012",
+      "match_time": "2013-08-26 07:15",
+      "matchId": "619362",
+      "league": "阿甲",
+      "home": "基尔梅斯",
+      "away": "圣洛伦索",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "3:2",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "17.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.500"
+      }
+    }
+  ]
+}

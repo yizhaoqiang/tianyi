@@ -1,0 +1,354 @@
+{
+  "time": "2019-02-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-5_1-0_31200",
+        "handicap": "0_1_607",
+        "halfFull": "00_13_2535",
+        "size": "7+_1_6600"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-5_1-0_1-1_213719",
+        "handicap": "0_1_0_1458",
+        "halfFull": "00_13_31_43095",
+        "size": "7+_1_2_22440"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-5_1-0_1-1_0-0_2350919",
+        "handicap": "0_1_0_3_2173",
+        "halfFull": "00_13_31_11_224094",
+        "size": "7+_1_2_0_246840"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_3_3_2977",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_3_3_3_4168",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_3_3_3_3_21050",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_3_3_3_3_0_31575",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-5_0-3_31200",
+        "handicap": "0_0_313",
+        "halfFull": "00_00_717",
+        "size": "7+_3_5400"
+      },
+      "team": "001_026"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-5_1-0_1-1_0-3_1497600",
+        "handicap": "0_1_0_0_2795",
+        "halfFull": "00_13_31_00_79294",
+        "size": "7+_1_2_3_76032"
+      },
+      "team": "001_002_025_026"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2019-02-22 16:50",
+      "matchId": "1036315",
+      "league": "澳超",
+      "home": "中央海岸水手",
+      "away": "布里斯班狮吼",
+      "result": {
+        "half": "2-3",
+        "full": "3-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "负其他",
+        "score_odds": "39.000",
+        "goal_result": "7+",
+        "goal_odds": "15.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2019-02-22 18:30",
+      "matchId": "1052544",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "神户胜利船",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.250",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2019-02-22 01:30",
+      "matchId": "1033378",
+      "league": "德乙",
+      "home": "柏林联合",
+      "away": "比勒费尔德",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "1:1",
+        "score_odds": "6.850",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "3-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2019-02-22 01:30",
+      "matchId": "1033381",
+      "league": "德乙",
+      "home": "菲尔特",
+      "away": "海登海姆",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.490",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2019-02-22 03:00",
+      "matchId": "1027753",
+      "league": "法乙",
+      "home": "阿雅克肖",
+      "away": "欧塞尔",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.680",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.370",
+        "score_result": "2:1",
+        "score_odds": "8.750",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2019-02-22 03:00",
+      "matchId": "1027755",
+      "league": "法乙",
+      "home": "贝济耶",
+      "away": "沙托鲁",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.770",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.400",
+        "score_result": "1:1",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2019-02-22 03:00",
+      "matchId": "1027754",
+      "league": "法乙",
+      "home": "南锡",
+      "away": "阿雅克肖GFCO",
+      "result": {
+        "half": "3-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.050",
+        "score_result": "3:1",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "8.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2019-02-22 03:00",
+      "matchId": "1027757",
+      "league": "法乙",
+      "home": "克莱蒙",
+      "away": "洛里昂",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "0:1",
+        "score_odds": "7.200",
+        "goal_result": "1",
+        "goal_odds": "3.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周五025",
+      "match_time": "2019-02-22 04:00",
+      "matchId": "1039132",
+      "league": "西甲",
+      "home": "西班牙人",
+      "away": "韦斯卡",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周五026",
+      "match_time": "2019-02-22 05:15",
+      "matchId": "1034562",
+      "league": "葡超",
+      "home": "通德拉",
+      "away": "波尔图",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.190",
+        "score_result": "0:3",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.840"
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "time": "2021-05-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_3-0_26250",
+        "handicap": "3_3_298",
+        "halfFull": "33_33_982",
+        "size": "3_3_1155"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_3-0_1-0_157500",
+        "handicap": "3_3_1_1029",
+        "halfFull": "33_33_33_2702",
+        "size": "3_3_1_5144"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-0_21000",
+        "handicap": "3_1_541",
+        "halfFull": "33_33_1485",
+        "size": "3_1_1513"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_3-0_1-0_157500",
+        "handicap": "3_3_1_1029",
+        "halfFull": "33_33_33_2702",
+        "size": "3_3_1_5144"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2021-05-25 17:05",
+      "matchId": "1133841",
+      "league": "澳超",
+      "home": "布里斯班狮吼",
+      "away": "墨尔本城",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.820",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.570",
+        "score_result": "3:0",
+        "score_odds": "35.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2021-05-25 08:30",
+      "matchId": "1132486",
+      "league": "解放者杯",
+      "home": "竞技俱乐部",
+      "away": "伦蒂斯塔斯",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "3:0",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.820"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2021-05-25 08:30",
+      "matchId": "1132485",
+      "league": "解放者杯",
+      "home": "波特诺山丘",
+      "away": "卡利美洲",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    }
+  ]
+}

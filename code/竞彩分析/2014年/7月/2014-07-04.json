@@ -1,0 +1,272 @@
+{
+  "time": "2014-07-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-1_4387",
+        "handicap": "1_1_1473",
+        "halfFull": "00_33_992",
+        "size": "1_3_1350"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_2-1_2-2_48262",
+        "handicap": "1_1_0_1988",
+        "halfFull": "00_33_11_4862",
+        "size": "1_3_4_7157"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_2-2_2-1_337837",
+        "handicap": "1_1_0_1_7557",
+        "halfFull": "00_33_11_13_25282",
+        "size": "1_3_4_3_23978"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_1_0_14359",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_1_0_1_54567",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_1_0_1_0_125504",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-2_9750",
+        "handicap": "1_0_954",
+        "halfFull": "00_11_2187",
+        "size": "1_4_1887"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-1_2-1_2-2_493593",
+        "handicap": "1_1_1_0_12876",
+        "halfFull": "00_33_13_11_26790",
+        "size": "1_3_3_4_24106"
+      },
+      "team": "001_002_054_055"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2014-07-04 00:00",
+      "matchId": "665975",
+      "league": "世界杯",
+      "home": "法国",
+      "away": "德国",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.380",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.150",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.050"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2014-07-04 04:00",
+      "matchId": "665973",
+      "league": "世界杯",
+      "home": "巴西",
+      "away": "哥伦比亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "2:1",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周五051",
+      "match_time": "2014-07-04 08:30",
+      "matchId": "665589",
+      "league": "美职",
+      "home": "休斯顿迪纳摩",
+      "away": "纽约红牛",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.120",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周五052",
+      "match_time": "2014-07-04 09:00",
+      "matchId": "665531",
+      "league": "美职",
+      "home": "达拉斯FC",
+      "away": "费城联合",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周五053",
+      "match_time": "2014-07-04 09:30",
+      "matchId": "665590",
+      "league": "美职",
+      "home": "科罗拉多急流",
+      "away": "哥伦布机员",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周五054",
+      "match_time": "2014-07-04 10:00",
+      "matchId": "665523",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "新英格兰革命",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周五055",
+      "match_time": "2014-07-04 11:00",
+      "matchId": "665564",
+      "league": "美职",
+      "home": "洛杉矶银河",
+      "away": "波特兰伐木工",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    }
+  ]
+}

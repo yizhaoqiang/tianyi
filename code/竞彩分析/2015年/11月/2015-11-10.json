@@ -1,0 +1,272 @@
+{
+  "time": "2015-11-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_4-0_17000",
+        "handicap": "0_3_731",
+        "halfFull": "11_33_1505",
+        "size": "2_4_1775"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_4-0_0-0_170000",
+        "handicap": "0_3_3_1200",
+        "halfFull": "11_33_11_7223",
+        "size": "2_4_0_17750"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_4-0_0-0_3-5_8500000",
+        "handicap": "0_3_3_0_5222",
+        "halfFull": "11_33_11_00_24200",
+        "size": "2_4_0_7+_479250"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_0_10966",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_0_1_37834",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_0_1_0_55994",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-0_7437",
+        "handicap": "0_0_451",
+        "halfFull": "11_11_3219",
+        "size": "2_0_3106"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_4-0_2-1_0-0_1041250",
+        "handicap": "0_3_1_0_3737",
+        "halfFull": "11_33_03_11_152305",
+        "size": "2_4_3_0_55135"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2015-11-10 03:15",
+      "matchId": "838694",
+      "league": "英锦赛",
+      "home": "吉灵汉姆",
+      "away": "约维尔",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.050",
+        "score_result": "1:1",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2015-11-10 03:15",
+      "matchId": "838690",
+      "league": "英锦赛",
+      "home": "维冈竞技",
+      "away": "布莱克浦",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "4:0",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2015-11-10 03:45",
+      "matchId": "838692",
+      "league": "英锦赛",
+      "home": "福利特伍德",
+      "away": "谢菲尔德联",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.640",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2015-11-10 03:45",
+      "matchId": "838693",
+      "league": "英锦赛",
+      "home": "普利茅斯",
+      "away": "米尔沃尔",
+      "result": {
+        "half": "1-2",
+        "full": "3-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.350",
+        "score_result": "负其他",
+        "score_odds": "50.000",
+        "goal_result": "7+",
+        "goal_odds": "27.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2015-11-10 03:45",
+      "matchId": "838691",
+      "league": "英锦赛",
+      "home": "罗奇代尔",
+      "away": "莫克姆",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "0:1",
+        "score_odds": "13.000",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2015-11-10 03:45",
+      "matchId": "838985",
+      "league": "英锦赛",
+      "home": "巴恩斯利",
+      "away": "约克城",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2015-11-10 11:00",
+      "matchId": "838039",
+      "league": "墨联",
+      "home": "库利亚坎",
+      "away": "韦拉克鲁斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "0:0",
+        "score_odds": "8.750",
+        "goal_result": "0",
+        "goal_odds": "8.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    }
+  ]
+}

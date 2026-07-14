@@ -1,0 +1,200 @@
+{
+  "time": "2015-06-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-6_2-1_8625",
+        "handicap": "0_1_551",
+        "halfFull": "10_13_1800",
+        "size": "6_3_2975"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-6_2-1_0-4_207000",
+        "handicap": "0_1_0_1553",
+        "halfFull": "10_13_00_4140",
+        "size": "6_3_4_16065"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-6_2-1_0-4_2-3_8280000",
+        "handicap": "0_1_0_0_3340",
+        "halfFull": "10_13_00_00_28980",
+        "size": "6_3_4_5_128520"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_0_1_12360",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-6_2-1_9200",
+        "handicap": "0_1_536",
+        "halfFull": "10_03_10500",
+        "size": "6_3_3272"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-6_2-1_2-3_2-1_2760000",
+        "handicap": "0_1_0_1_4383",
+        "halfFull": "10_13_00_03_352800",
+        "size": "6_3_5_3_91630"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2015-06-02 09:00",
+      "matchId": "790901",
+      "league": "U20世界杯",
+      "home": "缅甸U20",
+      "away": "乌克兰U20",
+      "result": {
+        "half": "0-0",
+        "full": "0-6",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.100",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "负其他",
+        "score_odds": "11.500",
+        "goal_result": "6",
+        "goal_odds": "8.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2015-06-02 12:00",
+      "matchId": "790902",
+      "league": "U20世界杯",
+      "home": "奥地利U20",
+      "away": "巴拿马U20",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2015-06-02 15:00",
+      "matchId": "790903",
+      "league": "U20世界杯",
+      "home": "新西兰U20",
+      "away": "美国U20",
+      "result": {
+        "half": "0-2",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.820",
+        "score_result": "0:4",
+        "score_odds": "24.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2015-06-02 15:00",
+      "matchId": "790904",
+      "league": "U20世界杯",
+      "home": "阿根廷U20",
+      "away": "加纳U20",
+      "result": {
+        "half": "0-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.150",
+        "score_result": "2:3",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2015-06-02 02:30",
+      "matchId": "790709",
+      "league": "德乙",
+      "home": "慕尼黑1860",
+      "away": "基尔",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.020",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "0-3",
+        "half_full_odds": "28.000"
+      }
+    }
+  ]
+}

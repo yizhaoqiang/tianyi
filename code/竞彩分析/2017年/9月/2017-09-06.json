@@ -1,0 +1,331 @@
+{
+  "time": "2017-09-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-4_49500",
+        "handicap": "1_0_2413",
+        "halfFull": "10_00_1276",
+        "size": "1_6_8760"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_2-4_0-1_358875",
+        "handicap": "1_0_0_3331",
+        "halfFull": "10_00_00_5805",
+        "size": "1_6_1_32850"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-4_0-1_0-2_4665375",
+        "handicap": "1_0_0_0_5363",
+        "halfFull": "10_00_00_00_29029",
+        "size": "1_6_1_2_98550"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_0_8474",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_0_3_35591",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_0_3_3_83640",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_0_3_3_3_118769",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_1-0_4400",
+        "handicap": "1_1_1366",
+        "halfFull": "10_13_2023",
+        "size": "1_1_1660"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-4_3-2_1-0_7128000",
+        "handicap": "1_0_3_1_13197",
+        "halfFull": "10_00_33_13_21717",
+        "size": "1_6_5_1_310892"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2017-09-06 02:00",
+      "matchId": "990255",
+      "league": "国王杯",
+      "home": "雷乌斯",
+      "away": "希洪竞技",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.910",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "0:1",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2017-09-06 02:00",
+      "matchId": "990249",
+      "league": "国王杯",
+      "home": "洛尔卡竞技",
+      "away": "科尔多瓦",
+      "result": {
+        "half": "0-1",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "6.800",
+        "score_result": "2:4",
+        "score_odds": "90.000",
+        "goal_result": "6",
+        "goal_odds": "24.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2017-09-06 02:00",
+      "matchId": "990253",
+      "league": "国王杯",
+      "home": "皇家奥维耶多",
+      "away": "努曼西亚",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "0:1",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.550"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2017-09-06 03:00",
+      "matchId": "990252",
+      "league": "国王杯",
+      "home": "韦斯卡",
+      "away": "巴利亚多利德",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.130",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "0:2",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2017-09-06 04:00",
+      "matchId": "990257",
+      "league": "国王杯",
+      "home": "巴列卡诺",
+      "away": "特内里费",
+      "result": {
+        "half": "0-3",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.130",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "0:3",
+        "score_odds": "34.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2017-09-06 04:00",
+      "matchId": "990256",
+      "league": "国王杯",
+      "home": "萨拉戈萨",
+      "away": "格拉纳达CF",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.890",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.200",
+        "score_result": "3:0",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2017-09-06 06:45",
+      "matchId": "987156",
+      "league": "智利杯",
+      "home": "安托法加斯塔",
+      "away": "阿里卡",
+      "result": {
+        "half": "4-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.350",
+        "score_result": "4:2",
+        "score_odds": "39.000",
+        "goal_result": "6",
+        "goal_odds": "17.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2017-09-06 07:00",
+      "matchId": "989064",
+      "league": "智利杯",
+      "home": "瓦奇巴托",
+      "away": "天主大学",
+      "result": {
+        "half": "1-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "3:2",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "7.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周三009",
+      "match_time": "2017-09-06 07:30",
+      "matchId": "929311",
+      "league": "美职",
+      "home": "纽约城",
+      "away": "堪萨斯城竞技",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.190",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "4.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    }
+  ]
+}

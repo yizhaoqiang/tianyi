@@ -1,0 +1,110 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2017-12-31 16:00",
+    "matchId": "1406373",
+    "league": "澳超",
+    "home": "中央海岸水手",
+    "away": "惠灵顿凤凰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.71",
+        "d": "3.65",
+        "l": "3.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.15",
+        "d": "3.70",
+        "l": "1.85"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.65",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.85",
+      "score_result": "0:0",
+      "score_odds": "13.00",
+      "goal_result": "0",
+      "goal_odds": "13.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.40"
+    }
+  },
+  {
+    "num": "周日002",
+    "match_time": "2017-12-31 20:00",
+    "matchId": "1395281",
+    "league": "英超",
+    "home": "水晶宫",
+    "away": "曼彻斯特城",
+    "finish_odds": {
+      "wdl": {
+        "w": "9.25",
+        "d": "5.55",
+        "l": "1.19"
+      },
+      "handicap": {
+        "line": "2",
+        "w": "1.90",
+        "d": "4.05",
+        "l": "2.81"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "5.55",
+      "handicap": "+2",
+      "handicap_result": "3",
+      "handicap_odds": "1.90",
+      "score_result": "0:0",
+      "score_odds": "21.00",
+      "goal_result": "0",
+      "goal_odds": "21.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "9.00"
+    }
+  },
+  {
+    "num": "周日003",
+    "match_time": "2018-01-01 00:30",
+    "matchId": "1395288",
+    "league": "英超",
+    "home": "西布罗姆维奇",
+    "away": "阿森纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.25",
+        "d": "3.75",
+        "l": "1.49"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.23",
+        "d": "3.15",
+        "l": "2.75"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.75",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.23",
+      "score_result": "1:1",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.30",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.00"
+    }
+  }
+]

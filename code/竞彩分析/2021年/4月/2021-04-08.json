@@ -1,0 +1,128 @@
+{
+  "time": "2021-04-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-1_6480",
+        "handicap": "0_1_598",
+        "halfFull": "30_00_7800",
+        "size": "3_1_1369"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_0-1_0-2_37260",
+        "handicap": "0_1_0_1376",
+        "halfFull": "30_00_00_14819",
+        "size": "3_1_2_4108"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-2_6900",
+        "handicap": "0_0_430",
+        "halfFull": "30_00_5700",
+        "size": "3_2_989"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_0-1_0-2_37260",
+        "handicap": "0_1_0_1376",
+        "halfFull": "30_00_00_14819",
+        "size": "3_1_2_4108"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2021-04-08 03:00",
+      "matchId": "1128843",
+      "league": "欧洲联赛",
+      "home": "阿贾克斯",
+      "away": "罗马",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.720",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.870",
+        "score_result": "1:2",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-0",
+        "half_full_odds": "30.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2021-04-08 03:00",
+      "matchId": "1128845",
+      "league": "欧洲联赛",
+      "home": "萨格勒布迪纳摩",
+      "away": "比利亚雷亚尔",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "0:1",
+        "score_odds": "5.400",
+        "goal_result": "1",
+        "goal_odds": "4.150",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2021-04-08 03:00",
+      "matchId": "1128839",
+      "league": "欧洲联赛",
+      "home": "格拉纳达CF",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "0:2",
+        "score_odds": "5.750",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.900"
+      }
+    }
+  ]
+}

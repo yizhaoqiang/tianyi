@@ -1,0 +1,308 @@
+{
+  "time": "2025-10-31",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-2_16100",
+        "handicap": "3_0_732",
+        "halfFull": "11_00_1870",
+        "size": "0_2_5290"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_0-2_2-1_112700",
+        "handicap": "3_0_1_2525",
+        "halfFull": "11_00_33_5984",
+        "size": "0_2_3_19308"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-2_2-1_1-0_1127000",
+        "handicap": "3_0_1_0_4798",
+        "halfFull": "11_00_33_33_9275",
+        "size": "0_2_3_1_167983"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_3_8780",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_3_0_35123",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_3_0_1_121175",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_3_0_1_0_230232",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-0_11500",
+        "handicap": "3_0_347",
+        "halfFull": "11_33_852",
+        "size": "0_1_10005"
+      },
+      "team": "001_008"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-2_2-1_1-0_1127000",
+        "handicap": "3_0_1_0_4798",
+        "halfFull": "11_00_33_33_9275",
+        "size": "0_2_3_1_167983"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2025-10-31 16:35",
+      "matchId": "1313535",
+      "league": "澳超",
+      "home": "布里斯班",
+      "away": "墨尔本城",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.830",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2025-10-31 18:45",
+      "matchId": "1313536",
+      "league": "澳超",
+      "home": "珀斯",
+      "away": "墨胜利",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.000",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "4.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2025-10-31 21:40",
+      "matchId": "1314150",
+      "league": "沙特联",
+      "home": "奈季沟渠",
+      "away": "欧奈纳伊",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.960",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2025-10-31 22:50",
+      "matchId": "1314146",
+      "league": "沙特联",
+      "home": "利雅新月",
+      "away": "利雅青年",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.180",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "1:0",
+        "score_odds": "10.000",
+        "goal_result": "1",
+        "goal_odds": "8.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.550"
+      }
+    },
+    {
+      "num": "周五001",
+      "match_time": "2025-10-31 16:35",
+      "matchId": "1313535",
+      "league": "澳超",
+      "home": "布里斯班",
+      "away": "墨尔本城",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.830",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2025-10-31 18:45",
+      "matchId": "1313536",
+      "league": "澳超",
+      "home": "珀斯",
+      "away": "墨胜利",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.000",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "4.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2025-10-31 21:40",
+      "matchId": "1314150",
+      "league": "沙特联",
+      "home": "奈季沟渠",
+      "away": "欧奈纳伊",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.960",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2025-10-31 22:50",
+      "matchId": "1314146",
+      "league": "沙特联",
+      "home": "利雅新月",
+      "away": "利雅青年",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.180",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "1:0",
+        "score_odds": "10.000",
+        "goal_result": "1",
+        "goal_odds": "8.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.550"
+      }
+    }
+  ]
+}

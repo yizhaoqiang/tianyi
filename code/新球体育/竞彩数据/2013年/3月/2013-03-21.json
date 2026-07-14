@@ -1,0 +1,92 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2013-03-22 03:00",
+    "matchId": "830456",
+    "league": "球会友谊",
+    "home": "英格兰U21",
+    "away": "罗马尼亚U21",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.32",
+        "d": "4.80",
+        "l": "8.00"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.32",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "3:0",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.80"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2013-03-22 03:30",
+    "matchId": "828934",
+    "league": "球会友谊",
+    "home": "巴西",
+    "away": "意大利",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.93",
+        "d": "3.40",
+        "l": "3.60"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.40",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "2:2",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "5.70",
+      "half_full_result": "3-1",
+      "half_full_odds": "15.00"
+    }
+  },
+  {
+    "num": "周四003",
+    "match_time": "2013-03-22 05:00",
+    "matchId": "828935",
+    "league": "球会友谊",
+    "home": "厄瓜多尔",
+    "away": "萨尔瓦多",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.12",
+        "d": "7.30",
+        "l": "17.00"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "5-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.12",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "5:0",
+      "score_odds": "14.00",
+      "goal_result": "5",
+      "goal_odds": "6.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.43"
+    }
+  }
+]

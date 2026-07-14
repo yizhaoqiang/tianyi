@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周二001",
+    "match_time": "2025-04-16 03:00",
+    "matchId": "2750137",
+    "league": "欧冠杯",
+    "home": "多特蒙德",
+    "away": "巴塞罗那",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.18",
+        "d": "4.05",
+        "l": "1.76"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.82",
+        "d": "3.92",
+        "l": "3.08"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.18",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.82",
+      "score_result": "3:1",
+      "score_odds": "27.00",
+      "goal_result": "4",
+      "goal_odds": "4.20",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.75"
+    }
+  },
+  {
+    "num": "周二002",
+    "match_time": "2025-04-16 03:00",
+    "matchId": "2750138",
+    "league": "欧冠杯",
+    "home": "阿斯顿维拉",
+    "away": "巴黎圣日耳曼",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.00",
+        "d": "3.65",
+        "l": "1.92"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.67",
+        "d": "3.80",
+        "l": "3.75"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.00",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.67",
+      "score_result": "3:2",
+      "score_odds": "24.00",
+      "goal_result": "5",
+      "goal_odds": "7.35",
+      "half_full_result": "0-3",
+      "half_full_odds": "28.00"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+{
+  "time": "2024-05-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-0_18200",
+        "handicap": "1_3_489",
+        "halfFull": "10_13_2362",
+        "size": "3_3_1424"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_3-0_1-1_141050",
+        "handicap": "1_3_0_1165",
+        "halfFull": "10_13_11_13584",
+        "size": "3_3_2_5199"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-0_1-1_1-0_2115750",
+        "handicap": "1_3_0_3_1818",
+        "halfFull": "10_13_11_33_62488",
+        "size": "3_3_2_1_38995"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_3_0_4328",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-3_35000",
+        "handicap": "1_0_844",
+        "halfFull": "10_10_6300",
+        "size": "3_4_1794"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-0_1-0_1-3_13650000",
+        "handicap": "1_3_3_0_1818",
+        "halfFull": "10_13_33_10_152145",
+        "size": "3_3_1_4_51816"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2024-05-01 18:00",
+      "matchId": "1246934",
+      "league": "K联赛",
+      "home": "大邱FC",
+      "away": "蔚山现代",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.770",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2024-05-01 18:00",
+      "matchId": "1246933",
+      "league": "K联赛",
+      "home": "仁川联",
+      "away": "全北现代",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.460",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.380",
+        "score_result": "3:0",
+        "score_odds": "26.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.250"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2024-05-01 20:00",
+      "matchId": "1254691",
+      "league": "瑞典杯",
+      "home": "马尔默",
+      "away": "佐加顿斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.380",
+        "score_result": "1:1",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2024-05-01 03:00",
+      "matchId": "1252445",
+      "league": "欧冠",
+      "home": "多特蒙德",
+      "away": "巴黎圣曼",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.760",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.560",
+        "score_result": "1:0",
+        "score_odds": "15.000",
+        "goal_result": "1",
+        "goal_odds": "7.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2024-05-01 10:15",
+      "matchId": "1255339",
+      "league": "中北美冠",
+      "home": "蒙特雷",
+      "away": "哥伦布",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.380",
+        "score_result": "1:3",
+        "score_odds": "50.000",
+        "goal_result": "4",
+        "goal_odds": "4.850",
+        "half_full_result": "1-0",
+        "half_full_odds": "14.000"
+      }
+    }
+  ]
+}

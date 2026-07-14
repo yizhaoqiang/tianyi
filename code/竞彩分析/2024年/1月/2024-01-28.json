@@ -1,0 +1,354 @@
+{
+  "time": "2024-01-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_2-1_8250",
+        "handicap": "0_1_585",
+        "halfFull": "31_03_31200",
+        "size": "4_3_1848"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_2-1_4-0_72187",
+        "handicap": "0_1_3_1482",
+        "halfFull": "31_03_33_46176",
+        "size": "4_3_4_9429"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_2-1_4-0_0-2_703828",
+        "handicap": "0_1_3_0_5632",
+        "halfFull": "31_03_33_00_147763",
+        "size": "4_3_4_2_31118"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_3_10139",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_3_1_37007",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_3_1_0_50700",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_3_1_0_0_89233",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_5-0_132000",
+        "handicap": "0_3_669",
+        "halfFull": "31_33_3769",
+        "size": "4_5_4730"
+      },
+      "team": "001_029"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_2-1_1-0_5-0_9405000",
+        "handicap": "0_1_3_3_3480",
+        "halfFull": "31_03_13_33_696696",
+        "size": "4_3_1_5_88474"
+      },
+      "team": "001_002_026_027"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2024-01-28 14:00",
+      "matchId": "1237327",
+      "league": "澳超",
+      "home": "麦克阿瑟",
+      "away": "珀斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.860",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2024-01-28 19:30",
+      "matchId": "1228005",
+      "league": "意甲",
+      "home": "热那亚",
+      "away": "莱切",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "4.300",
+        "half_full_result": "0-3",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周日137",
+      "match_time": "2024-01-28 19:30",
+      "matchId": "1248346",
+      "league": "亚洲杯",
+      "home": "澳大利亚",
+      "away": "印尼",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.530",
+        "score_result": "4:0",
+        "score_odds": "8.750",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.480"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2024-01-28 19:45",
+      "matchId": "1246848",
+      "league": "足总杯",
+      "home": "西布罗姆",
+      "away": "狼队",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.800",
+        "score_result": "0:2",
+        "score_odds": "9.750",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2024-01-28 20:00",
+      "matchId": "1225379",
+      "league": "法甲",
+      "home": "蒙彼利埃",
+      "away": "里尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.800",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2024-01-28 20:30",
+      "matchId": "1226414",
+      "league": "德乙",
+      "home": "菲尔特",
+      "away": "基尔",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2024-01-28 21:00",
+      "matchId": "1219212",
+      "league": "西甲",
+      "home": "塞尔塔",
+      "away": "赫罗纳",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.370",
+        "score_result": "0:1",
+        "score_odds": "9.750",
+        "goal_result": "1",
+        "goal_odds": "5.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2024-01-28 21:30",
+      "matchId": "1219724",
+      "league": "英冠",
+      "home": "女王巡游",
+      "away": "哈德斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.760",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日026",
+      "match_time": "2024-01-28 04:30",
+      "matchId": "1228647",
+      "league": "葡超",
+      "home": "吉维森特",
+      "away": "吉马良斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "1:0",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "4.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.700"
+      }
+    },
+    {
+      "num": "周日027",
+      "match_time": "2024-01-28 04:30",
+      "matchId": "1228652",
+      "league": "葡超",
+      "home": "阿罗卡",
+      "away": "维兹拉",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.600",
+        "score_result": "5:0",
+        "score_odds": "120.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    }
+  ]
+}

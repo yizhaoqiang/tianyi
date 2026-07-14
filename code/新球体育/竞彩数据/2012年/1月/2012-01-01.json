@@ -1,0 +1,92 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2012-01-01 13:00",
+    "matchId": "660679",
+    "league": "日皇杯",
+    "home": "京都不死鸟",
+    "away": "FC东京",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.75",
+        "d": "3.15",
+        "l": "1.85"
+      }
+    },
+    "result": {
+      "half": "1-3",
+      "full": "2-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.85",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "2:4",
+      "score_odds": "50.00",
+      "goal_result": "6",
+      "goal_odds": "25.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.65"
+    }
+  },
+  {
+    "num": "周日002",
+    "match_time": "2012-01-01 20:30",
+    "matchId": "561349",
+    "league": "英超",
+    "home": "西布罗姆维奇",
+    "away": "埃弗顿",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.60",
+        "d": "3.10",
+        "l": "2.48"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.48",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "0:1",
+      "score_odds": "7.00",
+      "goal_result": "1",
+      "goal_odds": "4.00",
+      "half_full_result": "1-0",
+      "half_full_odds": "5.60"
+    }
+  },
+  {
+    "num": "周日003",
+    "match_time": "2012-01-01 23:00",
+    "matchId": "561347",
+    "league": "英超",
+    "home": "桑德兰",
+    "away": "曼彻斯特城",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.80",
+        "d": "4.20",
+        "l": "1.42"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "5.80",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "1:0",
+      "score_odds": "12.00",
+      "goal_result": "1",
+      "goal_odds": "5.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "13.00"
+    }
+  }
+]

@@ -1,0 +1,308 @@
+{
+  "time": "2022-07-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_3-0_10000",
+        "handicap": "1_3_1512",
+        "halfFull": "13_13_1782",
+        "size": "1_3_1463"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_3-0_8-0_70000",
+        "handicap": "1_3_3_2570",
+        "halfFull": "13_13_33_2245",
+        "size": "1_3_7+_16092"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_3-0_8-0_2-1_507500",
+        "handicap": "1_3_3_1_9510",
+        "halfFull": "13_13_33_33_6735",
+        "size": "1_3_7+_3_51497"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_1_3_38517",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_1_3_0_75109",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_1_3_0_3_446898",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_1_3_0_3_0_621189",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-0_5000",
+        "handicap": "1_0_437",
+        "halfFull": "13_11_2004",
+        "size": "1_0_3800"
+      },
+      "team": "001_008"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_3-0_5-1_0-0_15000000",
+        "handicap": "1_3_3_0_12504",
+        "halfFull": "13_13_13_11_55130",
+        "size": "1_3_6_0_351120"
+      },
+      "team": "001_002_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2022-07-27 15:00",
+      "matchId": "1180334",
+      "league": "东亚杯",
+      "home": "中国",
+      "away": "中国香港",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.050"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2022-07-27 18:20",
+      "matchId": "1180335",
+      "league": "东亚杯",
+      "home": "日本",
+      "away": "韩国",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.070",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.800",
+        "score_result": "3:0",
+        "score_odds": "20.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2022-07-27 00:00",
+      "matchId": "1191697",
+      "league": "欧冠",
+      "home": "博德闪耀",
+      "away": "林菲尔德",
+      "result": {
+        "half": "4-0",
+        "full": "8-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.700",
+        "score_result": "胜其他",
+        "score_odds": "7.000",
+        "goal_result": "7+",
+        "goal_odds": "11.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.260"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2022-07-27 01:00",
+      "matchId": "1191468",
+      "league": "欧冠",
+      "home": "苏黎世",
+      "away": "卡拉巴赫",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2022-07-27 01:00",
+      "matchId": "1192167",
+      "league": "挪超",
+      "home": "桑纳菲",
+      "away": "克里斯蒂",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.050",
+        "score_result": "2:0",
+        "score_odds": "12.500",
+        "goal_result": "2",
+        "goal_odds": "4.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2022-07-27 03:00",
+      "matchId": "1170504",
+      "league": "欧冠",
+      "home": "奥林匹亚",
+      "away": "海马卡比",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "0:4",
+        "score_odds": "200.000",
+        "goal_result": "4",
+        "goal_odds": "6.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2022-07-27 07:30",
+      "matchId": "1179849",
+      "league": "美公开杯",
+      "home": "奥兰多",
+      "away": "纽约红牛",
+      "result": {
+        "half": "1-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.620",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.950",
+        "score_result": "5:1",
+        "score_odds": "150.000",
+        "goal_result": "6",
+        "goal_odds": "24.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2022-07-27 10:30",
+      "matchId": "1178889",
+      "league": "美公开杯",
+      "home": "萨克拉",
+      "away": "堪萨斯城",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.390",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.950"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2014-04-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_4-1_17850",
+        "handicap": "0_3_245",
+        "halfFull": "00_33_704",
+        "size": "2_5_2325"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_4-1_0-0_232050",
+        "handicap": "0_3_0_427",
+        "halfFull": "00_33_11_3734",
+        "size": "2_5_0_30225"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_4-1_0-0_3-0_4641000",
+        "handicap": "0_3_0_3_1816",
+        "halfFull": "00_33_11_13_19795",
+        "size": "2_5_0_3_105787"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_1_6266",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_1_3_11029",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_1_3_1_41361",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_1_3_1_0_80655",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_4-1_30450",
+        "handicap": "0_3_455",
+        "halfFull": "00_33_1032",
+        "size": "2_5_3255"
+      },
+      "team": "001_011"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_4-1_3-0_4-1_3364725",
+        "handicap": "0_3_3_3_1175",
+        "halfFull": "00_33_33_33_2515",
+        "size": "2_5_3_5_91546"
+      },
+      "team": "001_002_009_010"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2014-04-28 01:00",
+      "matchId": "669270",
+      "league": "瑞典超",
+      "home": "耶夫勒",
+      "away": "卡尔马",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "0:2",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.050"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2014-04-28 01:00",
+      "matchId": "669284",
+      "league": "瑞典超",
+      "home": "埃尔夫斯堡",
+      "away": "哈尔姆斯塔德",
+      "result": {
+        "half": "2-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.780",
+        "score_result": "4:1",
+        "score_odds": "17.000",
+        "goal_result": "5",
+        "goal_odds": "7.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.740"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2014-04-28 01:00",
+      "matchId": "666238",
+      "league": "挪超",
+      "home": "利勒斯特罗姆",
+      "away": "奥勒松",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.740",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2014-04-28 01:00",
+      "matchId": "666224",
+      "league": "挪超",
+      "home": "萨尔普斯堡",
+      "away": "瓦勒伦加",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.250",
+        "score_result": "3:0",
+        "score_odds": "20.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2014-04-28 01:05",
+      "matchId": "669286",
+      "league": "瑞典超",
+      "home": "北雪平",
+      "away": "马尔默",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.690",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2014-04-28 02:15",
+      "matchId": "612074",
+      "league": "德乙",
+      "home": "柏林联合",
+      "away": "凯泽斯劳滕",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.760",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.550"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2014-04-28 02:30",
+      "matchId": "607565",
+      "league": "法乙",
+      "home": "昂热",
+      "away": "卡昂",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2014-04-28 02:45",
+      "matchId": "639891",
+      "league": "意甲",
+      "home": "萨索洛",
+      "away": "尤文图斯",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.260",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "1:3",
+        "score_odds": "9.500",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周一009",
+      "match_time": "2014-04-28 03:00",
+      "matchId": "608805",
+      "league": "英超",
+      "home": "阿森纳",
+      "away": "纽卡斯尔联",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.110",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.450",
+        "score_result": "3:0",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.400"
+      }
+    },
+    {
+      "num": "周一010",
+      "match_time": "2014-04-28 04:00",
+      "matchId": "626011",
+      "league": "西甲",
+      "home": "维戈塞尔塔",
+      "away": "巴利亚多利德",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.710",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.300",
+        "score_result": "4:1",
+        "score_odds": "29.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.550"
+      }
+    }
+  ]
+}

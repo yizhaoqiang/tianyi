@@ -1,0 +1,354 @@
+{
+  "time": "2014-02-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-2_15750",
+        "handicap": "3_0_240",
+        "halfFull": "33_10_2765",
+        "size": "2_2_989"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_0-2_4-3_535500",
+        "handicap": "3_0_1_949",
+        "halfFull": "33_10_03_60830",
+        "size": "2_2_7+_17820"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-2_4-3_0-2_4551750",
+        "handicap": "3_0_1_0_4939",
+        "halfFull": "33_10_03_00_228112",
+        "size": "2_2_7+_2_55241"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_1_16052",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_1_0_23276",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_1_0_0_40500",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_0_1_0_0_1_133652",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-3_31500",
+        "handicap": "3_0_240",
+        "halfFull": "33_30_15800",
+        "size": "2_5_3000"
+      },
+      "team": "001_073"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-2_1-2_2-3_3307500",
+        "handicap": "3_0_1_0_1393",
+        "halfFull": "33_10_10_30_442400",
+        "size": "2_2_3_5_34649"
+      },
+      "team": "001_002_072_073"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2014-02-22 12:35",
+      "matchId": "677974",
+      "league": "日超杯",
+      "home": "广岛三箭",
+      "away": "横滨水手",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.410",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.390",
+        "score_result": "2:0",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2014-02-22 14:30",
+      "matchId": "612686",
+      "league": "澳超",
+      "home": "纽卡斯尔喷气机",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.730",
+        "score_result": "0:2",
+        "score_odds": "15.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2014-02-22 16:45",
+      "matchId": "612687",
+      "league": "澳超",
+      "home": "墨尔本胜利",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "1-2",
+        "full": "4-3",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "胜其他",
+        "score_odds": "34.000",
+        "goal_result": "7+",
+        "goal_odds": "18.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2014-02-22 18:45",
+      "matchId": "612688",
+      "league": "澳超",
+      "home": "珀斯光荣",
+      "away": "西悉尼漫步者",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.280",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.200",
+        "score_result": "0:2",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2014-02-22 20:00",
+      "matchId": "611999",
+      "league": "德乙",
+      "home": "卡尔斯鲁厄",
+      "away": "桑德豪森",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2014-02-22 20:00",
+      "matchId": "611993",
+      "league": "德乙",
+      "home": "慕尼黑1860",
+      "away": "帕德博恩",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2014-02-22 20:15",
+      "matchId": "609652",
+      "league": "英冠",
+      "home": "米德尔斯堡",
+      "away": "利兹联",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.740",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2014-02-22 20:45",
+      "matchId": "608676",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "埃弗顿",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周六072",
+      "match_time": "2014-02-22 08:15",
+      "matchId": "679622",
+      "league": "",
+      "home": "查尔斯顿电池",
+      "away": "西雅图海湾人",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周六073",
+      "match_time": "2014-02-22 09:00",
+      "matchId": "677201",
+      "league": "",
+      "home": "新英格兰革命",
+      "away": "美国芝华士",
+      "result": {
+        "half": "2-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.730",
+        "score_result": "2:3",
+        "score_odds": "30.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    }
+  ]
+}

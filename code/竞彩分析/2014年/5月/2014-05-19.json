@@ -1,0 +1,236 @@
+{
+  "time": "2014-05-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_3-0_17600",
+        "handicap": "0_3_655",
+        "halfFull": "11_33_1652",
+        "size": "4_3_1690"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_3-0_2-2_246400",
+        "handicap": "0_3_0_1100",
+        "halfFull": "11_33_01_24780",
+        "size": "4_3_4_9635"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_3-0_2-2_1-1_1724800",
+        "handicap": "0_3_0_3_1717",
+        "halfFull": "11_33_01_01_322139",
+        "size": "4_3_4_2_36134"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_0_3159",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_0_0_4865",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_2-3_44000",
+        "handicap": "0_0_280",
+        "halfFull": "11_10_3640",
+        "size": "4_5_6370"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_3-0_1-3_2-3_19712000",
+        "handicap": "0_3_0_0_1856",
+        "halfFull": "11_33_00_10_64428",
+        "size": "4_3_4_5_112080"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2014-05-19 00:00",
+      "matchId": "666275",
+      "league": "挪超",
+      "home": "瓦勒伦加",
+      "away": "利勒斯特罗姆",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.820",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2014-05-19 01:00",
+      "matchId": "669313",
+      "league": "瑞典超",
+      "home": "哈尔姆斯塔德",
+      "away": "布鲁马波卡纳",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.600",
+        "score_result": "3:0",
+        "score_odds": "16.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2014-05-19 01:00",
+      "matchId": "669303",
+      "league": "瑞典超",
+      "home": "厄勒布鲁",
+      "away": "耶夫勒",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2014-05-19 01:00",
+      "matchId": "666259",
+      "league": "挪超",
+      "home": "萨尔普斯堡",
+      "away": "罗森博格",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.560",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2014-05-19 02:30",
+      "matchId": "701477",
+      "league": "德乙",
+      "home": "比勒费尔德",
+      "away": "达姆施塔特",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.840",
+        "score_result": "1:3",
+        "score_odds": "28.000",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2014-05-19 07:10",
+      "matchId": "670815",
+      "league": "阿甲",
+      "home": "圣洛伦索",
+      "away": "萨斯菲尔德",
+      "result": {
+        "half": "1-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "2:3",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "13.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    }
+  ]
+}

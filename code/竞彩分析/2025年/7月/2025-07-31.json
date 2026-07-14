@@ -1,0 +1,216 @@
+{
+  "time": "2025-07-31",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_4-1_15300",
+        "handicap": "3_3_304",
+        "halfFull": "33_33_807",
+        "size": "3_5_2804"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_4-1_0-0_275400",
+        "handicap": "3_3_3_614",
+        "halfFull": "33_33_11_4723",
+        "size": "3_5_0_50490"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_4-1_0-0_0-0_4957200",
+        "handicap": "3_3_3_0_1148",
+        "halfFull": "33_33_11_11_43695",
+        "size": "3_5_0_0_908819"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_3_1837",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_3_3_3490",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_3_3_3_7051",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_3_3_3_0_13186",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-0_16200",
+        "handicap": "3_0_299",
+        "halfFull": "33_11_4393",
+        "size": "3_0_5940"
+      },
+      "team": "001_012"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_4-1_0-0_0-0_4957200",
+        "handicap": "3_3_3_0_1148",
+        "halfFull": "33_33_11_11_43695",
+        "size": "3_5_0_0_908819"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2025-07-31 01:00",
+      "matchId": "1295722",
+      "league": "欧联",
+      "home": "赫根",
+      "away": "安德莱",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.130",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.600",
+        "score_result": "2:1",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2025-07-31 02:00",
+      "matchId": "1295730",
+      "league": "欧联",
+      "home": "乌德勒支",
+      "away": "谢里夫",
+      "result": {
+        "half": "1-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "4:1",
+        "score_odds": "17.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.700"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2025-07-31 03:00",
+      "matchId": "1295721",
+      "league": "欧联",
+      "home": "希伯尼安",
+      "away": "中日德兰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.020",
+        "score_result": "0:0",
+        "score_odds": "18.000",
+        "goal_result": "0",
+        "goal_odds": "18.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.850"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2025-07-31 03:00",
+      "matchId": "1295725",
+      "league": "欧联",
+      "home": "布拉加",
+      "away": "索列夫",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.450",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.870",
+        "score_result": "0:0",
+        "score_odds": "18.000",
+        "goal_result": "0",
+        "goal_odds": "18.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "9.250"
+      }
+    }
+  ]
+}

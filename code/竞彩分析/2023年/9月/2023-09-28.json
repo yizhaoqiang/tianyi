@@ -1,0 +1,200 @@
+{
+  "time": "2023-09-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "7-0_0-0_5890",
+        "handicap": "3_0_783",
+        "halfFull": "33_11_1000",
+        "size": "7+_0_8525"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "7-0_0-0_0-2_35340",
+        "handicap": "3_0_1_3096",
+        "halfFull": "33_11_10_4302",
+        "size": "7+_0_2_37510"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "7-0_0-0_0-2_1-1_238544",
+        "handicap": "3_0_1_3_5294",
+        "halfFull": "33_11_10_01_60230",
+        "size": "7+_0_2_2_136911"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_3_0_19590",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "7-0_0-2_3419",
+        "handicap": "3_0_721",
+        "halfFull": "33_00_368",
+        "size": "7+_2_1814"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "7-0_0-0_1-1_0-2_357817",
+        "handicap": "3_0_3_0_4959",
+        "halfFull": "33_11_01_00_44822",
+        "size": "7+_0_2_2_102683"
+      },
+      "team": "001_004_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2023-09-28 16:00",
+      "matchId": "1237897",
+      "league": "亚运女足",
+      "home": "日本女",
+      "away": "越南女",
+      "result": {
+        "half": "2-0",
+        "full": "7-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "3",
+        "handicap_odds": "1.950",
+        "score_result": "胜其他",
+        "score_odds": "3.800",
+        "goal_result": "7+",
+        "goal_odds": "5.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.150"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2023-09-28 16:30",
+      "matchId": "1240002",
+      "league": "亚运男足",
+      "home": "乌兹别亚",
+      "away": "印尼亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "4.020",
+        "score_result": "0:0",
+        "score_odds": "15.500",
+        "goal_result": "0",
+        "goal_odds": "15.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.700"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2023-09-28 19:30",
+      "matchId": "1240008",
+      "league": "亚运男足",
+      "home": "印度亚",
+      "away": "沙特亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "0:2",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "4.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2023-09-28 00:30",
+      "matchId": "1227844",
+      "league": "意甲",
+      "home": "弗洛西诺",
+      "away": "佛罗伦萨",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.710",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2023-09-28 03:30",
+      "matchId": "1219063",
+      "league": "西甲",
+      "home": "奥萨苏纳",
+      "away": "马竞",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.700",
+        "score_result": "0:2",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.200"
+      }
+    }
+  ]
+}

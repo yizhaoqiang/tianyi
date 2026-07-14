@@ -1,0 +1,164 @@
+{
+  "time": "2021-12-16",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_9025",
+        "handicap": "0_0_364",
+        "halfFull": "00_11_6250",
+        "size": "3_2_1306"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-1_2-1_76712",
+        "handicap": "0_0_1_1565",
+        "halfFull": "00_11_33_27500",
+        "size": "3_2_3_4311"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_2-1_0-1_441096",
+        "handicap": "0_0_1_1_5010",
+        "halfFull": "00_11_33_00_63250",
+        "size": "3_2_3_1_20048"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-1_5462",
+        "handicap": "0_1_585",
+        "halfFull": "00_00_1437",
+        "size": "3_1_1557"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_2-1_0-1_441096",
+        "handicap": "0_0_1_1_5010",
+        "halfFull": "00_11_33_00_63250",
+        "size": "3_2_3_1_20048"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2021-12-16 01:00",
+      "matchId": "1156923",
+      "league": "荷兰杯",
+      "home": "坎布尔",
+      "away": "奈梅亨",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.720",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.830",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2021-12-16 03:45",
+      "matchId": "1136030",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "埃弗顿",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.990",
+        "score_result": "1:1",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2021-12-16 04:00",
+      "matchId": "1154515",
+      "league": "意大利杯",
+      "home": "桑普多利亚",
+      "away": "都灵",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.300",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2021-12-16 04:00",
+      "matchId": "1157324",
+      "league": "法国杯",
+      "home": "瓦朗谢纳",
+      "away": "斯特拉斯堡",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "0:1",
+        "score_odds": "5.750",
+        "goal_result": "1",
+        "goal_odds": "4.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.300"
+      }
+    }
+  ]
+}

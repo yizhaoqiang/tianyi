@@ -1,0 +1,200 @@
+{
+  "time": "2024-10-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-0_28500",
+        "handicap": "0_3_223",
+        "halfFull": "11_33_3840",
+        "size": "0_2_4800"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-0_2-2_342000",
+        "handicap": "0_3_3_306",
+        "halfFull": "11_33_01_53760",
+        "size": "0_2_4_28800"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-0_2-2_2-1_2736000",
+        "handicap": "0_3_3_0_588",
+        "halfFull": "11_33_01_33_88166",
+        "size": "0_2_4_3_112320"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_0_1070",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-0_22500",
+        "handicap": "0_0_236",
+        "halfFull": "11_11_3840",
+        "size": "0_0_22500"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-0_2-1_0-0_3420000",
+        "handicap": "0_3_0_0_781",
+        "halfFull": "11_33_33_11_40304",
+        "size": "0_2_3_0_280800"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2024-10-18 16:35",
+      "matchId": "1274380",
+      "league": "澳超",
+      "home": "中央海岸",
+      "away": "墨胜利",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.300",
+        "score_result": "0:0",
+        "score_odds": "15.000",
+        "goal_result": "0",
+        "goal_odds": "15.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2024-10-18 02:00",
+      "matchId": "1263401",
+      "league": "法乙",
+      "home": "格勒诺布",
+      "away": "梅斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "2:0",
+        "score_odds": "19.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.400"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2024-10-18 02:00",
+      "matchId": "1263398",
+      "league": "法乙",
+      "home": "圣旺红星",
+      "away": "卡昂",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.370",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2024-10-18 02:30",
+      "matchId": "1269364",
+      "league": "德甲",
+      "home": "多特蒙德",
+      "away": "圣保利",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.920",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.640"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2024-10-18 02:45",
+      "matchId": "1263084",
+      "league": "法甲",
+      "home": "摩纳哥",
+      "away": "里尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.820",
+        "score_result": "0:0",
+        "score_odds": "15.000",
+        "goal_result": "0",
+        "goal_odds": "15.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.400"
+      }
+    }
+  ]
+}

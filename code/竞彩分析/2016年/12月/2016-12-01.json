@@ -1,0 +1,354 @@
+{
+  "time": "2016-12-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-6_2-2_45600",
+        "handicap": "0_0_591",
+        "halfFull": "10_31_7139",
+        "size": "7+_4_15400"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-6_2-2_3-1_1231200",
+        "handicap": "0_0_3_4373",
+        "halfFull": "10_31_13_38556",
+        "size": "7+_4_4_134750"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-6_2-2_3-1_1-2_11696400",
+        "handicap": "0_0_3_0_6735",
+        "halfFull": "10_31_13_00_198563",
+        "size": "7+_4_4_3_539000"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_18724",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_3_30146",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_3_0_45219",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_3_0_3_187660",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-6_1-1_12719",
+        "handicap": "0_0_300",
+        "halfFull": "10_11_1563",
+        "size": "7+_2_8540"
+      },
+      "team": "001_014"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-6_2-2_2-0_1-1_1329240",
+        "handicap": "0_0_3_0_2838",
+        "halfFull": "10_31_33_11_72256",
+        "size": "7+_4_2_2_143258"
+      },
+      "team": "001_004_015_016"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2016-12-01 00:30",
+      "matchId": "905177",
+      "league": "俄超",
+      "home": "托木斯克",
+      "away": "莫斯科火车头",
+      "result": {
+        "half": "0-0",
+        "full": "1-6",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.990",
+        "score_result": "负其他",
+        "score_odds": "24.000",
+        "goal_result": "7+",
+        "goal_odds": "28.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2016-12-01 01:00",
+      "matchId": "914484",
+      "league": "意大利杯",
+      "home": "热那亚",
+      "away": "佩鲁贾",
+      "result": {
+        "half": "2-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.970",
+        "score_result": "2:2",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "21.000"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2016-12-01 01:30",
+      "matchId": "905158",
+      "league": "俄超",
+      "home": "安郅马哈奇卡拉",
+      "away": "阿姆卡尔",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "7.400",
+        "score_result": "3:1",
+        "score_odds": "27.000",
+        "goal_result": "4",
+        "goal_odds": "8.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2016-12-01 02:00",
+      "matchId": "923312",
+      "league": "葡联杯",
+      "home": "费伦斯",
+      "away": "摩雷伦斯",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.150"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2016-12-01 03:00",
+      "matchId": "920844",
+      "league": "国王杯",
+      "home": "巴利亚多利德",
+      "away": "皇家社会",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.780",
+        "score_result": "1:3",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2016-12-01 03:30",
+      "matchId": "918825",
+      "league": "比利时杯",
+      "home": "沙勒罗瓦",
+      "away": "安德莱赫特",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.610",
+        "score_result": "2:2",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周四009",
+      "match_time": "2016-12-01 03:45",
+      "matchId": "880470",
+      "league": "英冠",
+      "home": "女王公园巡游者",
+      "away": "狼队",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周四010",
+      "match_time": "2016-12-01 04:00",
+      "matchId": "914479",
+      "league": "意大利杯",
+      "home": "博洛尼亚",
+      "away": "维罗纳",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.970",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.150",
+        "score_result": "4:0",
+        "score_odds": "36.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周四015",
+      "match_time": "2016-12-01 08:10",
+      "matchId": "924874",
+      "league": "阿根廷杯",
+      "home": "河床",
+      "away": "拉普拉塔体操",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.180",
+        "score_result": "2:0",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.200"
+      }
+    },
+    {
+      "num": "周四016",
+      "match_time": "2016-12-01 11:00",
+      "matchId": "924876",
+      "league": "墨联",
+      "home": "内卡萨",
+      "away": "墨西哥美洲",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.820",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "1:1",
+        "score_odds": "5.300",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    }
+  ]
+}

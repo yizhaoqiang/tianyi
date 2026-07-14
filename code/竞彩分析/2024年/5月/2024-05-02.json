@@ -1,0 +1,200 @@
+{
+  "time": "2024-05-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-2_20000",
+        "handicap": "3_0_1785",
+        "halfFull": "33_00_1139",
+        "size": "2_2_1959"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_0-2_1-1_135000",
+        "handicap": "3_0_0_2481",
+        "halfFull": "33_00_11_6378",
+        "size": "2_2_2_6859"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-2_1-1_3-2_3375000",
+        "handicap": "3_0_0_1_8187",
+        "halfFull": "33_00_11_33_16902",
+        "size": "2_2_2_5_72030"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_1_0_26200",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-4_250000",
+        "handicap": "3_0_1344",
+        "halfFull": "33_00_5695",
+        "size": "2_6_7559"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-2_3-2_2-4_62500000",
+        "handicap": "3_0_1_0_18849",
+        "halfFull": "33_00_33_00_51311",
+        "size": "2_2_5_6_277830"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2024-05-02 02:30",
+      "matchId": "1255242",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "热刺",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.200",
+        "score_result": "2:0",
+        "score_odds": "20.000",
+        "goal_result": "2",
+        "goal_odds": "5.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2024-05-02 03:00",
+      "matchId": "1255832",
+      "league": "欧联",
+      "home": "罗马",
+      "away": "勒沃库森",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.960",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.250",
+        "score_result": "0:2",
+        "score_odds": "10.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2024-05-02 03:00",
+      "matchId": "1255830",
+      "league": "欧联",
+      "home": "马赛",
+      "away": "亚特兰大",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.390",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2024-05-02 03:00",
+      "matchId": "1255827",
+      "league": "欧协联",
+      "home": "佛罗伦萨",
+      "away": "布鲁日",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "3:2",
+        "score_odds": "25.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2024-05-02 03:00",
+      "matchId": "1255825",
+      "league": "欧协联",
+      "home": "维拉",
+      "away": "奥林匹亚",
+      "result": {
+        "half": "1-2",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "8.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.200",
+        "score_result": "2:4",
+        "score_odds": "125.000",
+        "goal_result": "6",
+        "goal_odds": "13.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "17.000"
+      }
+    }
+  ]
+}

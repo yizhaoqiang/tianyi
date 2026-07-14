@@ -1,0 +1,354 @@
+{
+  "time": "2018-10-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-1_5600",
+        "handicap": "0_1_923",
+        "halfFull": "00_33_527",
+        "size": "2_3_1221"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_2-1_1-1_36400",
+        "handicap": "0_1_0_1717",
+        "halfFull": "00_33_11_2848",
+        "size": "2_3_2_4090"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-1_1-1_1-2_273000",
+        "handicap": "0_1_0_1_6269",
+        "halfFull": "00_33_11_00_8972",
+        "size": "2_3_2_3_14111"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_1_22882",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_1_0_36155",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_1_0_1_133773",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_1_1_0_1_3_254170",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-0_7600",
+        "handicap": "0_3_404",
+        "halfFull": "00_11_1012",
+        "size": "2_0_3515"
+      },
+      "team": "001_039"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-1_0-1_0-0_319200",
+        "handicap": "0_1_1_3_5171",
+        "halfFull": "00_33_00_11_7975",
+        "size": "2_3_1_0_42338"
+      },
+      "team": "001_002_038_039"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2018-10-05 17:30",
+      "matchId": "1046312",
+      "league": "澳足总杯",
+      "home": "本特利绿茵",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.490",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.530",
+        "score_result": "0:2",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.110"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2018-10-05 18:30",
+      "matchId": "1009993",
+      "league": "J联赛",
+      "home": "横滨水手",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2018-10-05 22:30",
+      "matchId": "1034416",
+      "league": "葡超",
+      "home": "通德拉",
+      "away": "葡萄牙国民",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.480",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.860",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2018-10-05 00:30",
+      "matchId": "1033253",
+      "league": "德乙",
+      "home": "达姆施塔特",
+      "away": "汉堡",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2018-10-05 00:30",
+      "matchId": "1033250",
+      "league": "德乙",
+      "home": "波鸿",
+      "away": "比勒费尔德",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.990",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2018-10-05 00:30",
+      "matchId": "1040985",
+      "league": "俄超",
+      "home": "图拉兵工厂",
+      "away": "乌法",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.820",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2018-10-05 01:00",
+      "matchId": "1034413",
+      "league": "葡超",
+      "home": "圣克拉拉",
+      "away": "沙维什",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2018-10-05 01:00",
+      "matchId": "1002220",
+      "league": "瑞典超",
+      "home": "厄斯特松德",
+      "away": "达尔库尔德人",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.260",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "3:0",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.680"
+      }
+    },
+    {
+      "num": "周五038",
+      "match_time": "2018-10-05 08:30",
+      "matchId": "1013072",
+      "league": "巴西甲",
+      "home": "维多利亚",
+      "away": "桑托斯",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.990",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周五039",
+      "match_time": "2018-10-05 10:10",
+      "matchId": "1030399",
+      "league": "墨联",
+      "home": "韦拉克鲁斯",
+      "away": "内卡萨",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.600",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    }
+  ]
+}

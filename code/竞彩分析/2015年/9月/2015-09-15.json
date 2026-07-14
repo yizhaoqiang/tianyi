@@ -1,0 +1,354 @@
+{
+  "time": "2015-09-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-2_11375",
+        "handicap": "0_3_407",
+        "halfFull": "11_11_3185",
+        "size": "2_4_2098"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_2-2_4-0_108062",
+        "handicap": "0_3_3_933",
+        "halfFull": "11_11_33_4618",
+        "size": "2_4_4_8288"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_2-2_4-0_2-1_1080625",
+        "handicap": "0_3_3_3_1456",
+        "halfFull": "11_11_33_13_31865",
+        "size": "2_4_4_3_31909"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_5170",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_0_16286",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_0_3_26059",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_0_3_3_61238",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-0_8312",
+        "handicap": "0_0_423",
+        "halfFull": "11_11_2990",
+        "size": "2_0_3657"
+      },
+      "team": "001_032"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_2-2_0-1_0-0_783453",
+        "handicap": "0_3_0_0_921",
+        "halfFull": "11_11_10_11_83510",
+        "size": "2_4_1_0_76743"
+      },
+      "team": "001_002_031_032"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2015-09-15 20:00",
+      "matchId": "794092",
+      "league": "亚冠杯",
+      "home": "广州恒大",
+      "away": "柏太阳神",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.700",
+        "score_result": "1:1",
+        "score_odds": "8.750",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2015-09-15 00:00",
+      "matchId": "794091",
+      "league": "亚冠杯",
+      "home": "莱赫维亚",
+      "away": "利雅得希拉尔",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.450",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2015-09-15 02:45",
+      "matchId": "830738",
+      "league": "欧冠",
+      "home": "皇家马德里",
+      "away": "顿涅茨克矿工",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.290",
+        "score_result": "4:0",
+        "score_odds": "9.500",
+        "goal_result": "4",
+        "goal_odds": "3.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.450"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2015-09-15 02:45",
+      "matchId": "830725",
+      "league": "欧冠",
+      "home": "PSV埃因霍温",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.560",
+        "score_result": "2:1",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.900"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2015-09-15 02:45",
+      "matchId": "830730",
+      "league": "欧冠",
+      "home": "沃尔夫斯堡",
+      "away": "莫斯科中央陆军",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.730",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2015-09-15 02:45",
+      "matchId": "830729",
+      "league": "欧冠",
+      "home": "加拉塔萨雷",
+      "away": "马德里竞技",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.150",
+        "score_result": "0:2",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2015-09-15 02:45",
+      "matchId": "830739",
+      "league": "欧冠",
+      "home": "本菲卡",
+      "away": "阿斯塔纳",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.600",
+        "score_result": "2:0",
+        "score_odds": "5.000",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2015-09-15 02:45",
+      "matchId": "830734",
+      "league": "欧冠",
+      "home": "塞维利亚",
+      "away": "门兴格拉德巴赫",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.350",
+        "score_result": "3:0",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周二031",
+      "match_time": "2015-09-15 10:00",
+      "matchId": "813916",
+      "league": "墨西哥杯",
+      "home": "瓜达拉哈拉",
+      "away": "莫雷利亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.440",
+        "score_result": "0:1",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "3.850",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周二032",
+      "match_time": "2015-09-15 10:00",
+      "matchId": "813917",
+      "league": "墨西哥杯",
+      "home": "韦拉克鲁斯",
+      "away": "普埃布拉",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    }
+  ]
+}

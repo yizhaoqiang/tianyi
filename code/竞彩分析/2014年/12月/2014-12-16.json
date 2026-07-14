@@ -1,0 +1,354 @@
+{
+  "time": "2014-12-16",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-1_10500",
+        "handicap": "3_1_626",
+        "halfFull": "33_13_2025",
+        "size": "2_3_979"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_2-1_2-0_115500",
+        "handicap": "3_1_3_3350",
+        "halfFull": "33_13_33_7188",
+        "size": "2_3_2_2841"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_2-1_2-0_0-0_1212750",
+        "handicap": "3_1_3_0_6633",
+        "halfFull": "33_13_33_11_36662",
+        "size": "2_3_2_0_29840"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_0_10017",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_0_1_35560",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_0_1_0_56897",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_0_1_0_1_258882",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_8-1_5100",
+        "handicap": "3_3_287",
+        "halfFull": "33_33_495",
+        "size": "2_7+_1288"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_2-1_2-1_8-1_240975",
+        "handicap": "3_1_1_3_4147",
+        "halfFull": "33_13_13_33_10469",
+        "size": "2_3_3_7+_15101"
+      },
+      "team": "001_002_026_027"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2014-12-16 00:30",
+      "matchId": "709972",
+      "league": "德乙",
+      "home": "柏林联合",
+      "away": "卡尔斯鲁厄",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.670",
+        "score_result": "2:0",
+        "score_odds": "15.000",
+        "goal_result": "2",
+        "goal_odds": "2.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2014-12-16 00:30",
+      "matchId": "709975",
+      "league": "德乙",
+      "home": "不伦瑞克",
+      "away": "杜塞尔多夫",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2014-12-16 00:30",
+      "matchId": "709973",
+      "league": "德乙",
+      "home": "FSV法兰克福",
+      "away": "海登海姆",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.480",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.350",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2014-12-16 00:30",
+      "matchId": "709969",
+      "league": "德乙",
+      "home": "菲尔特",
+      "away": "波鸿",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.980",
+        "score_result": "0:0",
+        "score_odds": "10.500",
+        "goal_result": "0",
+        "goal_odds": "10.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2014-12-16 01:00",
+      "matchId": "763340",
+      "league": "法联杯",
+      "home": "巴斯蒂亚",
+      "away": "卡昂",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2014-12-16 01:30",
+      "matchId": "762986",
+      "league": "荷兰杯",
+      "home": "芬洛",
+      "away": "兹沃勒",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "0:1",
+        "score_odds": "6.700",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.880"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2014-12-16 03:00",
+      "matchId": "709654",
+      "league": "德甲",
+      "home": "科隆",
+      "away": "美因茨",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2014-12-16 03:00",
+      "matchId": "709647",
+      "league": "德甲",
+      "home": "拜仁慕尼黑",
+      "away": "弗赖堡",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "4.550",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "5.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.100"
+      }
+    },
+    {
+      "num": "周二026",
+      "match_time": "2014-12-16 05:00",
+      "matchId": "762171",
+      "league": "国王杯",
+      "home": "阿尔梅里亚",
+      "away": "皇家贝蒂斯",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "2:1",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周二027",
+      "match_time": "2014-12-16 05:00",
+      "matchId": "762178",
+      "league": "国王杯",
+      "home": "巴塞罗那",
+      "away": "韦斯卡",
+      "result": {
+        "half": "5-0",
+        "full": "8-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "胜其他",
+        "score_odds": "3.400",
+        "goal_result": "7+",
+        "goal_odds": "4.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.100"
+      }
+    }
+  ]
+}

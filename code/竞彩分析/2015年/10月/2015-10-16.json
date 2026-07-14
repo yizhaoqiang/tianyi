@@ -1,0 +1,354 @@
+{
+  "time": "2015-10-16",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-0_4387",
+        "handicap": "0_1_699",
+        "halfFull": "31_33_4060",
+        "size": "2_1_1323"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-0_2-0_48262",
+        "handicap": "0_1_3_3566",
+        "halfFull": "31_33_33_15428",
+        "size": "2_1_2_4168"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-0_2-0_1-0_374034",
+        "handicap": "0_1_3_3_5492",
+        "halfFull": "31_33_33_33_69426",
+        "size": "2_1_2_1_15839"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_1_21145",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_1_0_30660",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_1_0_0_49670",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_1_0_0_0_79472",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-0_4893",
+        "handicap": "0_1_718",
+        "halfFull": "31_13_7139",
+        "size": "2_1_1474"
+      },
+      "team": "001_029"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-0_0-2_1-0_333998",
+        "handicap": "0_1_0_1_11692",
+        "halfFull": "31_33_00_13_67294",
+        "size": "2_1_2_1_20086"
+      },
+      "team": "001_002_028_029"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2015-10-16 16:40",
+      "matchId": "802848",
+      "league": "澳超",
+      "home": "阿德莱德联",
+      "away": "西悉尼漫步者",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.620",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.890",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2015-10-16 00:30",
+      "matchId": "800790",
+      "league": "德乙",
+      "home": "杜塞尔多夫",
+      "away": "比勒费尔德",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2015-10-16 00:30",
+      "matchId": "800788",
+      "league": "德乙",
+      "home": "帕德博恩",
+      "away": "不伦瑞克",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.100",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2015-10-16 00:30",
+      "matchId": "800800",
+      "league": "德乙",
+      "home": "桑德豪森",
+      "away": "凯泽斯劳滕",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "1:0",
+        "score_odds": "7.750",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2015-10-16 01:00",
+      "matchId": "774591",
+      "league": "挪超",
+      "home": "斯特罗姆加斯特",
+      "away": "奥德",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.740",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2015-10-16 02:00",
+      "matchId": "795761",
+      "league": "法乙",
+      "home": "尼奥尔",
+      "away": "欧塞尔",
+      "result": {
+        "half": "1-3",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "2:3",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "18.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2015-10-16 02:00",
+      "matchId": "795764",
+      "league": "法乙",
+      "home": "梅斯",
+      "away": "克莱蒙",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.780",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2015-10-16 02:00",
+      "matchId": "795765",
+      "league": "法乙",
+      "home": "索肖",
+      "away": "图尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "0:0",
+        "score_odds": "6.000",
+        "goal_result": "0",
+        "goal_odds": "6.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周五028",
+      "match_time": "2015-10-16 10:30",
+      "matchId": "793997",
+      "league": "墨联",
+      "home": "蒂华纳",
+      "away": "墨西哥美洲",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.130",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.400",
+        "score_result": "0:2",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周五029",
+      "match_time": "2015-10-16 11:00",
+      "matchId": "767779",
+      "league": "美职",
+      "home": "圣何塞地震",
+      "away": "堪萨斯城竞技",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.100"
+      }
+    }
+  ]
+}

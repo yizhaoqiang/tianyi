@@ -1,0 +1,331 @@
+{
+  "time": "2023-03-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-1_4676",
+        "handicap": "1_3_572",
+        "halfFull": "13_01_7210",
+        "size": "1_2_1184"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_1-1_3-1_49100",
+        "handicap": "1_3_3_1345",
+        "halfFull": "13_01_13_31363",
+        "size": "1_2_4_5801"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-1_3-1_0-2_540106",
+        "handicap": "1_3_3_0_1815",
+        "halfFull": "13_01_13_00_133294",
+        "size": "1_2_4_2_17984"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_3105",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_3_4564",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_3_1_18258",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_0_3_3_1_3_51124",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-0_7095",
+        "handicap": "1_0_666",
+        "halfFull": "13_11_2961",
+        "size": "1_0_4070"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-1_2-0_0-0_617265",
+        "handicap": "1_3_3_0_2965",
+        "halfFull": "13_01_13_11_211433",
+        "size": "1_2_2_0_62515"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2023-03-08 18:00",
+      "matchId": "1207273",
+      "league": "日联杯",
+      "home": "大阪樱花",
+      "away": "东京FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:0",
+        "score_odds": "6.450",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.150"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2023-03-08 18:00",
+      "matchId": "1207270",
+      "league": "日联杯",
+      "home": "柏太阳神",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2023-03-08 18:00",
+      "matchId": "1207269",
+      "league": "日联杯",
+      "home": "广岛三箭",
+      "away": "横滨FC",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.350",
+        "score_result": "3:1",
+        "score_odds": "10.500",
+        "goal_result": "4",
+        "goal_odds": "4.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.350"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2023-03-08 18:00",
+      "matchId": "1207268",
+      "league": "日联杯",
+      "home": "神户胜利",
+      "away": "名古屋鲸",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.420",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "0:2",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2023-03-08 18:00",
+      "matchId": "1207267",
+      "league": "日联杯",
+      "home": "清水鼓动",
+      "away": "川崎前锋",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.710",
+        "score_result": "3:2",
+        "score_odds": "32.000",
+        "goal_result": "5",
+        "goal_odds": "9.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.100"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2023-03-08 18:00",
+      "matchId": "1207266",
+      "league": "日联杯",
+      "home": "湘南海洋",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.080",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "0:0",
+        "score_odds": "9.750",
+        "goal_result": "0",
+        "goal_odds": "9.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.250"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2023-03-08 18:00",
+      "matchId": "1207264",
+      "league": "日联杯",
+      "home": "横滨水手",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.170",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "7.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2023-03-08 04:00",
+      "matchId": "1202332",
+      "league": "欧冠",
+      "home": "拜仁",
+      "away": "巴黎圣曼",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.800",
+        "score_result": "2:0",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "4.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周三009",
+      "match_time": "2023-03-08 04:00",
+      "matchId": "1202324",
+      "league": "欧冠",
+      "home": "热刺",
+      "away": "AC米兰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.750"
+      }
+    }
+  ]
+}

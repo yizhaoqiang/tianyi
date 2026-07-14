@@ -1,0 +1,200 @@
+{
+  "time": "2023-08-31",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_4-1_24500",
+        "handicap": "0_3_811",
+        "halfFull": "11_33_1631",
+        "size": "2_5_3550"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_4-1_0-1_784000",
+        "handicap": "0_3_0_1542",
+        "halfFull": "11_33_10_34266",
+        "size": "2_5_1_31950"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_4-1_0-1_2-0_4508000",
+        "handicap": "0_3_0_1_6016",
+        "halfFull": "11_33_10_13_142207",
+        "size": "2_5_1_2_143775"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_0_23766",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-3_9800",
+        "handicap": "0_0_916",
+        "halfFull": "11_00_1899",
+        "size": "2_4_1526"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_4-1_2-0_1-3_1972250",
+        "handicap": "0_3_1_0_12508",
+        "halfFull": "11_33_13_00_24039",
+        "size": "2_5_2_4_68692"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2023-08-31 00:00",
+      "matchId": "1236045",
+      "league": "欧联",
+      "home": "卡拉巴赫",
+      "away": "奥林",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.350"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2023-08-31 01:00",
+      "matchId": "1236119",
+      "league": "欧联",
+      "home": "布斯巴达",
+      "away": "萨迪纳摩",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.500",
+        "score_result": "4:1",
+        "score_odds": "35.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.050"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2023-08-31 02:00",
+      "matchId": "1236037",
+      "league": "欧联",
+      "home": "阿贾克斯",
+      "away": "卢多戈雷",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "8.500",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "0:1",
+        "score_odds": "32.000",
+        "goal_result": "1",
+        "goal_odds": "9.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "21.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2023-08-31 02:00",
+      "matchId": "1236079",
+      "league": "欧协联",
+      "home": "佛罗伦萨",
+      "away": "维快速",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:0",
+        "score_odds": "5.750",
+        "goal_result": "2",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.150"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2023-08-31 02:45",
+      "matchId": "1236039",
+      "league": "欧联",
+      "home": "阿伯丁",
+      "away": "赫根",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.950",
+        "score_result": "1:3",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "4.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.550"
+      }
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "time": "2017-10-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-5_2-2_44200",
+        "handicap": "0_0_396",
+        "halfFull": "00_31_2888",
+        "size": "6_4_5700"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-5_2-2_2-1_309400",
+        "handicap": "0_0_1_1190",
+        "halfFull": "00_31_13_11552",
+        "size": "6_4_3_22230"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-5_2-2_2-1_2-1_2165800",
+        "handicap": "0_0_1_1_4405",
+        "halfFull": "00_31_13_03_254144",
+        "size": "6_4_3_3_72247"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_1_3_10264",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_1_3_1_34899",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_1_3_1_0_48859",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_1_3_1_0_0_90389",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-5_3-1_26000",
+        "handicap": "0_3_454",
+        "halfFull": "00_33_326",
+        "size": "6_4_4417"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-5_2-2_0-1_3-1_3536000",
+        "handicap": "0_0_0_3_2033",
+        "halfFull": "00_31_10_33_49673",
+        "size": "6_4_1_4_91442"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2017-10-11 16:30",
+      "matchId": "994180",
+      "league": "澳足总杯",
+      "home": "南墨尔本",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-2",
+        "full": "1-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.180",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.640",
+        "score_result": "1:5",
+        "score_odds": "26.000",
+        "goal_result": "6",
+        "goal_odds": "9.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.520"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2017-10-11 06:30",
+      "matchId": "944961",
+      "league": "巴西甲",
+      "home": "巴拉纳竞技",
+      "away": "戈亚尼亚竞技",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.420",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2017-10-11 06:30",
+      "matchId": "944982",
+      "league": "巴西甲",
+      "home": "博塔弗戈",
+      "away": "沙佩科恩斯",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.000",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2017-10-11 08:00",
+      "matchId": "989806",
+      "league": "美职",
+      "home": "休斯敦迪纳摩",
+      "away": "堪萨斯城竞技",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.960",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2017-10-11 08:00",
+      "matchId": "944978",
+      "league": "巴西甲",
+      "home": "科林蒂安",
+      "away": "科里蒂巴",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.330",
+        "score_result": "3:1",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2017-10-11 08:45",
+      "matchId": "944981",
+      "league": "巴西甲",
+      "home": "米内罗竞技",
+      "away": "圣保罗",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.840",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.550"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2017-10-11 08:45",
+      "matchId": "944977",
+      "league": "巴西甲",
+      "home": "阿瓦伊",
+      "away": "瓦斯科达伽马",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.760",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2017-10-11 08:45",
+      "matchId": "944979",
+      "league": "巴西甲",
+      "home": "格雷米奥",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周三009",
+      "match_time": "2017-10-11 10:00",
+      "matchId": "959618",
+      "league": "墨联",
+      "home": "托卢卡",
+      "away": "普埃布拉大学",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.540",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.770",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    }
+  ]
+}

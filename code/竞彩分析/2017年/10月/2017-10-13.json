@@ -1,0 +1,354 @@
+{
+  "time": "2017-10-13",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_5100",
+        "handicap": "0_0_306",
+        "halfFull": "30_11_11750",
+        "size": "3_2_1006"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-1_0-0_61200",
+        "handicap": "0_0_0_490",
+        "halfFull": "30_11_11_58750",
+        "size": "3_2_0_12078"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_0-0_1-2_459000",
+        "handicap": "0_0_0_1_1838",
+        "halfFull": "30_11_11_00_196812",
+        "size": "3_2_0_3_42876"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_1_7171",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_1_0_30836",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_1_0_3_58896",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_1_0_3_3_166088",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-0_8925",
+        "handicap": "0_0_377",
+        "halfFull": "30_11_14375",
+        "size": "3_0_3465"
+      },
+      "team": "001_031"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_3-1_0-0_856800",
+        "handicap": "0_0_3_0_2890",
+        "halfFull": "30_11_33_11_202687",
+        "size": "3_2_4_0_68693"
+      },
+      "team": "001_002_030_031"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2017-10-13 16:50",
+      "matchId": "992020",
+      "league": "澳超",
+      "home": "布里斯班狮吼",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.720",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-0",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2017-10-13 00:30",
+      "matchId": "962567",
+      "league": "德乙",
+      "home": "圣保利",
+      "away": "凯泽斯劳滕",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.990",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2017-10-13 00:30",
+      "matchId": "962535",
+      "league": "德乙",
+      "home": "杜伊斯堡",
+      "away": "不伦瑞克",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2017-10-13 00:30",
+      "matchId": "957081",
+      "league": "俄超",
+      "home": "格罗兹尼",
+      "away": "莫斯科斯巴达",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2017-10-13 02:00",
+      "matchId": "955288",
+      "league": "法乙",
+      "home": "阿雅克肖GFCO",
+      "away": "南锡",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2017-10-13 02:00",
+      "matchId": "955284",
+      "league": "法乙",
+      "home": "布尔格",
+      "away": "朗斯",
+      "result": {
+        "half": "0-3",
+        "full": "0-6",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.300",
+        "score_result": "负其他",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "18.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2017-10-13 02:00",
+      "matchId": "955290",
+      "league": "法乙",
+      "home": "沙托鲁",
+      "away": "兰斯",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.630",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.910",
+        "score_result": "3:1",
+        "score_odds": "35.000",
+        "goal_result": "4",
+        "goal_odds": "5.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2017-10-13 02:00",
+      "matchId": "955291",
+      "league": "法乙",
+      "home": "尼姆",
+      "away": "奥尔良",
+      "result": {
+        "half": "2-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.590",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.820",
+        "score_result": "4:1",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "8.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周五030",
+      "match_time": "2017-10-13 08:05",
+      "matchId": "984036",
+      "league": "阿甲",
+      "home": "圣洛伦索",
+      "away": "防御与正义",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.850",
+        "score_result": "3:1",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周五031",
+      "match_time": "2017-10-13 10:00",
+      "matchId": "959633",
+      "league": "墨联",
+      "home": "蒂华纳",
+      "away": "韦拉克鲁斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.450",
+        "score_result": "0:0",
+        "score_odds": "10.500",
+        "goal_result": "0",
+        "goal_odds": "10.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.750"
+      }
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "time": "2019-08-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-4_41250",
+        "handicap": "3_0_640",
+        "halfFull": "11_30_16800",
+        "size": "2_6_5460"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_2-4_2-2_495000",
+        "handicap": "3_0_3_1172",
+        "halfFull": "11_30_31_226800",
+        "size": "2_6_4_28665"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_2-4_2-2_1-2_6682500",
+        "handicap": "3_0_3_0_2133",
+        "halfFull": "11_30_31_10_1927800",
+        "size": "2_6_4_3_113226"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_6721",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_0_11091",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_0_0_49909",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-2_9750",
+        "handicap": "3_0_670",
+        "halfFull": "11_00_2400",
+        "size": "2_2_1443"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_2-4_1-1_0-2_3217500",
+        "handicap": "3_0_0_0_4757",
+        "halfFull": "11_30_31_00_940800",
+        "size": "2_6_2_2_61616"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2019-08-06 00:00",
+      "matchId": "1059962",
+      "league": "亚冠杯",
+      "home": "多哈杜海勒",
+      "away": "多哈萨德",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.490",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2019-08-06 00:40",
+      "matchId": "1059963",
+      "league": "亚冠杯",
+      "home": "吉达阿赫利",
+      "away": "利雅得希拉尔",
+      "result": {
+        "half": "2-1",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.040",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.300",
+        "score_result": "2:4",
+        "score_odds": "55.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2019-08-06 01:00",
+      "matchId": "1071449",
+      "league": "欧冠",
+      "home": "塞萨洛尼基",
+      "away": "阿贾克斯",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.260",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.830",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.250",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.500"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2019-08-06 01:00",
+      "matchId": "1075104",
+      "league": "欧冠",
+      "home": "希腊人竞技",
+      "away": "卡拉巴赫",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.630",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.820",
+        "score_result": "1:2",
+        "score_odds": "13.500",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2019-08-06 02:30",
+      "matchId": "1071453",
+      "league": "欧冠",
+      "home": "布鲁日",
+      "away": "基辅迪纳摩",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2019-08-06 02:45",
+      "matchId": "1075100",
+      "league": "欧冠",
+      "home": "贝尔格莱德红星",
+      "away": "哥本哈根",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2019-08-06 07:30",
+      "matchId": "1067057",
+      "league": "美公开杯",
+      "home": "奥兰多城",
+      "away": "亚特兰大联",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.500",
+        "score_result": "0:2",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.000"
+      }
+    }
+  ]
+}

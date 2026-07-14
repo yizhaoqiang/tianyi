@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2013-07-09 01:00",
+    "matchId": "815390",
+    "league": "挪超",
+    "home": "侯尼霍斯",
+    "away": "布兰",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.38",
+        "d": "3.40",
+        "l": "2.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.80",
+        "d": "4.25",
+        "l": "1.48"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.40",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.48",
+      "score_result": "1:1",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.75",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.70"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2013-07-09 01:05",
+    "matchId": "813575",
+    "league": "瑞典超",
+    "home": "赫尔辛堡",
+    "away": "哥德堡",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.67",
+        "d": "3.50",
+        "l": "4.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.83",
+        "d": "3.60",
+        "l": "2.05"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.50",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.05",
+      "score_result": "1:1",
+      "score_odds": "6.80",
+      "goal_result": "2",
+      "goal_odds": "3.45",
+      "half_full_result": "0-1",
+      "half_full_odds": "14.00"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2013-07-09 07:05",
+    "matchId": "857198",
+    "league": "美金杯",
+    "home": "萨尔瓦多",
+    "away": "特立尼达和多巴哥",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.70",
+        "d": "3.05",
+        "l": "2.35"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.90",
+        "d": "4.25",
+        "l": "1.40"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.40",
+      "score_result": "2:2",
+      "score_odds": "15.00",
+      "goal_result": "4",
+      "goal_odds": "6.60",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.50"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2013-07-09 09:30",
+    "matchId": "857199",
+    "league": "美金杯",
+    "home": "海地",
+    "away": "洪都拉斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.90",
+        "d": "3.40",
+        "l": "1.75"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.92",
+        "d": "3.50",
+        "l": "3.20"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.75",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.20",
+      "score_result": "0:2",
+      "score_odds": "6.90",
+      "goal_result": "2",
+      "goal_odds": "3.10",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.50"
+    }
+  }
+]

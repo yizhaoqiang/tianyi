@@ -1,0 +1,354 @@
+{
+  "time": "2017-12-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-2_34000",
+        "handicap": "0_0_491",
+        "halfFull": "11_31_12760",
+        "size": "0_4_11050"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-2_0-5_3400000",
+        "handicap": "0_0_0_1817",
+        "halfFull": "11_31_00_35728",
+        "size": "0_4_5_116025"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-2_0-5_1-2_26520000",
+        "handicap": "0_0_0_0_2526",
+        "halfFull": "11_31_00_30_678832",
+        "size": "0_4_5_3_373600"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_3_8842",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_3_0_17243",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_3_0_1_71044",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_3_0_1_0_106566",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-2_13600",
+        "handicap": "0_1_791",
+        "halfFull": "11_00_2088",
+        "size": "0_3_6459"
+      },
+      "team": "001_082"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-2_1-1_1-2_1632000",
+        "handicap": "0_0_0_1_2797",
+        "halfFull": "11_31_01_00_482328",
+        "size": "0_4_2_3_140666"
+      },
+      "team": "001_002_081_082"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2017-12-09 14:35",
+      "matchId": "992016",
+      "league": "澳超",
+      "home": "布里斯班狮吼",
+      "away": "惠灵顿凤凰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.030",
+        "score_result": "0:0",
+        "score_odds": "17.000",
+        "goal_result": "0",
+        "goal_odds": "17.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2017-12-09 15:30",
+      "matchId": "1000761",
+      "league": "东亚杯",
+      "home": "韩国",
+      "away": "中国",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.620",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.420",
+        "score_result": "2:2",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2017-12-09 16:50",
+      "matchId": "992063",
+      "league": "澳超",
+      "home": "西悉尼漫步者",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-3",
+        "full": "0-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.700",
+        "score_result": "0:5",
+        "score_odds": "100.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2017-12-09 19:00",
+      "matchId": "991978",
+      "league": "澳超",
+      "home": "珀斯光荣",
+      "away": "纽卡斯尔喷气机",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.220",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.390",
+        "score_result": "1:2",
+        "score_odds": "7.800",
+        "goal_result": "3",
+        "goal_odds": "3.220",
+        "half_full_result": "3-0",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2017-12-09 19:00",
+      "matchId": "957147",
+      "league": "俄超",
+      "home": "莫斯科迪纳摩",
+      "away": "安郅马哈奇卡拉",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.740",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.500",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2017-12-09 20:00",
+      "matchId": "962491",
+      "league": "德乙",
+      "home": "柏林联合",
+      "away": "德累斯顿",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "0:1",
+        "score_odds": "13.000",
+        "goal_result": "1",
+        "goal_odds": "5.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2017-12-09 20:00",
+      "matchId": "962598",
+      "league": "德乙",
+      "home": "菲尔特",
+      "away": "海登海姆",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.120",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "4.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2017-12-09 20:00",
+      "matchId": "962456",
+      "league": "德乙",
+      "home": "雷根斯堡",
+      "away": "波鸿",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周六081",
+      "match_time": "2017-12-09 08:00",
+      "matchId": "962802",
+      "league": "智利甲",
+      "home": "基约塔",
+      "away": "奥达科斯意大利人",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "0-1",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周六082",
+      "match_time": "2017-12-09 08:30",
+      "matchId": "984124",
+      "league": "阿甲",
+      "home": "兵工厂",
+      "away": "阿根廷独立",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.280",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.600"
+      }
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "time": "2024-11-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-1_9000",
+        "handicap": "3_0_247",
+        "halfFull": "11_11_3819",
+        "size": "0_2_4800"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_1-1_1-2_74250",
+        "handicap": "3_0_1_916",
+        "halfFull": "11_11_10_19476",
+        "size": "0_2_3_19680"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_1-2_1-0_371250",
+        "handicap": "3_0_1_1_2932",
+        "halfFull": "11_11_10_13_75959",
+        "size": "0_2_3_1_82656"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_1_0_9030",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_1_0_3_24382",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_1_0_3_0_78513",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_1_1_0_3_0_3_127191",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-3_30000",
+        "handicap": "3_0_208",
+        "halfFull": "11_00_2707",
+        "size": "0_4_7800"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_5-0_1-3_2250000",
+        "handicap": "3_0_3_0_553",
+        "halfFull": "11_11_33_00_22675",
+        "size": "0_2_5_4_179400"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2024-11-17 13:00",
+      "matchId": "1277429",
+      "league": "J联赛",
+      "home": "京都",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2024-11-17 21:30",
+      "matchId": "1261406",
+      "league": "荷乙",
+      "home": "埃因FC",
+      "away": "马斯特里",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.640",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.700"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2024-11-17 22:00",
+      "matchId": "1250371",
+      "league": "欧国联",
+      "home": "拉脱维亚",
+      "away": "亚美尼亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.130",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:2",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2024-11-17 22:00",
+      "matchId": "1250372",
+      "league": "欧国联",
+      "home": "北马其顿",
+      "away": "法罗群岛",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2024-11-17 01:00",
+      "matchId": "1250317",
+      "league": "欧国联",
+      "home": "奥地利",
+      "away": "斯洛文尼",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.080",
+        "score_result": "1:1",
+        "score_odds": "9.250",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "3-1",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2024-11-17 01:00",
+      "matchId": "1250305",
+      "league": "欧国联",
+      "home": "英格兰",
+      "away": "爱尔兰",
+      "result": {
+        "half": "0-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.170",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.700",
+        "score_result": "5:0",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "9.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2024-11-17 01:00",
+      "matchId": "1250306",
+      "league": "欧国联",
+      "home": "芬兰",
+      "away": "希腊",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.220",
+        "score_result": "0:2",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.050"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2024-11-17 01:00",
+      "matchId": "1250318",
+      "league": "欧国联",
+      "home": "挪威",
+      "away": "哈萨克",
+      "result": {
+        "half": "3-0",
+        "full": "5-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.620",
+        "score_result": "5:0",
+        "score_odds": "10.000",
+        "goal_result": "5",
+        "goal_odds": "5.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.250"
+      }
+    },
+    {
+      "num": "周日009",
+      "match_time": "2024-11-17 03:45",
+      "matchId": "1250258",
+      "league": "欧国联",
+      "home": "意大利",
+      "away": "法国",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.710",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "1:3",
+        "score_odds": "25.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.750"
+      }
+    }
+  ]
+}

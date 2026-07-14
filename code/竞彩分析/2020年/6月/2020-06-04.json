@@ -1,0 +1,128 @@
+{
+  "time": "2020-06-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-0_8800",
+        "handicap": "0_0_357",
+        "halfFull": "31_11_14625",
+        "size": "2_0_4720"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-0_2-2_105600",
+        "handicap": "0_0_0_511",
+        "halfFull": "31_11_11_72393",
+        "size": "2_0_4_28320"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-2_6600",
+        "handicap": "0_0_224",
+        "halfFull": "31_11_7425",
+        "size": "2_4_1770"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-0_2-2_105600",
+        "handicap": "0_0_0_511",
+        "halfFull": "31_11_11_72393",
+        "size": "2_0_4_28320"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2020-06-04 01:00",
+      "matchId": "1094908",
+      "league": "葡超",
+      "home": "马里迪莫",
+      "away": "塞图巴尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.730",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2020-06-04 02:15",
+      "matchId": "1094906",
+      "league": "葡超",
+      "home": "本菲卡",
+      "away": "通德拉",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "6.300",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.280",
+        "score_result": "0:0",
+        "score_odds": "16.000",
+        "goal_result": "0",
+        "goal_odds": "16.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "9.750"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2020-06-04 04:15",
+      "matchId": "1094903",
+      "league": "葡超",
+      "home": "吉马良斯",
+      "away": "里斯本竞技",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.930",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.950"
+      }
+    }
+  ]
+}

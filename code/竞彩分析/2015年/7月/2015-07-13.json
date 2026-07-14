@@ -1,0 +1,236 @@
+{
+  "time": "2015-07-13",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_0-1_8400",
+        "handicap": "3_1_960",
+        "halfFull": "33_10_1127",
+        "size": "3_1_1552"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_0-1_1-3_176400",
+        "handicap": "3_1_0_4176",
+        "halfFull": "33_10_00_3495",
+        "size": "3_1_4_10867"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_0-1_1-3_1-0_1675800",
+        "handicap": "3_1_0_3_8226",
+        "halfFull": "33_10_00_33_26214",
+        "size": "3_1_4_1_37492"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_0_12422",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_0_0_22360",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-1_7350",
+        "handicap": "3_0_432",
+        "halfFull": "33_01_3690",
+        "size": "3_2_1069"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_0-1_2-2_1-1_999600",
+        "handicap": "3_1_0_0_2609",
+        "halfFull": "33_10_11_01_78135",
+        "size": "3_1_4_2_33689"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2015-07-13 01:00",
+      "matchId": "776994",
+      "league": "瑞典超",
+      "home": "哈马比",
+      "away": "法尔肯堡",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "3:0",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2015-07-13 01:05",
+      "matchId": "776990",
+      "league": "瑞典超",
+      "home": "赫尔辛堡",
+      "away": "佐加顿斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2015-07-13 05:00",
+      "matchId": "792027",
+      "league": "阿甲",
+      "home": "阿尔多西维",
+      "away": "罗萨里奥中央",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.350",
+        "score_result": "1:3",
+        "score_odds": "21.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2015-07-13 07:00",
+      "matchId": "796565",
+      "league": "金杯赛",
+      "home": "海地",
+      "away": "洪都拉斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.970",
+        "score_result": "1:0",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2015-07-13 08:10",
+      "matchId": "792028",
+      "league": "阿甲",
+      "home": "萨斯菲尔德",
+      "away": "老虎竞技",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2015-07-13 09:30",
+      "matchId": "796566",
+      "league": "金杯赛",
+      "home": "美国",
+      "away": "巴拿马",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "18.000"
+      }
+    }
+  ]
+}

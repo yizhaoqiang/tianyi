@@ -1,0 +1,354 @@
+{
+  "time": "2025-12-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-0_5184",
+        "handicap": "0_1_660",
+        "halfFull": "31_33_3487",
+        "size": "2_1_2010"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-0_0-1_69997",
+        "handicap": "0_1_1_2840",
+        "halfFull": "31_33_10_19181",
+        "size": "2_1_1_16080"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-0_0-1_1-2_472483",
+        "handicap": "0_1_1_1_8948",
+        "halfFull": "31_33_10_10_78643",
+        "size": "2_1_1_3_53064"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_1_0_14317",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_1_0_0_39802",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_1_0_0_0_62092",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_1_0_0_0_0_86308",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-0_6709",
+        "handicap": "0_3_895",
+        "halfFull": "31_33_5812",
+        "size": "2_2_1088"
+      },
+      "team": "001_017"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-0_1-2_2-0_484797",
+        "handicap": "0_1_0_3_4382",
+        "halfFull": "31_33_00_33_45773",
+        "size": "2_1_3_2_23843"
+      },
+      "team": "001_002_016_017"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2025-12-10 18:00",
+      "matchId": "1311630",
+      "league": "亚冠",
+      "home": "首尔FC",
+      "away": "墨尔本城",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.810",
+        "score_result": "1:1",
+        "score_odds": "6.100",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.500"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2025-12-10 20:15",
+      "matchId": "1312234",
+      "league": "亚协杯",
+      "home": "万隆",
+      "away": "曼谷联",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:0",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "6.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2025-12-10 20:15",
+      "matchId": "1312233",
+      "league": "亚协杯",
+      "home": "雪兰莪",
+      "away": "狮城水手",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.300",
+        "score_result": "0:1",
+        "score_odds": "13.500",
+        "goal_result": "1",
+        "goal_odds": "8.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2025-12-10 01:00",
+      "matchId": "1315733",
+      "league": "2024洲际杯",
+      "home": "蓝十字",
+      "away": "弗拉门戈",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "1:2",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2025-12-10 01:45",
+      "matchId": "1312514",
+      "league": "欧冠",
+      "home": "卡拉巴赫",
+      "away": "阿贾克斯",
+      "result": {
+        "half": "1-1",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "2:4",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2025-12-10 01:45",
+      "matchId": "1312515",
+      "league": "欧冠",
+      "home": "比利亚雷",
+      "away": "哥本哈根",
+      "result": {
+        "half": "0-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.780",
+        "score_result": "2:3",
+        "score_odds": "38.000",
+        "goal_result": "5",
+        "goal_odds": "6.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2025-12-10 03:45",
+      "matchId": "1299370",
+      "league": "英冠",
+      "home": "布城",
+      "away": "莱切斯特",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.020",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.750",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2025-12-10 03:45",
+      "matchId": "1299371",
+      "league": "英冠",
+      "home": "德比郡",
+      "away": "米尔沃尔",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.960",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.390",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周三016",
+      "match_time": "2025-12-10 04:00",
+      "matchId": "1312521",
+      "league": "欧冠",
+      "home": "皇马",
+      "away": "曼城",
+      "result": {
+        "half": "1-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.340",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周三017",
+      "match_time": "2025-12-10 04:00",
+      "matchId": "1299372",
+      "league": "英冠",
+      "home": "赫尔城",
+      "away": "雷克斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.260",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.950",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.750"
+      }
+    }
+  ]
+}

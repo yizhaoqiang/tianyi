@@ -1,0 +1,272 @@
+{
+  "time": "2024-01-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_4-1_11200",
+        "handicap": "3_3_660",
+        "halfFull": "33_33_355",
+        "size": "2_5_2512"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_4-1_1-0_100800",
+        "handicap": "3_3_3_1075",
+        "halfFull": "33_33_13_2486",
+        "size": "2_5_1_11306"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_4-1_1-0_1-1_725760",
+        "handicap": "3_3_3_3_1861",
+        "halfFull": "33_33_13_11_15542",
+        "size": "2_5_1_2_44659"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_4764",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_3_7003",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_3_3_3_3_13727",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_4-2_20300",
+        "handicap": "3_3_539",
+        "halfFull": "33_13_1041",
+        "size": "2_6_3685"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_4-1_3-3_4-2_12342400",
+        "handicap": "3_3_3_3_1901",
+        "halfFull": "33_33_31_13_21892",
+        "size": "2_5_6_6_331650"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2024-01-01 20:30",
+      "matchId": "1219690",
+      "league": "英冠",
+      "home": "桑德兰",
+      "away": "普雷斯顿",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.750",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2024-01-01 23:00",
+      "matchId": "1219683",
+      "league": "英冠",
+      "home": "莱切斯特",
+      "away": "哈德斯",
+      "result": {
+        "half": "1-0",
+        "full": "4-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "4:1",
+        "score_odds": "16.000",
+        "goal_result": "5",
+        "goal_odds": "7.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.450"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2024-01-01 23:00",
+      "matchId": "1219691",
+      "league": "英冠",
+      "home": "斯旺西",
+      "away": "西布罗姆",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.630",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2024-01-01 23:00",
+      "matchId": "1219685",
+      "league": "英冠",
+      "home": "诺维奇",
+      "away": "南安普敦",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.560",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.730",
+        "score_result": "1:1",
+        "score_odds": "7.200",
+        "goal_result": "2",
+        "goal_odds": "3.950",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2024-01-01 23:00",
+      "matchId": "1219682",
+      "league": "英冠",
+      "home": "利兹联",
+      "away": "伯明翰",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.560",
+        "score_result": "3:0",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.500"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2024-01-01 23:00",
+      "matchId": "1219686",
+      "league": "英冠",
+      "home": "普利茅斯",
+      "away": "沃特福德",
+      "result": {
+        "half": "3-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "3:3",
+        "score_odds": "38.000",
+        "goal_result": "6",
+        "goal_odds": "12.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.500"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2024-01-01 04:00",
+      "matchId": "1216663",
+      "league": "英超",
+      "home": "利物浦",
+      "away": "纽卡斯尔",
+      "result": {
+        "half": "0-0",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.960",
+        "score_result": "4:2",
+        "score_odds": "29.000",
+        "goal_result": "6",
+        "goal_odds": "11.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.250"
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "time": "2014-01-16",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-1_8400",
+        "handicap": "0_0_542",
+        "halfFull": "31_00_10850",
+        "size": "2_1_1624"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-1_0-2_60900",
+        "handicap": "0_0_0_770",
+        "halfFull": "31_00_00_15081",
+        "size": "2_1_2_7717"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-2_4350",
+        "handicap": "0_0_337",
+        "halfFull": "31_00_2154",
+        "size": "2_2_1591"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-1_0-2_60900",
+        "handicap": "0_0_0_770",
+        "halfFull": "31_00_00_15081",
+        "size": "2_1_2_7717"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2014-01-16 01:00",
+      "matchId": "664499",
+      "league": "葡联杯",
+      "home": "埃斯托里尔",
+      "away": "比兰尼塞斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.380",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.500"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2014-01-16 03:00",
+      "matchId": "668366",
+      "league": "国王杯",
+      "home": "比利亚雷亚尔",
+      "away": "皇家社会",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.280",
+        "score_result": "0:1",
+        "score_odds": "14.000",
+        "goal_result": "1",
+        "goal_odds": "4.850",
+        "half_full_result": "0-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2014-01-16 05:00",
+      "matchId": "667722",
+      "league": "国王杯",
+      "home": "赫塔费",
+      "away": "巴塞罗那",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.070",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.420",
+        "score_result": "0:2",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "4.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.390"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2012-09-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_7-1_155000",
+        "handicap": "0_3_313",
+        "halfFull": "00_33_698",
+        "size": "5_7+_42000"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_7-1_0-1_1085000",
+        "handicap": "0_3_0_956",
+        "halfFull": "00_33_00_3491",
+        "size": "5_7+_1_147000"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_7-1_0-1_1-0_7052500",
+        "handicap": "0_3_0_3_2486",
+        "halfFull": "00_33_00_33_15361",
+        "size": "5_7+_1_1_514500"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_5717",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_1_18583",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_1_3_63183",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_3_1_3_3_142161",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_0-2_21700",
+        "handicap": "0_0_292",
+        "halfFull": "00_00_456",
+        "size": "5_2_5040"
+      },
+      "team": "001_070"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_7-1_2-2_0-2_15190000",
+        "handicap": "0_3_1_0_1593",
+        "halfFull": "00_33_01_00_17875",
+        "size": "5_7+_4_2_1005480"
+      },
+      "team": "001_002_070_061"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2012-09-23 12:00",
+      "matchId": "199172",
+      "league": "J2联赛",
+      "home": "北九州向日葵",
+      "away": "甲府风林",
+      "result": {
+        "half": "0-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "2:3",
+        "score_odds": "31.000",
+        "goal_result": "5",
+        "goal_odds": "12.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2012-09-23 12:00",
+      "matchId": "199168",
+      "league": "J2联赛",
+      "home": "松本山雅",
+      "away": "鸟取希望",
+      "result": {
+        "half": "4-0",
+        "full": "7-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "胜其他",
+        "score_odds": "50.000",
+        "goal_result": "7+",
+        "goal_odds": "35.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2012-09-23 12:00",
+      "matchId": "199174",
+      "league": "J2联赛",
+      "home": "大分三神",
+      "away": "枥木SC",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.050",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2012-09-23 13:00",
+      "matchId": "199167",
+      "league": "J2联赛",
+      "home": "横滨FC",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.600",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2012-09-23 14:00",
+      "matchId": "199173",
+      "league": "J2联赛",
+      "home": "熊本深红",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.300",
+        "score_result": "3:1",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2012-09-23 15:00",
+      "matchId": "199165",
+      "league": "J2联赛",
+      "home": "千叶市原",
+      "away": "东京绿茵",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2012-09-23 15:00",
+      "matchId": "199164",
+      "league": "J2联赛",
+      "home": "草津温泉",
+      "away": "山形山神",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "3.400",
+        "score_result": "3:1",
+        "score_odds": "34.000",
+        "goal_result": "4",
+        "goal_odds": "6.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2012-09-23 17:00",
+      "matchId": "199166",
+      "league": "J2联赛",
+      "home": "町田泽维亚",
+      "away": "富山胜利",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "3:2",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "16.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周日070",
+      "match_time": "2012-09-23 07:30",
+      "matchId": "199972",
+      "league": "美职",
+      "home": "温哥华白帽",
+      "away": "科罗拉多急流",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周日061",
+      "match_time": "2012-09-23 01:45",
+      "matchId": "208771",
+      "league": "西甲",
+      "home": "巴列卡诺",
+      "away": "皇家马德里",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "0:2",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.600"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2017-08-16",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-1_7425",
+        "handicap": "0_0_352",
+        "halfFull": "00_00_4400",
+        "size": "1_1_1330"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_0-1_3-4_371250",
+        "handicap": "0_0_1_1392",
+        "halfFull": "00_00_00_14080",
+        "size": "1_1_7+_27929"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-1_3-4_0-1_2784375",
+        "handicap": "0_0_1_0_1948",
+        "halfFull": "00_00_00_10_77440",
+        "size": "1_1_7+_1_114512"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_3157",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_1_10735",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_1_3_15780",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_1_3_0_23355",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-3_18000",
+        "handicap": "0_1_653",
+        "halfFull": "00_30_16800",
+        "size": "1_5_3150"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-1_1-0_2-3_742500",
+        "handicap": "0_0_1_1_3605",
+        "halfFull": "00_00_33_30_231000",
+        "size": "1_1_1_5_43091"
+      },
+      "team": "001_002_026_027"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2017-08-16 18:00",
+      "matchId": "932918",
+      "league": "J2联赛",
+      "home": "福冈黄蜂",
+      "away": "长崎航海",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.630",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.980",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2017-08-16 18:00",
+      "matchId": "932915",
+      "league": "J2联赛",
+      "home": "冈山绿雉",
+      "away": "爱媛FC",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.780",
+        "score_result": "0:1",
+        "score_odds": "8.250",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2017-08-16 18:00",
+      "matchId": "932912",
+      "league": "J2联赛",
+      "home": "町田泽维亚",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "1-3",
+        "full": "3-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.020",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "负其他",
+        "score_odds": "50.000",
+        "goal_result": "7+",
+        "goal_odds": "21.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2017-08-16 18:00",
+      "matchId": "932911",
+      "league": "J2联赛",
+      "home": "千叶市原",
+      "away": "湘南海洋",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2017-08-16 18:00",
+      "matchId": "932917",
+      "league": "J2联赛",
+      "home": "赞岐釜玉海",
+      "away": "横滨FC",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.620",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2017-08-16 18:00",
+      "matchId": "932913",
+      "league": "J2联赛",
+      "home": "松本山雅",
+      "away": "山形山神",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "3:2",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "12.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2017-08-16 18:00",
+      "matchId": "932910",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "京都不死鸟",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.700",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "2:0",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2017-08-16 18:00",
+      "matchId": "932920",
+      "league": "J2联赛",
+      "home": "大分三神",
+      "away": "东京绿茵",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "0:2",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三026",
+      "match_time": "2017-08-16 08:45",
+      "matchId": "975903",
+      "league": "巴西杯",
+      "home": "格雷米奥",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.560",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周三027",
+      "match_time": "2017-08-16 09:30",
+      "matchId": "974725",
+      "league": "墨西哥杯",
+      "home": "野马UAEM",
+      "away": "墨西哥美洲",
+      "result": {
+        "half": "2-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:3",
+        "score_odds": "20.000",
+        "goal_result": "5",
+        "goal_odds": "9.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "21.000"
+      }
+    }
+  ]
+}

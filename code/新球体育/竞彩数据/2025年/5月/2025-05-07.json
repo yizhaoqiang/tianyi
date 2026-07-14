@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周三001",
+    "match_time": "2025-05-07 18:00",
+    "matchId": "2701722",
+    "league": "日职联",
+    "home": "湘南海洋",
+    "away": "广岛三箭",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.68",
+        "d": "3.15",
+        "l": "1.85"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.72",
+        "d": "3.30",
+        "l": "4.10"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.85",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.30",
+      "score_result": "0:1",
+      "score_odds": "6.00",
+      "goal_result": "1",
+      "goal_odds": "4.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.10"
+    }
+  },
+  {
+    "num": "周三002",
+    "match_time": "2025-05-08 03:00",
+    "matchId": "2766577",
+    "league": "欧冠杯",
+    "home": "巴黎圣日耳曼",
+    "away": "阿森纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.10",
+        "d": "3.50",
+        "l": "2.72"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.26",
+        "d": "3.88",
+        "l": "1.57"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.10",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.88",
+      "score_result": "2:1",
+      "score_odds": "7.75",
+      "goal_result": "3",
+      "goal_odds": "3.35",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.70"
+    }
+  }
+]

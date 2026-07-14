@@ -1,0 +1,79 @@
+{
+  "time": "2022-07-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-1_6800",
+        "handicap": "3_1_1194",
+        "halfFull": "01_33_8075",
+        "size": "2_3_1273"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-1_6800",
+        "handicap": "3_1_1194",
+        "halfFull": "01_33_8075",
+        "size": "2_3_1273"
+      },
+      "team": "001_002"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2022-07-15 01:00",
+      "matchId": "1178357",
+      "league": "俄超",
+      "home": "莫希姆基",
+      "away": "泽尼特",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.750",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.950",
+        "score_result": "1:1",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2022-07-15 02:30",
+      "matchId": "1174506",
+      "league": "德乙",
+      "home": "凯泽",
+      "away": "汉诺威96",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.340",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.250"
+      }
+    }
+  ]
+}

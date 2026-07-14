@@ -1,0 +1,315 @@
+{
+  "time": "2021-03-03",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_2-3_41800",
+        "handicap": "1_1_1311",
+        "halfFull": "03_00_6490",
+        "size": "5_5_6825"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_2-3_1-0_261250",
+        "handicap": "1_1_1_4667",
+        "halfFull": "03_00_13_30827",
+        "size": "5_5_1_29688"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_2-3_1-0_0-1_3657500",
+        "handicap": "1_1_1_0_11201",
+        "halfFull": "03_00_13_10_400757",
+        "size": "5_5_1_1_157350"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_0_1_42564",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_1-2_17575",
+        "handicap": "1_1_1481",
+        "halfFull": "03_10_12210",
+        "size": "5_3_3225"
+      },
+      "team": "001_030"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_2-3_0-0_1-2_5026450",
+        "handicap": "1_1_3_1_14827",
+        "halfFull": "03_00_11_10_252136",
+        "size": "5_5_0_3_381517"
+      },
+      "team": "001_002_029_030"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2021-03-03 17:00",
+      "matchId": "1125193",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "大阪樱花",
+      "result": {
+        "half": "1-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "3:2",
+        "score_odds": "19.000",
+        "goal_result": "5",
+        "goal_odds": "7.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2021-03-03 17:00",
+      "matchId": "1126924",
+      "league": "日联杯",
+      "home": "福冈黄蜂",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "1-3",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:3",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "9.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2021-03-03 17:00",
+      "matchId": "1126937",
+      "league": "日联杯",
+      "home": "东京FC",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.560",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "4.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2021-03-03 17:00",
+      "matchId": "1126949",
+      "league": "日联杯",
+      "home": "柏太阳神",
+      "away": "横滨FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "0:1",
+        "score_odds": "14.000",
+        "goal_result": "1",
+        "goal_odds": "5.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2021-03-03 17:00",
+      "matchId": "1126960",
+      "league": "日联杯",
+      "home": "横滨水手",
+      "away": "仙台七夕",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "7.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.100"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2021-03-03 18:00",
+      "matchId": "1125194",
+      "league": "J联赛",
+      "home": "名古屋鲸八",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "-1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2021-03-03 18:00",
+      "matchId": "1126925",
+      "league": "日联杯",
+      "home": "鹿岛鹿角",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.280",
+        "score_result": "3:0",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2021-03-03 18:00",
+      "matchId": "1126961",
+      "league": "日联杯",
+      "home": "广岛三箭",
+      "away": "清水鼓动",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.730",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.750"
+      }
+    },
+    {
+      "num": "周三029",
+      "match_time": "2021-03-03 04:15",
+      "matchId": "1110231",
+      "league": "英超",
+      "home": "水晶宫",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.900",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周三030",
+      "match_time": "2021-03-03 04:15",
+      "matchId": "1111452",
+      "league": "英冠",
+      "home": "斯托克城",
+      "away": "斯旺西",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.570",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "1:2",
+        "score_odds": "9.250",
+        "goal_result": "3",
+        "goal_odds": "4.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.550"
+      }
+    }
+  ]
+}

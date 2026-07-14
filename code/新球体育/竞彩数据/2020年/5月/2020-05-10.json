@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2020-05-10 13:00",
+    "matchId": "1831292",
+    "league": "韩K联",
+    "home": "浦项制铁",
+    "away": "釜山偶像",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.79",
+        "d": "3.10",
+        "l": "3.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.60",
+        "d": "3.38",
+        "l": "1.74"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.79",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.60",
+      "score_result": "2:0",
+      "score_odds": "8.00",
+      "goal_result": "2",
+      "goal_odds": "3.20",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.65"
+    }
+  },
+  {
+    "num": "周日002",
+    "match_time": "2020-05-10 15:30",
+    "matchId": "1831328",
+    "league": "韩K联",
+    "home": "江原FC",
+    "away": "FC首尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.61",
+        "d": "3.05",
+        "l": "2.31"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.44",
+        "d": "3.95",
+        "l": "5.00"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.61",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.44",
+      "score_result": "3:1",
+      "score_odds": "21.00",
+      "goal_result": "4",
+      "goal_odds": "4.95",
+      "half_full_result": "0-3",
+      "half_full_odds": "28.00"
+    }
+  }
+]

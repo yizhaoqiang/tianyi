@@ -1,0 +1,272 @@
+{
+  "time": "2012-09-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_2-2_34800",
+        "handicap": "3_1_1833",
+        "halfFull": "13_11_7800",
+        "size": "4_4_2115"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_2-2_1-2_452400",
+        "handicap": "3_1_0_9165",
+        "halfFull": "13_11_30_312000",
+        "size": "4_4_3_7825"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_2-2_1-2_1-2_3845400",
+        "handicap": "3_1_0_0_20163",
+        "halfFull": "13_11_30_00_1138800",
+        "size": "4_4_3_3_30519"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_40326",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_3_64521",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_3_0_316155",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_1-2_31900",
+        "handicap": "3_0_2303",
+        "halfFull": "13_10_11400",
+        "size": "4_3_1800"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_2-2_4-1_1-2_4210800",
+        "handicap": "3_1_3_0_14370",
+        "halfFull": "13_11_33_10_93366",
+        "size": "4_4_5_3_42300"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2012-09-27 22:00",
+      "matchId": "216448",
+      "league": "挪威杯",
+      "home": "赫德",
+      "away": "布兰",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.700",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "4.700",
+        "score_result": "3:1",
+        "score_odds": "29.000",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2012-09-27 23:59",
+      "matchId": "200709",
+      "league": "瑞典超",
+      "home": "赫根",
+      "away": "赫尔辛堡",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2012-09-27 02:05",
+      "matchId": "200705",
+      "league": "瑞典超",
+      "home": "马尔默",
+      "away": "IFK哥德堡",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.000",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "5.000",
+        "score_result": "1:2",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2012-09-27 02:15",
+      "matchId": "208472",
+      "league": "德乙",
+      "home": "波鸿",
+      "away": "凯泽斯劳滕",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.200",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2012-09-27 02:45",
+      "matchId": "213550",
+      "league": "意甲",
+      "home": "锡耶纳",
+      "away": "博洛尼亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.000",
+        "score_result": "1:0",
+        "score_odds": "5.700",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2012-09-27 02:45",
+      "matchId": "216432",
+      "league": "荷兰杯",
+      "home": "阿尔克马尔",
+      "away": "芬丹",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.600",
+        "score_result": "4:1",
+        "score_odds": "11.000",
+        "goal_result": "5",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.260"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2012-09-27 08:15",
+      "matchId": "216622",
+      "league": "南俱杯",
+      "home": "科隆竞技",
+      "away": "波特诺山丘",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.900",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "4.900",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.500"
+      }
+    }
+  ]
+}

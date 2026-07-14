@@ -1,0 +1,272 @@
+{
+  "time": "2020-07-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-0_8400",
+        "handicap": "3_3_512",
+        "halfFull": "11_33_1323",
+        "size": "2_3_1209"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_3-0_2-2_109200",
+        "handicap": "3_3_0_784",
+        "halfFull": "11_33_31_19845",
+        "size": "2_3_4_7495"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-0_2-2_0-0_955500",
+        "handicap": "3_3_0_0_1043",
+        "halfFull": "11_33_31_11_91287",
+        "size": "2_3_4_0_65588"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_6001",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_3_21964",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_3_0_70726",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-4_19200",
+        "handicap": "3_0_740",
+        "halfFull": "11_00_1856",
+        "size": "2_5_2632"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-0_5-2_1-4_30240000",
+        "handicap": "3_3_3_0_6044",
+        "halfFull": "11_33_13_00_18191",
+        "size": "2_3_7+_5_212179"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2020-07-27 17:30",
+      "matchId": "1098933",
+      "league": "澳超",
+      "home": "中央海岸水手",
+      "away": "西悉尼漫步者",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.300",
+        "score_result": "1:1",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.750"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2020-07-27 01:00",
+      "matchId": "1099032",
+      "league": "瑞典超",
+      "home": "哈马比",
+      "away": "厄勒布鲁",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.230",
+        "score_result": "3:0",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.960"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2020-07-27 01:00",
+      "matchId": "1099038",
+      "league": "瑞典超",
+      "home": "米亚尔比",
+      "away": "卡尔马",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.020",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "6.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2020-07-27 01:00",
+      "matchId": "1099031",
+      "league": "瑞典超",
+      "home": "厄斯特松德",
+      "away": "赫尔辛堡",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.330",
+        "score_result": "0:0",
+        "score_odds": "8.750",
+        "goal_result": "0",
+        "goal_odds": "8.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2020-07-27 02:45",
+      "matchId": "1100915",
+      "league": "英冠",
+      "home": "加的夫城",
+      "away": "富勒姆",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.750",
+        "score_result": "0:2",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.900"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2020-07-27 08:30",
+      "matchId": "1100920",
+      "league": "美职",
+      "home": "圣何塞地震",
+      "away": "皇家盐湖城",
+      "result": {
+        "half": "1-1",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.660",
+        "score_result": "5:2",
+        "score_odds": "150.000",
+        "goal_result": "7+",
+        "goal_odds": "26.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2020-07-27 11:00",
+      "matchId": "1100928",
+      "league": "美职",
+      "home": "西雅图海湾人",
+      "away": "洛杉矶FC",
+      "result": {
+        "half": "0-2",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.220",
+        "score_result": "1:4",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "6.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.750"
+      }
+    }
+  ]
+}

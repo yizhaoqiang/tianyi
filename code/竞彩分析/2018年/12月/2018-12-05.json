@@ -1,0 +1,354 @@
+{
+  "time": "2018-12-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_0-1_17600",
+        "handicap": "1_0_531",
+        "halfFull": "33_00_1264",
+        "size": "5_1_4515"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_0-1_1-2_211200",
+        "handicap": "1_0_0_966",
+        "halfFull": "33_00_10_10752",
+        "size": "5_1_3_16028"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_0-1_1-2_2-2_4857600",
+        "handicap": "1_0_0_0_3384",
+        "halfFull": "33_00_10_11_68278",
+        "size": "5_1_3_4_86552"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_0_6734",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_0_1_22898",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_0_1_0_48774",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_0_1_0_1_165832",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_1-0_12319",
+        "handicap": "1_1_1224",
+        "halfFull": "33_33_838",
+        "size": "5_1_3569"
+      },
+      "team": "001_036"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_0-1_1-1_1-0_492800",
+        "handicap": "1_0_0_1_2772",
+        "halfFull": "33_00_11_33_13889",
+        "size": "5_1_2_1_45285"
+      },
+      "team": "001_002_032_036"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2018-12-05 18:00",
+      "matchId": "1048295",
+      "league": "天皇杯",
+      "home": "仙台七夕",
+      "away": "山形山神",
+      "result": {
+        "half": "3-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "3:2",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2018-12-05 18:00",
+      "matchId": "1048294",
+      "league": "天皇杯",
+      "home": "鹿岛鹿角",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "4.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2018-12-05 18:30",
+      "matchId": "1048388",
+      "league": "韩足总杯",
+      "home": "蔚山现代",
+      "away": "大邱FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.820",
+        "score_result": "1:2",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2018-12-05 20:00",
+      "matchId": "1048450",
+      "league": "东南锦",
+      "home": "泰国",
+      "away": "马来西亚",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.500",
+        "score_result": "2:2",
+        "score_odds": "23.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.350"
+      }
+    },
+    {
+      "num": "周三033",
+      "match_time": "2018-12-05 00:30",
+      "matchId": "1047776",
+      "league": "俄罗斯杯",
+      "home": "克拉斯诺达尔",
+      "away": "罗斯托夫",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.990",
+        "score_result": "2:2",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三034",
+      "match_time": "2018-12-05 00:30",
+      "matchId": "1047774",
+      "league": "俄罗斯杯",
+      "home": "莫斯科火车头",
+      "away": "喀山红宝石",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.920",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:0",
+        "score_odds": "4.500",
+        "goal_result": "1",
+        "goal_odds": "3.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.050"
+      }
+    },
+    {
+      "num": "周三035",
+      "match_time": "2018-12-05 00:30",
+      "matchId": "1047777",
+      "league": "俄罗斯杯",
+      "home": "莫斯科斯巴达",
+      "away": "乌拉尔",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.130",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2018-12-05 01:00",
+      "matchId": "1048601",
+      "league": "挪超",
+      "home": "斯塔贝克",
+      "away": "奥勒松",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周三032",
+      "match_time": "2018-12-05 08:45",
+      "matchId": "1048635",
+      "league": "南俱杯",
+      "home": "巴兰基亚青年",
+      "away": "巴拉纳竞技",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "1:1",
+        "score_odds": "5.000",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周三036",
+      "match_time": "2018-12-05 10:06",
+      "matchId": "1048664",
+      "league": "墨联",
+      "home": "蒙特雷",
+      "away": "蓝十字",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "5.600",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.050"
+      }
+    }
+  ]
+}

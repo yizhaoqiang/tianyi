@@ -1,0 +1,354 @@
+{
+  "time": "2020-09-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_0-0_19000",
+        "handicap": "0_0_409",
+        "halfFull": "00_11_1575",
+        "size": "4_0_7980"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-3_0-0_0-1_399000",
+        "handicap": "0_0_0_1056",
+        "halfFull": "00_11_10_23625",
+        "size": "4_0_1_71820"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_0-0_0-1_1-0_2354100",
+        "handicap": "0_0_0_1_3485",
+        "halfFull": "00_11_10_33_64968",
+        "size": "4_0_1_1_294461"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_3_8365",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_3_3_14137",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_3_3_0_27568",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_1_3_3_0_1_110274",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_2-0_11500",
+        "handicap": "0_3_310",
+        "halfFull": "00_13_1260",
+        "size": "4_2_1323"
+      },
+      "team": "001_011"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_0-0_1-2_2-0_1693375",
+        "handicap": "0_0_1_3_2100",
+        "halfFull": "00_11_10_13_43659",
+        "size": "4_0_3_2_93006"
+      },
+      "team": "001_002_011_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2020-09-11 00:45",
+      "matchId": "1102602",
+      "league": "荷乙",
+      "home": "多德勒支",
+      "away": "SBV精英",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "1:3",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2020-09-11 00:45",
+      "matchId": "1102603",
+      "league": "荷乙",
+      "home": "埃因霍温FC",
+      "away": "海尔蒙特",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.780",
+        "score_result": "0:0",
+        "score_odds": "19.000",
+        "goal_result": "0",
+        "goal_odds": "19.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2020-09-11 00:45",
+      "matchId": "1102601",
+      "league": "荷乙",
+      "home": "福伦丹",
+      "away": "乌德勒支青年队",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.580",
+        "score_result": "0:1",
+        "score_odds": "21.000",
+        "goal_result": "1",
+        "goal_odds": "9.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2020-09-11 02:45",
+      "matchId": "1111055",
+      "league": "英冠",
+      "home": "沃特福德",
+      "away": "米德尔斯堡",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.770",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "5.900",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2020-09-11 02:45",
+      "matchId": "1102538",
+      "league": "德国杯",
+      "home": "不伦瑞克",
+      "away": "柏林赫塔",
+      "result": {
+        "half": "3-2",
+        "full": "5-4",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "胜其他",
+        "score_odds": "150.000",
+        "goal_result": "7+",
+        "goal_odds": "28.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "9.500"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2020-09-11 02:45",
+      "matchId": "1106392",
+      "league": "比甲",
+      "home": "欧本",
+      "away": "根特",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.690",
+        "score_result": "2:1",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2020-09-11 03:00",
+      "matchId": "1102604",
+      "league": "荷乙",
+      "home": "阿尔克马尔青年队",
+      "away": "埃因霍温青年队",
+      "result": {
+        "half": "1-1",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "1:4",
+        "score_odds": "60.000",
+        "goal_result": "5",
+        "goal_odds": "5.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周五009",
+      "match_time": "2020-09-11 03:00",
+      "matchId": "1102605",
+      "league": "荷乙",
+      "home": "奈梅亨",
+      "away": "阿贾克斯青年队",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周五011",
+      "match_time": "2020-09-11 08:30",
+      "matchId": "1100783",
+      "league": "墨联",
+      "home": "内卡萨",
+      "away": "瓜达拉哈拉",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.240",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:2",
+        "score_odds": "7.750",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.950"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2020-09-11 00:30",
+      "matchId": "1114537",
+      "league": "西甲",
+      "home": "格拉纳达CF",
+      "away": "毕尔巴鄂竞技",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.350",
+        "score_result": "2:0",
+        "score_odds": "11.500",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.600"
+      }
+    }
+  ]
+}

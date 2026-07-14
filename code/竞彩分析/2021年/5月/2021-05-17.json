@@ -1,0 +1,308 @@
+{
+  "time": "2021-05-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_3-1_41800",
+        "handicap": "0_3_433",
+        "halfFull": "30_33_8064",
+        "size": "5_4_5059"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_3-1_1-1_238260",
+        "handicap": "0_3_3_641",
+        "halfFull": "30_33_11_37900",
+        "size": "5_4_2_16191"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_3-1_1-1_1-2_1667820",
+        "handicap": "0_3_3_1_1848",
+        "halfFull": "30_33_11_00_84139",
+        "size": "5_4_2_3_60719"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_3493",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_3_6043",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_3_1_23568",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_3_1_0_36060",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_0-1_26600",
+        "handicap": "0_0_302",
+        "halfFull": "30_00_24360",
+        "size": "5_1_3740"
+      },
+      "team": "001_008"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_3-1_1-0_0-1_1989680",
+        "handicap": "0_3_1_0_2587",
+        "halfFull": "30_33_13_00_238533",
+        "size": "5_4_1_1_65375"
+      },
+      "team": "001_002_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2021-05-17 00:30",
+      "matchId": "1124325",
+      "league": "瑞典超",
+      "home": "埃尔夫斯堡",
+      "away": "哈尔姆斯塔德",
+      "result": {
+        "half": "2-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.980",
+        "score_result": "2:3",
+        "score_odds": "38.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "42.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2021-05-17 00:30",
+      "matchId": "1124327",
+      "league": "瑞典超",
+      "home": "马尔默",
+      "away": "卡尔马",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.190",
+        "score_result": "3:1",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.920"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2021-05-17 00:30",
+      "matchId": "1124328",
+      "league": "瑞典超",
+      "home": "米亚尔比",
+      "away": "赫根",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.920",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2021-05-17 00:30",
+      "matchId": "1124330",
+      "league": "瑞典超",
+      "home": "厄斯特松德",
+      "away": "AIK索尔纳",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "2.880",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.220"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2021-05-17 00:30",
+      "matchId": "1124326",
+      "league": "瑞典超",
+      "home": "IFK哥德堡",
+      "away": "天狼星",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.890",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.600",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2021-05-17 00:30",
+      "matchId": "1124329",
+      "league": "瑞典超",
+      "home": "瓦尔贝里",
+      "away": "北雪平",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.730",
+        "score_result": "2:1",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.550"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2021-05-17 01:00",
+      "matchId": "1134137",
+      "league": "英冠",
+      "home": "伯恩茅斯",
+      "away": "布伦特福德",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "1:0",
+        "score_odds": "6.800",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2021-05-17 03:15",
+      "matchId": "1134138",
+      "league": "英冠",
+      "home": "巴恩斯利",
+      "away": "斯旺西",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.800"
+      }
+    }
+  ]
+}

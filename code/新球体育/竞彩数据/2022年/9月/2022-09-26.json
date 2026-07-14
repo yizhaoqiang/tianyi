@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2022-09-27 02:45",
+    "matchId": "2202584",
+    "league": "欧国联",
+    "home": "匈牙利",
+    "away": "意大利",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.95",
+        "d": "3.10",
+        "l": "1.78"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.76",
+        "d": "3.40",
+        "l": "3.65"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.78",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.65",
+      "score_result": "0:2",
+      "score_odds": "7.20",
+      "goal_result": "2",
+      "goal_odds": "2.95",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.90"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2022-09-27 02:45",
+    "matchId": "2202583",
+    "league": "欧国联",
+    "home": "英格兰",
+    "away": "德国",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.35",
+        "d": "2.95",
+        "l": "2.68"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.10",
+        "d": "4.15",
+        "l": "1.43"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "3-3",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.95",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.43",
+      "score_result": "3:3",
+      "score_odds": "40.00",
+      "goal_result": "6",
+      "goal_odds": "25.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.70"
+    }
+  }
+]

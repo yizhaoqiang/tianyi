@@ -1,0 +1,272 @@
+{
+  "time": "2021-04-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-5_14000",
+        "handicap": "0_1_975",
+        "halfFull": "10_10_4410",
+        "size": "3_7+_3036"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_3-5_5-1_490000",
+        "handicap": "0_1_3_2146",
+        "halfFull": "10_10_03_79380",
+        "size": "3_7+_6_31878"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-5_5-1_2-1_4777500",
+        "handicap": "0_1_3_3_3649",
+        "halfFull": "10_10_03_03_2222640",
+        "size": "3_7+_6_3_105197"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_11386",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_3_43837",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_3_3_273985",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-0_36400",
+        "handicap": "0_3_1487",
+        "halfFull": "10_33_4515",
+        "size": "3_3_1328"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-5_3-1_3-0_6188000",
+        "handicap": "0_1_3_3_23480",
+        "halfFull": "10_10_33_33_58785",
+        "size": "3_7+_4_3_84742"
+      },
+      "team": "001_004_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2021-04-09 00:30",
+      "matchId": "1107570",
+      "league": "德乙",
+      "home": "汉堡",
+      "away": "达姆施塔特",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.380",
+        "score_result": "1:2",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2021-04-09 02:00",
+      "matchId": "1102903",
+      "league": "荷乙",
+      "home": "登博思",
+      "away": "坎布尔",
+      "result": {
+        "half": "2-2",
+        "full": "3-5",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "负其他",
+        "score_odds": "10.000",
+        "goal_result": "7+",
+        "goal_odds": "8.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2021-04-09 02:00",
+      "matchId": "1102898",
+      "league": "荷乙",
+      "home": "福伦丹",
+      "away": "海尔蒙特",
+      "result": {
+        "half": "0-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.200",
+        "score_result": "5:1",
+        "score_odds": "35.000",
+        "goal_result": "6",
+        "goal_odds": "10.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2021-04-09 02:00",
+      "matchId": "1102901",
+      "league": "荷乙",
+      "home": "SBV精英",
+      "away": "奈梅亨",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.070",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.700",
+        "score_result": "2:1",
+        "score_odds": "9.750",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "0-3",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2021-04-09 02:45",
+      "matchId": "1111535",
+      "league": "英冠",
+      "home": "沃特福德",
+      "away": "雷丁",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.560",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.120",
+        "score_result": "2:0",
+        "score_odds": "6.700",
+        "goal_result": "2",
+        "goal_odds": "2.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2021-04-09 03:00",
+      "matchId": "1114827",
+      "league": "西甲",
+      "home": "韦斯卡",
+      "away": "埃尔切",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.850",
+        "score_result": "3:1",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "7.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周五009",
+      "match_time": "2021-04-09 03:00",
+      "matchId": "1114368",
+      "league": "葡超",
+      "home": "波尔蒂芒尼斯",
+      "away": "吉马良斯",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.440",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "6.250",
+        "score_result": "3:0",
+        "score_odds": "26.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

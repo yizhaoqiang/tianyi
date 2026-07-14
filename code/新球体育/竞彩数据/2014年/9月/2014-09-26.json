@@ -1,0 +1,974 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2014-09-26 15:00",
+    "matchId": "1060100",
+    "league": "亚运男足",
+    "home": "伊拉克U23",
+    "away": "塔吉克斯坦U23",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.07",
+        "d": "7.45",
+        "l": "18.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.39",
+        "d": "4.30",
+        "l": "5.65"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "4-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.07",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.39",
+      "score_result": "4:2",
+      "score_odds": "30.00",
+      "goal_result": "6",
+      "goal_odds": "10.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "3.50"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2014-09-26 15:00",
+    "matchId": "1060101",
+    "league": "亚运男足",
+    "home": "越南U23",
+    "away": "阿联酋U23",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.90",
+        "d": "3.40",
+        "l": "1.75"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.83",
+        "d": "3.55",
+        "l": "3.35"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.75",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.35",
+      "score_result": "1:3",
+      "score_odds": "14.00",
+      "goal_result": "4",
+      "goal_odds": "5.70",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.65"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2014-09-26 15:00",
+    "matchId": "1060206",
+    "league": "亚运女足",
+    "home": "朝鲜女足",
+    "away": "中国女足",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.95",
+        "d": "3.10",
+        "l": "3.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.10",
+        "d": "3.60",
+        "l": "1.65"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.95",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "1:0",
+      "score_odds": "5.10",
+      "goal_result": "1",
+      "goal_odds": "3.20",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.60"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2014-09-26 15:00",
+    "matchId": "1060207",
+    "league": "亚运女足",
+    "home": "泰国女足",
+    "away": "越南女足",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.55",
+        "d": "3.90",
+        "l": "4.55"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.65",
+        "d": "3.60",
+        "l": "2.12"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "4.55",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.12",
+      "score_result": "1:2",
+      "score_odds": "13.00",
+      "goal_result": "3",
+      "goal_odds": "3.65",
+      "half_full_result": "1-0",
+      "half_full_odds": "9.50"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2014-09-26 19:00",
+    "matchId": "1060102",
+    "league": "亚运男足",
+    "home": "乌兹别克斯坦U23",
+    "away": "沙特阿拉伯U23",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.10",
+        "d": "3.10",
+        "l": "3.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.50",
+        "d": "3.75",
+        "l": "1.56"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.10",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.56",
+      "score_result": "2:3",
+      "score_odds": "29.00",
+      "goal_result": "5",
+      "goal_odds": "12.00",
+      "half_full_result": "1-0",
+      "half_full_odds": "6.20"
+    }
+  },
+  {
+    "num": "周五006",
+    "match_time": "2014-09-26 19:00",
+    "matchId": "1060103",
+    "league": "亚运男足",
+    "home": "朝鲜U23",
+    "away": "印度尼西亚U23",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.02",
+        "d": "9.25",
+        "l": "27.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.26",
+        "d": "5.00",
+        "l": "7.50"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "4-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.02",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.26",
+      "score_result": "4:1",
+      "score_odds": "11.50",
+      "goal_result": "5",
+      "goal_odds": "5.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.26"
+    }
+  },
+  {
+    "num": "周五007",
+    "match_time": "2014-09-26 19:00",
+    "matchId": "1060449",
+    "league": "亚运女足",
+    "home": "韩国女足",
+    "away": "中国台湾女足",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.77",
+        "d": "5.15",
+        "l": "2.70"
+      },
+      "handicap": {
+        "line": "-4",
+        "w": "1.77",
+        "d": "5.15",
+        "l": "2.70"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-4",
+      "handicap_result": "0",
+      "handicap_odds": "2.70",
+      "score_result": "1:0",
+      "score_odds": "31.00",
+      "goal_result": "1",
+      "goal_odds": "30.00",
+      "half_full_result": "1-3",
+      "half_full_odds": ""
+    }
+  },
+  {
+    "num": "周五008",
+    "match_time": "2014-09-27 00:30",
+    "matchId": "996677",
+    "league": "德乙",
+    "home": "布伦瑞克",
+    "away": "桑德豪森",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.58",
+        "d": "3.50",
+        "l": "4.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.90",
+        "d": "3.35",
+        "l": "2.06"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.58",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.35",
+      "score_result": "2:1",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.80",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.25"
+    }
+  },
+  {
+    "num": "周五009",
+    "match_time": "2014-09-27 00:30",
+    "matchId": "996683",
+    "league": "德乙",
+    "home": "奥厄",
+    "away": "亚伦",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.28",
+        "d": "3.10",
+        "l": "2.75"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.05",
+        "d": "4.00",
+        "l": "1.47"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.28",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "4.00",
+      "score_result": "1:0",
+      "score_odds": "6.00",
+      "goal_result": "1",
+      "goal_odds": "3.75",
+      "half_full_result": "1-3",
+      "half_full_odds": "5.30"
+    }
+  },
+  {
+    "num": "周五010",
+    "match_time": "2014-09-27 00:30",
+    "matchId": "996680",
+    "league": "德乙",
+    "home": "慕尼黑1860",
+    "away": "菲尔特",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.85",
+        "d": "3.20",
+        "l": "2.17"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.52",
+        "d": "4.00",
+        "l": "4.55"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.85",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.52",
+      "score_result": "2:0",
+      "score_odds": "13.00",
+      "goal_result": "2",
+      "goal_odds": "3.15",
+      "half_full_result": "3-3",
+      "half_full_odds": "4.35"
+    }
+  },
+  {
+    "num": "周五011",
+    "match_time": "2014-09-27 01:00",
+    "matchId": "958581",
+    "league": "挪超",
+    "home": "桑德尼斯",
+    "away": "瓦勒伦加",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.05",
+        "d": "3.85",
+        "l": "1.87"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.72",
+        "d": "4.00",
+        "l": "3.35"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.72",
+      "score_result": "2:1",
+      "score_odds": "9.00",
+      "goal_result": "3",
+      "goal_odds": "3.45",
+      "half_full_result": "1-3",
+      "half_full_odds": "6.75"
+    }
+  },
+  {
+    "num": "周五012",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "990870",
+    "league": "法乙",
+    "home": "勒阿弗尔",
+    "away": "第戎",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.26",
+        "d": "2.80",
+        "l": "3.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.25",
+        "d": "3.75",
+        "l": "1.49"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.26",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.75",
+      "score_result": "1:0",
+      "score_odds": "5.60",
+      "goal_result": "1",
+      "goal_odds": "3.45",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.95"
+    }
+  },
+  {
+    "num": "周五013",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "990865",
+    "league": "法乙",
+    "home": "欧塞尔",
+    "away": "阿尔勒",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.83",
+        "d": "2.90",
+        "l": "4.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.80",
+        "d": "3.40",
+        "l": "1.75"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.83",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.40",
+      "score_result": "2:1",
+      "score_odds": "7.50",
+      "goal_result": "3",
+      "goal_odds": "4.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.50"
+    }
+  },
+  {
+    "num": "周五014",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "990868",
+    "league": "法乙",
+    "home": "GFC阿雅克肖",
+    "away": "尼姆",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.83",
+        "d": "2.95",
+        "l": "4.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.75",
+        "d": "3.45",
+        "l": "1.75"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.83",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.75",
+      "score_result": "2:0",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.05"
+    }
+  },
+  {
+    "num": "周五015",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "990872",
+    "league": "法乙",
+    "home": "尼奥特",
+    "away": "昂热",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.95",
+        "d": "2.85",
+        "l": "3.85"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.30",
+        "d": "3.45",
+        "l": "1.65"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.95",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.45",
+      "score_result": "2:1",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "4.00",
+      "half_full_result": "0-3",
+      "half_full_odds": "29.00"
+    }
+  },
+  {
+    "num": "周五016",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "990869",
+    "league": "法乙",
+    "home": "拉瓦勒",
+    "away": "南锡",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.20",
+        "d": "2.90",
+        "l": "3.08"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.85",
+        "d": "3.85",
+        "l": "1.51"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.51",
+      "score_result": "1:1",
+      "score_odds": "5.20",
+      "goal_result": "2",
+      "goal_odds": "3.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.10"
+    }
+  },
+  {
+    "num": "周五017",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "990873",
+    "league": "法乙",
+    "home": "图尔",
+    "away": "索肖",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.02",
+        "d": "2.90",
+        "l": "3.55"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.40",
+        "d": "3.60",
+        "l": "1.61"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.55",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.61",
+      "score_result": "0:1",
+      "score_odds": "8.00",
+      "goal_result": "1",
+      "goal_odds": "3.65",
+      "half_full_result": "1-0",
+      "half_full_odds": "6.50"
+    }
+  },
+  {
+    "num": "周五018",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "990867",
+    "league": "法乙",
+    "home": "基迪尔",
+    "away": "阿雅克肖",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.85",
+        "d": "2.95",
+        "l": "4.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.85",
+        "d": "3.45",
+        "l": "1.73"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.85",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.45",
+      "score_result": "3:2",
+      "score_odds": "28.00",
+      "goal_result": "5",
+      "goal_odds": "13.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.05"
+    }
+  },
+  {
+    "num": "周五019",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "990874",
+    "league": "法乙",
+    "home": "瓦朗谢纳",
+    "away": "奥兰斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.14",
+        "d": "2.85",
+        "l": "3.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.80",
+        "d": "3.70",
+        "l": "1.54"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.14",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.80",
+      "score_result": "2:0",
+      "score_odds": "8.50",
+      "goal_result": "2",
+      "goal_odds": "3.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "5.00"
+    }
+  },
+  {
+    "num": "周五020",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "990871",
+    "league": "法乙",
+    "home": "沙托鲁",
+    "away": "布雷斯特",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.40",
+        "d": "2.75",
+        "l": "2.15"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.54",
+        "d": "3.70",
+        "l": "4.80"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.75",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.54",
+      "score_result": "1:1",
+      "score_odds": "5.00",
+      "goal_result": "2",
+      "goal_odds": "2.95",
+      "half_full_result": "1-1",
+      "half_full_odds": "3.75"
+    }
+  },
+  {
+    "num": "周五021",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "994233",
+    "league": "荷乙",
+    "home": "FC埃因霍温",
+    "away": "芬洛",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.49",
+        "d": "4.10",
+        "l": "4.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.48",
+        "d": "3.60",
+        "l": "2.23"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.49",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "1:0",
+      "score_odds": "8.50",
+      "goal_result": "1",
+      "goal_odds": "6.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.15"
+    }
+  },
+  {
+    "num": "周五022",
+    "match_time": "2014-09-27 02:00",
+    "matchId": "994234",
+    "league": "荷乙",
+    "home": "埃门",
+    "away": "阿贾克斯青年队",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.85",
+        "d": "3.75",
+        "l": "3.15"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.45",
+        "d": "3.85",
+        "l": "1.73"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.75",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.73",
+      "score_result": "2:2",
+      "score_odds": "10.50",
+      "goal_result": "4",
+      "goal_odds": "4.40",
+      "half_full_result": "0-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周五023",
+    "match_time": "2014-09-27 02:30",
+    "matchId": "991214",
+    "league": "德甲",
+    "home": "美因茨",
+    "away": "霍芬海姆",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.15",
+        "d": "3.50",
+        "l": "2.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.40",
+        "d": "4.05",
+        "l": "1.53"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.50",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.53",
+      "score_result": "0:0",
+      "score_odds": "14.00",
+      "goal_result": "0",
+      "goal_odds": "14.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.60"
+    }
+  },
+  {
+    "num": "周五024",
+    "match_time": "2014-09-27 03:00",
+    "matchId": "1016583",
+    "league": "西甲",
+    "home": "埃尔切",
+    "away": "塞尔塔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.96",
+        "d": "3.15",
+        "l": "2.13"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.54",
+        "d": "3.65",
+        "l": "4.85"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.13",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.65",
+      "score_result": "0:1",
+      "score_odds": "6.00",
+      "goal_result": "1",
+      "goal_odds": "3.45",
+      "half_full_result": "1-0",
+      "half_full_odds": "4.50"
+    }
+  },
+  {
+    "num": "周五025",
+    "match_time": "2014-09-27 03:30",
+    "matchId": "1007430",
+    "league": "葡超",
+    "home": "葡萄牙体育",
+    "away": "波尔图",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.90",
+        "d": "3.05",
+        "l": "2.22"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.50",
+        "d": "3.90",
+        "l": "4.85"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.50",
+      "score_result": "1:1",
+      "score_odds": "5.10",
+      "goal_result": "2",
+      "goal_odds": "3.20",
+      "half_full_result": "3-1",
+      "half_full_odds": "14.00"
+    }
+  },
+  {
+    "num": "周五026",
+    "match_time": "2014-09-27 04:30",
+    "matchId": "999945",
+    "league": "阿甲",
+    "home": "拉普拉塔大学生",
+    "away": "萨斯菲尔德",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.05",
+        "d": "2.90",
+        "l": "3.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.60",
+        "d": "3.55",
+        "l": "1.59"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.05",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.55",
+      "score_result": "3:2",
+      "score_odds": "33.00",
+      "goal_result": "5",
+      "goal_odds": "16.00",
+      "half_full_result": "0-3",
+      "half_full_odds": "29.00"
+    }
+  },
+  {
+    "num": "周五027",
+    "match_time": "2014-09-27 08:25",
+    "matchId": "942894",
+    "league": "美职业",
+    "home": "堪萨斯城竞技",
+    "away": "新英格兰革命",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.67",
+        "d": "3.55",
+        "l": "4.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.10",
+        "d": "3.50",
+        "l": "1.92"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "4.10",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.92",
+      "score_result": "2:3",
+      "score_odds": "29.00",
+      "goal_result": "5",
+      "goal_odds": "8.50",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.80"
+    }
+  }
+]

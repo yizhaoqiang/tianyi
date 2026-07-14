@@ -1,0 +1,354 @@
+{
+  "time": "2012-10-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-0_9100",
+        "handicap": "1_3_1095",
+        "halfFull": "31_33_9360",
+        "size": "2_2_1056"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_2-0_0-0_72800",
+        "handicap": "1_3_1_3394",
+        "halfFull": "31_33_11_38376",
+        "size": "2_2_0_8448"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_2-0_0-0_1-2_728000",
+        "handicap": "1_3_1_0_11201",
+        "halfFull": "31_33_11_10_295495",
+        "size": "2_2_0_3_33792"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_3_20835",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_3_1_72924",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_3_1_0_291696",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_3_1_0_0_1910609",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-1_4225",
+        "handicap": "1_1_1314",
+        "halfFull": "31_11_9900",
+        "size": "2_2_1088"
+      },
+      "team": "001_023"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_2-0_2-1_1-1_443625",
+        "handicap": "1_3_3_1_5282",
+        "halfFull": "31_33_03_11_1132560",
+        "size": "2_2_3_2_12893"
+      },
+      "team": "001_002_022_023"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2012-10-14 12:00",
+      "matchId": "216678",
+      "league": "澳A联",
+      "home": "墨尔本红心",
+      "away": "惠灵顿凤凰",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2012-10-14 12:00",
+      "matchId": "199204",
+      "league": "J2联赛",
+      "home": "冈山绿雉",
+      "away": "东京绿茵",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "3.000",
+        "score_result": "2:0",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2012-10-14 12:00",
+      "matchId": "199197",
+      "league": "J2联赛",
+      "home": "草津温泉",
+      "away": "水户蜀葵",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2012-10-14 12:00",
+      "matchId": "199199",
+      "league": "J2联赛",
+      "home": "横滨FC",
+      "away": "北九州向日葵",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.300",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.700"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2012-10-14 14:00",
+      "matchId": "216679",
+      "league": "澳A联",
+      "home": "中央海岸水手",
+      "away": "珀斯光荣",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.860",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2012-10-14 14:00",
+      "matchId": "199200",
+      "league": "J2联赛",
+      "home": "甲府风林",
+      "away": "湘南海洋",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2012-10-14 15:00",
+      "matchId": "199198",
+      "league": "J2联赛",
+      "home": "千叶市原",
+      "away": "大分三神",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.000",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "4.000",
+        "score_result": "1:2",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2012-10-14 15:00",
+      "matchId": "199203",
+      "league": "J2联赛",
+      "home": "京都不死鸟",
+      "away": "富山胜利",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.550",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "6.550",
+        "score_result": "0:1",
+        "score_odds": "14.000",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周日022",
+      "match_time": "2012-10-14 05:30",
+      "matchId": "202845",
+      "league": "巴西甲",
+      "home": "弗鲁米嫩塞",
+      "away": "庞特普雷塔",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.340",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-3",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周日023",
+      "match_time": "2012-10-14 05:30",
+      "matchId": "202848",
+      "league": "巴西甲",
+      "home": "格雷米奥",
+      "away": "博塔弗戈",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    }
+  ]
+}

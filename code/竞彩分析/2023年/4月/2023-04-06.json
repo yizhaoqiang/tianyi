@@ -1,0 +1,128 @@
+{
+  "time": "2023-04-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-1_12750",
+        "handicap": "1_0_971",
+        "halfFull": "10_00_6525",
+        "size": "3_1_1655"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_0-1_1-1_73312",
+        "handicap": "1_0_0_1408",
+        "halfFull": "10_00_11_30667",
+        "size": "3_1_2_4967"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_4312",
+        "handicap": "1_0_485",
+        "halfFull": "10_11_2044",
+        "size": "3_2_1080"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_0-1_1-1_73312",
+        "handicap": "1_0_0_1408",
+        "halfFull": "10_00_11_30667",
+        "size": "3_1_2_4967"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2023-04-06 02:45",
+      "matchId": "1211095",
+      "league": "法国杯",
+      "home": "阿纳西",
+      "away": "图卢兹",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.350"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2023-04-06 06:00",
+      "matchId": "1212465",
+      "league": "解放者杯",
+      "home": "米竞技",
+      "away": "亚自由",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "8.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.900",
+        "score_result": "0:1",
+        "score_odds": "17.000",
+        "goal_result": "1",
+        "goal_odds": "4.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2023-04-06 08:00",
+      "matchId": "1212463",
+      "league": "解放者杯",
+      "home": "梅尔加",
+      "away": "亚奥林",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "1:1",
+        "score_odds": "5.750",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    }
+  ]
+}

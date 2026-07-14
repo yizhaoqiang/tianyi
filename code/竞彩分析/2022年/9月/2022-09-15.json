@@ -1,0 +1,200 @@
+{
+  "time": "2022-09-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-2_11130",
+        "handicap": "0_1_1176",
+        "halfFull": "10_00_2465",
+        "size": "1_2_2282"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_0-2_3-0_60102",
+        "handicap": "0_1_3_2528",
+        "halfFull": "10_00_13_9490",
+        "size": "1_2_3_7646"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-2_3-0_1-2_405688",
+        "handicap": "0_1_3_1_8470",
+        "halfFull": "10_00_13_00_19360",
+        "size": "1_2_3_3_25233"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_1_1_29221",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-3_46200",
+        "handicap": "0_1_1014",
+        "halfFull": "10_00_3229",
+        "size": "1_5_4675"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-2_1-2_2-3_1652805",
+        "handicap": "0_1_1_1_13591",
+        "halfFull": "10_00_00_00_9554",
+        "size": "1_2_3_5_64024"
+      },
+      "team": "001_004_003_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2022-09-15 00:45",
+      "matchId": "1195715",
+      "league": "欧联",
+      "home": "摩纳哥",
+      "away": "费伦茨",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "8.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.940",
+        "score_result": "0:1",
+        "score_odds": "21.000",
+        "goal_result": "1",
+        "goal_odds": "5.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2022-09-15 00:45",
+      "matchId": "1195708",
+      "league": "欧联",
+      "home": "谢里夫",
+      "away": "曼联",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "0:2",
+        "score_odds": "5.300",
+        "goal_result": "2",
+        "goal_odds": "4.150",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.450"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2022-09-15 03:00",
+      "matchId": "1195721",
+      "league": "欧联",
+      "home": "罗马",
+      "away": "赫尔辛基",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.150",
+        "score_result": "3:0",
+        "score_odds": "5.400",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2022-09-15 03:00",
+      "matchId": "1195816",
+      "league": "欧协杯",
+      "home": "贝夏普尔",
+      "away": "比利亚雷",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:2",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.040"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2022-09-15 03:00",
+      "matchId": "1195815",
+      "league": "欧协杯",
+      "home": "锡尔克堡",
+      "away": "西汉姆联",
+      "result": {
+        "half": "1-3",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:3",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.900"
+      }
+    }
+  ]
+}

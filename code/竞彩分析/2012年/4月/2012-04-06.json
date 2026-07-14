@@ -1,0 +1,354 @@
+{
+  "time": "2012-04-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-1_6375",
+        "handicap": "3_3_400",
+        "halfFull": "13_13_2494",
+        "size": "2_3_1360"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_2-1_1-1_35062",
+        "handicap": "3_3_1_1241",
+        "halfFull": "13_13_31_39904",
+        "size": "2_3_2_4216"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_2-1_1-1_1-0_227906",
+        "handicap": "3_3_1_3_2854",
+        "halfFull": "13_13_31_33_135673",
+        "size": "2_3_2_1_16442"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_3_0_7478",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_3_0_1_24306",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_3_0_1_0_56633",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_3_0_1_0_3_132521",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-1_4500",
+        "handicap": "3_1_510",
+        "halfFull": "13_11_1934",
+        "size": "2_2_1054"
+      },
+      "team": "001_035"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_2-1_2-1_1-1_267750",
+        "handicap": "3_3_3_1_2368",
+        "halfFull": "13_13_33_11_28618",
+        "size": "2_3_3_2_17707"
+      },
+      "team": "001_002_034_035"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2012-04-06 21:00",
+      "matchId": "182563",
+      "league": "英冠",
+      "home": "雷丁",
+      "away": "利兹联",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.570",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2012-04-06 21:00",
+      "matchId": "200529",
+      "league": "瑞典超",
+      "home": "阿特维达堡",
+      "away": "加尔斯",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.550",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2012-04-06 21:00",
+      "matchId": "200531",
+      "league": "瑞典超",
+      "home": "加费莱",
+      "away": "西里安斯卡",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2012-04-06 22:00",
+      "matchId": "182556",
+      "league": "英冠",
+      "home": "伯恩利",
+      "away": "布莱顿",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.300",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2012-04-06 22:00",
+      "matchId": "182565",
+      "league": "英冠",
+      "home": "沃特福德",
+      "away": "布莱克浦",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.620",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.620",
+        "score_result": "0:2",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2012-04-06 22:00",
+      "matchId": "183107",
+      "league": "英甲",
+      "home": "科切斯特联",
+      "away": "哈特利普",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2012-04-06 22:00",
+      "matchId": "183109",
+      "league": "英甲",
+      "home": "莱顿东方",
+      "away": "诺士郡",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.330",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.330",
+        "score_result": "0:3",
+        "score_odds": "20.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2012-04-06 22:00",
+      "matchId": "183114",
+      "league": "英甲",
+      "home": "特兰米尔",
+      "away": "保罗夫史提芬",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.340",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.340",
+        "score_result": "3:0",
+        "score_odds": "20.000",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周五034",
+      "match_time": "2012-04-06 06:10",
+      "matchId": "197607",
+      "league": "阿甲",
+      "home": "阿尔瑟纳",
+      "away": "奥林匹奥",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.820",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周五035",
+      "match_time": "2012-04-06 08:15",
+      "matchId": "197615",
+      "league": "阿甲",
+      "home": "萨斯菲尔德",
+      "away": "独立队",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2014-05-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_2-1_7087",
+        "handicap": "3_1_934",
+        "halfFull": "13_33_1402",
+        "size": "4_3_1606"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_2-1_2-1_53156",
+        "handicap": "3_1_1_3690",
+        "halfFull": "13_33_13_7435",
+        "size": "4_3_3_5861"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_2-1_2-1_3-1_611296",
+        "handicap": "3_1_1_3_9116",
+        "halfFull": "13_33_13_33_16210",
+        "size": "4_3_3_4_29309"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_1_31451",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_1_0_47177",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_1_0_0_117944",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_1_3_1_0_0_0_179275",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_1-0_4462",
+        "handicap": "3_1_819",
+        "halfFull": "13_33_1104",
+        "size": "4_1_1430"
+      },
+      "team": "001_014"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_2-1_0-3_1-0_481950",
+        "handicap": "3_1_0_1_9747",
+        "halfFull": "13_33_00_33_9259",
+        "size": "4_3_3_1_18268"
+      },
+      "team": "001_002_013_014"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2014-05-02 00:45",
+      "matchId": "700423",
+      "league": "荷甲",
+      "home": "格拉夫夏普",
+      "away": "福图纳锡塔德",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.560",
+        "score_result": "3:1",
+        "score_odds": "10.500",
+        "goal_result": "4",
+        "goal_odds": "4.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2014-05-02 02:00",
+      "matchId": "607557",
+      "league": "法乙",
+      "home": "阿尔勒",
+      "away": "克雷泰伊",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.940",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.050"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2014-05-02 02:00",
+      "matchId": "607572",
+      "league": "法乙",
+      "home": "勒阿弗尔",
+      "away": "特鲁瓦",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.240",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2014-05-02 02:00",
+      "matchId": "607538",
+      "league": "法乙",
+      "home": "南锡",
+      "away": "伊斯特尔",
+      "result": {
+        "half": "3-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.470",
+        "score_result": "3:1",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.180"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2014-05-02 02:00",
+      "matchId": "607550",
+      "league": "法乙",
+      "home": "尼奥尔",
+      "away": "欧塞尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2014-05-02 02:00",
+      "matchId": "607539",
+      "league": "法乙",
+      "home": "克莱蒙",
+      "away": "第戎",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "3.850",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2014-05-02 02:00",
+      "matchId": "607603",
+      "league": "法乙",
+      "home": "梅斯",
+      "away": "图尔",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.500",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2014-05-02 02:00",
+      "matchId": "607590",
+      "league": "法乙",
+      "home": "沙托鲁",
+      "away": "拉瓦勒",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "1:1",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周五013",
+      "match_time": "2014-05-02 03:00",
+      "matchId": "626013",
+      "league": "西甲",
+      "home": "巴列卡诺",
+      "away": "毕尔巴鄂竞技",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.770",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.260",
+        "score_result": "0:3",
+        "score_odds": "16.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周五014",
+      "match_time": "2014-05-02 07:10",
+      "matchId": "670757",
+      "league": "阿甲",
+      "home": "基尔梅斯",
+      "away": "阿根廷青年人",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "4.250",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    }
+  ]
+}

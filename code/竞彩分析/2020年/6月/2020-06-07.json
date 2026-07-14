@@ -1,0 +1,308 @@
+{
+  "time": "2020-06-07",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-1_9025",
+        "handicap": "1_0_744",
+        "halfFull": "10_10_5040",
+        "size": "3_1_1716"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_0-1_0-1_65431",
+        "handicap": "1_0_1_2644",
+        "halfFull": "10_10_10_22176",
+        "size": "3_1_1_8751"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_0-1_0-1_1-0_490734",
+        "handicap": "1_0_1_1_10180",
+        "halfFull": "10_10_10_33_79833",
+        "size": "3_1_1_1_39819"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_1_38178",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_1_0_106899",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_1_0_0_160349",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_1_0_0_0_336733",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_2-3_57000",
+        "handicap": "1_0_819",
+        "halfFull": "10_00_5040",
+        "size": "3_5_5720"
+      },
+      "team": "001_008"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_0-1_1-1_2-3_3194850",
+        "handicap": "1_0_0_0_2346",
+        "halfFull": "10_10_11_00_217727",
+        "size": "3_1_2_5_71385"
+      },
+      "team": "001_002_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2020-06-07 18:00",
+      "matchId": "1093244",
+      "league": "K联赛",
+      "home": "城南FC",
+      "away": "大邱FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "4.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2020-06-07 18:00",
+      "matchId": "1093243",
+      "league": "K联赛",
+      "home": "水原三星",
+      "away": "光州FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.910",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2020-06-07 19:30",
+      "matchId": "1093180",
+      "league": "德甲",
+      "home": "云达不来梅",
+      "away": "沃尔夫斯堡",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.770",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "0:1",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2020-06-07 19:30",
+      "matchId": "1093106",
+      "league": "德乙",
+      "home": "奥厄",
+      "away": "卡尔斯鲁厄",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2020-06-07 19:30",
+      "matchId": "1093108",
+      "league": "德乙",
+      "home": "汉诺威96",
+      "away": "海登海姆",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2020-06-07 19:30",
+      "matchId": "1093196",
+      "league": "德乙",
+      "home": "斯图加特",
+      "away": "奥斯纳布吕克",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.800",
+        "score_result": "0:0",
+        "score_odds": "17.000",
+        "goal_result": "0",
+        "goal_odds": "17.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.250"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2020-06-07 21:30",
+      "matchId": "1093173",
+      "league": "德甲",
+      "home": "柏林联合",
+      "away": "沙尔克04",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.920",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "1:1",
+        "score_odds": "5.900",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2020-06-07 04:00",
+      "matchId": "1094904",
+      "league": "葡超",
+      "home": "里奥阿维",
+      "away": "费雷拉",
+      "result": {
+        "half": "1-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "2:3",
+        "score_odds": "60.000",
+        "goal_result": "5",
+        "goal_odds": "13.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "9.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2019-05-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_4-3_78000",
+        "handicap": "0_1_648",
+        "halfFull": "11_33_2031",
+        "size": "0_7+_35100"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_4-3_2-0_702000",
+        "handicap": "0_1_3_2335",
+        "halfFull": "11_33_33_5382",
+        "size": "0_7+_2_119339"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_4-3_2-0_1-0_4914000",
+        "handicap": "0_1_3_3_3222",
+        "halfFull": "11_33_33_33_22069",
+        "size": "0_7+_2_1_423657"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_4608",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_0_6452",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_0_1_20647",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_0_1_1_68137",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_3-2_26000",
+        "handicap": "0_1_657",
+        "halfFull": "11_33_2062",
+        "size": "0_5_11050"
+      },
+      "team": "001_033"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_4-3_1-0_3-2_14040000",
+        "handicap": "0_1_1_1_9367",
+        "halfFull": "11_33_33_33_19439",
+        "size": "0_7+_1_5_1670759"
+      },
+      "team": "001_002_032_033"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2019-05-25 13:00",
+      "matchId": "1052841",
+      "league": "J联赛",
+      "home": "札幌冈萨多",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.730",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2019-05-25 13:00",
+      "matchId": "1052842",
+      "league": "J联赛",
+      "home": "清水鼓动",
+      "away": "仙台七夕",
+      "result": {
+        "half": "3-2",
+        "full": "4-3",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "胜其他",
+        "score_odds": "60.000",
+        "goal_result": "7+",
+        "goal_odds": "27.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2019-05-25 13:00",
+      "matchId": "1052997",
+      "league": "J2联赛",
+      "home": "京都不死鸟",
+      "away": "山口雷诺法",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.600",
+        "score_result": "2:0",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2019-05-25 13:00",
+      "matchId": "1052998",
+      "league": "J2联赛",
+      "home": "长崎航海",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.380",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2019-05-25 14:00",
+      "matchId": "1052843",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "东京FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.720",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.430",
+        "score_result": "1:0",
+        "score_odds": "6.200",
+        "goal_result": "1",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2019-05-25 14:00",
+      "matchId": "1053069",
+      "league": "J2联赛",
+      "home": "东京绿茵",
+      "away": "千叶市原",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.180",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2019-05-25 15:00",
+      "matchId": "1052999",
+      "league": "J2联赛",
+      "home": "甲府风林",
+      "away": "横滨FC",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.680",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2019-05-25 16:00",
+      "matchId": "1053000",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "水户蜀葵",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "0:1",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.150",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周六032",
+      "match_time": "2019-05-25 08:00",
+      "matchId": "1052035",
+      "league": "美职",
+      "home": "明尼苏达联",
+      "away": "休斯敦迪纳摩",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "5.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周六033",
+      "match_time": "2019-05-25 09:00",
+      "matchId": "1052036",
+      "league": "美职",
+      "home": "科罗拉多急流",
+      "away": "哥伦布机员",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "3:2",
+        "score_odds": "20.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    }
+  ]
+}

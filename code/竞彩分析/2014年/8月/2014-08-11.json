@@ -1,0 +1,236 @@
+{
+  "time": "2014-08-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_3-0_15600",
+        "handicap": "0_3_362",
+        "halfFull": "00_33_839",
+        "size": "2_3_1207"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_3-0_5-1_1872000",
+        "handicap": "0_3_3_1540",
+        "halfFull": "00_33_33_2601",
+        "size": "2_3_6_20527"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_3-0_5-1_0-2_14040000",
+        "handicap": "0_3_3_0_3727",
+        "halfFull": "00_33_33_10_10667",
+        "size": "2_3_6_2_72872"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_3_5702",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_3_1_21955",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-1_7280",
+        "handicap": "0_1_581",
+        "halfFull": "00_10_2021",
+        "size": "2_1_1104"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_3-0_2-1_0-1_786240",
+        "handicap": "0_3_3_1_2134",
+        "halfFull": "00_33_13_10_25556",
+        "size": "2_3_3_1_15842"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2014-08-11 01:05",
+      "matchId": "669357",
+      "league": "瑞典超",
+      "home": "赫根",
+      "away": "埃尔夫斯堡",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.680",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "0:2",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2014-08-11 02:00",
+      "matchId": "704690",
+      "league": "荷乙",
+      "home": "阿贾克斯青年队",
+      "away": "特尔斯达",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "3:0",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.180"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2014-08-11 02:15",
+      "matchId": "709821",
+      "league": "德乙",
+      "home": "菲尔特",
+      "away": "纽伦堡",
+      "result": {
+        "half": "2-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.060",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.250",
+        "score_result": "5:1",
+        "score_odds": "120.000",
+        "goal_result": "6",
+        "goal_odds": "17.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2014-08-11 02:45",
+      "matchId": "705615",
+      "league": "英联杯",
+      "home": "卡利斯尔联",
+      "away": "德比郡",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.420",
+        "score_result": "0:2",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2014-08-11 05:00",
+      "matchId": "738334",
+      "league": "阿甲",
+      "home": "兵工厂",
+      "away": "拉普拉塔大学生",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.530",
+        "score_result": "2:1",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2014-08-11 07:30",
+      "matchId": "738337",
+      "league": "阿甲",
+      "home": "老虎竞技",
+      "away": "萨斯菲尔德",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.370",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "0:1",
+        "score_odds": "5.600",
+        "goal_result": "1",
+        "goal_odds": "3.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.250"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "num": "周六001",
+    "match_time": "2020-03-21 16:30",
+    "matchId": "1784075",
+    "league": "澳超",
+    "home": "西悉尼流浪者",
+    "away": "悉尼FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.55",
+        "d": "3.60",
+        "l": "4.55"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.70",
+        "d": "3.45",
+        "l": "2.05"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.60",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.70",
+      "score_result": "1:1",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.50",
+      "half_full_result": "0-1",
+      "half_full_odds": "17.00"
+    }
+  }
+]

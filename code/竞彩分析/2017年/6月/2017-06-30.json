@@ -1,0 +1,79 @@
+{
+  "time": "2017-06-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-1_15000",
+        "handicap": "3_0_330",
+        "halfFull": "33_00_3363",
+        "size": "1_1_2550"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-1_15000",
+        "handicap": "3_0_330",
+        "halfFull": "33_00_3363",
+        "size": "1_1_2550"
+      },
+      "team": "001_002"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2017-06-30 02:45",
+      "matchId": "961874",
+      "league": "U21欧洲杯",
+      "home": "德国U21",
+      "away": "西班牙U21",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.700",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "1:0",
+        "score_odds": "12.500",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.850"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2017-06-30 09:30",
+      "matchId": "929276",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "奥兰多城",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.740",
+        "score_result": "0:1",
+        "score_odds": "12.000",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.750"
+      }
+    }
+  ]
+}

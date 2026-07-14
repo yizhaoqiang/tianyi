@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-07-01",
+  "total_matches": 3,
+  "parlays": [
+    {
+      "type": "胜平负",
+      "combo_odds": 2.38,
+      "combo_hit_rate": 0.19,
+      "hit": false,
+      "legs": [
+        {
+          "label": "周三082",
+          "result_key": "胜",
+          "hit": true,
+          "result": "2:0"
+        },
+        {
+          "label": "周三081",
+          "result_key": "胜",
+          "hit": false,
+          "result": "2:2"
+        }
+      ]
+    },
+    {
+      "type": "让球",
+      "combo_odds": 16.3,
+      "combo_hit_rate": 0.14,
+      "hit": false,
+      "legs": [
+        {
+          "label": "周三081",
+          "result_key": "胜",
+          "hit": false,
+          "result": "2:2-让负",
+          "handicap": "-1"
+        },
+        {
+          "label": "周三080",
+          "result_key": "负",
+          "hit": false,
+          "result": "2:1-让平",
+          "handicap": "-1"
+        }
+      ]
+    },
+    {
+      "type": "让球",
+      "combo_odds": 16.3,
+      "combo_hit_rate": 0.14
+    }
+  ],
+  "matches": [
+    {
+      "match_index": 3,
+      "match_num": "",
+      "league": "世界杯",
+      "team": "美国-波黑",
+      "result": "全2:0--半1:0--胜--让胜--2--双--胜胜",
+      "result_key": "胜(1)",
+      "checked": true
+    },
+    {
+      "match_index": 2,
+      "match_num": "",
+      "league": "世界杯",
+      "team": "比利时-塞内加尔",
+      "result": "全2:2--半0:1--平--让负--4--双--负平",
+      "result_key": "胜(0)",
+      "checked": false
+    },
+    {
+      "match_index": 1,
+      "match_num": "",
+      "league": "世界杯",
+      "team": "英格兰-刚果（金）",
+      "result": "全2:1--半0:1--胜--让平--3--单--负胜",
+      "result_key": "负(0)",
+      "checked": false
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2018-09-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_1-3_6500",
+        "handicap": "1_0_1155",
+        "halfFull": "00_00_769",
+        "size": "1_4_1507"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_1-3_4-2_325000",
+        "handicap": "1_0_3_4391",
+        "halfFull": "00_00_33_2116",
+        "size": "1_4_6_24120"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-3_4-2_3-1_4875000",
+        "handicap": "1_0_3_3_15898",
+        "halfFull": "00_00_33_13_8464",
+        "size": "1_4_6_4_144720"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_0_32909",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_0_0_43770",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_0_0_3_124307",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_0_0_3_3_210079",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-0_7000",
+        "handicap": "1_3_532",
+        "halfFull": "00_33_1382",
+        "size": "1_2_1055"
+      },
+      "team": "001_031"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-3_1-5_2-0_10920000",
+        "handicap": "1_0_0_3_7626",
+        "halfFull": "00_00_10_33_14741",
+        "size": "1_4_6_2_132961"
+      },
+      "team": "001_002_030_031"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2018-09-28 22:30",
+      "matchId": "1040978",
+      "league": "俄超",
+      "home": "奥伦堡",
+      "away": "莫斯科中央陆军",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.840",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "0:1",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2018-09-28 00:30",
+      "matchId": "1033242",
+      "league": "德乙",
+      "home": "比勒费尔德",
+      "away": "科隆",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.450",
+        "score_result": "1:3",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2018-09-28 00:30",
+      "matchId": "1033241",
+      "league": "德乙",
+      "home": "基尔",
+      "away": "达姆施塔特",
+      "result": {
+        "half": "3-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.870",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.800",
+        "score_result": "4:2",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2018-09-28 02:00",
+      "matchId": "1027583",
+      "league": "法乙",
+      "home": "阿雅克肖",
+      "away": "瓦朗谢纳",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.760",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.620",
+        "score_result": "3:1",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2018-09-28 02:00",
+      "matchId": "1027587",
+      "league": "法乙",
+      "home": "朗斯",
+      "away": "巴黎FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.220",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.070",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2018-09-28 02:00",
+      "matchId": "1027591",
+      "league": "法乙",
+      "home": "圣旺红星",
+      "away": "格勒诺布尔",
+      "result": {
+        "half": "1-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.330",
+        "score_result": "2:3",
+        "score_odds": "36.000",
+        "goal_result": "5",
+        "goal_odds": "17.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2018-09-28 02:00",
+      "matchId": "1027585",
+      "league": "法乙",
+      "home": "布雷斯特",
+      "away": "沙托鲁",
+      "result": {
+        "half": "2-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.840",
+        "score_result": "5:1",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "19.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2018-09-28 02:00",
+      "matchId": "1027590",
+      "league": "法乙",
+      "home": "奥尔良",
+      "away": "洛里昂",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.690",
+        "score_result": "2:0",
+        "score_odds": "16.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周五030",
+      "match_time": "2018-09-28 08:15",
+      "matchId": "1041492",
+      "league": "阿甲",
+      "home": "拉努斯",
+      "away": "河床",
+      "result": {
+        "half": "1-1",
+        "full": "1-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.870",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.150",
+        "score_result": "1:5",
+        "score_odds": "120.000",
+        "goal_result": "6",
+        "goal_odds": "28.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周五031",
+      "match_time": "2018-09-28 10:00",
+      "matchId": "1030390",
+      "league": "墨联",
+      "home": "阿特拉斯",
+      "away": "托卢卡",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.120",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "2:0",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.850"
+      }
+    }
+  ]
+}

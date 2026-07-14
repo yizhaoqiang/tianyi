@@ -1,0 +1,128 @@
+{
+  "time": "2023-01-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-1_4900",
+        "handicap": "3_1_833",
+        "halfFull": "01_10_6525",
+        "size": "2_1_1782"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-1_0-4_122500",
+        "handicap": "3_1_0_2132",
+        "halfFull": "01_10_00_13702",
+        "size": "2_1_4_10068"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-4_17500",
+        "handicap": "3_0_609",
+        "halfFull": "01_00_3150",
+        "size": "2_4_1864"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-1_0-4_122500",
+        "handicap": "3_1_0_2132",
+        "halfFull": "01_10_00_13702",
+        "size": "2_1_4_10068"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2023-01-05 23:00",
+      "matchId": "1203306",
+      "league": "国王杯",
+      "home": "塔拉戈纳",
+      "away": "奥萨苏纳",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.380",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2023-01-05 04:00",
+      "matchId": "1171590",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "曼城",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "5.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.350"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2023-01-05 04:15",
+      "matchId": "1188551",
+      "league": "葡超",
+      "home": "圣克拉拉",
+      "away": "布拉加",
+      "result": {
+        "half": "0-2",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.560",
+        "score_result": "0:4",
+        "score_odds": "25.000",
+        "goal_result": "4",
+        "goal_odds": "5.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.100"
+      }
+    }
+  ]
+}

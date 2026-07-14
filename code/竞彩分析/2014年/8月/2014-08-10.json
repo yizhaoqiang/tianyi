@@ -1,0 +1,354 @@
+{
+  "time": "2014-08-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_3-1_19600",
+        "handicap": "0_3_275",
+        "halfFull": "10_33_3390",
+        "size": "1_4_2098"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_3-1_1-1_137200",
+        "handicap": "0_3_3_584",
+        "halfFull": "10_33_11_16441",
+        "size": "1_4_2_6714"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_3-1_1-1_2-1_960400",
+        "handicap": "0_3_3_1_1842",
+        "halfFull": "10_33_11_33_39459",
+        "size": "1_4_2_3_23836"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_2819",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_1_9867",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_1_0_46378",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_1_0_1_0_3_76988",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-0_4970",
+        "handicap": "0_3_360",
+        "halfFull": "10_13_2288",
+        "size": "1_2_1366"
+      },
+      "team": "001_052"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_3-1_1-1_2-0_765379",
+        "handicap": "0_3_0_3_961",
+        "halfFull": "10_33_11_13_51485",
+        "size": "1_4_2_2_22346"
+      },
+      "team": "001_002_050_051"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2014-08-10 13:00",
+      "matchId": "678376",
+      "league": "J2联赛",
+      "home": "札幌冈萨多",
+      "away": "京都不死鸟",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.580",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.850",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.650"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2014-08-10 17:00",
+      "matchId": "678337",
+      "league": "J2联赛",
+      "home": "福冈黄蜂",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.810",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.890",
+        "score_result": "3:1",
+        "score_odds": "28.000",
+        "goal_result": "4",
+        "goal_odds": "5.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2014-08-10 17:00",
+      "matchId": "678367",
+      "league": "J2联赛",
+      "home": "富山胜利",
+      "away": "山形山神",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.850"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2014-08-10 17:00",
+      "matchId": "678450",
+      "league": "J2联赛",
+      "home": "松本山雅",
+      "away": "枥木SC",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.540",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2014-08-10 17:00",
+      "matchId": "678454",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "北九州向日葵",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "1:1",
+        "score_odds": "5.800",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2014-08-10 17:00",
+      "matchId": "678355",
+      "league": "J2联赛",
+      "home": "大分三神",
+      "away": "东京绿茵",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "3:2",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "12.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2014-08-10 17:00",
+      "matchId": "678382",
+      "league": "J2联赛",
+      "home": "群马温泉",
+      "away": "长崎航海",
+      "result": {
+        "half": "0-1",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.110",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.700",
+        "score_result": "2:4",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "26.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2014-08-10 18:00",
+      "matchId": "678402",
+      "league": "J2联赛",
+      "home": "赞岐釜玉海",
+      "away": "熊本深红",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日050",
+      "match_time": "2014-08-10 08:30",
+      "matchId": "738333",
+      "league": "阿甲",
+      "home": "拉普拉塔体操",
+      "away": "河床",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周日051",
+      "match_time": "2014-08-10 10:30",
+      "matchId": "665485",
+      "league": "美职",
+      "home": "西雅图海湾人",
+      "away": "休斯顿迪纳摩",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.470",
+        "score_result": "2:0",
+        "score_odds": "7.100",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.050"
+      }
+    }
+  ]
+}

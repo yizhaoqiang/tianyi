@@ -1,0 +1,38 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2023-06-10 01:00",
+    "matchId": "2325190",
+    "league": "瑞典超",
+    "home": "哈马比",
+    "away": "布洛马波卡纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.57",
+        "d": "3.80",
+        "l": "4.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.65",
+        "d": "3.65",
+        "l": "2.05"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.57",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.65",
+      "score_result": "2:1",
+      "score_odds": "7.50",
+      "goal_result": "3",
+      "goal_odds": "3.55",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.55"
+    }
+  }
+]

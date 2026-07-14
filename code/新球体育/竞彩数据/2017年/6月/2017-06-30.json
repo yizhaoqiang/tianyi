@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2017-07-01 02:45",
+    "matchId": "1404401",
+    "league": "欧青U21",
+    "home": "德国U21",
+    "away": "西班牙U21",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.70",
+        "d": "3.15",
+        "l": "1.67"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.90",
+        "d": "3.25",
+        "l": "3.38"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "4.70",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.90",
+      "score_result": "1:0",
+      "score_odds": "12.50",
+      "goal_result": "1",
+      "goal_odds": "5.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.85"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2017-07-01 09:40",
+    "matchId": "1344252",
+    "league": "美职业",
+    "home": "皇家盐湖城",
+    "away": "奥兰多城",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.85",
+        "d": "3.35",
+        "l": "3.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.90",
+        "d": "3.35",
+        "l": "1.74"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.45",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.74",
+      "score_result": "0:1",
+      "score_odds": "12.00",
+      "goal_result": "1",
+      "goal_odds": "5.10",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.75"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周六063",
+    "match_time": "2022-12-17 23:00",
+    "matchId": "2302890",
+    "league": "世界杯",
+    "home": "克罗地亚",
+    "away": "摩洛哥",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.04",
+        "d": "3.38",
+        "l": "2.83"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.40",
+        "d": "3.70",
+        "l": "1.56"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.04",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.70",
+      "score_result": "2:1",
+      "score_odds": "7.50",
+      "goal_result": "3",
+      "goal_odds": "3.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.50"
+    }
+  },
+  {
+    "num": "周六101",
+    "match_time": "2022-12-18 01:30",
+    "matchId": "2224896",
+    "league": "英冠",
+    "home": "诺维奇",
+    "away": "布莱克本",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.62",
+        "d": "3.48",
+        "l": "4.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.26",
+        "d": "3.15",
+        "l": "1.94"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "4.25",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.94",
+      "score_result": "0:2",
+      "score_odds": "22.00",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "0-0",
+      "half_full_odds": "7.00"
+    }
+  }
+]

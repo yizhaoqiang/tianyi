@@ -1,0 +1,164 @@
+{
+  "time": "2021-12-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_2-1_9062",
+        "handicap": "0_0_424",
+        "halfFull": "31_13_6320",
+        "size": "4_3_1742"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_2-1_3-2_199375",
+        "handicap": "0_0_1_1422",
+        "halfFull": "31_13_13_29388",
+        "size": "4_3_5_16551"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_2-1_3-2_2-3_5383125",
+        "handicap": "0_0_1_1_4437",
+        "halfFull": "31_13_13_10_132246",
+        "size": "4_3_5_5_231719"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_2-3_33750",
+        "handicap": "0_1_602",
+        "halfFull": "31_10_7200",
+        "size": "4_5_7070"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_2-1_3-2_2-3_5383125",
+        "handicap": "0_0_1_1_4437",
+        "halfFull": "31_13_13_10_132246",
+        "size": "4_3_5_5_231719"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2021-12-02 01:30",
+      "matchId": "1147867",
+      "league": "意甲",
+      "home": "都灵",
+      "away": "恩波利",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.930",
+        "score_result": "2:2",
+        "score_odds": "12.500",
+        "goal_result": "4",
+        "goal_odds": "5.050",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2021-12-02 01:45",
+      "matchId": "1154290",
+      "league": "荷甲",
+      "home": "阿尔克马尔",
+      "away": "福图纳锡塔德",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.200",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2021-12-02 04:15",
+      "matchId": "1135999",
+      "league": "英超",
+      "home": "曼彻斯特联",
+      "away": "阿森纳",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.830",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "3:2",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.650"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2021-12-02 05:00",
+      "matchId": "1134810",
+      "league": "巴西甲",
+      "home": "巴伊亚",
+      "away": "米内罗竞技",
+      "result": {
+        "half": "0-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.120",
+        "score_result": "2:3",
+        "score_odds": "27.000",
+        "goal_result": "5",
+        "goal_odds": "14.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.500"
+      }
+    }
+  ]
+}

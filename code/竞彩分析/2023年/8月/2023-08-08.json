@@ -1,0 +1,161 @@
+{
+  "time": "2023-08-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_4-0_4000",
+        "handicap": "1_3_710",
+        "halfFull": "13_33_671",
+        "size": "1_4_1574"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_4-0_0-0_46000",
+        "handicap": "1_3_0_1178",
+        "halfFull": "13_33_11_3626",
+        "size": "1_4_0_18106"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-1_8000",
+        "handicap": "1_3_716",
+        "halfFull": "13_13_4830",
+        "size": "1_3_1155"
+      },
+      "team": "001_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2023-08-08 16:00",
+      "matchId": "1230824",
+      "league": "女足世界杯",
+      "home": "哥伦比女",
+      "away": "牙买加女",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.830",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2023-08-08 19:00",
+      "matchId": "1230823",
+      "league": "女足世界杯",
+      "home": "法国女",
+      "away": "摩洛哥女",
+      "result": {
+        "half": "3-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "4:0",
+        "score_odds": "8.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.460"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2023-08-08 02:00",
+      "matchId": "1234928",
+      "league": "欧冠",
+      "home": "哥本哈根",
+      "away": "布斯巴达",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.660",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2023-08-08 02:45",
+      "matchId": "1234925",
+      "league": "欧冠",
+      "home": "雅典AEK",
+      "away": "萨迪纳摩",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "-1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2023-08-08 02:45",
+      "matchId": "1234931",
+      "league": "欧冠",
+      "home": "克拉克斯",
+      "away": "莫尔德",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.140",
+        "score_result": "2:1",
+        "score_odds": "16.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "10.500"
+      }
+    }
+  ]
+}

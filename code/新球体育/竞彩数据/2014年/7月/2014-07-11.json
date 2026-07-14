@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五051",
+    "match_time": "2014-07-12 01:00",
+    "matchId": "958498",
+    "league": "挪超",
+    "home": "奥勒松",
+    "away": "莫尔德",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.75",
+        "d": "3.80",
+        "l": "1.54"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.13",
+        "d": "3.60",
+        "l": "2.62"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.54",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "0:1",
+      "score_odds": "7.50",
+      "goal_result": "1",
+      "goal_odds": "5.30",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.20"
+    }
+  },
+  {
+    "num": "周五052",
+    "match_time": "2014-07-12 11:20",
+    "matchId": "942749",
+    "league": "美职业",
+    "home": "圣何塞地震",
+    "away": "华盛顿联",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.92",
+        "d": "3.20",
+        "l": "3.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.00",
+        "d": "3.55",
+        "l": "1.68"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.45",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.68",
+      "score_result": "1:2",
+      "score_odds": "10.00",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.50"
+    }
+  }
+]

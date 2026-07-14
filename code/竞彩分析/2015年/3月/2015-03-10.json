@@ -1,0 +1,354 @@
+{
+  "time": "2015-03-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_3-4_400000",
+        "handicap": "3_0_508",
+        "halfFull": "33_10_4750",
+        "size": "4_7+_4812"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_3-4_1-1_2400000",
+        "handicap": "3_0_3_726",
+        "halfFull": "33_10_31_66500",
+        "size": "4_7+_2_15159"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_3-4_1-1_0-3_36000000",
+        "handicap": "3_0_3_0_2507",
+        "halfFull": "33_10_31_10_299250",
+        "size": "4_7+_2_3_53815"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_9529",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_1_37640",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_1_0_60977",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_1_0_1_228666",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_1-2_33600",
+        "handicap": "3_0_707",
+        "halfFull": "33_10_3229",
+        "size": "4_3_1925"
+      },
+      "team": "001_010"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_3-4_5-2_1-2_756000000",
+        "handicap": "3_0_3_0_3708",
+        "halfFull": "33_10_33_10_157462",
+        "size": "4_7+_7+_3_370562"
+      },
+      "team": "001_002_009_010"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2015-03-10 03:45",
+      "matchId": "765349",
+      "league": "欧冠",
+      "home": "波尔图",
+      "away": "巴塞尔",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.210",
+        "score_result": "4:0",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2015-03-10 03:45",
+      "matchId": "765348",
+      "league": "欧冠",
+      "home": "皇家马德里",
+      "away": "沙尔克04",
+      "result": {
+        "half": "2-2",
+        "full": "3-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "12.000",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "负其他",
+        "score_odds": "250.000",
+        "goal_result": "7+",
+        "goal_odds": "8.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2015-03-10 03:45",
+      "matchId": "707345",
+      "league": "英甲",
+      "home": "考文垂",
+      "away": "布拉德福德",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.430",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2015-03-10 03:45",
+      "matchId": "707517",
+      "league": "英甲",
+      "home": "约维尔",
+      "away": "布里斯托尔城",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.450",
+        "score_result": "0:3",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2015-03-10 03:45",
+      "matchId": "782677",
+      "league": "苏足总杯",
+      "home": "因弗内斯",
+      "away": "拉茨流浪",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "5.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.450"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2015-03-10 04:00",
+      "matchId": "780886",
+      "league": "英冠",
+      "home": "雷丁",
+      "away": "布赖顿",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.360",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2015-03-10 06:30",
+      "matchId": "781761",
+      "league": "解放者杯",
+      "home": "苏克雷大学",
+      "away": "飓风",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "0:0",
+        "score_odds": "6.900",
+        "goal_result": "0",
+        "goal_odds": "6.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2015-03-10 06:30",
+      "matchId": "781762",
+      "league": "解放者杯",
+      "home": "蒙得维的亚漫步者",
+      "away": "巴勒斯坦人",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.130",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:0",
+        "score_odds": "6.700",
+        "goal_result": "1",
+        "goal_odds": "3.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周二009",
+      "match_time": "2015-03-10 08:45",
+      "matchId": "781760",
+      "league": "解放者杯",
+      "home": "亚松森瓜拉尼",
+      "away": "塔奇拉",
+      "result": {
+        "half": "4-1",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.280",
+        "score_result": "5:2",
+        "score_odds": "90.000",
+        "goal_result": "7+",
+        "goal_odds": "22.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周二010",
+      "match_time": "2015-03-10 08:45",
+      "matchId": "781759",
+      "league": "解放者杯",
+      "home": "竞技俱乐部",
+      "away": "水晶体育",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "9.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.200",
+        "score_result": "1:2",
+        "score_odds": "21.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "17.000"
+      }
+    }
+  ]
+}

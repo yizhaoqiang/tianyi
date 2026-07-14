@@ -1,0 +1,128 @@
+{
+  "time": "2015-03-24",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_3-0_67500",
+        "handicap": "3_3_402",
+        "halfFull": "33_33_940",
+        "size": "4_3_2052"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_3-0_2-0_371250",
+        "handicap": "3_3_3_893",
+        "halfFull": "33_33_33_1899",
+        "size": "4_3_2_6566"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_2-0_13750",
+        "handicap": "3_3_603",
+        "halfFull": "33_33_480",
+        "size": "4_2_1824"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_3-0_2-0_371250",
+        "handicap": "3_3_3_893",
+        "halfFull": "33_33_33_1899",
+        "size": "4_3_2_6566"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2015-03-24 03:45",
+      "matchId": "770095",
+      "league": "英甲",
+      "home": "谢菲尔德联",
+      "away": "斯肯索普",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.540",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.720",
+        "score_result": "4:0",
+        "score_odds": "25.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.380"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2015-03-24 03:45",
+      "matchId": "770257",
+      "league": "英甲",
+      "home": "奥德汉姆",
+      "away": "罗奇代尔",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.670",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "3:0",
+        "score_odds": "27.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2015-03-24 06:30",
+      "matchId": "773187",
+      "league": "巴圣联",
+      "home": "科林蒂安",
+      "away": "葡萄牙人",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.220",
+        "score_result": "2:0",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.020"
+      }
+    }
+  ]
+}

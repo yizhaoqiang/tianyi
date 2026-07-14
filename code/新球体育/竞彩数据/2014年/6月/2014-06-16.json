@@ -1,0 +1,110 @@
+[
+  {
+    "num": "周一003",
+    "match_time": "2014-06-17 00:00",
+    "matchId": "940563",
+    "league": "世界杯",
+    "home": "德国",
+    "away": "葡萄牙",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.83",
+        "d": "3.50",
+        "l": "3.42"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.52",
+        "d": "3.65",
+        "l": "1.75"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.83",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.52",
+      "score_result": "4:0",
+      "score_odds": "37.00",
+      "goal_result": "4",
+      "goal_odds": "4.80",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.64"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2014-06-17 03:00",
+    "matchId": "940558",
+    "league": "世界杯",
+    "home": "伊朗",
+    "away": "尼日利亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.70",
+        "d": "3.50",
+        "l": "1.60"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.03",
+        "d": "3.40",
+        "l": "2.92"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.50",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.03",
+      "score_result": "0:0",
+      "score_odds": "8.00",
+      "goal_result": "0",
+      "goal_odds": "8.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.00"
+    }
+  },
+  {
+    "num": "周一005",
+    "match_time": "2014-06-17 06:00",
+    "matchId": "940564",
+    "league": "世界杯",
+    "home": "加纳",
+    "away": "美国",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.22",
+        "d": "3.30",
+        "l": "2.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.80",
+        "d": "3.95",
+        "l": "1.50"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.70",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.50",
+      "score_result": "1:2",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.35",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.45"
+    }
+  }
+]

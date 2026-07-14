@@ -1,0 +1,354 @@
+{
+  "time": "2015-05-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_1-0_44000",
+        "handicap": "3_1_2242",
+        "halfFull": "03_33_10440",
+        "size": "6_1_8450"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-2_1-0_1-1_352000",
+        "handicap": "3_1_0_6681",
+        "halfFull": "03_33_11_60552",
+        "size": "6_1_2_27462"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-2_1-0_1-1_1-1_2464000",
+        "handicap": "3_1_0_3_10288",
+        "halfFull": "03_33_11_01_787176",
+        "size": "6_1_2_2_100238"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_1_37040",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_1_0_83340",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_1_0_0_116677",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_1_0_0_0_199517",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-2_2-3_400000",
+        "handicap": "3_0_944",
+        "halfFull": "03_10_20300",
+        "size": "6_5_41600"
+      },
+      "team": "001_017"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-2_1-0_0-0_2-3_14300000",
+        "handicap": "3_1_3_0_5093",
+        "halfFull": "03_33_11_10_281358",
+        "size": "6_1_0_5_878800"
+      },
+      "team": "001_002_016_017"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2015-05-11 18:30",
+      "matchId": "715123",
+      "league": "俄超",
+      "home": "格罗兹尼捷列克",
+      "away": "莫斯科斯巴达",
+      "result": {
+        "half": "0-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.900",
+        "score_result": "4:2",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "26.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "29.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2015-05-11 21:00",
+      "matchId": "715119",
+      "league": "俄超",
+      "home": "萨兰斯克",
+      "away": "图拉兵工厂",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.180",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2015-05-11 23:30",
+      "matchId": "715081",
+      "league": "俄超",
+      "home": "克拉斯诺达尔",
+      "away": "阿姆卡尔",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.980",
+        "score_result": "1:1",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2015-05-11 00:30",
+      "matchId": "789736",
+      "league": "荷甲",
+      "home": "阿尔梅勒城",
+      "away": "格拉夫夏普",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2015-05-11 01:00",
+      "matchId": "776940",
+      "league": "瑞典超",
+      "home": "奥特维达堡",
+      "away": "佐加顿斯",
+      "result": {
+        "half": "0-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:3",
+        "score_odds": "21.000",
+        "goal_result": "5",
+        "goal_odds": "9.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2015-05-11 01:00",
+      "matchId": "776935",
+      "league": "瑞典超",
+      "home": "哈马比",
+      "away": "松兹瓦尔",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.250",
+        "score_result": "1:2",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2015-05-11 01:05",
+      "matchId": "776933",
+      "league": "瑞典超",
+      "home": "埃尔夫斯堡",
+      "away": "马尔默",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2015-05-11 02:15",
+      "matchId": "710100",
+      "league": "德乙",
+      "home": "卡尔斯鲁厄",
+      "away": "达姆施塔特",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.710",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周一016",
+      "match_time": "2015-05-11 05:00",
+      "matchId": "768517",
+      "league": "阿甲",
+      "home": "萨米恩托",
+      "away": "拉普拉塔体操",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "0:0",
+        "score_odds": "6.500",
+        "goal_result": "0",
+        "goal_odds": "6.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周一017",
+      "match_time": "2015-05-11 08:10",
+      "matchId": "768515",
+      "league": "阿甲",
+      "home": "防御与正义",
+      "away": "科隆竞技",
+      "result": {
+        "half": "1-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "2:3",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "16.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    }
+  ]
+}

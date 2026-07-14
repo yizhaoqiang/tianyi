@@ -1,0 +1,164 @@
+{
+  "time": "2014-11-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-2_10500",
+        "handicap": "1_0_905",
+        "halfFull": "13_00_2652",
+        "size": "3_3_1122"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_1-2_1-2_97650",
+        "handicap": "1_0_0_1538",
+        "halfFull": "13_00_30_82212",
+        "size": "3_3_3_3759"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-2_1-2_2-0_732375",
+        "handicap": "1_0_0_3_4000",
+        "halfFull": "13_00_30_33_172645",
+        "size": "3_3_3_2_12218"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_2-0_5250",
+        "handicap": "1_3_949",
+        "halfFull": "13_33_714",
+        "size": "3_2_1088"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-2_1-2_2-0_732375",
+        "handicap": "1_0_0_3_4000",
+        "halfFull": "13_00_30_33_172645",
+        "size": "3_3_3_2_12218"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2014-11-11 03:45",
+      "matchId": "761829",
+      "league": "英锦赛",
+      "home": "布里斯托尔城",
+      "away": "AFC温布尔登",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2014-11-11 03:45",
+      "matchId": "761827",
+      "league": "英锦赛",
+      "home": "贝里",
+      "away": "特兰米尔",
+      "result": {
+        "half": "1-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.480",
+        "score_result": "1:2",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "7.800"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2014-11-11 03:45",
+      "matchId": "761826",
+      "league": "英锦赛",
+      "home": "克劳利",
+      "away": "吉灵汉姆",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "1:2",
+        "score_odds": "9.300",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "3-0",
+        "half_full_odds": "31.000"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2014-11-11 03:45",
+      "matchId": "761828",
+      "league": "英锦赛",
+      "home": "莱顿东方",
+      "away": "北安普敦",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.600",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.100"
+      }
+    }
+  ]
+}

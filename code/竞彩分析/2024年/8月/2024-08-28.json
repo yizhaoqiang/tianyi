@@ -1,0 +1,354 @@
+{
+  "time": "2024-08-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_2-1_12600",
+        "handicap": "0_1_666",
+        "halfFull": "31_13_7440",
+        "size": "4_3_2190"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_2-1_1-0_74340",
+        "handicap": "0_1_1_1933",
+        "halfFull": "31_13_33_18079",
+        "size": "4_3_1_9526"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_2-1_1-0_0-0_490644",
+        "handicap": "0_1_1_0_3035",
+        "halfFull": "31_13_33_11_68700",
+        "size": "4_3_1_0_62874"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_0_1_10168",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_0_1_3_15862",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_0_1_3_3_57104",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_0_1_3_3_1_228416",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_0-0_27000",
+        "handicap": "0_0_394",
+        "halfFull": "31_11_14080",
+        "size": "4_0_9000"
+      },
+      "team": "001_011"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_2-1_1-2_0-0_3213000",
+        "handicap": "0_1_0_0_2903",
+        "halfFull": "31_13_10_11_752928",
+        "size": "4_3_3_0_141254"
+      },
+      "team": "001_002_010_011"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2024-08-28 18:00",
+      "matchId": "1274699",
+      "league": "韩足总杯",
+      "home": "蔚山现代",
+      "away": "光州FC",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.990",
+        "score_result": "2:2",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2024-08-28 18:30",
+      "matchId": "1274700",
+      "league": "韩足总杯",
+      "home": "浦项制铁",
+      "away": "济州联",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.710",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.650"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2024-08-28 01:00",
+      "matchId": "1259757",
+      "league": "西甲",
+      "home": "毕尔巴鄂",
+      "away": "巴伦西亚",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "2.900",
+        "score_result": "1:0",
+        "score_odds": "5.900",
+        "goal_result": "1",
+        "goal_odds": "4.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.430"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2024-08-28 01:00",
+      "matchId": "1259765",
+      "league": "西甲",
+      "home": "巴利亚多",
+      "away": "莱加内斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "0:0",
+        "score_odds": "6.600",
+        "goal_result": "0",
+        "goal_odds": "6.600",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2024-08-28 02:45",
+      "matchId": "1275509",
+      "league": "英联杯",
+      "home": "西汉姆联",
+      "away": "伯恩茅斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.660",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:0",
+        "score_odds": "9.250",
+        "goal_result": "1",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.550"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2024-08-28 03:00",
+      "matchId": "1275286",
+      "league": "欧冠",
+      "home": "布拉迪斯",
+      "away": "中日德兰",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.560",
+        "score_result": "3:2",
+        "score_odds": "32.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.250"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2024-08-28 03:00",
+      "matchId": "1275278",
+      "league": "欧冠",
+      "home": "贝红星",
+      "away": "博德闪耀",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.600",
+        "score_result": "2:0",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "4.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2024-08-28 03:00",
+      "matchId": "1275285",
+      "league": "欧冠",
+      "home": "斯拉维亚",
+      "away": "里尔",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.370",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三010",
+      "match_time": "2024-08-28 03:30",
+      "matchId": "1259764",
+      "league": "西甲",
+      "home": "皇家社会",
+      "away": "阿拉维斯",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.200",
+        "score_result": "1:2",
+        "score_odds": "17.000",
+        "goal_result": "3",
+        "goal_odds": "4.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "11.500"
+      }
+    },
+    {
+      "num": "周三011",
+      "match_time": "2024-08-28 03:30",
+      "matchId": "1259766",
+      "league": "西甲",
+      "home": "马竞",
+      "away": "西班牙人",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.500",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.980",
+        "score_result": "0:0",
+        "score_odds": "15.000",
+        "goal_result": "0",
+        "goal_odds": "15.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.800"
+      }
+    }
+  ]
+}

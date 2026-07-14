@@ -1,0 +1,128 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2012-01-07 03:30",
+    "matchId": "660942",
+    "league": "法国杯",
+    "home": "勒芒",
+    "away": "瓦朗谢纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.70",
+        "d": "2.90",
+        "l": "2.45"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.45",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "0:2",
+      "score_odds": "9.00",
+      "goal_result": "2",
+      "goal_odds": "3.10",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.00"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2012-01-07 03:45",
+    "matchId": "562824",
+    "league": "英甲",
+    "home": "韦康比流浪者",
+    "away": "哈德斯菲尔德",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.00",
+        "d": "3.50",
+        "l": "1.70"
+      }
+    },
+    "result": {
+      "half": "0-3",
+      "full": "0-6",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.70",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "0:6",
+      "score_odds": "40.00",
+      "goal_result": "6",
+      "goal_odds": "16.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.55"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2012-01-07 04:00",
+    "matchId": "658688",
+    "league": "英足总杯",
+    "home": "利物浦",
+    "away": "奥德汉姆",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.10",
+        "d": "3.95",
+        "l": "2.52"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.10",
+        "d": "3.95",
+        "l": "2.52"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "5-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "3",
+      "handicap_odds": "2.10",
+      "score_result": "5:1",
+      "score_odds": "20.00",
+      "goal_result": "6",
+      "goal_odds": "9.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.38"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2012-01-07 04:15",
+    "matchId": "579014",
+    "league": "葡超",
+    "home": "塞图巴尔",
+    "away": "科英布拉大学",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.85",
+        "d": "2.95",
+        "l": "2.30"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.95",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "1:1",
+      "score_odds": "5.00",
+      "goal_result": "2",
+      "goal_odds": "3.20",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.30"
+    }
+  }
+]

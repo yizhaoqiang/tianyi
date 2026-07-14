@@ -1,0 +1,110 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2024-07-26 18:30",
+    "matchId": "2523075",
+    "league": "韩K联",
+    "home": "江原FC",
+    "away": "全北现代",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.94",
+        "d": "3.35",
+        "l": "3.17"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.07",
+        "d": "3.60",
+        "l": "1.65"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "4-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.94",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.07",
+      "score_result": "4:2",
+      "score_odds": "50.00",
+      "goal_result": "6",
+      "goal_odds": "19.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.35"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2024-07-26 18:30",
+    "matchId": "2523076",
+    "league": "韩K联",
+    "home": "济州SK",
+    "away": "蔚山HD",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.83",
+        "d": "3.20",
+        "l": "2.16"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.52",
+        "d": "3.60",
+        "l": "5.15"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.83",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.52",
+      "score_result": "1:0",
+      "score_odds": "12.00",
+      "goal_result": "1",
+      "goal_odds": "5.70",
+      "half_full_result": "1-3",
+      "half_full_odds": "7.25"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2024-07-26 23:00",
+    "matchId": "2594354",
+    "league": "俄超",
+    "home": "苏维埃之翼",
+    "away": "罗斯托夫",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.59",
+        "d": "3.15",
+        "l": "2.35"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.80",
+        "d": "4.30",
+        "l": "1.38"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.35",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.38",
+      "score_result": "1:3",
+      "score_odds": "18.00",
+      "goal_result": "4",
+      "goal_odds": "5.60",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.00"
+    }
+  }
+]

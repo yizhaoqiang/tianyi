@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周二055",
+    "match_time": "2022-12-06 23:00",
+    "matchId": "2302882",
+    "league": "世界杯",
+    "home": "摩洛哥",
+    "away": "西班牙",
+    "finish_odds": {
+      "wdl": {
+        "w": "6.10",
+        "d": "3.70",
+        "l": "1.42"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.34",
+        "d": "3.20",
+        "l": "2.50"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.70",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.34",
+      "score_result": "0:0",
+      "score_odds": "11.00",
+      "goal_result": "0",
+      "goal_odds": "11.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.70"
+    }
+  },
+  {
+    "num": "周二056",
+    "match_time": "2022-12-07 03:00",
+    "matchId": "2302883",
+    "league": "世界杯",
+    "home": "葡萄牙",
+    "away": "瑞士",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.67",
+        "d": "3.15",
+        "l": "4.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.45",
+        "d": "3.10",
+        "l": "1.90"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "胜其他",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.67",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.45",
+      "score_result": "胜其他",
+      "score_odds": "75.00",
+      "goal_result": "7+",
+      "goal_odds": "30.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.75"
+    }
+  }
+]

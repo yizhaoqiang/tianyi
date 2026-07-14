@@ -1,0 +1,239 @@
+{
+  "time": "2025-08-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-0_8000",
+        "handicap": "3_3_355",
+        "halfFull": "33_11_872",
+        "size": "2_0_4900"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_0-0_0-1_136000",
+        "handicap": "3_3_0_738",
+        "halfFull": "33_11_00_6323",
+        "size": "2_0_1_34300"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-0_0-1_2-1_918000",
+        "handicap": "3_3_0_1_2881",
+        "halfFull": "33_11_00_13_25926",
+        "size": "2_0_1_3_126910"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_3_5763",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_3_3_12333",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_3_3_3_20473",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_3_3_3_0_42585",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-0_4640",
+        "handicap": "3_3_428",
+        "halfFull": "33_33_306",
+        "size": "2_2_1788"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-0_2-1_2-0_313200",
+        "handicap": "3_3_1_3_2770",
+        "halfFull": "33_11_13_33_6150",
+        "size": "2_0_3_2_66174"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2025-08-14 00:00",
+      "matchId": "1308852",
+      "league": "欧联",
+      "home": "中日德兰",
+      "away": "腓特烈",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.140",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "4.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.780"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2025-08-14 01:00",
+      "matchId": "1308855",
+      "league": "欧联",
+      "home": "沃尔夫斯",
+      "away": "塞萨洛",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2025-08-14 01:00",
+      "matchId": "1308859",
+      "league": "欧联",
+      "home": "布兰",
+      "away": "赫根",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.080",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.080",
+        "score_result": "0:1",
+        "score_odds": "17.000",
+        "goal_result": "1",
+        "goal_odds": "7.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "7.250"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2025-08-14 02:00",
+      "matchId": "1308857",
+      "league": "欧联",
+      "home": "乌德勒支",
+      "away": "塞尔维特",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:1",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2025-08-14 02:30",
+      "matchId": "1308853",
+      "league": "欧联",
+      "home": "布拉加",
+      "away": "克卢日",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.000",
+        "score_result": "2:0",
+        "score_odds": "5.800",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.720"
+      }
+    }
+  ]
+}

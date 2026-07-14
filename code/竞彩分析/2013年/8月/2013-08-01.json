@@ -1,0 +1,354 @@
+{
+  "time": "2013-08-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-1_5200",
+        "handicap": "1_0_577",
+        "halfFull": "00_10_1858",
+        "size": "1_1_1596"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_0-1_2-1_37960",
+        "handicap": "1_0_1_2251",
+        "halfFull": "00_10_13_10221",
+        "size": "1_1_3_5745"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-1_2-1_1-0_246739",
+        "handicap": "1_0_1_1_8216",
+        "halfFull": "00_10_13_13_47020",
+        "size": "1_1_3_1_24131"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_0_15200",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_0_1_55481",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_0_1_1_188637",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_0_1_1_0_299933",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_3-1_5525",
+        "handicap": "1_1_1665",
+        "halfFull": "00_33_401",
+        "size": "1_4_1680"
+      },
+      "team": "001_028"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-1_0-0_3-1_464100",
+        "handicap": "1_0_0_1_6623",
+        "halfFull": "00_10_11_33_14407",
+        "size": "1_1_0_4_67032"
+      },
+      "team": "001_002_025_026"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2013-08-01 00:00",
+      "matchId": "637711",
+      "league": "欧洲联赛",
+      "home": "明斯克迪纳摩",
+      "away": "特拉布宗体育",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2013-08-01 00:00",
+      "matchId": "637712",
+      "league": "欧洲联赛",
+      "home": "明斯克FC",
+      "away": "圣约翰斯通",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.300"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2013-08-01 00:00",
+      "matchId": "637708",
+      "league": "欧洲联赛",
+      "home": "亚布洛内茨",
+      "away": "斯特罗姆加斯特",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:1",
+        "score_odds": "7.300",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2013-08-01 00:00",
+      "matchId": "637689",
+      "league": "欧洲联赛",
+      "home": "卡拉巴赫",
+      "away": "耶夫勒",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2013-08-01 00:00",
+      "matchId": "637718",
+      "league": "欧洲联赛",
+      "home": "普洛耶什蒂",
+      "away": "维迪斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "1:1",
+        "score_odds": "6.300",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周四027",
+      "match_time": "2013-08-01 00:15",
+      "matchId": "640597",
+      "league": "奥迪杯",
+      "home": "AC米兰",
+      "away": "圣保罗",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2013-08-01 00:30",
+      "matchId": "637677",
+      "league": "欧洲联赛",
+      "home": "兰纳斯",
+      "away": "喀山红宝石",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2013-08-01 01:00",
+      "matchId": "637728",
+      "league": "欧洲联赛",
+      "home": "赫根",
+      "away": "图恩",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.590",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周四025",
+      "match_time": "2013-08-01 09:50",
+      "matchId": "620130",
+      "league": "南俱杯",
+      "home": "亚松森瓜拉尼",
+      "away": "东方石油",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.550",
+        "score_result": "0:0",
+        "score_odds": "10.500",
+        "goal_result": "0",
+        "goal_odds": "10.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周四026",
+      "match_time": "2013-08-01 10:30",
+      "matchId": "608001",
+      "league": "国际冠军赛",
+      "home": "皇家马德里",
+      "away": "洛杉矶银河",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.080",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "4.500",
+        "score_result": "3:1",
+        "score_odds": "8.500",
+        "goal_result": "4",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.360"
+      }
+    }
+  ]
+}

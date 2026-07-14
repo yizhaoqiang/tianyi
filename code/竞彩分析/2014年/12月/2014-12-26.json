@@ -1,0 +1,354 @@
+{
+  "time": "2014-12-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-3_13750",
+        "handicap": "0_0_690",
+        "halfFull": "11_10_2350",
+        "size": "2_3_1038"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-3_2-0_82500",
+        "handicap": "0_0_3_1195",
+        "halfFull": "11_10_33_3830",
+        "size": "2_3_2_3530"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-3_2-0_2-4_6600000",
+        "handicap": "0_0_3_0_1804",
+        "halfFull": "11_10_33_00_15322",
+        "size": "2_3_2_6_56494"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_3_2725",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_3_1_9674",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_3_1_0_38699",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_3_1_0_0_75463",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-1_5937",
+        "handicap": "0_0_242",
+        "halfFull": "11_10_3172",
+        "size": "2_1_1364"
+      },
+      "team": "001_036"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-3_2-1_0-1_979687",
+        "handicap": "0_0_1_0_4634",
+        "halfFull": "11_10_33_10_23793",
+        "size": "2_3_3_1_15079"
+      },
+      "team": "001_002_035_036"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2014-12-26 14:30",
+      "matchId": "705721",
+      "league": "澳超",
+      "home": "墨尔本城",
+      "away": "珀斯光荣",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2014-12-26 16:45",
+      "matchId": "705717",
+      "league": "澳超",
+      "home": "悉尼FC",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.900",
+        "score_result": "0:3",
+        "score_odds": "22.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2014-12-26 20:45",
+      "matchId": "706030",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "西汉姆联",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.200",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.730",
+        "score_result": "2:0",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.630"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2014-12-26 21:00",
+      "matchId": "706999",
+      "league": "英冠",
+      "home": "布伦特福德",
+      "away": "伊普斯维奇",
+      "result": {
+        "half": "0-3",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "2:4",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2014-12-26 21:00",
+      "matchId": "707099",
+      "league": "英冠",
+      "home": "查尔顿",
+      "away": "加的夫城",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "2.850",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2014-12-26 23:00",
+      "matchId": "706032",
+      "league": "英超",
+      "home": "伯恩利",
+      "away": "利物浦",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "0:1",
+        "score_odds": "6.800",
+        "goal_result": "1",
+        "goal_odds": "4.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2014-12-26 23:00",
+      "matchId": "706025",
+      "league": "英超",
+      "home": "水晶宫",
+      "away": "南安普敦",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.910",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.000",
+        "score_result": "1:3",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2014-12-26 23:00",
+      "matchId": "706028",
+      "league": "英超",
+      "home": "埃弗顿",
+      "away": "斯托克城",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "0:1",
+        "score_odds": "10.000",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周五035",
+      "match_time": "2014-12-26 01:30",
+      "matchId": "706026",
+      "league": "英超",
+      "home": "阿森纳",
+      "away": "女王公园巡游者",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.160",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.500"
+      }
+    },
+    {
+      "num": "周五036",
+      "match_time": "2014-12-26 01:30",
+      "matchId": "707037",
+      "league": "英冠",
+      "home": "沃特福德",
+      "away": "狼队",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.720",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.750"
+      }
+    }
+  ]
+}

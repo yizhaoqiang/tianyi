@@ -1,0 +1,128 @@
+{
+  "time": "2024-11-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-5_3-0_187500",
+        "handicap": "0_3_316",
+        "halfFull": "00_13_1554",
+        "size": "7+_3_10500"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-5_3-0_2-1_1331250",
+        "handicap": "0_3_1_1098",
+        "halfFull": "00_13_33_2828",
+        "size": "7+_3_3_38325"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-5_2-1_106500",
+        "handicap": "0_1_461",
+        "halfFull": "00_33_673",
+        "size": "7+_3_10950"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-5_3-0_2-1_1331250",
+        "handicap": "0_3_1_1098",
+        "halfFull": "00_13_33_2828",
+        "size": "7+_3_3_38325"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2024-11-12 03:00",
+      "matchId": "1269706",
+      "league": "英锦赛",
+      "home": "北安普敦",
+      "away": "伯顿",
+      "result": {
+        "half": "1-3",
+        "full": "2-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.160",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.330",
+        "score_result": "2:5",
+        "score_odds": "150.000",
+        "goal_result": "7+",
+        "goal_odds": "30.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2024-11-12 03:00",
+      "matchId": "1269708",
+      "league": "英锦赛",
+      "home": "雷丁",
+      "away": "纽波特郡",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.380",
+        "score_result": "3:0",
+        "score_odds": "12.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2024-11-12 03:00",
+      "matchId": "1269715",
+      "league": "英锦赛",
+      "home": "威科姆",
+      "away": "克劳利",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.470",
+        "score_result": "2:1",
+        "score_odds": "7.100",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.820"
+      }
+    }
+  ]
+}

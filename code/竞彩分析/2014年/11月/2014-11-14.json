@@ -1,0 +1,354 @@
+{
+  "time": "2014-11-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-4_6-0_200000",
+        "handicap": "0_3_305",
+        "halfFull": "10_33_990",
+        "size": "4_6_7000"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-4_6-0_1-1_1350000",
+        "handicap": "0_3_0_653",
+        "halfFull": "10_33_31_14850",
+        "size": "4_6_2_19739"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-4_6-0_1-1_0-1_7020000",
+        "handicap": "0_3_0_1_2222",
+        "halfFull": "10_33_31_00_37125",
+        "size": "4_6_2_1_64154"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_0_6778",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_0_0_15590",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_0_0_1_52228",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_1_0_0_1_0_167130",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-4_1-3_176000",
+        "handicap": "0_0_199",
+        "halfFull": "10_00_2035",
+        "size": "4_4_3250"
+      },
+      "team": "001_020"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-4_6-0_0-0_1-3_30800000",
+        "handicap": "0_3_3_0_589",
+        "halfFull": "10_33_11_00_13919",
+        "size": "4_6_0_4_318500"
+      },
+      "team": "001_002_019_020"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2014-11-14 16:40",
+      "matchId": "705683",
+      "league": "澳超",
+      "home": "纽卡斯尔喷气机",
+      "away": "布里斯班狮吼",
+      "result": {
+        "half": "0-0",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.620",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "0:4",
+        "score_odds": "80.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2014-11-14 18:35",
+      "matchId": "763082",
+      "league": "友谊赛",
+      "home": "日本",
+      "away": "洪都拉斯",
+      "result": {
+        "half": "3-0",
+        "full": "6-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "胜其他",
+        "score_odds": "25.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2014-11-14 19:35",
+      "matchId": "763121",
+      "league": "友谊赛",
+      "home": "中国",
+      "away": "新西兰",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.140",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "2.820",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2014-11-14 22:30",
+      "matchId": "763122",
+      "league": "友谊赛",
+      "home": "约旦",
+      "away": "韩国",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.760",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "0:1",
+        "score_odds": "5.200",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2014-11-14 01:00",
+      "matchId": "682769",
+      "league": "欧洲杯预",
+      "home": "格鲁吉亚",
+      "away": "波兰",
+      "result": {
+        "half": "0-0",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.050",
+        "score_result": "0:4",
+        "score_odds": "32.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2014-11-14 03:45",
+      "matchId": "762670",
+      "league": "友谊赛",
+      "home": "法国",
+      "away": "阿尔巴尼亚",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "1:1",
+        "score_odds": "10.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "0-1",
+        "half_full_odds": "27.000"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2014-11-14 03:45",
+      "matchId": "762682",
+      "league": "友谊赛",
+      "home": "美国",
+      "away": "哥伦比亚",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-0",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2014-11-14 03:45",
+      "matchId": "682766",
+      "league": "欧洲杯预",
+      "home": "德国",
+      "away": "直布罗陀",
+      "result": {
+        "half": "3-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-7",
+        "handicap_result": "0",
+        "handicap_odds": "3.200",
+        "score_result": "",
+        "score_odds": "-",
+        "goal_result": "",
+        "goal_odds": "-",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    },
+    {
+      "num": "周五019",
+      "match_time": "2014-11-14 08:30",
+      "matchId": "715973",
+      "league": "阿甲",
+      "home": "罗萨里奥中央",
+      "away": "萨斯菲尔德",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.440",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周五020",
+      "match_time": "2014-11-14 09:00",
+      "matchId": "763123",
+      "league": "友谊赛",
+      "home": "萨尔瓦多",
+      "away": "巴拿马",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.340",
+        "score_result": "1:3",
+        "score_odds": "22.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    }
+  ]
+}

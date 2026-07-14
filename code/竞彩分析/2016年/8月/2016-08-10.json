@@ -1,0 +1,354 @@
+{
+  "time": "2016-08-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-3_11050",
+        "handicap": "0_0_288",
+        "halfFull": "00_10_1925",
+        "size": "2_3_1461"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_0-3_0-1_93925",
+        "handicap": "0_0_0_407",
+        "halfFull": "00_10_10_11935",
+        "size": "2_3_1_6576"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-3_0-1_1-1_535372",
+        "handicap": "0_0_0_0_651",
+        "halfFull": "00_10_10_11_54901",
+        "size": "2_3_1_2_19730"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_1_2607",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_1_1_10118",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_1_1_0_15785",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_1_1_0_3_86819",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-1_12325",
+        "handicap": "0_0_453",
+        "halfFull": "00_31_9000",
+        "size": "2_2_1147"
+      },
+      "team": "001_037"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-3_1-1_1-1_540759",
+        "handicap": "0_0_0_0_2067",
+        "halfFull": "00_10_11_31_188842",
+        "size": "2_3_2_2_14045"
+      },
+      "team": "001_002_036_037"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2016-08-10 17:30",
+      "matchId": "889110",
+      "league": "足总杯",
+      "home": "布里斯班狮吼",
+      "away": "珀斯光荣",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "0:2",
+        "score_odds": "17.000",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2016-08-10 17:30",
+      "matchId": "905681",
+      "league": "足总杯",
+      "home": "伍伦贡狼",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "0:3",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2016-08-10 18:00",
+      "matchId": "905670",
+      "league": "骏河银行杯",
+      "home": "鹿岛鹿角",
+      "away": "圣菲独立",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.560",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.200"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2016-08-10 18:00",
+      "matchId": "856842",
+      "league": "K联赛",
+      "home": "光州FC",
+      "away": "仁川联",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2016-08-10 18:00",
+      "matchId": "856843",
+      "league": "K联赛",
+      "home": "尚州尚武",
+      "away": "首尔FC",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.960",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2016-08-10 18:00",
+      "matchId": "856844",
+      "league": "K联赛",
+      "home": "全北现代",
+      "away": "水原城",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.190",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.880",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.540"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2016-08-10 18:30",
+      "matchId": "856847",
+      "league": "K联赛",
+      "home": "水原三星",
+      "away": "蔚山现代",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "0:0",
+        "score_odds": "10.500",
+        "goal_result": "0",
+        "goal_odds": "10.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2016-08-10 18:30",
+      "matchId": "856846",
+      "league": "K联赛",
+      "home": "城南FC",
+      "away": "全南天龙",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.360",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.500",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.050"
+      }
+    },
+    {
+      "num": "周三036",
+      "match_time": "2016-08-10 10:15",
+      "matchId": "898541",
+      "league": "南俱杯",
+      "home": "瓜亚基尔巴塞罗那",
+      "away": "萨莫拉FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.680",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.450"
+      }
+    },
+    {
+      "num": "周三037",
+      "match_time": "2016-08-10 10:30",
+      "matchId": "898542",
+      "league": "南俱杯",
+      "home": "麦德林独立",
+      "away": "基多天主大学",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.670",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-1",
+        "half_full_odds": "18.000"
+      }
+    }
+  ]
+}

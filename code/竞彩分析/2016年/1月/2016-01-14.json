@@ -1,0 +1,236 @@
+{
+  "time": "2016-01-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-1_7700",
+        "handicap": "3_0_355",
+        "halfFull": "33_10_1267",
+        "size": "4_1_2041"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_0-1_0-3_184800",
+        "handicap": "3_0_0_1848",
+        "halfFull": "33_10_00_4943",
+        "size": "4_1_3_7450"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-1_0-3_3-0_1201200",
+        "handicap": "3_0_0_3_3050",
+        "halfFull": "33_10_00_33_8008",
+        "size": "4_1_3_3_27194"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_4727",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_3_6997",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_4-2_165000",
+        "handicap": "3_3_333",
+        "halfFull": "33_03_6434",
+        "size": "4_6_17250"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-1_0-2_4-2_17325000",
+        "handicap": "3_0_0_3_815",
+        "halfFull": "33_10_00_03_200771",
+        "size": "4_1_2_6_199021"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2016-01-14 21:30",
+      "matchId": "850477",
+      "league": "亚青赛",
+      "home": "约旦U23",
+      "away": "越南U23",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "3:1",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2016-01-14 00:30",
+      "matchId": "850493",
+      "league": "亚青赛",
+      "home": "澳大利亚U23",
+      "away": "阿联酋U23",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2016-01-14 03:00",
+      "matchId": "846651",
+      "league": "国王杯",
+      "home": "格拉纳达CF",
+      "away": "巴伦西亚",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.320",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.200",
+        "score_result": "0:3",
+        "score_odds": "24.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2016-01-14 03:30",
+      "matchId": "846666",
+      "league": "国王杯",
+      "home": "马德里竞技",
+      "away": "巴列卡诺",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "3:0",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.620"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2016-01-14 03:45",
+      "matchId": "845183",
+      "league": "英锦赛",
+      "home": "米尔沃尔",
+      "away": "牛津联",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "0:2",
+        "score_odds": "15.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2016-01-14 09:10",
+      "matchId": "849298",
+      "league": "阿夏锦标",
+      "home": "拉普拉塔大学生",
+      "away": "竞技俱乐部",
+      "result": {
+        "half": "1-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "4:2",
+        "score_odds": "150.000",
+        "goal_result": "6",
+        "goal_odds": "30.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "33.000"
+      }
+    }
+  ]
+}

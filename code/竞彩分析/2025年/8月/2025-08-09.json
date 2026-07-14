@@ -1,0 +1,354 @@
+{
+  "time": "2025-08-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_2-5_490000",
+        "handicap": "1_0_679",
+        "halfFull": "00_10_3277",
+        "size": "3_7+_10640"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_2-5_0-1_3920000",
+        "handicap": "1_0_0_931",
+        "halfFull": "00_10_10_19337",
+        "size": "3_7+_1_53200"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_2-5_0-1_1-0_31360000",
+        "handicap": "1_0_0_1_3165",
+        "halfFull": "00_10_10_13_85083",
+        "size": "3_7+_1_1_332500"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_1_1_13296",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_1_1_0_28986",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_1_1_0_1_117393",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_1_1_0_1_0_208961",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-1_15400",
+        "handicap": "1_3_607",
+        "halfFull": "00_33_1794",
+        "size": "3_4_1747"
+      },
+      "team": "001_087"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_2-5_2-0_3-1_88935000",
+        "handicap": "1_0_3_3_3110",
+        "halfFull": "00_10_13_33_70728",
+        "size": "3_7+_2_4_200670"
+      },
+      "team": "001_002_028_029"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2025-08-09 17:00",
+      "matchId": "1286475",
+      "league": "J联赛",
+      "home": "横滨FC",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.450"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2025-08-09 18:00",
+      "matchId": "1286476",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "2-2",
+        "full": "2-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.970",
+        "score_result": "2:5",
+        "score_odds": "700.000",
+        "goal_result": "7+",
+        "goal_odds": "28.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.500"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2025-08-09 18:00",
+      "matchId": "1286847",
+      "league": "J2联赛",
+      "home": "大宫松鼠",
+      "away": "千叶市原",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.470",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.370",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.900"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2025-08-09 18:30",
+      "matchId": "1284163",
+      "league": "K联赛",
+      "home": "蔚山现代",
+      "away": "济州SK",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "6.250",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2025-08-09 19:00",
+      "matchId": "1307467",
+      "league": "德乙",
+      "home": "德累斯顿",
+      "away": "马格德堡",
+      "result": {
+        "half": "1-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.220",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.200",
+        "score_result": "1:2",
+        "score_odds": "7.750",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2025-08-09 19:30",
+      "matchId": "1299137",
+      "league": "英冠",
+      "home": "考文垂",
+      "away": "赫尔城",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.180",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.150"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2025-08-09 20:00",
+      "matchId": "1284485",
+      "league": "芬超",
+      "home": "雅罗",
+      "away": "哈卡",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.260",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2025-08-09 21:00",
+      "matchId": "1281048",
+      "league": "瑞典超",
+      "home": "马尔默",
+      "away": "米亚尔比",
+      "result": {
+        "half": "0-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.780",
+        "score_result": "1:3",
+        "score_odds": "27.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周六028",
+      "match_time": "2025-08-09 07:30",
+      "matchId": "1283098",
+      "league": "美职",
+      "home": "新英格兰",
+      "away": "华盛顿",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.600",
+        "score_result": "2:0",
+        "score_odds": "8.250",
+        "goal_result": "2",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.150"
+      }
+    },
+    {
+      "num": "周六029",
+      "match_time": "2025-08-09 08:30",
+      "matchId": "1283104",
+      "league": "美职",
+      "home": "圣路易城",
+      "away": "纳什维尔",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.760",
+        "score_result": "3:1",
+        "score_odds": "22.000",
+        "goal_result": "4",
+        "goal_odds": "4.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.200"
+      }
+    }
+  ]
+}

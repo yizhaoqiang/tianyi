@@ -1,0 +1,164 @@
+{
+  "time": "2023-07-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_4-0_200000",
+        "handicap": "0_3_382",
+        "halfFull": "00_33_2820",
+        "size": "3_4_1449"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-3_4-0_5-1_6200000",
+        "handicap": "0_3_3_668",
+        "halfFull": "00_33_33_5132",
+        "size": "3_4_6_20286"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_4-0_5-1_0-2_57350000",
+        "handicap": "0_3_3_0_2487",
+        "halfFull": "00_33_33_10_19503",
+        "size": "3_4_6_2_64915"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_0-2_231250",
+        "handicap": "0_0_714",
+        "halfFull": "00_10_7600",
+        "size": "3_2_1104"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_4-0_5-1_0-2_57350000",
+        "handicap": "0_3_3_0_2487",
+        "halfFull": "00_33_33_10_19503",
+        "size": "3_4_6_2_64915"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2023-07-19 00:00",
+      "matchId": "1218042",
+      "league": "欧冠",
+      "home": "费伦茨",
+      "away": "克拉克斯",
+      "result": {
+        "half": "0-3",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "11.000",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.920",
+        "score_result": "0:3",
+        "score_odds": "250.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "20.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2023-07-19 00:00",
+      "matchId": "1218043",
+      "league": "欧冠",
+      "home": "卡拉巴赫",
+      "away": "红色小鬼",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.990",
+        "score_result": "4:0",
+        "score_odds": "8.000",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.410"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2023-07-19 00:00",
+      "matchId": "1215966",
+      "league": "挪超",
+      "home": "利勒斯特",
+      "away": "奥勒松",
+      "result": {
+        "half": "2-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.750",
+        "score_result": "5:1",
+        "score_odds": "31.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.820"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2023-07-19 02:00",
+      "matchId": "1218053",
+      "league": "欧冠",
+      "home": "埃斯佩",
+      "away": "布拉迪斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.720",
+        "score_result": "0:2",
+        "score_odds": "9.250",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.800"
+      }
+    }
+  ]
+}

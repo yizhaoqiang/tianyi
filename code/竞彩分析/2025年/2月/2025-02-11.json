@@ -1,0 +1,331 @@
+{
+  "time": "2025-02-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-4_37500",
+        "handicap": "1_0_1386",
+        "halfFull": "10_00_1462",
+        "size": "3_4_1924"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_0-4_4-0_712500",
+        "handicap": "1_0_3_2882",
+        "halfFull": "10_00_33_2851",
+        "size": "3_4_4_8946"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_0-4_4-0_3-1_10687500",
+        "handicap": "1_0_3_3_12396",
+        "halfFull": "10_00_33_33_9411",
+        "size": "3_4_4_4_45627"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_0_37932",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_0_0_72451",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_0_0_0_113749",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_0_0_0_0_197924",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_2-1_5625",
+        "handicap": "1_1_1224",
+        "halfFull": "10_33_1327",
+        "size": "3_3_1332"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_0-4_2-3_2-1_6468750",
+        "handicap": "1_0_0_1_8199",
+        "halfFull": "10_00_30_33_112173",
+        "size": "3_4_5_3_45021"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2025-02-11 16:00",
+      "matchId": "1275661",
+      "league": "亚冠杯",
+      "home": "中央海岸",
+      "away": "柔佛",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2025-02-11 18:00",
+      "matchId": "1275660",
+      "league": "亚冠",
+      "home": "浦项制铁",
+      "away": "川崎前锋",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.850",
+        "score_result": "0:4",
+        "score_odds": "50.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2025-02-11 18:00",
+      "matchId": "1275659",
+      "league": "亚冠",
+      "home": "神户胜利",
+      "away": "上海海港",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.080",
+        "score_result": "4:0",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "4.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2025-02-11 20:00",
+      "matchId": "1275662",
+      "league": "亚冠",
+      "home": "山东泰山",
+      "away": "光州FC",
+      "result": {
+        "half": "3-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.300",
+        "score_result": "3:1",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2025-02-11 01:45",
+      "matchId": "1287377",
+      "league": "欧冠",
+      "home": "布雷斯特",
+      "away": "巴黎圣曼",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "3.060",
+        "score_result": "0:3",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.730"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2025-02-11 03:45",
+      "matchId": "1264688",
+      "league": "英冠",
+      "home": "沃特福德",
+      "away": "利兹联",
+      "result": {
+        "half": "0-3",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.910",
+        "score_result": "0:4",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2025-02-11 04:00",
+      "matchId": "1287383",
+      "league": "欧冠",
+      "home": "里斯本",
+      "away": "多特蒙德",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "0:3",
+        "score_odds": "35.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.250"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2025-02-11 04:00",
+      "matchId": "1287381",
+      "league": "欧冠",
+      "home": "曼城",
+      "away": "皇马",
+      "result": {
+        "half": "1-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.160",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.740",
+        "score_result": "2:3",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "6.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "26.000"
+      }
+    },
+    {
+      "num": "周二009",
+      "match_time": "2025-02-11 04:00",
+      "matchId": "1287379",
+      "league": "欧冠",
+      "home": "尤文图斯",
+      "away": "埃因霍温",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.710",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.950"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周日051",
+    "match_time": "2022-12-04 23:00",
+    "matchId": "2302879",
+    "league": "世界杯",
+    "home": "法国",
+    "away": "波兰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.25",
+        "d": "4.50",
+        "l": "8.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.93",
+        "d": "3.35",
+        "l": "3.10"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.25",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.93",
+      "score_result": "3:1",
+      "score_odds": "9.00",
+      "goal_result": "4",
+      "goal_odds": "4.75",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.80"
+    }
+  },
+  {
+    "num": "周日052",
+    "match_time": "2022-12-05 03:00",
+    "matchId": "2302878",
+    "league": "世界杯",
+    "home": "英格兰",
+    "away": "塞内加尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.39",
+        "d": "3.70",
+        "l": "6.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.40",
+        "d": "3.15",
+        "l": "2.47"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.39",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.40",
+      "score_result": "3:0",
+      "score_odds": "9.50",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.15"
+    }
+  }
+]

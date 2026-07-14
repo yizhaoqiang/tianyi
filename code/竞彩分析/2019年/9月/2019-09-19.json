@@ -1,0 +1,354 @@
+{
+  "time": "2019-09-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_1-0_5937",
+        "handicap": "0_1_823",
+        "halfFull": "10_13_1537",
+        "size": "3_1_1265"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-3_1-0_1-0_32656",
+        "handicap": "0_1_1_2676",
+        "halfFull": "10_13_33_3305",
+        "size": "3_1_1_5252"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_1-0_1-0_5-0_2285937",
+        "handicap": "0_1_1_3_9716",
+        "halfFull": "10_13_33_33_11073",
+        "size": "3_1_1_5_44649"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_1_33521",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_1_1_110621",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_1_1_3_211286",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_3_1_1_3_0_310591",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-3_4-2_95000",
+        "handicap": "0_3_347",
+        "halfFull": "10_03_11250",
+        "size": "3_6_6405"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-3_1-0_3-1_4-2_5343750",
+        "handicap": "0_1_1_3_4941",
+        "halfFull": "10_13_33_03_71493",
+        "size": "3_1_4_6_112968"
+      },
+      "team": "001_002_021_024"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2019-09-19 00:55",
+      "matchId": "1077822",
+      "league": "欧洲联赛",
+      "home": "卡拉巴赫",
+      "away": "塞维利亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "0:3",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.050",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2019-09-19 00:55",
+      "matchId": "1077706",
+      "league": "欧洲联赛",
+      "home": "基辅迪纳摩",
+      "away": "马尔默",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "4.150",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2019-09-19 00:55",
+      "matchId": "1077837",
+      "league": "欧洲联赛",
+      "home": "赫塔费",
+      "away": "特拉布宗体育",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2019-09-19 00:55",
+      "matchId": "1077702",
+      "league": "欧洲联赛",
+      "home": "巴塞尔",
+      "away": "克拉斯诺达尔",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.840",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.630",
+        "score_result": "5:0",
+        "score_odds": "70.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2019-09-19 00:55",
+      "matchId": "1077779",
+      "league": "欧洲联赛",
+      "home": "LASK林茨",
+      "away": "罗森博格",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.770",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2019-09-19 00:55",
+      "matchId": "1077704",
+      "league": "欧洲联赛",
+      "home": "PSV埃因霍温",
+      "away": "里斯本竞技",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "3:2",
+        "score_odds": "19.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.120"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2019-09-19 00:55",
+      "matchId": "1077701",
+      "league": "欧洲联赛",
+      "home": "克卢日",
+      "away": "拉齐奥",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.910",
+        "score_result": "2:1",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2019-09-19 00:55",
+      "matchId": "1077699",
+      "league": "欧洲联赛",
+      "home": "雷恩",
+      "away": "凯尔特人",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.920",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周四021",
+      "match_time": "2019-09-19 03:00",
+      "matchId": "1077700",
+      "league": "欧洲联赛",
+      "home": "沃尔夫斯堡",
+      "away": "奥勒克山德里亚",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "3:1",
+        "score_odds": "9.000",
+        "goal_result": "4",
+        "goal_odds": "4.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.550"
+      }
+    },
+    {
+      "num": "周四024",
+      "match_time": "2019-09-19 03:00",
+      "matchId": "1077765",
+      "league": "欧洲联赛",
+      "home": "布拉迪斯拉发",
+      "away": "贝西克塔斯",
+      "result": {
+        "half": "1-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.830",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "4:2",
+        "score_odds": "100.000",
+        "goal_result": "6",
+        "goal_odds": "21.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "30.000"
+      }
+    }
+  ]
+}

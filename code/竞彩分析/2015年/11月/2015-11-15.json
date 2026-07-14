@@ -1,0 +1,328 @@
+{
+  "time": "2015-11-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-0_4875",
+        "handicap": "0_1_656",
+        "halfFull": "11_13_1845",
+        "size": "2_1_1560"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-0_2-0_58500",
+        "handicap": "0_1_3_2889",
+        "halfFull": "11_13_33_6549",
+        "size": "2_1_2_5538"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-0_2-0_2-0_280800",
+        "handicap": "0_1_3_3_5721",
+        "halfFull": "11_13_33_13_21286",
+        "size": "2_1_2_2_17444"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_17450",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_0_48862",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_0_3_80623",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_0_3_0_370866",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2015-11-15 12:00",
+      "matchId": "840384",
+      "league": "天皇杯",
+      "home": "柏太阳神",
+      "away": "甲府风林",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2015-11-15 14:00",
+      "matchId": "802868",
+      "league": "澳超",
+      "home": "布里斯班狮吼",
+      "away": "珀斯光荣",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.590",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "5.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2015-11-15 14:30",
+      "matchId": "840388",
+      "league": "天皇杯",
+      "home": "大阪钢巴",
+      "away": "川崎前锋",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.160",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.400",
+        "score_result": "2:0",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2015-11-15 21:00",
+      "matchId": "825483",
+      "league": "世非预",
+      "home": "赞比亚",
+      "away": "苏丹",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.980",
+        "score_result": "2:0",
+        "score_odds": "4.800",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周日009",
+      "match_time": "2015-11-15 21:00",
+      "matchId": "825488",
+      "league": "世非预",
+      "home": "乌干达",
+      "away": "多哥",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.050",
+        "score_result": "3:0",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周日010",
+      "match_time": "2015-11-15 22:30",
+      "matchId": "839612",
+      "league": "世非预",
+      "home": "民主刚果",
+      "away": "布隆迪",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.800",
+        "score_result": "2:2",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周日011",
+      "match_time": "2015-11-15 23:00",
+      "matchId": "825485",
+      "league": "世非预",
+      "home": "赤道几内亚",
+      "away": "摩洛哥",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2015-11-15 01:30",
+      "matchId": "841197",
+      "league": "葡联杯",
+      "home": "费伦斯",
+      "away": "马里迪莫",
+      "result": {
+        "half": "1-3",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.600",
+        "score_result": "2:4",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "26.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2015-11-15 03:45",
+      "matchId": "839522",
+      "league": "欧洲杯预",
+      "home": "匈牙利",
+      "away": "挪威",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.710",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.350",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2015-11-15 03:45",
+      "matchId": "841118",
+      "league": "法国杯",
+      "home": "索肖",
+      "away": "斯特拉斯堡",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "-1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    }
+  ]
+}

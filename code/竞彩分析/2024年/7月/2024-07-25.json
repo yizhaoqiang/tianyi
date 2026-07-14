@@ -1,0 +1,354 @@
+{
+  "time": "2024-07-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_2-1_5200",
+        "handicap": "0_1_676",
+        "halfFull": "13_13_1716",
+        "size": "3_3_1387"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_2-1_3-0_75400",
+        "handicap": "0_1_3_1840",
+        "halfFull": "13_13_33_4290",
+        "size": "3_3_3_4786"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_2-1_3-0_0-1_490100",
+        "handicap": "0_1_3_1_6072",
+        "halfFull": "13_13_33_00_9009",
+        "size": "3_3_3_1_23455"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_1_3_14694",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_1_3_0_29095",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_1_3_0_0_75649",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_1_3_0_0_3_146759",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_3-0_5000",
+        "handicap": "0_1_934",
+        "halfFull": "13_33_471",
+        "size": "3_3_1762"
+      },
+      "team": "001_010"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_2-1_3-2_3-0_910000",
+        "handicap": "0_1_0_1_5861",
+        "halfFull": "13_13_33_33_3425",
+        "size": "3_3_5_3_48257"
+      },
+      "team": "001_002_009_010"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2024-07-25 23:00",
+      "matchId": "1268668",
+      "league": "奥运女足",
+      "home": "加拿大女",
+      "away": "新西兰女",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.120",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.050",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2024-07-25 23:00",
+      "matchId": "1268680",
+      "league": "奥运女足",
+      "home": "西班牙女",
+      "away": "日本女",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2024-07-25 01:00",
+      "matchId": "1268674",
+      "league": "奥运女足",
+      "home": "德国女",
+      "away": "澳大利女",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.540",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.720",
+        "score_result": "3:0",
+        "score_odds": "14.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2024-07-25 01:00",
+      "matchId": "1268681",
+      "league": "奥运女足",
+      "home": "尼日利女",
+      "away": "巴西女",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.100"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2024-07-25 01:00",
+      "matchId": "1261897",
+      "league": "欧联",
+      "home": "莫尔德",
+      "away": "锡尔克堡",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.420",
+        "score_result": "3:1",
+        "score_odds": "10.500",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.180"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2024-07-25 02:00",
+      "matchId": "1272669",
+      "league": "欧联",
+      "home": "帕纳辛纳",
+      "away": "普博泰夫",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.170",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.980",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.650"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2024-07-25 02:30",
+      "matchId": "1261898",
+      "league": "欧联",
+      "home": "阿贾克斯",
+      "away": "伏伊伏丁",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.600",
+        "score_result": "1:0",
+        "score_odds": "10.500",
+        "goal_result": "1",
+        "goal_odds": "10.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2024-07-25 02:30",
+      "matchId": "1261893",
+      "league": "欧联",
+      "home": "基马诺克",
+      "away": "色格拉",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.940",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.600"
+      }
+    },
+    {
+      "num": "周四009",
+      "match_time": "2024-07-25 03:00",
+      "matchId": "1268669",
+      "league": "奥运女足",
+      "home": "法国女",
+      "away": "哥伦比女",
+      "result": {
+        "half": "3-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.190",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "3:2",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "7.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.650"
+      }
+    },
+    {
+      "num": "周四010",
+      "match_time": "2024-07-25 03:00",
+      "matchId": "1268675",
+      "league": "奥运女足",
+      "home": "美国女",
+      "away": "赞比亚女",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "1",
+        "handicap_odds": "4.560",
+        "score_result": "3:0",
+        "score_odds": "6.250",
+        "goal_result": "3",
+        "goal_odds": "4.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.210"
+      }
+    }
+  ]
+}

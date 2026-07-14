@@ -1,0 +1,236 @@
+{
+  "time": "2021-11-05",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-0_5981",
+        "handicap": "0_1_472",
+        "halfFull": "30_33_7800",
+        "size": "3_1_1568"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-0_0-3_53831",
+        "handicap": "0_1_0_1011",
+        "halfFull": "30_33_00_14430",
+        "size": "3_1_3_5252"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-0_0-3_1-1_333753",
+        "handicap": "0_1_0_0_1325",
+        "halfFull": "30_33_00_01_187590",
+        "size": "3_1_3_2_20223"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_0_0_2186",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_0_0_0_10275",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_2-5_165000",
+        "handicap": "0_0_643",
+        "halfFull": "30_00_8450",
+        "size": "3_7+_12160"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-0_2-2_2-5_13158750",
+        "handicap": "0_1_0_0_3665",
+        "halfFull": "30_33_01_00_354900",
+        "size": "3_1_4_7+_253232"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2021-11-05 01:30",
+      "matchId": "1138827",
+      "league": "德乙",
+      "home": "纽伦堡",
+      "away": "云达不来梅",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.370",
+        "score_result": "1:2",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "3.200",
+        "half_full_result": "3-0",
+        "half_full_odds": "26.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2021-11-05 03:00",
+      "matchId": "1141163",
+      "league": "荷甲",
+      "home": "特温特",
+      "away": "赫拉克勒斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2021-11-05 03:00",
+      "matchId": "1136438",
+      "league": "荷乙",
+      "home": "海尔蒙特",
+      "away": "罗达JC",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.140",
+        "score_result": "0:3",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2021-11-05 03:30",
+      "matchId": "1138501",
+      "league": "德甲",
+      "home": "美因茨",
+      "away": "门兴格拉德巴赫",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.310",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.850",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2021-11-05 03:45",
+      "matchId": "1147829",
+      "league": "意甲",
+      "home": "恩波利",
+      "away": "热那亚",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "4.250",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2021-11-05 05:15",
+      "matchId": "1146095",
+      "league": "葡超",
+      "home": "博阿维斯塔",
+      "away": "法马利康",
+      "result": {
+        "half": "1-3",
+        "full": "2-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.940",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.700",
+        "score_result": "2:5",
+        "score_odds": "200.000",
+        "goal_result": "7+",
+        "goal_odds": "38.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.250"
+      }
+    }
+  ]
+}

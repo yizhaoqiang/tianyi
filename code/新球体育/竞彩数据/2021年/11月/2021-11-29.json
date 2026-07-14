@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2021-11-29 22:00",
+    "matchId": "2028464",
+    "league": "俄超",
+    "home": "乌法",
+    "away": "莫斯科斯巴达",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.05",
+        "d": "2.95",
+        "l": "2.12"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.54",
+        "d": "3.50",
+        "l": "4.90"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.95",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.54",
+      "score_result": "1:1",
+      "score_odds": "5.75",
+      "goal_result": "2",
+      "goal_odds": "3.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.50"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2021-11-30 02:10",
+    "matchId": "1968992",
+    "league": "瑞典超",
+    "home": "埃尔夫斯堡",
+    "away": "索尔纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.25",
+        "d": "2.90",
+        "l": "2.86"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.60",
+        "d": "3.70",
+        "l": "1.45"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "2-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.86",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.45",
+      "score_result": "2:4",
+      "score_odds": "80.00",
+      "goal_result": "6",
+      "goal_odds": "25.00",
+      "half_full_result": "3-0",
+      "half_full_odds": "30.00"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2021-11-30 04:15",
+    "matchId": "2046600",
+    "league": "葡超",
+    "home": "埃斯托里尔",
+    "away": "圣克拉拉",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.67",
+        "d": "3.15",
+        "l": "4.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.65",
+        "d": "3.03",
+        "l": "1.87"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.15",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.87",
+      "score_result": "2:2",
+      "score_odds": "17.00",
+      "goal_result": "4",
+      "goal_odds": "7.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.50"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2021-11-30 06:00",
+    "matchId": "2001823",
+    "league": "巴西甲",
+    "home": "戈亚尼亚竞技",
+    "away": "巴伊亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.20",
+        "d": "2.63",
+        "l": "3.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.90",
+        "d": "3.30",
+        "l": "1.50"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.20",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.30",
+      "score_result": "2:1",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.50",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.75"
+    }
+  }
+]

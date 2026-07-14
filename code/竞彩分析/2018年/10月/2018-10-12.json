@@ -1,0 +1,354 @@
+{
+  "time": "2018-10-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_2-1_5850",
+        "handicap": "3_3_311",
+        "halfFull": "33_13_1127",
+        "size": "3_3_1221"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_2-1_2-0_38025",
+        "handicap": "3_3_3_793",
+        "halfFull": "33_13_33_2366",
+        "size": "3_3_2_4090"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_2-1_2-0_1-1_285187",
+        "handicap": "3_3_3_0_1793",
+        "halfFull": "33_13_33_11_14200",
+        "size": "3_3_2_2_14520"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_1_7533",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_1_1_27498",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_1_1_0_37123",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_1_1_0_1_154062",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_4-2_14400",
+        "handicap": "3_3_307",
+        "halfFull": "33_13_627",
+        "size": "3_6_2804"
+      },
+      "team": "001_018"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_2-1_3-0_4-2_5616000",
+        "handicap": "3_3_3_3_757",
+        "halfFull": "33_13_13_13_30767",
+        "size": "3_3_3_6_39438"
+      },
+      "team": "001_002_017_018"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2018-10-12 18:35",
+      "matchId": "1046260",
+      "league": "友谊赛",
+      "home": "日本",
+      "away": "巴拿马",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.970",
+        "score_result": "3:0",
+        "score_odds": "6.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.610"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2018-10-12 19:00",
+      "matchId": "1046259",
+      "league": "友谊赛",
+      "home": "韩国",
+      "away": "乌拉圭",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.240",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "2:1",
+        "score_odds": "9.750",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2018-10-12 00:00",
+      "matchId": "1019869",
+      "league": "U21欧预",
+      "home": "克罗地亚U21",
+      "away": "希腊U21",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.550",
+        "score_result": "2:0",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.100"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2018-10-12 00:00",
+      "matchId": "1019889",
+      "league": "U21欧预",
+      "home": "丹麦U21",
+      "away": "波兰U21",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.260",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2018-10-12 02:00",
+      "matchId": "1046256",
+      "league": "友谊赛",
+      "home": "沙特",
+      "away": "巴西",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "4.200",
+        "score_result": "0:2",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "4.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.170"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2018-10-12 02:00",
+      "matchId": "1036450",
+      "league": "荷乙",
+      "home": "登博思",
+      "away": "多德勒支",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.560",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:0",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2018-10-12 02:00",
+      "matchId": "1036478",
+      "league": "荷乙",
+      "home": "福伦丹",
+      "away": "阿尔梅勒城",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "2:2",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2018-10-12 02:00",
+      "matchId": "1036452",
+      "league": "荷乙",
+      "home": "海尔蒙特",
+      "away": "特尔斯达",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.220",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.150",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周五017",
+      "match_time": "2018-10-12 08:30",
+      "matchId": "1046262",
+      "league": "友谊赛",
+      "home": "秘鲁",
+      "away": "智利",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.560",
+        "score_result": "3:0",
+        "score_odds": "40.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周五018",
+      "match_time": "2018-10-12 10:00",
+      "matchId": "1004231",
+      "league": "美职",
+      "home": "洛杉矶FC",
+      "away": "休斯敦迪纳摩",
+      "result": {
+        "half": "1-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.560",
+        "score_result": "4:2",
+        "score_odds": "24.000",
+        "goal_result": "6",
+        "goal_odds": "8.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.900"
+      }
+    }
+  ]
+}

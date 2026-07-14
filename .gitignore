@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.idea/AugmentWebviewStateStore.xml
+
+# WorkBuddy
+.workbuddy/
+
+# macOS
+.DS_Store

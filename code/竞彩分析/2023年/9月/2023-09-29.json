@@ -1,0 +1,200 @@
+{
+  "time": "2023-09-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-3_21600",
+        "handicap": "0_0_518",
+        "halfFull": "00_00_1395",
+        "size": "2_4_1782"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_1-3_1-0_199800",
+        "handicap": "0_0_1_1969",
+        "halfFull": "00_00_13_5231",
+        "size": "2_4_1_14256"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_1-3_1-0_0-1_1448550",
+        "handicap": "0_0_1_1_6991",
+        "halfFull": "00_00_13_00_19355",
+        "size": "2_4_1_1_59875"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_1_1_21882",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-0_12600",
+        "handicap": "0_1_494",
+        "halfFull": "00_13_2022",
+        "size": "2_1_2288"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_1-3_0-1_1-0_1096200",
+        "handicap": "0_0_1_1_5758",
+        "halfFull": "00_00_00_13_22452",
+        "size": "2_4_1_1_38918"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2023-09-29 18:00",
+      "matchId": "1206584",
+      "league": "J联赛",
+      "home": "横滨水手",
+      "away": "神户胜利",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "0:2",
+        "score_odds": "18.000",
+        "goal_result": "2",
+        "goal_odds": "4.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.650"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2023-09-29 02:30",
+      "matchId": "1225992",
+      "league": "德甲",
+      "home": "霍芬海姆",
+      "away": "多特蒙德",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.280",
+        "score_result": "1:3",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "4.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2023-09-29 03:00",
+      "matchId": "1219072",
+      "league": "西甲",
+      "home": "巴萨",
+      "away": "塞维利亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "1:0",
+        "score_odds": "9.250",
+        "goal_result": "1",
+        "goal_odds": "8.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2023-09-29 03:00",
+      "matchId": "1225263",
+      "league": "法甲",
+      "home": "斯特拉斯",
+      "away": "朗斯",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.970",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "0:1",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2023-09-29 03:15",
+      "matchId": "1228538",
+      "league": "葡超",
+      "home": "本菲卡",
+      "away": "波尔图",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.660",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.130",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "5.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.350"
+      }
+    }
+  ]
+}

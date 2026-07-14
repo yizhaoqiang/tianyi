@@ -1,0 +1,354 @@
+{
+  "time": "2016-10-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_3-2_23925",
+        "handicap": "1_1_1377",
+        "halfFull": "33_03_3864",
+        "size": "3_5_3277"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_3-2_0-1_287100",
+        "handicap": "1_1_0_3704",
+        "halfFull": "33_03_10_54096",
+        "size": "3_5_1_12454"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_3-2_0-1_0-1_1579050",
+        "handicap": "1_1_0_1_15001",
+        "halfFull": "33_03_10_00_229908",
+        "size": "3_5_1_1_37986"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_1_1_60006",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_1_1_3_108612",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_1_1_3_0_266100",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_0_1_1_3_0_3_715810",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_2-2_16500",
+        "handicap": "1_3_850",
+        "halfFull": "33_01_2208",
+        "size": "3_4_2242"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_3-2_5-0_2-2_4306500",
+        "handicap": "1_1_3_3_4742",
+        "halfFull": "33_03_33_01_72952",
+        "size": "3_5_5_4_115040"
+      },
+      "team": "001_002_023_024"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2016-10-06 18:35",
+      "matchId": "870508",
+      "league": "世亚预",
+      "home": "日本",
+      "away": "伊拉克",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.080",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "2:1",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.380"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2016-10-06 19:00",
+      "matchId": "870492",
+      "league": "世亚预",
+      "home": "韩国",
+      "away": "卡塔尔",
+      "result": {
+        "half": "1-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "3:2",
+        "score_odds": "29.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2016-10-06 19:35",
+      "matchId": "870490",
+      "league": "世亚预",
+      "home": "中国",
+      "away": "叙利亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "7.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.690",
+        "score_result": "0:1",
+        "score_odds": "12.000",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2016-10-06 21:00",
+      "matchId": "870488",
+      "league": "世亚预",
+      "home": "乌兹别克斯坦",
+      "away": "伊朗",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "0:1",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "3.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2016-10-06 23:00",
+      "matchId": "916358",
+      "league": "U21欧预",
+      "home": "哈萨克斯坦U21",
+      "away": "英格兰U21",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.090",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "5.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.370"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2016-10-06 00:00",
+      "matchId": "870515",
+      "league": "世亚预",
+      "home": "阿联酋",
+      "away": "泰国",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.810",
+        "score_result": "3:1",
+        "score_odds": "9.750",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.600"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2016-10-06 00:30",
+      "matchId": "916362",
+      "league": "U21欧预",
+      "home": "荷兰U21",
+      "away": "土耳其U21",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.450",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.100"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2016-10-06 00:45",
+      "matchId": "916350",
+      "league": "U21欧预",
+      "home": "以色列U21",
+      "away": "希腊U21",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.490",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.690",
+        "score_result": "4:0",
+        "score_odds": "24.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.200"
+      }
+    },
+    {
+      "num": "周四023",
+      "match_time": "2016-10-06 08:45",
+      "matchId": "816012",
+      "league": "世南美预",
+      "home": "巴西",
+      "away": "玻利维亚",
+      "result": {
+        "half": "4-0",
+        "full": "5-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.640",
+        "score_result": "5:0",
+        "score_odds": "9.000",
+        "goal_result": "5",
+        "goal_odds": "5.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.180"
+      }
+    },
+    {
+      "num": "周四024",
+      "match_time": "2016-10-06 10:15",
+      "matchId": "816010",
+      "league": "世南美预",
+      "home": "秘鲁",
+      "away": "阿根廷",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.360",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.100",
+        "score_result": "2:2",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    }
+  ]
+}

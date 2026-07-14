@@ -1,0 +1,354 @@
+{
+  "time": "2020-07-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_4550",
+        "handicap": "1_0_766",
+        "halfFull": "10_11_2232",
+        "size": "3_2_1120"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-1_1-1_25935",
+        "handicap": "1_0_3_1111",
+        "halfFull": "10_11_31_33487",
+        "size": "3_2_2_3640"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_1-1_2-2_311220",
+        "handicap": "1_0_3_3_2101",
+        "halfFull": "10_11_31_31_502312",
+        "size": "3_2_2_4_17472"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_3_3698",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_3_0_5399",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_3_0_0_9989",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_3_3_0_0_0_14784",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_2-0_21000",
+        "handicap": "1_3_882",
+        "halfFull": "10_33_4700",
+        "size": "3_2_1417"
+      },
+      "team": "001_031"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_4-0_2-0_4777500",
+        "handicap": "1_0_3_3_6894",
+        "halfFull": "10_11_13_33_107159",
+        "size": "3_2_4_2_21772"
+      },
+      "team": "001_002_030_031"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2020-07-29 17:30",
+      "matchId": "1098935",
+      "league": "澳超",
+      "home": "墨尔本胜利",
+      "away": "布里斯班狮吼",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2020-07-29 18:00",
+      "matchId": "1097790",
+      "league": "J2联赛",
+      "home": "福冈黄蜂",
+      "away": "爱媛FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.130",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2020-07-29 18:00",
+      "matchId": "1097887",
+      "league": "J2联赛",
+      "home": "冈山绿雉",
+      "away": "京都不死鸟",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.450",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2020-07-29 18:00",
+      "matchId": "1097730",
+      "league": "J2联赛",
+      "home": "琉球FC",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.890",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2020-07-29 18:00",
+      "matchId": "1097855",
+      "league": "J2联赛",
+      "home": "北九州向日葵",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.760",
+        "score_result": "2:0",
+        "score_odds": "17.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.300"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2020-07-29 18:00",
+      "matchId": "1097728",
+      "league": "J2联赛",
+      "home": "松本山雅",
+      "away": "町田泽维亚",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "0:2",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2020-07-29 18:00",
+      "matchId": "1097702",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "甲府风林",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2020-07-29 18:00",
+      "matchId": "1097787",
+      "league": "J2联赛",
+      "home": "山形山神",
+      "away": "千叶市原",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周三030",
+      "match_time": "2020-07-29 03:45",
+      "matchId": "1095754",
+      "league": "意甲",
+      "home": "佛罗伦萨",
+      "away": "博洛尼亚",
+      "result": {
+        "half": "0-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.670",
+        "score_result": "4:0",
+        "score_odds": "35.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周三031",
+      "match_time": "2020-07-29 03:45",
+      "matchId": "1095753",
+      "league": "意甲",
+      "home": "卡利亚里",
+      "away": "尤文图斯",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.450",
+        "score_result": "2:0",
+        "score_odds": "30.000",
+        "goal_result": "2",
+        "goal_odds": "4.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "10.000"
+      }
+    }
+  ]
+}

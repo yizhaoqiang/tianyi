@@ -1,0 +1,164 @@
+{
+  "time": "2023-11-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_2-0_23100",
+        "handicap": "1_3_1470",
+        "halfFull": "33_33_1072",
+        "size": "5_2_2846"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_2-0_2-1_167475",
+        "handicap": "1_3_1_5218",
+        "halfFull": "33_33_33_2197",
+        "size": "5_2_3_9534"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_2-0_2-1_0-2_2679600",
+        "handicap": "1_3_1_0_7566",
+        "halfFull": "33_33_33_00_9229",
+        "size": "5_2_3_2_38139"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_0-2_35200",
+        "handicap": "1_0_543",
+        "halfFull": "33_00_1407",
+        "size": "5_2_3300"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_2-0_2-1_0-2_2679600",
+        "handicap": "1_3_1_0_7566",
+        "halfFull": "33_33_33_00_9229",
+        "size": "5_2_3_2_38139"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2023-11-14 03:00",
+      "matchId": "1234280",
+      "league": "英锦赛",
+      "home": "什鲁斯",
+      "away": "沃尔索尔",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.010",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "3:2",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "8.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2023-11-14 03:00",
+      "matchId": "1234250",
+      "league": "英锦赛",
+      "home": "卡利斯尔",
+      "away": "哈罗盖特",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.970",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.920",
+        "score_result": "2:0",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2023-11-14 03:00",
+      "matchId": "1234243",
+      "league": "英锦赛",
+      "home": "布莱克浦",
+      "away": "莫克姆",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2023-11-14 03:30",
+      "matchId": "1234262",
+      "league": "英锦赛",
+      "home": "斯托克港",
+      "away": "博尔顿",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "0:2",
+        "score_odds": "16.000",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.200"
+      }
+    }
+  ]
+}

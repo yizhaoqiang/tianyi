@@ -1,0 +1,354 @@
+{
+  "time": "2017-05-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_4-1_15300",
+        "handicap": "3_3_288",
+        "halfFull": "33_33_722",
+        "size": "3_5_2275"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_4-1_1-3_382500",
+        "handicap": "3_3_0_440",
+        "halfFull": "33_33_00_3250",
+        "size": "3_5_4_15925"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_4-1_1-3_0-2_6120000",
+        "handicap": "3_3_0_0_758",
+        "halfFull": "33_33_00_00_18204",
+        "size": "3_5_4_2_42997"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_1349",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_1_4588",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_1_3_6332",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_1_3_3_19313",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-0_4250",
+        "handicap": "3_1_441",
+        "halfFull": "33_33_865",
+        "size": "3_1_1295"
+      },
+      "team": "001_010"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_4-1_1-2_1-0_1147500",
+        "handicap": "3_3_0_1_2247",
+        "halfFull": "33_33_00_33_13765",
+        "size": "3_5_3_1_29882"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2017-05-30 18:00",
+      "matchId": "950665",
+      "league": "亚冠杯",
+      "home": "鹿岛鹿角",
+      "away": "广州恒大",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.510",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2017-05-30 18:00",
+      "matchId": "950668",
+      "league": "亚冠杯",
+      "home": "川崎前锋",
+      "away": "蒙通联",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.270",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.960",
+        "score_result": "4:1",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.720"
+      }
+    },
+    {
+      "num": "周二011",
+      "match_time": "2017-05-30 19:00",
+      "matchId": "951843",
+      "league": "U20世界杯",
+      "home": "韩国U20",
+      "away": "葡萄牙U20",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.220",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "1:3",
+        "score_odds": "25.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2017-05-30 00:00",
+      "matchId": "951274",
+      "league": "德乙",
+      "home": "慕尼黑1860",
+      "away": "雷根斯堡",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.720",
+        "score_result": "0:2",
+        "score_odds": "16.000",
+        "goal_result": "2",
+        "goal_odds": "2.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2017-05-30 03:00",
+      "matchId": "950620",
+      "league": "亚冠杯",
+      "home": "莱赫维亚",
+      "away": "波斯波利斯",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.780",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2017-05-30 03:30",
+      "matchId": "950621",
+      "league": "亚冠杯",
+      "home": "利雅得希拉尔",
+      "away": "胡齐斯坦独立",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:1",
+        "score_odds": "6.250",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2017-05-30 06:15",
+      "matchId": "935908",
+      "league": "南俱杯",
+      "home": "基多天主大学",
+      "away": "亚奎瓦石油",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.070",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.380",
+        "score_result": "3:0",
+        "score_odds": "6.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.320"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2017-05-30 07:30",
+      "matchId": "949480",
+      "league": "加拿大冠",
+      "home": "蒙特利尔冲击",
+      "away": "温哥华白帽",
+      "result": {
+        "half": "3-0",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.640",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.050",
+        "score_result": "4:2",
+        "score_odds": "39.000",
+        "goal_result": "6",
+        "goal_odds": "12.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2017-05-30 08:45",
+      "matchId": "936333",
+      "league": "南俱杯",
+      "home": "捍卫者竞技",
+      "away": "基多体育大学",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.600",
+        "score_result": "1:2",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "9.250"
+      }
+    },
+    {
+      "num": "周二009",
+      "match_time": "2017-05-30 08:45",
+      "matchId": "935910",
+      "league": "南俱杯",
+      "home": "博亚卡爱国者",
+      "away": "埃弗顿VM",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.000",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.060"
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "time": "2025-12-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-0_3110",
+        "handicap": "1_1_1120",
+        "halfFull": "33_13_836",
+        "size": "1_1_1783"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_1-0_1-2_21777",
+        "handicap": "1_1_1_3696",
+        "halfFull": "33_13_10_3594",
+        "size": "1_1_3_6509"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-0_1-2_4-4_3266549",
+        "handicap": "1_1_1_0_7170",
+        "halfFull": "33_13_10_31_50327",
+        "size": "1_1_3_7+_94391"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_0_0_9823",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_0_0_1_36837",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_3-1_5100",
+        "handicap": "1_1_1200",
+        "halfFull": "33_33_256",
+        "size": "1_4_1739"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_1-0_0-0_3-1_342210",
+        "handicap": "1_1_0_1_5754",
+        "halfFull": "33_13_11_33_5530",
+        "size": "1_1_0_4_78473"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2025-12-15 02:45",
+      "matchId": "1307882",
+      "league": "葡超",
+      "home": "布拉加",
+      "away": "圣克拉拉",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "5.100",
+        "goal_result": "1",
+        "goal_odds": "4.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2025-12-15 03:45",
+      "matchId": "1292712",
+      "league": "意甲",
+      "home": "罗马",
+      "away": "科莫",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.020",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "6.100",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2025-12-15 03:45",
+      "matchId": "1314910",
+      "league": "法乙",
+      "home": "布洛涅",
+      "away": "特鲁瓦",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.770",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2025-12-15 04:00",
+      "matchId": "1315464",
+      "league": "英超",
+      "home": "曼联",
+      "away": "伯恩茅斯",
+      "result": {
+        "half": "2-1",
+        "full": "4-4",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.940",
+        "score_result": "平其他",
+        "score_odds": "150.000",
+        "goal_result": "7+",
+        "goal_odds": "14.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2025-12-15 04:00",
+      "matchId": "1302706",
+      "league": "西甲",
+      "home": "巴列卡诺",
+      "away": "贝蒂斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.370",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2025-12-15 04:45",
+      "matchId": "1307885",
+      "league": "葡超",
+      "home": "波尔图",
+      "away": "阿马多拉",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.350"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2018-03-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_2-4_48000",
+        "handicap": "1_0_2073",
+        "halfFull": "10_30_14850",
+        "size": "3_6_5920"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_2-4_1-3_504000",
+        "handicap": "1_0_0_4728",
+        "halfFull": "10_30_00_27769",
+        "size": "3_6_4_30784"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_2-4_1-3_6-0_16128000",
+        "handicap": "1_0_0_3_8794",
+        "halfFull": "10_30_00_33_46097",
+        "size": "3_6_4_6_584896"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_1_30340",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_1_3_44600",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_1_3_0_60656",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_1_3_0_3_106755",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-1_6800",
+        "handicap": "1_0_624",
+        "halfFull": "10_10_3850",
+        "size": "3_1_1480"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_2-4_1-3_0-1_7752000",
+        "handicap": "1_0_0_0_14252",
+        "halfFull": "10_30_10_10_436590",
+        "size": "3_6_4_1_156288"
+      },
+      "team": "001_002_014_015"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2018-03-27 20:20",
+      "matchId": "1017446",
+      "league": "友谊赛",
+      "home": "日本",
+      "away": "乌克兰",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2018-03-27 23:00",
+      "matchId": "1001557",
+      "league": "U21欧预",
+      "home": "瑞士U21",
+      "away": "葡萄牙U21",
+      "result": {
+        "half": "2-0",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.250",
+        "score_result": "2:4",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "27.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2018-03-27 23:50",
+      "matchId": "1004949",
+      "league": "友谊赛",
+      "home": "俄罗斯",
+      "away": "法国",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.280",
+        "score_result": "1:3",
+        "score_odds": "10.500",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.870"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2018-03-27 01:00",
+      "matchId": "1011704",
+      "league": "友谊赛",
+      "home": "瑞士",
+      "away": "巴拿马",
+      "result": {
+        "half": "4-0",
+        "full": "6-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.860",
+        "score_result": "胜其他",
+        "score_odds": "32.000",
+        "goal_result": "6",
+        "goal_odds": "19.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.660"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2018-03-27 01:00",
+      "matchId": "1001547",
+      "league": "U21欧预",
+      "home": "英格兰U21",
+      "away": "乌克兰U21",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2018-03-27 02:00",
+      "matchId": "1018189",
+      "league": "友谊赛",
+      "home": "希腊",
+      "away": "埃及",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.060",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2018-03-27 02:45",
+      "matchId": "1015335",
+      "league": "友谊赛",
+      "home": "德国",
+      "away": "巴西",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.360",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2018-03-27 02:45",
+      "matchId": "1017214",
+      "league": "友谊赛",
+      "home": "比利时",
+      "away": "沙特",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.760",
+        "score_result": "4:0",
+        "score_odds": "6.500",
+        "goal_result": "4",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.200"
+      }
+    },
+    {
+      "num": "周二014",
+      "match_time": "2018-03-27 08:00",
+      "matchId": "1018008",
+      "league": "友谊赛",
+      "home": "冰岛",
+      "away": "秘鲁",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.980",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.350",
+        "score_result": "1:3",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "6.600",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周二015",
+      "match_time": "2018-03-27 10:00",
+      "matchId": "1011875",
+      "league": "友谊赛",
+      "home": "墨西哥",
+      "away": "克罗地亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    }
+  ]
+}

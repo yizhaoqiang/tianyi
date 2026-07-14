@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2023-12-12 01:30",
+    "matchId": "2419673",
+    "league": "意甲",
+    "home": "恩波利",
+    "away": "莱切",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.43",
+        "d": "2.85",
+        "l": "2.65"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "6.05",
+        "d": "3.85",
+        "l": "1.40"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.85",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.40",
+      "score_result": "1:1",
+      "score_odds": "5.65",
+      "goal_result": "2",
+      "goal_odds": "3.10",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.50"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2023-12-12 03:45",
+    "matchId": "2419672",
+    "league": "意甲",
+    "home": "卡利亚里",
+    "away": "萨索洛",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.20",
+        "d": "3.05",
+        "l": "2.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.85",
+        "d": "3.75",
+        "l": "1.50"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.20",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.75",
+      "score_result": "2:1",
+      "score_odds": "7.50",
+      "goal_result": "3",
+      "goal_odds": "3.75",
+      "half_full_result": "0-3",
+      "half_full_odds": "31.00"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2023-12-12 04:00",
+    "matchId": "2404452",
+    "league": "西甲",
+    "home": "巴列卡诺",
+    "away": "塞尔塔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.40",
+        "d": "2.94",
+        "l": "2.61"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.25",
+        "d": "4.10",
+        "l": "1.42"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.94",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.42",
+      "score_result": "0:0",
+      "score_odds": "11.50",
+      "goal_result": "0",
+      "goal_odds": "11.50",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.75"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2023-12-12 04:15",
+    "matchId": "2421979",
+    "league": "葡超",
+    "home": "吉维森特",
+    "away": "摩里伦斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.20",
+        "d": "3.13",
+        "l": "1.97"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.62",
+        "d": "3.40",
+        "l": "4.40"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.13",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.62",
+      "score_result": "1:1",
+      "score_odds": "6.25",
+      "goal_result": "2",
+      "goal_odds": "3.50",
+      "half_full_result": "3-1",
+      "half_full_odds": "15.50"
+    }
+  }
+]

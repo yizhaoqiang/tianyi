@@ -1,0 +1,164 @@
+{
+  "time": "2021-11-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_3-0_6975",
+        "handicap": "3_3_820",
+        "halfFull": "33_33_519",
+        "size": "2_3_1153"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_3-0_2-0_80212",
+        "handicap": "3_3_3_5129",
+        "halfFull": "33_33_33_2181",
+        "size": "2_3_2_3461"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_3-0_2-0_4-0_1203187",
+        "handicap": "3_3_3_3_10156",
+        "halfFull": "33_33_33_33_3970",
+        "size": "2_3_2_4_19729"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_4-0_11625",
+        "handicap": "3_3_663",
+        "halfFull": "33_33_482",
+        "size": "2_4_1852"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_3-0_2-0_4-0_1203187",
+        "handicap": "3_3_3_3_10156",
+        "halfFull": "33_33_33_33_3970",
+        "size": "2_3_2_4_19729"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2021-11-10 03:00",
+      "matchId": "1153633",
+      "league": "英锦赛",
+      "home": "维冈竞技",
+      "away": "什鲁斯伯里",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.350",
+        "score_result": "2:0",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2021-11-10 06:00",
+      "matchId": "1134799",
+      "league": "巴西甲",
+      "home": "米内罗竞技",
+      "away": "科林蒂安",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.450",
+        "score_result": "3:0",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.960"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2021-11-10 06:00",
+      "matchId": "1134806",
+      "league": "巴西甲",
+      "home": "桑托斯",
+      "away": "布拉干蒂诺RB",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "6.250",
+        "score_result": "2:0",
+        "score_odds": "11.500",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2021-11-10 07:30",
+      "matchId": "1134805",
+      "league": "巴西甲",
+      "home": "帕尔梅拉斯",
+      "away": "戈亚尼亚竞技",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.980",
+        "score_result": "4:0",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.820"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2015-04-02 17:00",
+    "matchId": "996264",
+    "league": "澳超",
+    "home": "布里斯班狮吼",
+    "away": "中央海岸水手",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.72",
+        "d": "3.50",
+        "l": "3.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.20",
+        "d": "3.55",
+        "l": "1.87"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "胜其他",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.72",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.20",
+      "score_result": "胜其他",
+      "score_odds": "35.00",
+      "goal_result": "7+",
+      "goal_odds": "22.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.60"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2015-04-03 02:45",
+    "matchId": "1092661",
+    "league": "葡联杯",
+    "home": "马里迪莫",
+    "away": "波尔图",
+    "finish_odds": {
+      "wdl": {
+        "w": "6.10",
+        "d": "3.90",
+        "l": "1.42"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.45",
+        "d": "3.40",
+        "l": "2.35"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "6.10",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.45",
+      "score_result": "2:1",
+      "score_odds": "15.00",
+      "goal_result": "3",
+      "goal_odds": "3.55",
+      "half_full_result": "3-3",
+      "half_full_odds": "10.00"
+    }
+  }
+]

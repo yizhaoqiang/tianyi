@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周四051",
+    "match_time": "2014-06-05 23:59",
+    "matchId": "984706",
+    "league": "挪威杯",
+    "home": "汉坎",
+    "away": "海于格松",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.75",
+        "d": "3.65",
+        "l": "1.72"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.86",
+        "d": "3.65",
+        "l": "3.15"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.72",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.65",
+      "score_result": "0:1",
+      "score_odds": "7.50",
+      "goal_result": "1",
+      "goal_odds": "5.50",
+      "half_full_result": "1-0",
+      "half_full_odds": "4.65"
+    }
+  },
+  {
+    "num": "周四052",
+    "match_time": "2014-06-05 23:59",
+    "matchId": "984707",
+    "league": "挪威杯",
+    "home": "特罗姆瑟",
+    "away": "博德闪耀",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.90",
+        "d": "3.65",
+        "l": "3.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.52",
+        "d": "3.95",
+        "l": "1.69"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.10",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.69",
+      "score_result": "1:2",
+      "score_odds": "9.50",
+      "goal_result": "3",
+      "goal_odds": "3.40",
+      "half_full_result": "1-0",
+      "half_full_odds": "6.50"
+    }
+  }
+]

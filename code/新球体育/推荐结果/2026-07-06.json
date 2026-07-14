@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-07-06",
+  "total_matches": 4,
+  "parlays": [
+    {
+      "type": "胜平负",
+      "combo_odds": 7.94,
+      "combo_hit_rate": 0.21,
+      "hit": false,
+      "legs": [
+        {
+          "label": "周一094",
+          "result_key": "胜",
+          "hit": false,
+          "team": "美国-比利时",
+          "result": "1:4"
+        },
+        {
+          "label": "周一093",
+          "result_key": "胜",
+          "hit": false,
+          "team": "葡萄牙-西班牙",
+          "result": "0:1"
+        }
+      ]
+    },
+    {
+      "type": "让球",
+      "combo_odds": 8.51,
+      "combo_hit_rate": 0.19,
+      "hit": false,
+      "legs": [
+        {
+          "label": "周一201",
+          "result_key": "胜",
+          "hit": false,
+          "team": "赫根-佐加顿斯",
+          "result": "2:4-让负",
+          "handicap": "-1"
+        },
+        {
+          "label": "周一093",
+          "result_key": "胜",
+          "hit": false,
+          "team": "葡萄牙-西班牙",
+          "result": "0:1-让平",
+          "handicap": "+1"
+        }
+      ]
+    },
+    {
+      "type": "让球",
+      "combo_odds": 8.51,
+      "combo_hit_rate": 0.19
+    }
+  ],
+  "matches": [
+    {
+      "match_index": 2,
+      "match_num": "202",
+      "league": "瑞典超",
+      "team": "布鲁马波卡-哥德堡盖斯",
+      "result": "全1:1--半1:1--平--让胜--2--双--平平",
+      "result_key": "负(0)--[2:1 1:0 3:0](0)",
+      "checked": false
+    },
+    {
+      "match_index": 3,
+      "match_num": "093",
+      "league": "世界杯",
+      "team": "葡萄牙-西班牙",
+      "result": "全0:1--半0:0--负--让平--1--单--平负",
+      "result_key": "胜(0)--[2:0 3:1 3:0](0)",
+      "checked": false
+    },
+    {
+      "match_index": 4,
+      "match_num": "094",
+      "league": "世界杯",
+      "team": "美国-比利时",
+      "result": "全1:4--半1:2--负--让负--5--单--负负",
+      "result_key": "胜(0)--[2:0 3:1 3:0](0)",
+      "checked": false
+    },
+    {
+      "match_index": 1,
+      "match_num": "201",
+      "league": "瑞典超",
+      "team": "赫根-佐加顿斯",
+      "result": null,
+      "result_key": "胜--[1:1 0:0 2:2]",
+      "checked": null
+    }
+  ]
+}

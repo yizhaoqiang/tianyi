@@ -1,0 +1,354 @@
+{
+  "time": "2014-03-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-2_11250",
+        "handicap": "1_0_600",
+        "halfFull": "03_10_8400",
+        "size": "3_2_1222"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_0-2_0-2_78750",
+        "handicap": "1_0_0_1410",
+        "halfFull": "03_10_00_16800",
+        "size": "3_2_2_4096"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-2_0-2_1-1_567000",
+        "handicap": "1_0_0_0_3214",
+        "halfFull": "03_10_00_31_235200",
+        "size": "3_2_2_2_13722"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_1_12698",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_1_1_47619",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_1_1_3_72381",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_0_1_1_3_1_304001",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-1_5100",
+        "handicap": "1_0_937",
+        "halfFull": "03_11_7560",
+        "size": "3_2_1186"
+      },
+      "team": "001_085"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-2_0-1_1-1_841500",
+        "handicap": "1_0_0_0_3254",
+        "halfFull": "03_10_10_11_476280",
+        "size": "3_2_1_2_17485"
+      },
+      "team": "001_002_084_085"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2014-03-08 11:30",
+      "matchId": "677762",
+      "league": "J联赛",
+      "home": "广岛三箭",
+      "away": "川崎前锋",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.840",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-3",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2014-03-08 12:00",
+      "matchId": "677749",
+      "league": "J联赛",
+      "home": "新泻天鹅",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "0:2",
+        "score_odds": "15.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2014-03-08 13:00",
+      "matchId": "677734",
+      "league": "J联赛",
+      "home": "德岛漩涡",
+      "away": "大阪樱花",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.350",
+        "score_result": "0:2",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2014-03-08 14:00",
+      "matchId": "677733",
+      "league": "J联赛",
+      "home": "东京FC",
+      "away": "甲府风林",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.280",
+        "score_result": "1:1",
+        "score_odds": "7.200",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2014-03-08 14:00",
+      "matchId": "677742",
+      "league": "J联赛",
+      "home": "大宫松鼠",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2014-03-08 14:00",
+      "matchId": "677737",
+      "league": "J联赛",
+      "home": "清水鼓动",
+      "away": "横滨水手",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2014-03-08 14:00",
+      "matchId": "677744",
+      "league": "J联赛",
+      "home": "神户胜利船",
+      "away": "柏太阳神",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2014-03-08 14:30",
+      "matchId": "612696",
+      "league": "澳超",
+      "home": "纽卡斯尔喷气机",
+      "away": "墨尔本红心",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.380",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.200",
+        "score_result": "1:0",
+        "score_odds": "7.800",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周六084",
+      "match_time": "2014-03-08 11:30",
+      "matchId": "665025",
+      "league": "美职",
+      "home": "洛杉矶银河",
+      "away": "皇家盐湖城",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.170",
+        "score_result": "0:1",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周六085",
+      "match_time": "2014-03-08 11:30",
+      "matchId": "665022",
+      "league": "美职",
+      "home": "波特兰伐木工",
+      "away": "费城联合",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.500",
+        "score_result": "1:1",
+        "score_odds": "6.800",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "time": "2022-10-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-3_25500",
+        "handicap": "1_0_519",
+        "halfFull": "13_30_11310",
+        "size": "1_5_7590"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_2-3_3-1_459000",
+        "handicap": "1_0_3_2648",
+        "halfFull": "13_30_03_282750",
+        "size": "1_5_4_36052"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-3_3-1_1-0_2708100",
+        "handicap": "1_0_3_1_8738",
+        "halfFull": "13_30_03_13_1201687",
+        "size": "1_5_4_1_138802"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_1_3_17477",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_3-0_8500",
+        "handicap": "1_3_670",
+        "halfFull": "13_33_796",
+        "size": "1_3_2277"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-3_1-0_3-0_1504500",
+        "handicap": "1_0_1_3_3427",
+        "halfFull": "13_30_13_33_87963",
+        "size": "1_5_1_3_96430"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2022-10-20 01:00",
+      "matchId": "1196379",
+      "league": "欧联",
+      "home": "阿森纳",
+      "away": "埃因霍温",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:0",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "6.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.350"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2022-10-20 01:00",
+      "matchId": "1160900",
+      "league": "瑞典超",
+      "home": "马尔默",
+      "away": "佐加顿斯",
+      "result": {
+        "half": "2-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.060",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "2:3",
+        "score_odds": "30.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "26.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2022-10-20 01:00",
+      "matchId": "1160896",
+      "league": "瑞典超",
+      "home": "代格福什",
+      "away": "哥德堡",
+      "result": {
+        "half": "0-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.100",
+        "score_result": "3:1",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "4.750",
+        "half_full_result": "0-3",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2022-10-20 02:00",
+      "matchId": "1176090",
+      "league": "西甲",
+      "home": "奥萨苏纳",
+      "away": "西班牙人",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "5.900",
+        "goal_result": "1",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2022-10-20 03:00",
+      "matchId": "1176082",
+      "league": "西甲",
+      "home": "巴萨",
+      "away": "比利亚雷",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.000",
+        "score_result": "3:0",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.830"
+      }
+    }
+  ]
+}

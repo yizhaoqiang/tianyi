@@ -1,0 +1,164 @@
+{
+  "time": "2013-07-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-5_1-1_31000",
+        "handicap": "0_0_244",
+        "halfFull": "00_01_1540",
+        "size": "7+_2_1725"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-5_1-1_5-3_589000",
+        "handicap": "0_0_3_525",
+        "halfFull": "00_01_33_3157",
+        "size": "7+_2_7+_27600"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-5_1-1_5-3_1-1_3681250",
+        "handicap": "0_0_3_0_918",
+        "halfFull": "00_01_33_31_47355",
+        "size": "7+_2_7+_2_91080"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-5_1-1_31250",
+        "handicap": "0_0_231",
+        "halfFull": "00_31_1650",
+        "size": "7+_2_1650"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-5_1-1_5-3_1-1_3681250",
+        "handicap": "0_0_3_0_918",
+        "halfFull": "00_01_33_31_47355",
+        "size": "7+_2_7+_2_91080"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2013-07-29 20:00",
+      "matchId": "604626",
+      "league": "球会友谊",
+      "home": "香港杰志",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "0-3",
+        "full": "2-5",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "1.320",
+        "score_result": "2:5",
+        "score_odds": "50.000",
+        "goal_result": "7+",
+        "goal_odds": "5.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.100"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2013-07-29 01:00",
+      "matchId": "581016",
+      "league": "瑞典超",
+      "home": "哈尔姆斯塔德",
+      "away": "叙利亚人",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2013-07-29 01:00",
+      "matchId": "580060",
+      "league": "挪超",
+      "home": "瓦勒伦加",
+      "away": "萨尔普斯堡",
+      "result": {
+        "half": "2-1",
+        "full": "5-3",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.150",
+        "score_result": "胜其他",
+        "score_odds": "19.000",
+        "goal_result": "7+",
+        "goal_odds": "16.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2013-07-29 02:15",
+      "matchId": "611411",
+      "league": "德乙",
+      "home": "波鸿",
+      "away": "德累斯顿",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.750",
+        "score_result": "1:1",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    }
+  ]
+}

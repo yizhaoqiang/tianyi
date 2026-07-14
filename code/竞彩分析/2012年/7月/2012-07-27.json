@@ -1,0 +1,354 @@
+{
+  "time": "2012-07-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-1_5525",
+        "handicap": "0_1_666",
+        "halfFull": "00_11_1566",
+        "size": "2_2_1190"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_1-1_5-0_138125",
+        "handicap": "0_1_3_812",
+        "halfFull": "00_11_33_2740",
+        "size": "2_2_5_8211"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_1-1_5-0_5-2_17265625",
+        "handicap": "0_1_3_3_2177",
+        "halfFull": "00_11_33_13_17813",
+        "size": "2_2_5_7+_156009"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_8927",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_3_16070",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_3_1_45800",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_3_1_1_132821",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-1_6800",
+        "handicap": "0_3_270",
+        "halfFull": "00_33_580",
+        "size": "2_3_1326"
+      },
+      "team": "001_013"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_1-1_1-0_2-1_265200",
+        "handicap": "0_1_3_3_2247",
+        "halfFull": "00_11_13_33_18181",
+        "size": "2_2_1_3_17171"
+      },
+      "team": "001_002_012_013"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2012-07-27 20:00",
+      "matchId": "206559",
+      "league": "热身赛",
+      "home": "阿森纳",
+      "away": "曼彻斯特城",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "0:2",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2012-07-27 01:00",
+      "matchId": "200649",
+      "league": "瑞典超",
+      "home": "奥特维达堡",
+      "away": "厄勒布鲁",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2012-07-27 01:00",
+      "matchId": "200969",
+      "league": "挪超",
+      "home": "斯特罗姆加斯特",
+      "away": "腓特烈斯塔",
+      "result": {
+        "half": "1-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.220",
+        "score_result": "5:0",
+        "score_odds": "25.000",
+        "goal_result": "5",
+        "goal_odds": "6.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.750"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2012-07-27 02:00",
+      "matchId": "206560",
+      "league": "热身赛",
+      "home": "本菲卡",
+      "away": "皇家马德里",
+      "result": {
+        "half": "2-2",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.680",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.680",
+        "score_result": "5:2",
+        "score_odds": "125.000",
+        "goal_result": "7+",
+        "goal_odds": "19.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2012-07-27 02:30",
+      "matchId": "207701",
+      "league": "法乙",
+      "home": "勒阿弗尔",
+      "away": "阿尔勒",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "4.100",
+        "score_result": "1:2",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "4.400",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2012-07-27 02:30",
+      "matchId": "207695",
+      "league": "法乙",
+      "home": "欧塞尔",
+      "away": "尼姆",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.800",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.800",
+        "score_result": "2:0",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2012-07-27 02:30",
+      "matchId": "207697",
+      "league": "法乙",
+      "home": "阿雅克肖GFCO",
+      "away": "卡昂",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.850",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2012-07-27 02:30",
+      "matchId": "207700",
+      "league": "法乙",
+      "home": "尼奥尔",
+      "away": "克莱蒙",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.900",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周五012",
+      "match_time": "2012-07-27 02:30",
+      "matchId": "207694",
+      "league": "法乙",
+      "home": "昂热",
+      "away": "色当",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周五013",
+      "match_time": "2012-07-27 09:00",
+      "matchId": "199889",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "温哥华白帽",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    }
+  ]
+}

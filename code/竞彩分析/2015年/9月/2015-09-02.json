@@ -1,0 +1,354 @@
+{
+  "time": "2015-09-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-0_2-2_156000",
+        "handicap": "3_3_221",
+        "halfFull": "33_11_1800",
+        "size": "5_4_4000"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "5-0_2-2_1-1_1131000",
+        "handicap": "3_3_0_364",
+        "halfFull": "33_11_31_23400",
+        "size": "5_4_2_13400"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "5-0_2-2_1-1_0-2_13572000",
+        "handicap": "3_3_0_0_481",
+        "halfFull": "33_11_31_10_119339",
+        "size": "5_4_2_2_42880"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_794",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_3_2027",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_3_3_2898",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_0_3_3_0_4406",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "5-0_1-0_72000",
+        "handicap": "3_1_539",
+        "halfFull": "33_13_1836",
+        "size": "5_1_2760"
+      },
+      "team": "001_013"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "5-0_2-2_0-0_1-0_7020000",
+        "handicap": "3_3_0_1_1439",
+        "halfFull": "33_11_11_13_38556",
+        "size": "5_4_0_1_103500"
+      },
+      "team": "001_002_012_013"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2015-09-02 18:00",
+      "matchId": "803145",
+      "league": "日联杯",
+      "home": "新泻天鹅",
+      "away": "浦和红钻",
+      "result": {
+        "half": "1-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.400",
+        "score_result": "5:0",
+        "score_odds": "120.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2015-09-02 18:00",
+      "matchId": "803146",
+      "league": "日联杯",
+      "home": "东京FC",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2015-09-02 18:00",
+      "matchId": "803139",
+      "league": "日联杯",
+      "home": "大阪钢巴",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2015-09-02 18:00",
+      "matchId": "803143",
+      "league": "日联杯",
+      "home": "柏太阳神",
+      "away": "神户胜利船",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.320",
+        "score_result": "0:2",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2015-09-02 03:30",
+      "matchId": "830092",
+      "league": "阿根廷杯",
+      "home": "拉普拉塔体操",
+      "away": "萨斯菲尔德",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2015-09-02 06:30",
+      "matchId": "787722",
+      "league": "巴西甲",
+      "home": "巴西国际",
+      "away": "瓦斯科达伽马",
+      "result": {
+        "half": "2-0",
+        "full": "6-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.550",
+        "score_result": "胜其他",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "22.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2015-09-02 06:30",
+      "matchId": "787727",
+      "league": "巴西甲",
+      "home": "若因维利",
+      "away": "圣保罗",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.430",
+        "score_result": "0:0",
+        "score_odds": "7.250",
+        "goal_result": "0",
+        "goal_odds": "7.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2015-09-02 06:30",
+      "matchId": "787720",
+      "league": "巴西甲",
+      "home": "庞特普雷塔",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周三012",
+      "match_time": "2015-09-02 09:00",
+      "matchId": "787725",
+      "league": "巴西甲",
+      "home": "科里蒂巴",
+      "away": "累西腓体育",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.690",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三013",
+      "match_time": "2015-09-02 09:00",
+      "matchId": "787726",
+      "league": "巴西甲",
+      "home": "戈亚斯",
+      "away": "帕尔梅拉斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.100"
+      }
+    }
+  ]
+}

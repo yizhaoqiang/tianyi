@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2024-05-14 00:30",
+    "matchId": "2419887",
+    "league": "意甲",
+    "home": "莱切",
+    "away": "乌迪内斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.00",
+        "d": "2.85",
+        "l": "2.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "7.55",
+        "d": "4.55",
+        "l": "1.27"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.20",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.27",
+      "score_result": "0:2",
+      "score_odds": "10.50",
+      "goal_result": "2",
+      "goal_odds": "3.15",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.08"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2024-05-14 02:45",
+    "matchId": "2419882",
+    "league": "意甲",
+    "home": "佛罗伦萨",
+    "away": "蒙扎",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.38",
+        "d": "3.85",
+        "l": "6.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.42",
+        "d": "3.04",
+        "l": "2.52"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.38",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.04",
+      "score_result": "2:1",
+      "score_odds": "7.25",
+      "goal_result": "3",
+      "goal_odds": "3.40",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2024-05-14 03:00",
+    "matchId": "2399417",
+    "league": "英超",
+    "home": "阿斯顿维拉",
+    "away": "利物浦",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.66",
+        "d": "3.90",
+        "l": "1.64"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.91",
+        "d": "3.90",
+        "l": "2.78"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "3-3",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.90",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.91",
+      "score_result": "3:3",
+      "score_odds": "23.00",
+      "goal_result": "6",
+      "goal_odds": "9.25",
+      "half_full_result": "0-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2024-05-14 03:00",
+    "matchId": "2404637",
+    "league": "西甲",
+    "home": "巴塞罗那",
+    "away": "皇家社会",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.50",
+        "d": "3.78",
+        "l": "4.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.97",
+        "d": "2.98",
+        "l": "2.14"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.50",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.97",
+      "score_result": "2:0",
+      "score_odds": "8.00",
+      "goal_result": "2",
+      "goal_odds": "3.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.58"
+    }
+  }
+]

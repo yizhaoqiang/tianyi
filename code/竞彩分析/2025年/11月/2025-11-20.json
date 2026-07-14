@@ -1,0 +1,200 @@
+{
+  "time": "2025-11-20",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-3_3-0_306000",
+        "handicap": "3_3_272",
+        "halfFull": "31_33_6789",
+        "size": "6_3_7919"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-3_3-0_2-3_14688000",
+        "handicap": "3_3_0_708",
+        "halfFull": "31_33_00_71295",
+        "size": "6_3_5_64151"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-3_3-0_2-3_3-1_308448000",
+        "handicap": "3_3_0_3_3897",
+        "halfFull": "31_33_00_33_270920",
+        "size": "6_3_5_4_526046"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_0_6236",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-3_1-2_93500",
+        "handicap": "3_0_283",
+        "halfFull": "31_10_10500",
+        "size": "6_3_9119"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-3_3-0_3-1_1-2_70686000",
+        "handicap": "3_3_3_0_2398",
+        "halfFull": "31_33_33_10_193515",
+        "size": "6_3_4_3_246787"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2025-11-20 03:00",
+      "matchId": "1288376",
+      "league": "巴西甲",
+      "home": "尤文图德",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "2-1",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.770",
+        "score_result": "3:3",
+        "score_odds": "85.000",
+        "goal_result": "6",
+        "goal_odds": "24.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2025-11-20 04:00",
+      "matchId": "1300335",
+      "league": "英甲",
+      "home": "彼得堡联",
+      "away": "斯托克港",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "3:0",
+        "score_odds": "36.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.850"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2025-11-20 05:00",
+      "matchId": "1288374",
+      "league": "巴西甲",
+      "home": "巴伊亚",
+      "away": "福塔雷萨",
+      "result": {
+        "half": "0-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.600",
+        "score_result": "2:3",
+        "score_odds": "48.000",
+        "goal_result": "5",
+        "goal_odds": "8.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2025-11-20 06:30",
+      "matchId": "1288369",
+      "league": "巴西甲",
+      "home": "科林蒂安",
+      "away": "圣保罗",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.180",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.500",
+        "score_result": "3:1",
+        "score_odds": "21.000",
+        "goal_result": "4",
+        "goal_odds": "8.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2025-11-20 08:30",
+      "matchId": "1288375",
+      "league": "巴西甲",
+      "home": "塞阿拉",
+      "away": "巴西国际",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.580",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    }
+  ]
+}

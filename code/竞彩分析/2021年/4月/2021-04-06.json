@@ -1,0 +1,128 @@
+{
+  "time": "2021-04-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_7-0_22500",
+        "handicap": "0_3_446",
+        "halfFull": "11_33_896",
+        "size": "0_7+_25200"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_7-0_3-1_472500",
+        "handicap": "0_3_3_634",
+        "halfFull": "11_33_33_4035",
+        "size": "0_7+_4_128519"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_3-1_18900",
+        "handicap": "0_3_312",
+        "halfFull": "11_33_2205",
+        "size": "0_4_4590"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_7-0_3-1_472500",
+        "handicap": "0_3_3_634",
+        "halfFull": "11_33_33_4035",
+        "size": "0_7+_4_128519"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2021-04-06 02:00",
+      "matchId": "1111514",
+      "league": "英冠",
+      "home": "布伦特福德",
+      "away": "伯明翰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.200",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2021-04-06 02:45",
+      "matchId": "1111518",
+      "league": "英冠",
+      "home": "诺维奇",
+      "away": "哈德斯菲尔德",
+      "result": {
+        "half": "5-0",
+        "full": "7-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.030",
+        "score_result": "胜其他",
+        "score_odds": "25.000",
+        "goal_result": "7+",
+        "goal_odds": "28.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.830"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2021-04-06 03:00",
+      "matchId": "1128837",
+      "league": "欧冠",
+      "home": "皇家马德里",
+      "away": "利物浦",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.560",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "3:1",
+        "score_odds": "21.000",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2017-04-24",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-0_20000",
+        "handicap": "3_0_387",
+        "halfFull": "33_11_3487",
+        "size": "2_0_2560"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_0-0_5-1_2400000",
+        "handicap": "3_0_3_585",
+        "halfFull": "33_11_33_13950",
+        "size": "2_0_6_30720"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-0_5-1_0-3_50400000",
+        "handicap": "3_0_3_0_2898",
+        "halfFull": "33_11_33_00_52312",
+        "size": "2_0_6_3_112128"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_3_11332",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_3_1_37509",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_3_1_3_57764",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_3_1_3_3_173292",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-1_18125",
+        "handicap": "3_1_822",
+        "halfFull": "33_33_2557",
+        "size": "2_3_1200"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-0_3-4_2-1_43500000",
+        "handicap": "3_0_0_1_2239",
+        "halfFull": "33_11_10_33_80561",
+        "size": "2_0_7+_3_624000"
+      },
+      "team": "001_002_014_015"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2017-04-24 22:00",
+      "matchId": "933439",
+      "league": "亚冠杯",
+      "home": "创造者",
+      "away": "吉达阿赫利",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.700",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.350",
+        "score_result": "2:0",
+        "score_odds": "25.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "7.750"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2017-04-24 23:00",
+      "matchId": "933483",
+      "league": "亚冠杯",
+      "home": "利雅得希拉尔",
+      "away": "波斯波利斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2017-04-24 23:35",
+      "matchId": "933485",
+      "league": "亚冠杯",
+      "home": "阿布扎比瓦赫达",
+      "away": "赖扬",
+      "result": {
+        "half": "2-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.590",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "5:1",
+        "score_odds": "120.000",
+        "goal_result": "6",
+        "goal_odds": "12.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2017-04-24 00:00",
+      "matchId": "933442",
+      "league": "亚冠杯",
+      "home": "扎巴汉",
+      "away": "阿布扎比艾因",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.950",
+        "score_result": "0:3",
+        "score_odds": "21.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2017-04-24 01:00",
+      "matchId": "929766",
+      "league": "瑞典超",
+      "home": "天狼星",
+      "away": "卡尔马",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.910",
+        "score_result": "3:0",
+        "score_odds": "20.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2017-04-24 01:00",
+      "matchId": "929765",
+      "league": "瑞典超",
+      "home": "马尔默",
+      "away": "佐加顿斯",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.310",
+        "score_result": "3:2",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "8.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2017-04-24 01:00",
+      "matchId": "928322",
+      "league": "挪超",
+      "home": "海于格松",
+      "away": "莫尔德",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2017-04-24 02:15",
+      "matchId": "885191",
+      "league": "德乙",
+      "home": "斯图加特",
+      "away": "柏林联合",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.000",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "4.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周一014",
+      "match_time": "2017-04-24 06:00",
+      "matchId": "906204",
+      "league": "阿甲",
+      "home": "天主教青年会",
+      "away": "奥林匹奥",
+      "result": {
+        "half": "1-1",
+        "full": "3-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.820",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "负其他",
+        "score_odds": "300.000",
+        "goal_result": "7+",
+        "goal_odds": "65.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周一015",
+      "match_time": "2017-04-24 08:15",
+      "matchId": "906201",
+      "league": "阿甲",
+      "home": "科隆竞技",
+      "away": "老虎竞技",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.960",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    }
+  ]
+}

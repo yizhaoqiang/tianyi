@@ -1,0 +1,354 @@
+{
+  "time": "2013-06-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_2-4_112000",
+        "handicap": "0_0_1345",
+        "halfFull": "10_00_1245",
+        "size": "4_6_16240"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-3_2-4_0-1_616000",
+        "handicap": "0_0_1_5045",
+        "halfFull": "10_00_10_6476",
+        "size": "4_6_1_53591"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_2-4_0-1_1-3_12936000",
+        "handicap": "0_0_1_0_6458",
+        "halfFull": "10_00_10_00_22020",
+        "size": "4_6_1_4_375143"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_48438",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_3_133204",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_3_3_275733",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_3_3_3_1_896133",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_2-0_14400",
+        "handicap": "0_3_1755",
+        "halfFull": "10_33_1598",
+        "size": "4_2_1739"
+      },
+      "team": "001_017"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_2-4_2-0_2-0_8568000",
+        "handicap": "0_0_3_3_21494",
+        "halfFull": "10_00_13_33_19479",
+        "size": "4_6_2_2_155904"
+      },
+      "team": "001_002_016_017"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2013-06-09 18:00",
+      "matchId": "591707",
+      "league": "J2联赛",
+      "home": "熊本深红",
+      "away": "京都不死鸟",
+      "result": {
+        "half": "0-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.900",
+        "score_result": "1:3",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2013-06-09 21:00",
+      "matchId": "492089",
+      "league": "世非预",
+      "home": "津巴布韦",
+      "away": "埃及",
+      "result": {
+        "half": "1-2",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.760",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.450",
+        "score_result": "2:4",
+        "score_odds": "70.000",
+        "goal_result": "6",
+        "goal_odds": "28.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2013-06-09 23:00",
+      "matchId": "492084",
+      "league": "世非预",
+      "home": "尼日尔",
+      "away": "布基纳法索",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "0:1",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "3.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2013-06-09 23:00",
+      "matchId": "492092",
+      "league": "世非预",
+      "home": "贝宁",
+      "away": "阿尔及利亚",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.280",
+        "score_result": "1:3",
+        "score_odds": "21.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2013-06-09 23:30",
+      "matchId": "492207",
+      "league": "世非预",
+      "home": "多哥",
+      "away": "喀麦隆",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "7.500",
+        "score_result": "2:0",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2013-06-09 00:00",
+      "matchId": "578674",
+      "league": "U21欧洲杯",
+      "home": "荷兰U21",
+      "away": "俄罗斯U21",
+      "result": {
+        "half": "1-0",
+        "full": "5-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.750",
+        "score_result": "5:1",
+        "score_odds": "67.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2013-06-09 01:00",
+      "matchId": "492192",
+      "league": "世非预",
+      "home": "几内亚",
+      "away": "莫桑比克",
+      "result": {
+        "half": "3-1",
+        "full": "6-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.070",
+        "score_result": "胜其他",
+        "score_odds": "45.000",
+        "goal_result": "7+",
+        "goal_odds": "40.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2013-06-09 01:15",
+      "matchId": "211308",
+      "league": "阿甲",
+      "home": "河床",
+      "away": "阿根廷独立",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.640",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周日016",
+      "match_time": "2013-06-09 05:30",
+      "matchId": "599464",
+      "league": "巴西甲",
+      "home": "米内罗竞技",
+      "away": "格雷米奥",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.550",
+        "score_result": "2:0",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日017",
+      "match_time": "2013-06-09 08:30",
+      "matchId": "211313",
+      "league": "阿甲",
+      "home": "竞技俱乐部",
+      "away": "博卡青年",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.500",
+        "score_result": "2:0",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.400"
+      }
+    }
+  ]
+}

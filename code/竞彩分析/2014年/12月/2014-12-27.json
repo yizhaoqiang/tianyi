@@ -1,0 +1,272 @@
+{
+  "time": "2014-12-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-3_1-0_42250",
+        "handicap": "3_1_489",
+        "halfFull": "01_13_4900",
+        "size": "6_1_9180"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-3_1-0_0-0_1225250",
+        "handicap": "3_1_0_1445",
+        "halfFull": "01_13_11_58800",
+        "size": "6_1_0_266220"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-3_1-0_0-0_1-3_41658500",
+        "handicap": "3_1_0_0_2703",
+        "halfFull": "01_13_11_00_352800",
+        "size": "6_1_0_4_1397655"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_4027",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_3_6081",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_0_3_3_3_9183",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-3_1-0_55250",
+        "handicap": "3_3_211",
+        "halfFull": "01_33_5530",
+        "size": "6_1_7380"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-3_1-0_1-0_1-0_2693437",
+        "handicap": "3_1_3_3_1117",
+        "halfFull": "01_13_13_33_116130",
+        "size": "6_1_1_1_141142"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2014-12-27 14:00",
+      "matchId": "705715",
+      "league": "澳超",
+      "home": "中央海岸水手",
+      "away": "布里斯班狮吼",
+      "result": {
+        "half": "0-1",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.400",
+        "score_result": "3:3",
+        "score_odds": "65.000",
+        "goal_result": "6",
+        "goal_odds": "18.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2014-12-27 16:30",
+      "matchId": "705718",
+      "league": "澳超",
+      "home": "墨尔本胜利",
+      "away": "纽卡斯尔喷气机",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2014-12-27 23:00",
+      "matchId": "708253",
+      "league": "苏超",
+      "home": "凯尔特人",
+      "away": "罗斯郡",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.950",
+        "score_result": "0:0",
+        "score_odds": "29.000",
+        "goal_result": "0",
+        "goal_odds": "29.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2014-12-27 23:00",
+      "matchId": "708266",
+      "league": "苏超",
+      "home": "邓迪FC",
+      "away": "圣米伦",
+      "result": {
+        "half": "0-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.870",
+        "score_result": "1:3",
+        "score_odds": "34.000",
+        "goal_result": "4",
+        "goal_odds": "5.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2014-12-27 23:00",
+      "matchId": "708271",
+      "league": "苏超",
+      "home": "圣约翰斯通",
+      "away": "邓迪联",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.760",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.490",
+        "score_result": "2:1",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "0-3",
+        "half_full_odds": "31.000"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2014-12-27 23:00",
+      "matchId": "708262",
+      "league": "苏超",
+      "home": "基尔马诺克",
+      "away": "汉密尔顿",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.760",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "3.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2014-12-27 23:00",
+      "matchId": "708288",
+      "league": "苏超",
+      "home": "马瑟韦尔",
+      "away": "帕尔蒂克",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.760",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "1:0",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.950"
+      }
+    }
+  ]
+}

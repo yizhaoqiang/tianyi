@@ -1,0 +1,272 @@
+{
+  "time": "2020-06-25",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_1-0_22500",
+        "handicap": "0_3_244",
+        "halfFull": "00_13_3420",
+        "size": "5_1_4305"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_1-0_1-0_168750",
+        "handicap": "0_3_3_346",
+        "halfFull": "00_13_33_17100",
+        "size": "5_1_1_18942"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_1-0_1-0_2-3_4218750",
+        "handicap": "0_3_3_0_540",
+        "halfFull": "00_13_33_00_83790",
+        "size": "5_1_1_5_156271"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_3_1060",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_3_1_3657",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_0_3_1_1_12985",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_3-2_66000",
+        "handicap": "0_1_585",
+        "halfFull": "00_13_2679",
+        "size": "5_5_10500"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_1-0_1-0_3-2_2846250",
+        "handicap": "0_3_1_1_2990",
+        "halfFull": "00_13_13_13_73940",
+        "size": "5_1_1_5_187267"
+      },
+      "team": "001_002_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2020-06-25 00:00",
+      "matchId": "1094193",
+      "league": "挪超",
+      "home": "萨尔普斯堡",
+      "away": "斯特罗姆加斯特",
+      "result": {
+        "half": "0-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "2:3",
+        "score_odds": "30.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2020-06-25 01:00",
+      "matchId": "1096258",
+      "league": "英超",
+      "home": "伯恩利",
+      "away": "沃特福德",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2020-06-25 01:30",
+      "matchId": "1095581",
+      "league": "西甲",
+      "home": "埃瓦尔",
+      "away": "巴伦西亚",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.670",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "1:0",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "4.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2020-06-25 02:30",
+      "matchId": "1094196",
+      "league": "挪超",
+      "home": "罗森博格",
+      "away": "博德闪耀",
+      "result": {
+        "half": "0-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "2:3",
+        "score_odds": "25.000",
+        "goal_result": "5",
+        "goal_odds": "8.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2020-06-25 03:15",
+      "matchId": "1096260",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "曼彻斯特城",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.050",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.960",
+        "score_result": "2:1",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "7.250"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2020-06-25 04:00",
+      "matchId": "1095582",
+      "league": "西甲",
+      "home": "皇家贝蒂斯",
+      "away": "西班牙人",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "5.750",
+        "goal_result": "1",
+        "goal_odds": "4.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2020-06-25 04:00",
+      "matchId": "1094937",
+      "league": "葡超",
+      "home": "布拉加",
+      "away": "吉马良斯",
+      "result": {
+        "half": "2-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "3:2",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.700"
+      }
+    }
+  ]
+}

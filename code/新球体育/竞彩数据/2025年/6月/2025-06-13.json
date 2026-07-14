@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2025-06-13 18:30",
+    "matchId": "2716575",
+    "league": "韩K联",
+    "home": "江原FC",
+    "away": "全北现代",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.55",
+        "d": "3.06",
+        "l": "1.92"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.69",
+        "d": "3.40",
+        "l": "4.10"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.92",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "4.10",
+      "score_result": "0:3",
+      "score_odds": "21.00",
+      "goal_result": "3",
+      "goal_odds": "3.75",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.55"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2025-06-14 10:50",
+    "matchId": "2741503",
+    "league": "美职业",
+    "home": "波特兰伐木者",
+    "away": "圣何塞地震",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.74",
+        "d": "3.90",
+        "l": "3.35"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.16",
+        "d": "3.80",
+        "l": "1.82"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.82",
+      "score_result": "1:1",
+      "score_odds": "8.50",
+      "goal_result": "2",
+      "goal_odds": "5.15",
+      "half_full_result": "1-1",
+      "half_full_odds": "7.10"
+    }
+  }
+]

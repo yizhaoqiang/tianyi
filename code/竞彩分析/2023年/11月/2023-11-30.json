@@ -1,0 +1,200 @@
+{
+  "time": "2023-11-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-5_87000",
+        "handicap": "0_0_679",
+        "halfFull": "31_00_5025",
+        "size": "2_5_3249"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-5_4-0_652500",
+        "handicap": "0_0_3_1202",
+        "halfFull": "31_00_33_6532",
+        "size": "2_5_4_12671"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-5_4-0_0-2_5546250",
+        "handicap": "0_0_3_1_4930",
+        "halfFull": "31_00_33_00_10778",
+        "size": "2_5_4_2_64622"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_1_1_15875",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-2_15950",
+        "handicap": "0_1_553",
+        "halfFull": "31_33_4125",
+        "size": "2_5_3800"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-5_0-2_3-2_16269000",
+        "handicap": "0_0_1_1_8969",
+        "halfFull": "31_00_00_33_22800",
+        "size": "2_5_2_5_165699"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2023-11-30 01:45",
+      "matchId": "1237076",
+      "league": "欧联",
+      "home": "亚特兰大",
+      "away": "里斯本",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.720",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.800",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2023-11-30 01:45",
+      "matchId": "1237178",
+      "league": "欧协联",
+      "home": "贝西克塔",
+      "away": "布鲁日",
+      "result": {
+        "half": "0-2",
+        "full": "0-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.950",
+        "score_result": "0:5",
+        "score_odds": "120.000",
+        "goal_result": "5",
+        "goal_odds": "8.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2023-11-30 04:00",
+      "matchId": "1237079",
+      "league": "欧联",
+      "home": "利物浦",
+      "away": "LASK林茨",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.770",
+        "score_result": "4:0",
+        "score_odds": "7.500",
+        "goal_result": "4",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.300"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2023-11-30 04:00",
+      "matchId": "1237081",
+      "league": "欧联",
+      "home": "赫根",
+      "away": "勒沃库森",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.190",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "4.100",
+        "score_result": "0:2",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "5.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.650"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2023-11-30 04:00",
+      "matchId": "1237086",
+      "league": "欧联",
+      "home": "比利亚雷",
+      "away": "帕纳辛纳",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.590",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.220",
+        "score_result": "3:2",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    }
+  ]
+}

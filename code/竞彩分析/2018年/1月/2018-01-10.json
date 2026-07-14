@@ -1,0 +1,354 @@
+{
+  "time": "2018-01-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-0_3250",
+        "handicap": "3_1_601",
+        "halfFull": "03_33_4676",
+        "size": "3_1_1037"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_1-0_4-1_45500",
+        "handicap": "3_1_3_1353",
+        "halfFull": "03_33_33_6452",
+        "size": "3_1_5_7258"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-0_4-1_1-1_273000",
+        "handicap": "3_1_3_0_1949",
+        "halfFull": "03_33_33_11_29037",
+        "size": "3_1_5_2_23591"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_3_3294",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_3_0_10277",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_3_0_3_41110",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_3_0_3_1_133609",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-1_8750",
+        "handicap": "3_0_323",
+        "halfFull": "03_00_16240",
+        "size": "3_1_1258"
+      },
+      "team": "001_020"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-0_3-1_0-1_540312",
+        "handicap": "3_1_3_0_1521",
+        "halfFull": "03_33_33_00_105771",
+        "size": "3_1_4_1_18608"
+      },
+      "team": "001_002_019_020"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2018-01-10 14:35",
+      "matchId": "991947",
+      "league": "澳超",
+      "home": "惠灵顿凤凰",
+      "away": "墨尔本胜利",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.880",
+        "score_result": "2:1",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "0-3",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2018-01-10 16:00",
+      "matchId": "1003801",
+      "league": "亚青赛",
+      "home": "朝鲜U23",
+      "away": "泰国U23",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:0",
+        "score_odds": "3.250",
+        "goal_result": "1",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.670"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2018-01-10 16:00",
+      "matchId": "1003804",
+      "league": "亚青赛",
+      "home": "伊拉克U23",
+      "away": "马来西亚U23",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.080",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "4:1",
+        "score_odds": "14.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.380"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2018-01-10 16:50",
+      "matchId": "992059",
+      "league": "澳超",
+      "home": "西悉尼漫步者",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.020",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.440",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2018-01-10 19:30",
+      "matchId": "1003805",
+      "league": "亚青赛",
+      "home": "约旦U23",
+      "away": "沙特U23",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.020",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.690",
+        "score_result": "2:2",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "7.250",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2018-01-10 19:30",
+      "matchId": "1003800",
+      "league": "亚青赛",
+      "home": "日本U23",
+      "away": "巴勒斯坦U23",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.040",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "3.120",
+        "score_result": "1:0",
+        "score_odds": "7.750",
+        "goal_result": "1",
+        "goal_odds": "7.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.230"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2018-01-10 01:45",
+      "matchId": "1001119",
+      "league": "法联杯",
+      "home": "雷恩",
+      "away": "图卢兹",
+      "result": {
+        "half": "2-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.870",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.000",
+        "score_result": "4:2",
+        "score_odds": "70.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.050"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2018-01-10 02:30",
+      "matchId": "1000448",
+      "league": "国王杯",
+      "home": "比利亚雷亚尔",
+      "away": "莱加内斯",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "0-3",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周三019",
+      "match_time": "2018-01-10 11:00",
+      "matchId": "1003807",
+      "league": "墨西哥杯",
+      "home": "华雷斯",
+      "away": "普埃布拉大学",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "3:1",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "4.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周三020",
+      "match_time": "2018-01-10 11:00",
+      "matchId": "1003806",
+      "league": "墨西哥杯",
+      "home": "阿特拉斯",
+      "away": "韦拉克鲁斯",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.760",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.720",
+        "score_result": "0:1",
+        "score_odds": "8.750",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.800"
+      }
+    }
+  ]
+}

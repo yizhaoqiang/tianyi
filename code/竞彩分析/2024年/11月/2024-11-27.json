@@ -1,0 +1,354 @@
+{
+  "time": "2024-11-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-0_7000",
+        "handicap": "1_3_546",
+        "halfFull": "13_33_744",
+        "size": "1_2_2517"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_2-0_5-1_2100000",
+        "handicap": "1_3_3_1038",
+        "halfFull": "13_33_33_5208",
+        "size": "1_2_6_35245"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-0_5-1_1-0_25200000",
+        "handicap": "1_3_3_3_1776",
+        "halfFull": "13_33_33_13_42184",
+        "size": "1_2_6_1_176225"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_0_3161",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_0_0_6639",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_0_0_3_13943",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_0_0_3_0_21193",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-2_6650",
+        "handicap": "1_0_507",
+        "halfFull": "13_00_2139",
+        "size": "1_3_1923"
+      },
+      "team": "001_013"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-0_2-0_1-2_731500",
+        "handicap": "1_3_3_0_2228",
+        "halfFull": "13_33_13_00_16427",
+        "size": "1_2_2_3_44861"
+      },
+      "team": "001_002_012_013"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2024-11-27 18:00",
+      "matchId": "1275651",
+      "league": "亚冠杯",
+      "home": "光州FC",
+      "away": "上海申花",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.830",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "4.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.650"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2024-11-27 18:00",
+      "matchId": "1275652",
+      "league": "亚冠杯",
+      "home": "横滨水手",
+      "away": "浦项制铁",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "2:0",
+        "score_odds": "10.000",
+        "goal_result": "2",
+        "goal_odds": "5.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.600"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2024-11-27 01:45",
+      "matchId": "1276470",
+      "league": "欧冠",
+      "home": "贝红星",
+      "away": "斯图加特",
+      "result": {
+        "half": "2-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "5:1",
+        "score_odds": "300.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2024-11-27 01:45",
+      "matchId": "1276471",
+      "league": "欧冠",
+      "home": "格风暴",
+      "away": "赫罗纳",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.710",
+        "score_result": "1:0",
+        "score_odds": "12.000",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "8.100"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2024-11-27 03:45",
+      "matchId": "1264509",
+      "league": "英冠",
+      "home": "加的夫城",
+      "away": "女王巡游",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.780",
+        "score_result": "0:2",
+        "score_odds": "20.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.750"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2024-11-27 03:45",
+      "matchId": "1264511",
+      "league": "英冠",
+      "home": "米堡",
+      "away": "布莱克本",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "0:1",
+        "score_odds": "15.000",
+        "goal_result": "1",
+        "goal_odds": "5.750",
+        "half_full_result": "1-0",
+        "half_full_odds": "11.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2024-11-27 03:45",
+      "matchId": "1264503",
+      "league": "英冠",
+      "home": "利兹联",
+      "away": "卢顿",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.100",
+        "score_result": "3:0",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2024-11-27 04:00",
+      "matchId": "1276475",
+      "league": "欧冠",
+      "home": "维拉",
+      "away": "尤文图斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.960",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周三012",
+      "match_time": "2024-11-27 04:00",
+      "matchId": "1276483",
+      "league": "欧冠",
+      "home": "利物浦",
+      "away": "皇马",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.850",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "4.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周三013",
+      "match_time": "2024-11-27 04:00",
+      "matchId": "1264510",
+      "league": "英冠",
+      "home": "德比郡",
+      "away": "斯旺西",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.680",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "4.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    }
+  ]
+}

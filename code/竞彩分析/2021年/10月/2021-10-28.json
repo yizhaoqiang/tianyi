@@ -1,0 +1,200 @@
+{
+  "time": "2021-10-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-2_9450",
+        "handicap": "0_1_434",
+        "halfFull": "00_00_821",
+        "size": "2_3_1317"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_1-2_2-2_122850",
+        "handicap": "0_1_0_850",
+        "halfFull": "00_00_11_4804",
+        "size": "2_3_4_6587"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_1-2_2-2_1-1_700245",
+        "handicap": "0_1_0_0_1326",
+        "halfFull": "00_00_11_01_76869",
+        "size": "2_3_4_2_18774"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_0_0_3_3397",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_3-0_9240",
+        "handicap": "0_3_358",
+        "halfFull": "00_33_540",
+        "size": "2_3_1338"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_1-2_1-1_3-0_355508",
+        "handicap": "0_1_0_3_1733",
+        "halfFull": "00_00_01_33_19447",
+        "size": "2_3_2_3_11827"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2021-10-28 00:00",
+      "matchId": "1132927",
+      "league": "挪超",
+      "home": "布兰",
+      "away": "维京",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "4.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2021-10-28 01:00",
+      "matchId": "1124467",
+      "league": "瑞典超",
+      "home": "代格福什",
+      "away": "埃尔夫斯堡",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.490",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "1:2",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2021-10-28 01:00",
+      "matchId": "1124470",
+      "league": "瑞典超",
+      "home": "北雪平",
+      "away": "米亚尔比",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.960",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.850"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2021-10-28 02:00",
+      "matchId": "1139878",
+      "league": "西甲",
+      "home": "格拉纳达CF",
+      "away": "赫塔费",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "1:1",
+        "score_odds": "5.700",
+        "goal_result": "2",
+        "goal_odds": "2.850",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2021-10-28 02:45",
+      "matchId": "1147813",
+      "league": "意甲",
+      "home": "那不勒斯",
+      "away": "博洛尼亚",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.560",
+        "score_result": "3:0",
+        "score_odds": "6.600",
+        "goal_result": "3",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.480"
+      }
+    }
+  ]
+}

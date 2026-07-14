@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2025-01-14 03:45",
+    "matchId": "2607061",
+    "league": "意甲",
+    "home": "蒙扎",
+    "away": "佛罗伦萨",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.00",
+        "d": "3.35",
+        "l": "1.72"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.87",
+        "d": "3.35",
+        "l": "3.40"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "4.00",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.87",
+      "score_result": "2:1",
+      "score_odds": "13.00",
+      "goal_result": "3",
+      "goal_odds": "3.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "7.50"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2025-01-14 04:00",
+    "matchId": "2596797",
+    "league": "西甲",
+    "home": "皇家社会",
+    "away": "比利亚雷亚尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.96",
+        "d": "3.20",
+        "l": "3.26"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.10",
+        "d": "3.65",
+        "l": "1.64"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.96",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.65",
+      "score_result": "1:0",
+      "score_odds": "7.50",
+      "goal_result": "1",
+      "goal_odds": "4.85",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.55"
+    }
+  }
+]

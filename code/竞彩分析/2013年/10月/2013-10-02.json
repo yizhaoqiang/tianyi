@@ -1,0 +1,354 @@
+{
+  "time": "2013-10-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_2-1_15400",
+        "handicap": "3_3_325",
+        "halfFull": "33_33_945",
+        "size": "4_3_1548"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_2-1_2-2_200200",
+        "handicap": "3_3_0_481",
+        "halfFull": "33_33_01_14175",
+        "size": "4_3_4_9442"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_2-1_2-2_3-2_5005000",
+        "handicap": "3_3_0_1_1756",
+        "halfFull": "33_33_01_33_36855",
+        "size": "4_3_4_5_94428"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_1_6325",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_1_0_9171",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_1_0_0_35309",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_1_1_0_0_3_54376",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_3-0_37800",
+        "handicap": "3_3_252",
+        "halfFull": "33_33_752",
+        "size": "4_3_1677"
+      },
+      "team": "001_020"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_2-1_0-2_3-0_5405400",
+        "handicap": "3_3_0_3_745",
+        "halfFull": "33_33_00_33_19098",
+        "size": "4_3_2_3_19620"
+      },
+      "team": "001_002_019_020"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2013-10-02 20:00",
+      "matchId": "659095",
+      "league": "亚冠杯",
+      "home": "广州恒大",
+      "away": "柏太阳神",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.730",
+        "score_result": "4:0",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "4.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.750"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2013-10-02 21:30",
+      "matchId": "658943",
+      "league": "荷甲",
+      "home": "海牙",
+      "away": "维迪斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.880",
+        "score_result": "2:1",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2013-10-02 23:30",
+      "matchId": "659016",
+      "league": "亚冠杯",
+      "home": "德黑兰独立",
+      "away": "首尔FC",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.480",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "6.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2013-10-02 00:00",
+      "matchId": "655850",
+      "league": "欧冠",
+      "home": "莫斯科中央陆军",
+      "away": "比尔森",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.730",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "3:2",
+        "score_odds": "25.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2013-10-02 02:45",
+      "matchId": "655854",
+      "league": "欧冠",
+      "home": "勒沃库森",
+      "away": "皇家社会",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2013-10-02 02:45",
+      "matchId": "655940",
+      "league": "欧冠",
+      "home": "顿涅茨克矿工",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2013-10-02 02:45",
+      "matchId": "655856",
+      "league": "欧冠",
+      "home": "尤文图斯",
+      "away": "加拉塔萨雷",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.850",
+        "score_result": "2:2",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "0-1",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2013-10-02 02:45",
+      "matchId": "655862",
+      "league": "欧冠",
+      "home": "皇家马德里",
+      "away": "哥本哈根",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "4:0",
+        "score_odds": "7.000",
+        "goal_result": "4",
+        "goal_odds": "4.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.250"
+      }
+    },
+    {
+      "num": "周三019",
+      "match_time": "2013-10-02 08:50",
+      "matchId": "604021",
+      "league": "巴西甲",
+      "home": "科里蒂巴",
+      "away": "弗拉门戈",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "0:2",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周三020",
+      "match_time": "2013-10-02 08:50",
+      "matchId": "604059",
+      "league": "巴西甲",
+      "home": "桑托斯",
+      "away": "圣保罗",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.620",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.460",
+        "score_result": "3:0",
+        "score_odds": "27.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.300"
+      }
+    }
+  ]
+}

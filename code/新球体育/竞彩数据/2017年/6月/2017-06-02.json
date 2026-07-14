@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2017-06-03 01:00",
+    "matchId": "1336679",
+    "league": "瑞典超",
+    "home": "埃尔夫斯堡",
+    "away": "赫根",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.10",
+        "d": "3.45",
+        "l": "2.75"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.20",
+        "d": "4.00",
+        "l": "1.56"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.10",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.20",
+      "score_result": "2:0",
+      "score_odds": "11.50",
+      "goal_result": "2",
+      "goal_odds": "3.85",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.40"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2017-06-03 02:45",
+    "matchId": "1389651",
+    "league": "国际友谊",
+    "home": "北爱尔兰",
+    "away": "新西兰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.33",
+        "d": "3.90",
+        "l": "8.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.32",
+        "d": "3.05",
+        "l": "2.70"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.33",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.05",
+      "score_result": "1:0",
+      "score_odds": "4.40",
+      "goal_result": "1",
+      "goal_odds": "3.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.85"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2017-06-03 03:00",
+    "matchId": "1389650",
+    "league": "国际友谊",
+    "home": "法国",
+    "away": "巴拉圭",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.12",
+        "d": "5.95",
+        "l": "14.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.57",
+        "d": "3.60",
+        "l": "4.65"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "5-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.12",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.57",
+      "score_result": "5:0",
+      "score_odds": "20.00",
+      "goal_result": "5",
+      "goal_odds": "8.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.45"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2017-06-03 06:00",
+    "matchId": "1292501",
+    "league": "阿甲",
+    "home": "萨尔米安杜",
+    "away": "防卫者",
+    "finish_odds": {
+      "wdl": {
+        "w": "6.35",
+        "d": "3.80",
+        "l": "1.41"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.45",
+        "d": "3.05",
+        "l": "2.55"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "6.35",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.45",
+      "score_result": "1:0",
+      "score_odds": "14.00",
+      "goal_result": "1",
+      "goal_odds": "4.30",
+      "half_full_result": "1-3",
+      "half_full_odds": "11.50"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2017-06-03 08:15",
+    "matchId": "1292500",
+    "league": "阿甲",
+    "home": "戈多伊克鲁斯",
+    "away": "拉费尔拿",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.90",
+        "d": "3.15",
+        "l": "3.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.00",
+        "d": "3.50",
+        "l": "1.69"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.50",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.69",
+      "score_result": "0:2",
+      "score_odds": "16.00",
+      "goal_result": "2",
+      "goal_odds": "3.10",
+      "half_full_result": "1-0",
+      "half_full_odds": "6.75"
+    }
+  }
+]

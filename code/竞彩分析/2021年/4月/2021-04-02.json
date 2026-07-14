@@ -1,0 +1,354 @@
+{
+  "time": "2021-04-02",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-2_13600",
+        "handicap": "3_0_1565",
+        "halfFull": "33_00_897",
+        "size": "4_2_1950"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_0-2_0-1_102000",
+        "handicap": "3_0_0_2552",
+        "halfFull": "33_00_00_6014",
+        "size": "4_2_1_6337"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-2_0-1_2-0_790500",
+        "handicap": "3_0_0_3_11997",
+        "halfFull": "33_00_00_33_20450",
+        "size": "4_2_1_2_19329"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_40790",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_3_171318",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_3_3_342637",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_3_3_0_565352",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_1-5_340000",
+        "handicap": "3_0_2070",
+        "halfFull": "33_00_1168",
+        "size": "4_6_20150"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-2_0-2_1-5_38080000",
+        "handicap": "3_0_0_0_13506",
+        "halfFull": "33_00_00_00_17483",
+        "size": "4_2_2_6_187395"
+      },
+      "team": "001_002_014_015"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2021-04-02 22:00",
+      "matchId": "1111503",
+      "league": "英冠",
+      "home": "伯恩茅斯",
+      "away": "米德尔斯堡",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.600",
+        "score_result": "3:1",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2021-04-02 22:00",
+      "matchId": "1111504",
+      "league": "英冠",
+      "home": "布里斯托尔城",
+      "away": "斯托克城",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.990",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.350",
+        "score_result": "0:2",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2021-04-02 22:00",
+      "matchId": "1111505",
+      "league": "英冠",
+      "home": "加的夫城",
+      "away": "诺丁汉森林",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.700"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2021-04-02 22:00",
+      "matchId": "1111506",
+      "league": "英冠",
+      "home": "德比郡",
+      "away": "卢顿",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.700",
+        "score_result": "2:0",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2021-04-02 22:00",
+      "matchId": "1111508",
+      "league": "英冠",
+      "home": "米尔沃尔",
+      "away": "罗瑟汉姆",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "1:0",
+        "score_odds": "5.600",
+        "goal_result": "1",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2021-04-02 22:00",
+      "matchId": "1111510",
+      "league": "英冠",
+      "home": "女王公园巡游者",
+      "away": "考文垂",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.200",
+        "score_result": "3:0",
+        "score_odds": "20.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.450"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2021-04-02 22:00",
+      "matchId": "1111512",
+      "league": "英冠",
+      "home": "威科姆",
+      "away": "布莱克本",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.000",
+        "score_result": "1:0",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "4.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2021-04-02 00:00",
+      "matchId": "1102882",
+      "league": "荷乙",
+      "home": "前进之鹰",
+      "away": "罗达JC",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "0:0",
+        "score_odds": "11.500",
+        "goal_result": "0",
+        "goal_odds": "11.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周五014",
+      "match_time": "2021-04-02 03:00",
+      "matchId": "1114816",
+      "league": "西甲",
+      "home": "莱万特",
+      "away": "韦斯卡",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "0:2",
+        "score_odds": "14.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周五015",
+      "match_time": "2021-04-02 03:30",
+      "matchId": "1114361",
+      "league": "葡超",
+      "home": "葡萄牙国民",
+      "away": "波尔蒂芒尼斯",
+      "result": {
+        "half": "0-2",
+        "full": "1-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.320",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.750",
+        "score_result": "1:5",
+        "score_odds": "200.000",
+        "goal_result": "6",
+        "goal_odds": "31.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.100"
+      }
+    }
+  ]
+}

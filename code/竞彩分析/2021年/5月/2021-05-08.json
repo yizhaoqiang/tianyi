@@ -1,0 +1,354 @@
+{
+  "time": "2021-05-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-1_5270",
+        "handicap": "3_0_398",
+        "halfFull": "11_11_3432",
+        "size": "2_2_1248"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-1_0-2_32937",
+        "handicap": "3_0_0_736",
+        "halfFull": "11_11_00_5903",
+        "size": "2_2_2_4992"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-1_0-2_1-1_207506",
+        "handicap": "3_0_0_3_1289",
+        "halfFull": "11_11_00_01_88545",
+        "size": "2_2_2_2_16473"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_3287",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_0_7626",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_0_3_19219",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_0_3_0_26907",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_2-1_8500",
+        "handicap": "3_3_396",
+        "halfFull": "11_33_3646",
+        "size": "2_3_1384"
+      },
+      "team": "001_044"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_1-1_1-1_2-1_382075",
+        "handicap": "3_0_0_3_1075",
+        "halfFull": "11_11_11_33_101518",
+        "size": "2_2_2_3_17278"
+      },
+      "team": "001_002_043_044"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2021-05-08 15:05",
+      "matchId": "1130810",
+      "league": "澳超",
+      "home": "纽卡斯尔喷气机",
+      "away": "悉尼FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.200",
+        "score_result": "1:1",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.150"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2021-05-08 15:30",
+      "matchId": "1127521",
+      "league": "K联赛",
+      "home": "浦项制铁",
+      "away": "江原FC",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.810",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2021-05-08 17:00",
+      "matchId": "1134022",
+      "league": "J联赛",
+      "home": "大阪钢巴",
+      "away": "川崎前锋",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "0:2",
+        "score_odds": "6.250",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.720"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2021-05-08 17:00",
+      "matchId": "1125578",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "琉球FC",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.750",
+        "score_result": "1:1",
+        "score_odds": "6.300",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2021-05-08 19:00",
+      "matchId": "1107604",
+      "league": "德乙",
+      "home": "杜塞尔多夫",
+      "away": "不伦瑞克",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.550",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "3-1",
+        "half_full_odds": "18.500"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2021-05-08 19:30",
+      "matchId": "1111593",
+      "league": "英冠",
+      "home": "伯恩茅斯",
+      "away": "斯托克城",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "0:2",
+        "score_odds": "25.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2021-05-08 19:30",
+      "matchId": "1111594",
+      "league": "英冠",
+      "home": "布莱克本",
+      "away": "伯明翰",
+      "result": {
+        "half": "2-1",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.520",
+        "score_result": "5:2",
+        "score_odds": "100.000",
+        "goal_result": "7+",
+        "goal_odds": "28.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.200"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2021-05-08 19:30",
+      "matchId": "1111591",
+      "league": "英冠",
+      "home": "加的夫城",
+      "away": "罗瑟汉姆",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "1:1",
+        "score_odds": "6.700",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周六043",
+      "match_time": "2021-05-08 06:00",
+      "matchId": "1129273",
+      "league": "美职",
+      "home": "奥兰多城",
+      "away": "纽约城",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周六044",
+      "match_time": "2021-05-08 08:00",
+      "matchId": "1129274",
+      "league": "美职",
+      "home": "洛杉矶银河",
+      "away": "洛杉矶FC",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.280",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.800",
+        "score_result": "2:1",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.100"
+      }
+    }
+  ]
+}

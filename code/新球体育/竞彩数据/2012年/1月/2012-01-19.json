@@ -1,0 +1,128 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2012-01-19 21:30",
+    "matchId": "664866",
+    "league": "荷兰杯",
+    "home": "阿贾克斯",
+    "away": "阿尔克马尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.68",
+        "d": "3.65",
+        "l": "3.95"
+      }
+    },
+    "result": {
+      "half": "2-2",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.95",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "2:3",
+      "score_odds": "26.00",
+      "goal_result": "5",
+      "goal_odds": "8.50",
+      "half_full_result": "1-0",
+      "half_full_odds": "8.80"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2012-01-20 04:00",
+    "matchId": "655413",
+    "league": "意杯",
+    "home": "国际米兰",
+    "away": "热那亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.30",
+        "d": "4.50",
+        "l": "7.50"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.30",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "2:1",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.85"
+    }
+  },
+  {
+    "num": "周四003",
+    "match_time": "2012-01-20 04:15",
+    "matchId": "658437",
+    "league": "葡联杯",
+    "home": "葡萄牙体育",
+    "away": "摩里伦斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.68",
+        "d": "3.75",
+        "l": "3.75"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.68",
+        "d": "3.75",
+        "l": "3.75"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "3.75",
+      "score_result": "1:1",
+      "score_odds": "8.50",
+      "goal_result": "2",
+      "goal_odds": "3.80",
+      "half_full_result": "1-1",
+      "half_full_odds": "7.50"
+    }
+  },
+  {
+    "num": "周四004",
+    "match_time": "2012-01-20 04:30",
+    "matchId": "663411",
+    "league": "西杯",
+    "home": "巴伦西亚",
+    "away": "莱万特",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.30",
+        "d": "4.40",
+        "l": "7.80"
+      }
+    },
+    "result": {
+      "half": "3-1",
+      "full": "4-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.30",
+      "handicap": null,
+      "handicap_result": null,
+      "handicap_odds": null,
+      "score_result": "4:1",
+      "score_odds": "20.00",
+      "goal_result": "5",
+      "goal_odds": "9.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.92"
+    }
+  }
+]

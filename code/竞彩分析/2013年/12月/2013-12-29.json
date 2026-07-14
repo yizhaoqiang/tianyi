@@ -1,0 +1,354 @@
+{
+  "time": "2013-12-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-0_5250",
+        "handicap": "3_1_1287",
+        "halfFull": "13_33_1373",
+        "size": "2_1_1372"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_1-0_0-0_42000",
+        "handicap": "3_1_3_1764",
+        "halfFull": "13_33_11_6455",
+        "size": "2_1_0_10980"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-0_0-0_0-1_273000",
+        "handicap": "3_1_3_1_5999",
+        "halfFull": "13_33_11_00_12394",
+        "size": "2_1_0_1_63135"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_1_20996",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_1_1_79787",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_1_1_3_122074",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_1_1_3_0_173345",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-0_7875",
+        "handicap": "3_3_451",
+        "halfFull": "13_11_1927",
+        "size": "2_0_3202"
+      },
+      "team": "001_041"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_1-0_1-2_0-0_441000",
+        "handicap": "3_1_0_3_2578",
+        "halfFull": "13_33_10_11_38732",
+        "size": "2_1_3_0_49718"
+      },
+      "team": "001_002_040_041"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2013-12-29 12:05",
+      "matchId": "669184",
+      "league": "天皇杯",
+      "home": "横滨水手",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.660",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.180",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2013-12-29 14:00",
+      "matchId": "612649",
+      "league": "澳超",
+      "home": "阿德莱德联",
+      "away": "纽卡斯尔喷气机",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "1:0",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2013-12-29 14:00",
+      "matchId": "669185",
+      "league": "天皇杯",
+      "home": "东京FC",
+      "away": "广岛三箭",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.370",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2013-12-29 20:30",
+      "matchId": "610854",
+      "league": "苏超",
+      "home": "因弗内斯",
+      "away": "凯尔特人",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "5.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.920"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2013-12-29 21:30",
+      "matchId": "608475",
+      "league": "英超",
+      "home": "埃弗顿",
+      "away": "南安普敦",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.660",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2013-12-29 21:30",
+      "matchId": "608500",
+      "league": "英超",
+      "home": "纽卡斯尔联",
+      "away": "阿森纳",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "5.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2013-12-29 22:00",
+      "matchId": "610859",
+      "league": "苏超",
+      "home": "圣约翰斯通",
+      "away": "邓迪联",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.530",
+        "score_result": "3:0",
+        "score_odds": "28.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2013-12-29 23:00",
+      "matchId": "609622",
+      "league": "英冠",
+      "home": "伯恩茅斯",
+      "away": "伊普斯维奇",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.420",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.850"
+      }
+    },
+    {
+      "num": "周日040",
+      "match_time": "2013-12-29 02:00",
+      "matchId": "664487",
+      "league": "葡联杯",
+      "home": "埃斯托里尔",
+      "away": "布拉加",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日041",
+      "match_time": "2013-12-29 04:45",
+      "matchId": "664489",
+      "league": "葡联杯",
+      "home": "里斯本竞技",
+      "away": "波尔图",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "0:0",
+        "score_odds": "10.500",
+        "goal_result": "0",
+        "goal_odds": "10.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    }
+  ]
+}

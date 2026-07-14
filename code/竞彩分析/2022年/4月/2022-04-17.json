@@ -1,0 +1,354 @@
+{
+  "time": "2022-04-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_1-1_3380",
+        "handicap": "0_3_204",
+        "halfFull": "10_11_2184",
+        "size": "1_2_1158"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_1-1_2-1_24505",
+        "handicap": "0_3_1_695",
+        "halfFull": "10_11_03_54600",
+        "size": "1_2_3_4346"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-1_2-1_0-0_208292",
+        "handicap": "0_3_1_0_1299",
+        "halfFull": "10_11_03_11_273000",
+        "size": "1_2_3_0_36943"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_1_4224",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_1_0_11406",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_1_0_0_17337",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_1_0_0_3_49586",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_3-1_6500",
+        "handicap": "0_3_304",
+        "halfFull": "10_13_2156",
+        "size": "1_4_1520"
+      },
+      "team": "001_020"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-1_0-2_3-1_642200",
+        "handicap": "0_3_0_3_755",
+        "halfFull": "10_11_00_13_52552",
+        "size": "1_2_2_4_16689"
+      },
+      "team": "001_002_019_020"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2022-04-17 13:00",
+      "matchId": "1161625",
+      "league": "J联赛",
+      "home": "大阪钢巴",
+      "away": "湘南海洋",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.710",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2022-04-17 13:00",
+      "matchId": "1161949",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.410",
+        "score_result": "1:1",
+        "score_odds": "5.200",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2022-04-17 13:00",
+      "matchId": "1161952",
+      "league": "J2联赛",
+      "home": "横滨FC",
+      "away": "仙台七夕",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.740",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-3",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2022-04-17 14:00",
+      "matchId": "1161626",
+      "league": "J联赛",
+      "home": "鹿岛鹿角",
+      "away": "名古屋鲸",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.870",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2022-04-17 19:00",
+      "matchId": "1139324",
+      "league": "法甲",
+      "home": "尼斯",
+      "away": "洛里昂",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.490",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2022-04-17 19:30",
+      "matchId": "1138974",
+      "league": "德乙",
+      "home": "不来梅",
+      "away": "纽伦堡",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.700",
+        "score_result": "1:1",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "4.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2022-04-17 20:00",
+      "matchId": "1140089",
+      "league": "西甲",
+      "home": "格拉纳达",
+      "away": "莱万特",
+      "result": {
+        "half": "0-1",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "1:4",
+        "score_odds": "55.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2022-04-17 21:00",
+      "matchId": "1160708",
+      "league": "瑞典超",
+      "home": "卡尔马",
+      "away": "代格福什",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.860",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周日019",
+      "match_time": "2022-04-17 03:30",
+      "matchId": "1146260",
+      "league": "葡超",
+      "home": "里斯本",
+      "away": "本菲卡",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.580",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.760",
+        "score_result": "0:2",
+        "score_odds": "19.000",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周日020",
+      "match_time": "2022-04-17 04:00",
+      "matchId": "1157923",
+      "league": "美职",
+      "home": "洛杉矶FC",
+      "away": "堪萨斯城",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.100",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    }
+  ]
+}

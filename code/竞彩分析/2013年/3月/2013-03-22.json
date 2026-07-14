@@ -1,0 +1,328 @@
+{
+  "time": "2013-03-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-1_4420",
+        "handicap": "3_3_450",
+        "halfFull": "13_13_2345",
+        "size": "1_3_1428"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_2-1_3-3_353600",
+        "handicap": "3_3_1_1687",
+        "halfFull": "13_13_31_42228",
+        "size": "1_3_6_31415"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_2-1_3-3_2-1_3182400",
+        "handicap": "3_3_1_3_4353",
+        "halfFull": "13_13_31_03_1393524",
+        "size": "1_3_6_3_131947"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_3_3_9142",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_3_3_3_18742",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_3_3_3_3_26240",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_3_3_3_3_3_36473",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2013-03-22 19:35",
+      "matchId": "575327",
+      "league": "亚洲杯预",
+      "home": "中国",
+      "away": "伊拉克",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.000",
+        "score_result": "1:0",
+        "score_odds": "5.200",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2013-03-22 20:45",
+      "matchId": "575328",
+      "league": "亚洲杯预",
+      "home": "马来西亚",
+      "away": "也门",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2013-03-22 20:45",
+      "matchId": "216106",
+      "league": "世欧预",
+      "home": "以色列",
+      "away": "葡萄牙",
+      "result": {
+        "half": "2-1",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "3:3",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "22.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2013-03-22 21:45",
+      "matchId": "575335",
+      "league": "亚洲杯预",
+      "home": "阿联酋",
+      "away": "乌兹别克斯坦",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.580",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.580",
+        "score_result": "2:1",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "0-3",
+        "half_full_odds": "33.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2013-03-22 23:30",
+      "matchId": "575330",
+      "league": "亚洲杯预",
+      "home": "黎巴嫩",
+      "away": "泰国",
+      "result": {
+        "half": "3-0",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.100",
+        "score_result": "5:2",
+        "score_odds": "200.000",
+        "goal_result": "7+",
+        "goal_odds": "45.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2013-03-22 23:45",
+      "matchId": "575324",
+      "league": "亚洲杯预",
+      "home": "巴林",
+      "away": "卡塔尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2013-03-22 00:00",
+      "matchId": "215985",
+      "league": "世欧预",
+      "home": "保加利亚",
+      "away": "马耳他",
+      "result": {
+        "half": "2-0",
+        "full": "6-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.400",
+        "score_result": "胜其他",
+        "score_odds": "11.000",
+        "goal_result": "6",
+        "goal_odds": "12.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.390"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2013-03-22 00:05",
+      "matchId": "596602",
+      "league": "友谊赛",
+      "home": "日本",
+      "away": "加拿大",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.390",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周五037",
+      "match_time": "2013-03-22 10:11",
+      "matchId": "577534",
+      "league": "世中北美预",
+      "home": "美国",
+      "away": "哥斯达黎加",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.590",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "1:0",
+        "score_odds": "5.600",
+        "goal_result": "1",
+        "goal_odds": "4.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周五024",
+      "match_time": "2013-03-22 23:00",
+      "matchId": "216107",
+      "league": "世欧预",
+      "home": "北爱尔兰",
+      "away": "俄罗斯",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    }
+  ]
+}

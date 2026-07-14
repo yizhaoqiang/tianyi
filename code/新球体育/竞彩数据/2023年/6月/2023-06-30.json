@@ -1,0 +1,38 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2023-07-01 09:00",
+    "matchId": "2401057",
+    "league": "美金杯",
+    "home": "萨尔瓦多",
+    "away": "哥斯达黎加",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.35",
+        "d": "3.02",
+        "l": "1.96"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.63",
+        "d": "3.50",
+        "l": "4.17"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.02",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.63",
+      "score_result": "0:0",
+      "score_odds": "9.25",
+      "goal_result": "0",
+      "goal_odds": "9.25",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.85"
+    }
+  }
+]

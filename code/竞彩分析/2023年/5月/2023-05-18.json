@@ -1,0 +1,200 @@
+{
+  "time": "2023-05-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_1-1_15120",
+        "handicap": "3_0_469",
+        "halfFull": "33_11_1460",
+        "size": "5_2_2160"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-1_1-1_0-0_143640",
+        "handicap": "3_0_0_765",
+        "halfFull": "33_11_11_6571",
+        "size": "5_2_0_20520"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_1-1_0-0_0-1_1220940",
+        "handicap": "3_0_0_1_3062",
+        "halfFull": "33_11_11_10_39098",
+        "size": "5_2_0_1_102600"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_1_1_11025",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-1_1-2_19600",
+        "handicap": "3_1_1105",
+        "halfFull": "33_00_637",
+        "size": "5_3_2800"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-1_1-1_0-1_1-2_899640",
+        "handicap": "3_0_1_1_6763",
+        "halfFull": "33_11_10_00_18767",
+        "size": "5_2_1_3_37800"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2023-05-18 02:30",
+      "matchId": "1214451",
+      "league": "英超",
+      "home": "纽卡斯尔",
+      "away": "布赖顿",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.070",
+        "score_result": "4:1",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.950"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2023-05-18 03:00",
+      "matchId": "1214442",
+      "league": "欧联",
+      "home": "塞维利亚",
+      "away": "尤文图斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "2.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.950"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2023-05-18 03:00",
+      "matchId": "1214445",
+      "league": "欧联",
+      "home": "勒沃库森",
+      "away": "罗马",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2023-05-18 03:00",
+      "matchId": "1214447",
+      "league": "欧协联",
+      "home": "阿尔克马",
+      "away": "西汉姆联",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.950"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2023-05-18 03:00",
+      "matchId": "1214446",
+      "league": "欧协联",
+      "home": "巴塞尔",
+      "away": "佛罗伦萨",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.160"
+      }
+    }
+  ]
+}

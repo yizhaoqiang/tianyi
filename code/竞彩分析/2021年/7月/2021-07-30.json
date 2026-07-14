@@ -1,0 +1,331 @@
+{
+  "time": "2021-07-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-2_11900",
+        "handicap": "3_0_295",
+        "halfFull": "11_01_7125",
+        "size": "0_4_5100"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-2_1-3_148750",
+        "handicap": "3_0_0_891",
+        "halfFull": "11_01_10_27787",
+        "size": "0_4_4_27540"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-2_1-3_2-2_1487500",
+        "handicap": "3_0_0_3_1373",
+        "halfFull": "11_01_10_01_389025",
+        "size": "0_4_4_4_122553"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_4354",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_0_18288",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_0_0_25970",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_0_0_3_58692",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_3-2_17000",
+        "handicap": "3_1_454",
+        "halfFull": "11_13_2090",
+        "size": "0_5_7437"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-2_4-1_3-2_4760000",
+        "handicap": "3_0_3_1_2136",
+        "halfFull": "11_01_33_13_62073",
+        "size": "0_4_5_5_365925"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2021-07-30 16:00",
+      "matchId": "1152524",
+      "league": "奥运女足",
+      "home": "加拿大女足",
+      "away": "巴西女足",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2021-07-30 17:00",
+      "matchId": "1152523",
+      "league": "奥运女足",
+      "home": "英国女足",
+      "away": "澳大利亚女足",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.080",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2021-07-30 18:00",
+      "matchId": "1152522",
+      "league": "奥运女足",
+      "home": "日本女足",
+      "away": "瑞典女足",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.020",
+        "score_result": "1:3",
+        "score_odds": "12.500",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2021-07-30 19:00",
+      "matchId": "1152525",
+      "league": "奥运女足",
+      "home": "荷兰女足",
+      "away": "美国女足",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "2:2",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.450",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2021-07-30 00:00",
+      "matchId": "1141926",
+      "league": "俄超",
+      "home": "苏维埃之翼",
+      "away": "莫斯科斯巴达",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.170",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2021-07-30 00:00",
+      "matchId": "1141929",
+      "league": "俄超",
+      "home": "图拉兵工厂",
+      "away": "喀山红宝石",
+      "result": {
+        "half": "0-3",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.910",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.200",
+        "score_result": "0:3",
+        "score_odds": "18.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2021-07-30 00:30",
+      "matchId": "1138726",
+      "league": "德乙",
+      "home": "帕德博恩",
+      "away": "纽伦堡",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.420",
+        "score_result": "2:2",
+        "score_odds": "12.500",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2021-07-30 07:30",
+      "matchId": "1129411",
+      "league": "美职",
+      "home": "纽约城",
+      "away": "哥伦布机员",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.260",
+        "score_result": "4:1",
+        "score_odds": "20.000",
+        "goal_result": "5",
+        "goal_odds": "8.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.980"
+      }
+    },
+    {
+      "num": "周五009",
+      "match_time": "2021-07-30 08:00",
+      "matchId": "1129412",
+      "league": "美职",
+      "home": "奥兰多城",
+      "away": "亚特兰大联",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "3:2",
+        "score_odds": "20.000",
+        "goal_result": "5",
+        "goal_odds": "8.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    }
+  ]
+}

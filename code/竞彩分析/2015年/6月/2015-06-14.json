@@ -1,0 +1,354 @@
+{
+  "time": "2015-06-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-1_6975",
+        "handicap": "0_3_388",
+        "halfFull": "11_01_7650",
+        "size": "0_2_3015"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_1-1_0-1_40106",
+        "handicap": "0_3_1_1340",
+        "halfFull": "11_01_00_24480",
+        "size": "0_2_1_10552"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_0-1_1-1_260690",
+        "handicap": "0_3_1_3_2292",
+        "halfFull": "11_01_00_11_102816",
+        "size": "0_2_1_2_32185"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_3_0_8138",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_3_0_0_13265",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_3_0_0_3_22551",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_3_0_0_3_1_78931",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-0_5670",
+        "handicap": "0_1_507",
+        "halfFull": "11_33_1224",
+        "size": "0_1_3690"
+      },
+      "team": "001_031"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-1_2-1_1-0_307597",
+        "handicap": "0_3_1_1_4692",
+        "halfFull": "11_01_13_33_75949",
+        "size": "0_2_3_1_43265"
+      },
+      "team": "001_002_030_031"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2015-06-14 09:00",
+      "matchId": "791940",
+      "league": "U20世界杯",
+      "home": "巴西U20",
+      "away": "葡萄牙U20",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2015-06-14 09:00",
+      "matchId": "791938",
+      "league": "U20世界杯",
+      "home": "马里U20",
+      "away": "德国U20",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.680",
+        "score_result": "1:1",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2015-06-14 12:00",
+      "matchId": "777525",
+      "league": "J2联赛",
+      "home": "岐阜FC",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "0:1",
+        "score_odds": "5.750",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2015-06-14 12:00",
+      "matchId": "777523",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "大阪樱花",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.710",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2015-06-14 12:00",
+      "matchId": "777524",
+      "league": "J2联赛",
+      "home": "枥木SC",
+      "away": "大宫松鼠",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.760",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.550",
+        "score_result": "0:2",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2015-06-14 12:00",
+      "matchId": "777526",
+      "league": "J2联赛",
+      "home": "德岛漩涡",
+      "away": "赞岐釜玉海",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "2:2",
+        "score_odds": "19.000",
+        "goal_result": "4",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2015-06-14 12:30",
+      "matchId": "791681",
+      "league": "U20世界杯",
+      "home": "美国U20",
+      "away": "塞尔维亚U20",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.700",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2015-06-14 12:30",
+      "matchId": "791936",
+      "league": "U20世界杯",
+      "home": "乌兹别克U20",
+      "away": "塞内加尔U20",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.890",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日030",
+      "match_time": "2015-06-14 05:30",
+      "matchId": "786983",
+      "league": "美洲杯",
+      "home": "巴西",
+      "away": "秘鲁",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.290",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周日031",
+      "match_time": "2015-06-14 07:00",
+      "matchId": "767619",
+      "league": "美职",
+      "home": "奥兰多城",
+      "away": "华盛顿联",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.760",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "6.300",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.720"
+      }
+    }
+  ]
+}

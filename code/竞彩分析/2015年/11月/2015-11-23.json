@@ -1,0 +1,354 @@
+{
+  "time": "2015-11-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_4-1_26950",
+        "handicap": "3_3_1348",
+        "halfFull": "33_33_825",
+        "size": "2_5_3410"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_4-1_3-0_485100",
+        "handicap": "3_3_3_5597",
+        "halfFull": "33_33_33_2640",
+        "size": "2_5_3_12617"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_4-1_3-0_1-4_13582800",
+        "handicap": "3_3_3_0_16232",
+        "halfFull": "33_33_33_00_6336",
+        "size": "2_5_3_5_126170"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_3_27270",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_3_0_65448",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_3_0_1_242158",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_3_0_3_0_1_1_811231",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-1_6160",
+        "handicap": "3_1_1452",
+        "halfFull": "33_33_944",
+        "size": "2_3_1302"
+      },
+      "team": "001_020"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_4-1_0-1_2-1_1509200",
+        "handicap": "3_3_0_1_7694",
+        "halfFull": "33_33_10_33_18191",
+        "size": "2_5_1_3_45114"
+      },
+      "team": "001_002_019_020"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2015-11-23 13:00",
+      "matchId": "777793",
+      "league": "J2联赛",
+      "home": "大阪樱花",
+      "away": "东京绿茵",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.150",
+        "score_result": "2:0",
+        "score_odds": "7.700",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2015-11-23 13:00",
+      "matchId": "777787",
+      "league": "J2联赛",
+      "home": "札幌冈萨多",
+      "away": "枥木SC",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.680",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.250",
+        "score_result": "4:1",
+        "score_odds": "35.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2015-11-23 13:00",
+      "matchId": "777794",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.970",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.150",
+        "score_result": "3:0",
+        "score_odds": "18.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2015-11-23 13:00",
+      "matchId": "777791",
+      "league": "J2联赛",
+      "home": "岐阜FC",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "0-1",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.900",
+        "score_result": "1:4",
+        "score_odds": "28.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2015-11-23 13:00",
+      "matchId": "777795",
+      "league": "J2联赛",
+      "home": "北九州向日葵",
+      "away": "长崎航海",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.680",
+        "score_result": "2:1",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2015-11-23 13:00",
+      "matchId": "777788",
+      "league": "J2联赛",
+      "home": "千叶市原",
+      "away": "赞岐釜玉海",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "0:2",
+        "score_odds": "30.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2015-11-23 13:00",
+      "matchId": "777792",
+      "league": "J2联赛",
+      "home": "京都不死鸟",
+      "away": "水户蜀葵",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "2:1",
+        "score_odds": "7.750",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-3",
+        "half_full_odds": "29.000"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2015-11-23 13:00",
+      "matchId": "777797",
+      "league": "J2联赛",
+      "home": "大分三神",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周一019",
+      "match_time": "2015-11-23 06:00",
+      "matchId": "842697",
+      "league": "阿甲",
+      "home": "基尔梅斯",
+      "away": "奥林匹奥",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周一020",
+      "match_time": "2015-11-23 08:30",
+      "matchId": "842699",
+      "league": "阿甲",
+      "home": "拉努斯",
+      "away": "纽维尔老男孩",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.010",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    }
+  ]
+}

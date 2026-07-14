@@ -1,0 +1,354 @@
+{
+  "time": "2018-04-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-5_0-2_237500",
+        "handicap": "0_0_2371",
+        "halfFull": "00_00_1184",
+        "size": "7+_2_10369"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-5_0-2_2-2_3562500",
+        "handicap": "0_0_0_3912",
+        "halfFull": "00_00_01_17760",
+        "size": "7+_2_4_62219"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-5_0-2_2-2_1-1_24937500",
+        "handicap": "0_0_0_0_8803",
+        "halfFull": "00_00_01_31_301920",
+        "size": "7+_2_4_2_202215"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_0_12764",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_0_3_20933",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_0_3_0_29725",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_0_0_0_3_0_3_46966",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-5_0-2_425000",
+        "handicap": "0_0_752",
+        "halfFull": "00_10_2240",
+        "size": "7+_2_11560"
+      },
+      "team": "001_074"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-5_0-2_3-0_0-2_48450000",
+        "handicap": "0_0_3_0_10759",
+        "halfFull": "00_00_13_10_33152",
+        "size": "7+_2_3_2_125165"
+      },
+      "team": "001_002_073_074"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2018-04-08 13:00",
+      "matchId": "1009755",
+      "league": "J联赛",
+      "home": "长崎航海",
+      "away": "东京FC",
+      "result": {
+        "half": "1-3",
+        "full": "2-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.560",
+        "score_result": "2:5",
+        "score_odds": "250.000",
+        "goal_result": "7+",
+        "goal_odds": "34.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.200"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2018-04-08 13:00",
+      "matchId": "1008047",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "山形山神",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.200",
+        "score_result": "0:2",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2018-04-08 13:00",
+      "matchId": "1008049",
+      "league": "J2联赛",
+      "home": "町田泽维亚",
+      "away": "熊本深红",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.160",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2018-04-08 13:00",
+      "matchId": "1008045",
+      "league": "J2联赛",
+      "home": "松本山雅",
+      "away": "赞岐釜玉海",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.250",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2018-04-08 13:00",
+      "matchId": "1008044",
+      "league": "J2联赛",
+      "home": "新泻天鹅",
+      "away": "冈山绿雉",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2018-04-08 13:00",
+      "matchId": "1008048",
+      "league": "J2联赛",
+      "home": "枥木SC",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.640",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2018-04-08 13:00",
+      "matchId": "1008041",
+      "league": "J2联赛",
+      "home": "横滨FC",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.420",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2018-04-08 13:00",
+      "matchId": "1008046",
+      "league": "J2联赛",
+      "home": "金泽塞维根",
+      "away": "千叶市原",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "3:1",
+        "score_odds": "22.000",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周日073",
+      "match_time": "2018-04-08 07:00",
+      "matchId": "1001326",
+      "league": "墨联",
+      "home": "桑托斯拉古纳",
+      "away": "克雷塔罗",
+      "result": {
+        "half": "0-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.750",
+        "score_result": "3:0",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周日074",
+      "match_time": "2018-04-08 09:00",
+      "matchId": "1003893",
+      "league": "美职",
+      "home": "洛杉矶银河",
+      "away": "堪萨斯城竞技",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.070",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "0:2",
+        "score_odds": "17.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    }
+  ]
+}

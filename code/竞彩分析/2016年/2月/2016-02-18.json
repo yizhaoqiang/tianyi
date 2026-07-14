@@ -1,0 +1,354 @@
+{
+  "time": "2016-02-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-2_18300",
+        "handicap": "0_1_562",
+        "halfFull": "01_33_4615",
+        "size": "2_5_4030"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_3-2_2-0_109800",
+        "handicap": "0_1_3_1192",
+        "halfFull": "01_33_33_9230",
+        "size": "2_5_2_13903"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-2_2-0_1-0_845460",
+        "handicap": "0_1_3_3_1633",
+        "halfFull": "01_33_33_13_50765",
+        "size": "2_5_2_1_55614"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_3561",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_3_5021",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_3_3_7030",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_3_3_3_0_11389",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_4-2_36600",
+        "handicap": "0_3_487",
+        "halfFull": "01_33_3510",
+        "size": "2_6_6510"
+      },
+      "team": "001_023"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-2_1-1_4-2_7137000",
+        "handicap": "0_1_0_3_3382",
+        "halfFull": "01_33_11_33_59810",
+        "size": "2_5_2_6_266584"
+      },
+      "team": "001_002_022_023"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2016-02-18 02:00",
+      "matchId": "846044",
+      "league": "欧洲联赛",
+      "home": "佛罗伦萨",
+      "away": "托特纳姆热刺",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "1:1",
+        "score_odds": "6.100",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2016-02-18 02:00",
+      "matchId": "846054",
+      "league": "欧洲联赛",
+      "home": "圣埃蒂安",
+      "away": "巴塞尔",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.140",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "3:2",
+        "score_odds": "30.000",
+        "goal_result": "5",
+        "goal_odds": "13.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.550"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2016-02-18 02:00",
+      "matchId": "846049",
+      "league": "欧洲联赛",
+      "home": "多特蒙德",
+      "away": "波尔图",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "2:0",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2016-02-18 02:00",
+      "matchId": "846052",
+      "league": "欧洲联赛",
+      "home": "比利亚雷亚尔",
+      "away": "那不勒斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.390",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.370",
+        "score_result": "1:0",
+        "score_odds": "7.700",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2016-02-18 02:00",
+      "matchId": "846048",
+      "league": "欧洲联赛",
+      "home": "中日德兰",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.180",
+        "score_result": "2:1",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2016-02-18 02:00",
+      "matchId": "846053",
+      "league": "欧洲联赛",
+      "home": "塞维利亚",
+      "away": "莫尔德",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.070",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.410",
+        "score_result": "3:0",
+        "score_odds": "6.250",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.440"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2016-02-18 02:00",
+      "matchId": "846047",
+      "league": "欧洲联赛",
+      "home": "安德莱赫特",
+      "away": "奥林匹亚科斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.400",
+        "score_result": "1:0",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.900"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2016-02-18 04:00",
+      "matchId": "851355",
+      "league": "阿甲",
+      "home": "拉普拉塔大学生",
+      "away": "老虎竞技",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "1:1",
+        "score_odds": "5.800",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周四022",
+      "match_time": "2016-02-18 08:45",
+      "matchId": "858502",
+      "league": "解放者杯",
+      "home": "德尔瓦耶独立",
+      "away": "科洛科洛",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周四023",
+      "match_time": "2016-02-18 11:00",
+      "matchId": "850568",
+      "league": "解放者杯",
+      "home": "美洲狮",
+      "away": "埃梅莱克",
+      "result": {
+        "half": "2-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.680",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.250",
+        "score_result": "4:2",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "21.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.700"
+      }
+    }
+  ]
+}

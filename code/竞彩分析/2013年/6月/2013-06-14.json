@@ -1,0 +1,128 @@
+{
+  "time": "2013-06-14",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-0_7150",
+        "handicap": "3_3_1881",
+        "halfFull": "33_33_1006",
+        "size": "2_2_992"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_2-0_0-0_50050",
+        "handicap": "3_3_0_2859",
+        "halfFull": "33_33_11_4128",
+        "size": "2_2_0_6944"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-0_7700",
+        "handicap": "3_0_805",
+        "halfFull": "33_11_1557",
+        "size": "2_0_2240"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_2-0_0-0_50050",
+        "handicap": "3_3_0_2859",
+        "halfFull": "33_33_11_4128",
+        "size": "2_2_0_6944"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2013-06-14 18:00",
+      "matchId": "591708",
+      "league": "J2联赛",
+      "home": "德岛漩涡",
+      "away": "松本山雅",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.300",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2013-06-14 23:59",
+      "matchId": "492209",
+      "league": "世非预",
+      "home": "利比亚",
+      "away": "多哥",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.550",
+        "score_result": "2:0",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2013-06-14 07:15",
+      "matchId": "211321",
+      "league": "阿甲",
+      "home": "老虎竞技",
+      "away": "贝尔格拉诺",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    }
+  ]
+}

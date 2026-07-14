@@ -1,0 +1,354 @@
+{
+  "time": "2014-02-21",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-4_2-0_60000",
+        "handicap": "0_3_497",
+        "halfFull": "30_33_8250",
+        "size": "5_2_3250"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-4_2-0_0-2_630000",
+        "handicap": "0_3_0_686",
+        "halfFull": "30_33_10_47850",
+        "size": "5_2_2_10075"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-4_2-0_0-2_2-3_18270000",
+        "handicap": "0_3_0_0_1035",
+        "halfFull": "30_33_10_00_229679",
+        "size": "5_2_2_5_105787"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_1667",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_0_3552",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_0_0_5222",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_0_0_0_7676",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-4_0-0_48000",
+        "handicap": "0_0_220",
+        "halfFull": "30_11_13200",
+        "size": "5_0_6000"
+      },
+      "team": "001_022"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-4_2-0_1-1_0-0_2160000",
+        "handicap": "0_3_0_0_1127",
+        "halfFull": "30_33_01_11_495000",
+        "size": "5_2_2_0_60450"
+      },
+      "team": "001_002_021_022"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2014-02-21 16:30",
+      "matchId": "612685",
+      "league": "澳超",
+      "home": "中央海岸水手",
+      "away": "惠灵顿凤凰",
+      "result": {
+        "half": "1-0",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.180",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "1:4",
+        "score_odds": "80.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "33.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2014-02-21 01:30",
+      "matchId": "611998",
+      "league": "德乙",
+      "home": "柏林联合",
+      "away": "FSV法兰克福",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.660",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.050",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2014-02-21 01:30",
+      "matchId": "612004",
+      "league": "德乙",
+      "home": "比勒费尔德",
+      "away": "因戈尔施塔特",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.440",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "0:2",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2014-02-21 01:30",
+      "matchId": "611997",
+      "league": "德乙",
+      "home": "科特布斯",
+      "away": "奥厄",
+      "result": {
+        "half": "0-3",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "2:3",
+        "score_odds": "29.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2014-02-21 03:00",
+      "matchId": "607429",
+      "league": "法乙",
+      "home": "阿尔勒",
+      "away": "尼姆",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "1:1",
+        "score_odds": "5.100",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2014-02-21 03:00",
+      "matchId": "607433",
+      "league": "法乙",
+      "home": "勒阿弗尔",
+      "away": "沙托鲁",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.130",
+        "score_result": "0:0",
+        "score_odds": "9.000",
+        "goal_result": "0",
+        "goal_odds": "9.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.250"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2014-02-21 03:00",
+      "matchId": "607432",
+      "league": "法乙",
+      "home": "欧塞尔",
+      "away": "昂热",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "1:2",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2014-02-21 03:00",
+      "matchId": "607434",
+      "league": "法乙",
+      "home": "尼奥尔",
+      "away": "卡昂",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.470",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周五021",
+      "match_time": "2014-02-21 04:00",
+      "matchId": "625752",
+      "league": "西甲",
+      "home": "巴利亚多利德",
+      "away": "莱万特",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.680",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周五022",
+      "match_time": "2014-02-21 04:00",
+      "matchId": "620849",
+      "league": "葡超",
+      "home": "科英布拉大学",
+      "away": "葡萄牙国民",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "0:0",
+        "score_odds": "6.000",
+        "goal_result": "0",
+        "goal_odds": "6.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    }
+  ]
+}

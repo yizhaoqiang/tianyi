@@ -1,0 +1,164 @@
+{
+  "time": "2015-06-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-3_1-2_48000",
+        "handicap": "0_0_465",
+        "halfFull": "31_00_7470",
+        "size": "6_3_3450"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-3_1-2_5-0_1056000",
+        "handicap": "0_0_3_883",
+        "halfFull": "31_00_33_12848",
+        "size": "6_3_5_27600"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-3_1-2_5-0_1-1_6652800",
+        "handicap": "0_0_3_0_1369",
+        "halfFull": "31_00_33_11_57817",
+        "size": "6_3_5_2_85560"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-3_1-1_37800",
+        "handicap": "0_0_480",
+        "halfFull": "31_11_8100",
+        "size": "6_2_3100"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-3_1-2_5-0_1-1_6652800",
+        "handicap": "0_0_3_0_1369",
+        "halfFull": "31_00_33_11_57817",
+        "size": "6_3_5_2_85560"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2015-06-19 01:00",
+      "matchId": "774478",
+      "league": "挪超",
+      "home": "奥德",
+      "away": "斯达",
+      "result": {
+        "half": "3-1",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.100",
+        "score_result": "3:3",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "10.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2015-06-19 05:00",
+      "matchId": "786974",
+      "league": "美洲杯",
+      "home": "墨西哥",
+      "away": "厄瓜多尔",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.150"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2015-06-19 07:30",
+      "matchId": "786975",
+      "league": "美洲杯",
+      "home": "智利",
+      "away": "玻利维亚",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "5:0",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.720"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2015-06-19 09:00",
+      "matchId": "767622",
+      "league": "美职",
+      "home": "科罗拉多急流",
+      "away": "达拉斯FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "1:1",
+        "score_odds": "6.300",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    }
+  ]
+}

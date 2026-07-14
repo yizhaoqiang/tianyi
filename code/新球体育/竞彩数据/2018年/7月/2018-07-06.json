@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五057",
+    "match_time": "2018-07-06 22:00",
+    "matchId": "1483054",
+    "league": "世界杯",
+    "home": "乌拉圭",
+    "away": "法国",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.70",
+        "d": "3.05",
+        "l": "1.78"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.74",
+        "d": "3.20",
+        "l": "3.67"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.78",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.67",
+      "score_result": "0:2",
+      "score_odds": "7.50",
+      "goal_result": "2",
+      "goal_odds": "3.20",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.05"
+    }
+  },
+  {
+    "num": "周五058",
+    "match_time": "2018-07-07 02:00",
+    "matchId": "1483055",
+    "league": "世界杯",
+    "home": "巴西",
+    "away": "比利时",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.82",
+        "d": "3.20",
+        "l": "3.36"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.61",
+        "d": "3.40",
+        "l": "1.70"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.36",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.70",
+      "score_result": "1:2",
+      "score_odds": "10.00",
+      "goal_result": "3",
+      "goal_odds": "3.30",
+      "half_full_result": "0-0",
+      "half_full_odds": "6.20"
+    }
+  }
+]

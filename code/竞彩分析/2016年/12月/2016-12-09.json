@@ -1,0 +1,354 @@
+{
+  "time": "2016-12-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-0_16250",
+        "handicap": "0_3_1115",
+        "halfFull": "01_33_4252",
+        "size": "2_3_1067"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_3-0_0-0_154375",
+        "handicap": "0_3_0_2475",
+        "halfFull": "01_33_11_22113",
+        "size": "2_3_0_10141"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-0_0-0_0-2_1698125",
+        "handicap": "0_3_0_0_3416",
+        "halfFull": "01_33_11_00_86240",
+        "size": "2_3_0_2_36508"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_3_15374",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_3_3_69799",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_3_3_0_105397",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_3_3_0_3_138070",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-2_4875",
+        "handicap": "0_1_656",
+        "halfFull": "01_00_3885",
+        "size": "2_3_1052"
+      },
+      "team": "001_035"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-0_1-0_1-2_658125",
+        "handicap": "0_3_1_1_16281",
+        "halfFull": "01_33_13_00_81818",
+        "size": "2_3_1_3_12153"
+      },
+      "team": "001_002_035_029"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2016-12-09 16:50",
+      "matchId": "876577",
+      "league": "澳超",
+      "home": "悉尼FC",
+      "away": "墨尔本城",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.640",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-1",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2016-12-09 01:30",
+      "matchId": "885070",
+      "league": "德乙",
+      "home": "海登海姆",
+      "away": "柏林联合",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.620",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "6.800",
+        "score_result": "3:0",
+        "score_odds": "25.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.050"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2016-12-09 01:30",
+      "matchId": "885073",
+      "league": "德乙",
+      "home": "德累斯顿",
+      "away": "卡尔斯鲁厄",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.220",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2016-12-09 01:30",
+      "matchId": "885072",
+      "league": "德乙",
+      "home": "杜塞尔多夫",
+      "away": "纽伦堡",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.480",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "0:2",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2016-12-09 02:30",
+      "matchId": "924866",
+      "league": "智利甲",
+      "home": "科布雷萨尔",
+      "away": "康塞普西翁大学",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.180",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.500",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.800"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2016-12-09 03:00",
+      "matchId": "875519",
+      "league": "法乙",
+      "home": "阿雅克肖GFCO",
+      "away": "阿雅克肖",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.540",
+        "score_result": "4:1",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "17.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2016-12-09 03:00",
+      "matchId": "875514",
+      "league": "法乙",
+      "home": "布尔格",
+      "away": "克莱蒙",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.510",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2016-12-09 03:00",
+      "matchId": "875518",
+      "league": "法乙",
+      "home": "尼奥尔",
+      "away": "勒阿弗尔",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.310",
+        "score_result": "1:1",
+        "score_odds": "4.800",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.100"
+      }
+    },
+    {
+      "num": "周五035",
+      "match_time": "2016-12-09 08:15",
+      "matchId": "906091",
+      "league": "阿甲",
+      "home": "坦珀利",
+      "away": "戈多伊克鲁斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.240",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:0",
+        "score_odds": "5.400",
+        "goal_result": "1",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周五029",
+      "match_time": "2016-12-09 21:30",
+      "matchId": "874843",
+      "league": "法甲",
+      "home": "第戎",
+      "away": "马赛",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.260",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    }
+  ]
+}

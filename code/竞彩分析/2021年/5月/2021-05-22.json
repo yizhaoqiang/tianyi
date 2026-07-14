@@ -1,0 +1,354 @@
+{
+  "time": "2021-05-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_2-1_8400",
+        "handicap": "3_3_490",
+        "halfFull": "13_03_16319",
+        "size": "2_3_1368"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_2-1_2-1_67200",
+        "handicap": "3_3_1_1839",
+        "halfFull": "13_03_13_81600",
+        "size": "2_3_3_5269"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_2-1_2-1_1-0_436800",
+        "handicap": "3_3_1_1_6070",
+        "halfFull": "13_03_13_13_354960",
+        "size": "2_3_3_1_24240"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_3_40673",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_3_1_136256",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_3_1_3_234361",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_3_1_3_0_360915",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_3-1_10000",
+        "handicap": "3_3_876",
+        "halfFull": "13_33_1200",
+        "size": "2_4_1837"
+      },
+      "team": "001_030"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_2-1_1-2_3-1_1155000",
+        "handicap": "3_3_0_3_2943",
+        "halfFull": "13_03_30_33_1387199",
+        "size": "2_3_3_4_23809"
+      },
+      "team": "001_002_029_030"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2021-05-22 13:00",
+      "matchId": "1125260",
+      "league": "J联赛",
+      "home": "札幌冈萨多",
+      "away": "清水鼓动",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.920",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2021-05-22 13:00",
+      "matchId": "1125261",
+      "league": "J联赛",
+      "home": "鸟栖沙岩",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.680",
+        "score_result": "2:1",
+        "score_odds": "10.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-3",
+        "half_full_odds": "34.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2021-05-22 13:00",
+      "matchId": "1125262",
+      "league": "J联赛",
+      "home": "仙台七夕",
+      "away": "大分三神",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2021-05-22 13:40",
+      "matchId": "1127546",
+      "league": "K联赛",
+      "home": "蔚山现代",
+      "away": "浦项制铁",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.640",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "4.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.350"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2021-05-22 15:00",
+      "matchId": "1125264",
+      "league": "J联赛",
+      "home": "浦和红钻",
+      "away": "神户胜利船",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.740",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "6.700",
+        "score_result": "2:0",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2021-05-22 16:00",
+      "matchId": "1125325",
+      "league": "J联赛",
+      "home": "福冈黄蜂",
+      "away": "湘南海洋",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "0-3",
+        "half_full_odds": "34.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2021-05-22 17:00",
+      "matchId": "1125265",
+      "league": "J联赛",
+      "home": "德岛漩涡",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "0:0",
+        "score_odds": "6.250",
+        "goal_result": "0",
+        "goal_odds": "6.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2021-05-22 17:00",
+      "matchId": "1125599",
+      "league": "J2联赛",
+      "home": "琉球FC",
+      "away": "山形山神",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.860",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "0:2",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周六029",
+      "match_time": "2021-05-22 07:30",
+      "matchId": "1129486",
+      "league": "美职",
+      "home": "纽约城",
+      "away": "哥伦布机员",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.000",
+        "score_result": "1:2",
+        "score_odds": "11.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-0",
+        "half_full_odds": "34.000"
+      }
+    },
+    {
+      "num": "周六030",
+      "match_time": "2021-05-22 08:00",
+      "matchId": "1129292",
+      "league": "美职",
+      "home": "新英格兰革命",
+      "away": "纽约红牛",
+      "result": {
+        "half": "2-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.000",
+        "score_result": "3:1",
+        "score_odds": "12.500",
+        "goal_result": "4",
+        "goal_odds": "4.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    }
+  ]
+}

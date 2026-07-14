@@ -1,0 +1,38 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2022-04-26 01:10",
+    "matchId": "2143895",
+    "league": "瑞典超",
+    "home": "马尔默",
+    "away": "哥德堡",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.42",
+        "d": "3.85",
+        "l": "5.70"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.44",
+        "d": "3.30",
+        "l": "2.35"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.42",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.30",
+      "score_result": "1:0",
+      "score_odds": "6.20",
+      "goal_result": "1",
+      "goal_odds": "4.75",
+      "half_full_result": "1-3",
+      "half_full_odds": "3.90"
+    }
+  }
+]

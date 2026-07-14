@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2023-10-06 15:00",
+    "matchId": "2484752",
+    "league": "亚运女足",
+    "home": "中国女足",
+    "away": "乌兹别克斯坦女足",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.25",
+        "d": "5.30",
+        "l": "1.98"
+      },
+      "handicap": {
+        "line": "-5",
+        "w": "2.25",
+        "d": "5.30",
+        "l": "1.98"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "胜其他",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-5",
+      "handicap_result": "3",
+      "handicap_odds": "2.25",
+      "score_result": "胜其他",
+      "score_odds": "1.74",
+      "goal_result": "7+",
+      "goal_odds": "2.18",
+      "half_full_result": "3-3",
+      "half_full_odds": ""
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2023-10-07 00:30",
+    "matchId": "2419601",
+    "league": "意甲",
+    "home": "恩波利",
+    "away": "乌迪内斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.70",
+        "d": "3.25",
+        "l": "2.17"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.49",
+        "d": "3.80",
+        "l": "4.90"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.25",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.49",
+      "score_result": "0:0",
+      "score_odds": "11.00",
+      "goal_result": "0",
+      "goal_odds": "11.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.60"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2023-10-07 02:30",
+    "matchId": "2412890",
+    "league": "德甲",
+    "home": "门兴格拉德巴赫",
+    "away": "美因茨",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.78",
+        "d": "3.65",
+        "l": "3.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.28",
+        "d": "3.80",
+        "l": "1.75"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.65",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.75",
+      "score_result": "2:2",
+      "score_odds": "11.50",
+      "goal_result": "4",
+      "goal_odds": "4.50",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.60"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2023-10-07 02:45",
+    "matchId": "2419607",
+    "league": "意甲",
+    "home": "莱切",
+    "away": "萨索洛",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.37",
+        "d": "3.05",
+        "l": "2.57"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.40",
+        "d": "4.00",
+        "l": "1.42"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.42",
+      "score_result": "1:1",
+      "score_odds": "6.50",
+      "goal_result": "2",
+      "goal_odds": "3.35",
+      "half_full_result": "0-1",
+      "half_full_odds": "15.00"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2023-10-07 03:00",
+    "matchId": "2404375",
+    "league": "西甲",
+    "home": "毕尔巴鄂竞技",
+    "away": "阿尔梅里亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.20",
+        "d": "5.30",
+        "l": "8.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.75",
+        "d": "3.62",
+        "l": "3.43"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.20",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.75",
+      "score_result": "3:0",
+      "score_odds": "9.00",
+      "goal_result": "3",
+      "goal_odds": "3.40",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.72"
+    }
+  }
+]

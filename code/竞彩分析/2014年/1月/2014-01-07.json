@@ -1,0 +1,164 @@
+{
+  "time": "2014-01-07",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-1_11900",
+        "handicap": "0_3_752",
+        "halfFull": "00_33_2310",
+        "size": "2_3_1168"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_2-1_1-1_77350",
+        "handicap": "0_3_3_1279",
+        "halfFull": "00_33_11_10857",
+        "size": "2_3_2_3912"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-1_1-1_2-5_6188000",
+        "handicap": "0_3_3_0_1918",
+        "halfFull": "00_33_11_00_15959",
+        "size": "2_3_2_7+_43040"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-5_68000",
+        "handicap": "0_0_525",
+        "halfFull": "00_00_411",
+        "size": "2_7+_3520"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-1_1-1_2-5_6188000",
+        "handicap": "0_3_3_0_1918",
+        "halfFull": "00_33_11_00_15959",
+        "size": "2_3_2_7+_43040"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2014-01-07 03:45",
+      "matchId": "609114",
+      "league": "英甲",
+      "home": "什鲁斯伯里",
+      "away": "莱顿东方",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.500",
+        "score_result": "0:2",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.800"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2014-01-07 03:45",
+      "matchId": "668369",
+      "league": "英联杯",
+      "home": "桑德兰",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.150",
+        "score_result": "2:1",
+        "score_odds": "14.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "8.250"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2014-01-07 05:00",
+      "matchId": "668744",
+      "league": "国王杯",
+      "home": "巴伦西亚",
+      "away": "马德里竞技",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.700",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2014-01-07 02:00",
+      "matchId": "671134",
+      "league": "法国杯",
+      "home": "布雷斯特",
+      "away": "巴黎圣日尔曼",
+      "result": {
+        "half": "1-4",
+        "full": "2-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.110",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.500",
+        "score_result": "2:5",
+        "score_odds": "80.000",
+        "goal_result": "7+",
+        "goal_odds": "11.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.470"
+      }
+    }
+  ]
+}

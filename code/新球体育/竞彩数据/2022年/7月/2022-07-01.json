@@ -1,0 +1,38 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2022-07-02 01:00",
+    "matchId": "2143952",
+    "league": "瑞典超",
+    "home": "松兹瓦尔",
+    "away": "马尔默",
+    "finish_odds": {
+      "wdl": {
+        "w": "8.00",
+        "d": "5.00",
+        "l": "1.23"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "3.20",
+        "d": "3.50",
+        "l": "1.85"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "8.00",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "3.20",
+      "score_result": "2:1",
+      "score_odds": "22.00",
+      "goal_result": "3",
+      "goal_odds": "3.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "14.50"
+    }
+  }
+]

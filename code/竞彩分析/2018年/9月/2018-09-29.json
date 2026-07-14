@@ -1,0 +1,341 @@
+{
+  "time": "2018-09-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_5-2_60000",
+        "handicap": "1_3_1332",
+        "halfFull": "13_33_1311",
+        "size": "3_7+_5600"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_5-2_2-2_780000",
+        "handicap": "1_3_3_2091",
+        "halfFull": "13_33_01_18354",
+        "size": "3_7+_4_32480"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_5-2_2-2_1-0_7410000",
+        "handicap": "1_3_3_3_3576",
+        "halfFull": "13_33_01_13_137655",
+        "size": "3_7+_4_1_152656"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_0_5007",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_0_1_18527",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_0_1_1_71329",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_3_3_0_1_1_1_263920",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-0_11250",
+        "handicap": "1_0_591",
+        "halfFull": "13_11_2760",
+        "size": "3_0_5250"
+      },
+      "team": "001_110"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2018-09-29 12:00",
+      "matchId": "1009984",
+      "league": "J联赛",
+      "home": "札幌冈萨多",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2018-09-29 13:00",
+      "matchId": "1009987",
+      "league": "J联赛",
+      "home": "横滨水手",
+      "away": "仙台七夕",
+      "result": {
+        "half": "2-1",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.650",
+        "score_result": "5:2",
+        "score_odds": "80.000",
+        "goal_result": "7+",
+        "goal_odds": "16.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.850"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2018-09-29 13:00",
+      "matchId": "1014823",
+      "league": "K联赛",
+      "home": "水原三星",
+      "away": "蔚山现代",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.570",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2018-09-29 15:00",
+      "matchId": "1009989",
+      "league": "J联赛",
+      "home": "大阪钢巴",
+      "away": "广岛三箭",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.280",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.710",
+        "score_result": "1:0",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "4.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2018-09-29 15:00",
+      "matchId": "1009991",
+      "league": "J联赛",
+      "home": "神户胜利船",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-2",
+        "full": "0-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "0:5",
+        "score_odds": "150.000",
+        "goal_result": "5",
+        "goal_odds": "8.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2018-09-29 15:00",
+      "matchId": "1008164",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "大分三神",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2018-09-29 15:00",
+      "matchId": "1014825",
+      "league": "K联赛",
+      "home": "济州联",
+      "away": "全南天龙",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.020",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "1:0",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2018-09-29 15:00",
+      "matchId": "1014824",
+      "league": "K联赛",
+      "home": "全北现代",
+      "away": "江原FC",
+      "result": {
+        "half": "0-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "3:2",
+        "score_odds": "17.000",
+        "goal_result": "5",
+        "goal_odds": "6.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "21.000"
+      }
+    },
+    {
+      "num": "周六109",
+      "match_time": "2018-09-29 10:06",
+      "matchId": "1030394",
+      "league": "墨联",
+      "home": "蒙特雷",
+      "away": "蒂华纳",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "-1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周六110",
+      "match_time": "2018-09-29 10:30",
+      "matchId": "1004160",
+      "league": "美职",
+      "home": "波特兰伐木工",
+      "away": "达拉斯FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.620",
+        "score_result": "0:0",
+        "score_odds": "15.000",
+        "goal_result": "0",
+        "goal_odds": "15.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    }
+  ]
+}

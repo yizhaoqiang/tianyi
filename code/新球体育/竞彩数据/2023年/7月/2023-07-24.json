@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2023-07-24 14:00",
+    "matchId": "2305080",
+    "league": "女世界杯",
+    "home": "意大利女足",
+    "away": "阿根廷女足",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.48",
+        "d": "3.55",
+        "l": "5.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.80",
+        "d": "3.10",
+        "l": "2.18"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.48",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.10",
+      "score_result": "1:0",
+      "score_odds": "4.90",
+      "goal_result": "1",
+      "goal_odds": "3.65",
+      "half_full_result": "1-3",
+      "half_full_odds": "3.90"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2023-07-24 16:30",
+    "matchId": "2305085",
+    "league": "女世界杯",
+    "home": "德国女足",
+    "away": "摩洛哥女足",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.85",
+        "d": "4.70",
+        "l": "1.50"
+      },
+      "handicap": {
+        "line": "-3",
+        "w": "3.85",
+        "d": "4.70",
+        "l": "1.50"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "胜其他",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-3",
+      "handicap_result": "3",
+      "handicap_odds": "3.85",
+      "score_result": "胜其他",
+      "score_odds": "14.50",
+      "goal_result": "6",
+      "goal_odds": "15.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.39"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2023-07-25 01:00",
+    "matchId": "2325228",
+    "league": "瑞典超",
+    "home": "天狼星",
+    "away": "米亚尔比",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.96",
+        "d": "3.25",
+        "l": "3.12"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.05",
+        "d": "3.70",
+        "l": "1.61"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.12",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.61",
+      "score_result": "2:3",
+      "score_odds": "37.00",
+      "goal_result": "5",
+      "goal_odds": "12.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.50"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2023-07-25 01:00",
+    "matchId": "2325454",
+    "league": "挪超",
+    "home": "维京",
+    "away": "奥勒松",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.18",
+        "d": "5.75",
+        "l": "8.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.61",
+        "d": "4.08",
+        "l": "3.66"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.18",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.61",
+      "score_result": "3:1",
+      "score_odds": "8.75",
+      "goal_result": "4",
+      "goal_odds": "3.80",
+      "half_full_result": "1-3",
+      "half_full_odds": "3.90"
+    }
+  },
+  {
+    "num": "周二001",
+    "match_time": "2023-07-25 10:00",
+    "matchId": "2305086",
+    "league": "女世界杯",
+    "home": "哥伦比亚女足",
+    "away": "韩国女足",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.74",
+        "d": "2.85",
+        "l": "2.36"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "6.60",
+        "d": "4.35",
+        "l": "1.32"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.74",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "6.60",
+      "score_result": "2:0",
+      "score_odds": "13.00",
+      "goal_result": "2",
+      "goal_odds": "3.10",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.30"
+    }
+  }
+]

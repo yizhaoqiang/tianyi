@@ -1,0 +1,354 @@
+{
+  "time": "2019-06-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_1-0_4062",
+        "handicap": "1_3_528",
+        "halfFull": "10_13_2275",
+        "size": "1_1_1690"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_1-0_1-5_325000",
+        "handicap": "1_3_0_1458",
+        "halfFull": "10_13_00_5118",
+        "size": "1_1_6_43953"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-0_1-5_0-1_2925000",
+        "handicap": "1_3_0_0_2727",
+        "halfFull": "10_13_00_00_39926",
+        "size": "1_1_6_1_171416"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_5619",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_0_12249",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_0_1_43485",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_0_0_3_0_1_3_70012",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-1_5000",
+        "handicap": "1_1_1155",
+        "halfFull": "10_03_10500",
+        "size": "1_3_1690"
+      },
+      "team": "001_012"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_1-0_2-3_2-1_2600000",
+        "handicap": "1_3_0_1_4464",
+        "halfFull": "10_13_00_03_784875",
+        "size": "1_1_5_3_64154"
+      },
+      "team": "001_002_011_012"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2019-06-11 21:00",
+      "matchId": "1049118",
+      "league": "女足世界杯",
+      "home": "新西兰女足",
+      "away": "荷兰女足",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.170",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "0:1",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2019-06-11 23:30",
+      "matchId": "1060386",
+      "league": "U20世界杯",
+      "home": "乌克兰U20",
+      "away": "意大利U20",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.510",
+        "score_result": "1:0",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2019-06-11 00:00",
+      "matchId": "1054134",
+      "league": "欧洲杯预",
+      "home": "阿塞拜疆",
+      "away": "斯洛伐克",
+      "result": {
+        "half": "1-3",
+        "full": "1-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.760",
+        "score_result": "1:5",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "26.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2019-06-11 02:30",
+      "matchId": "1060390",
+      "league": "U20世界杯",
+      "home": "厄瓜多尔U20",
+      "away": "韩国U20",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.870",
+        "score_result": "0:1",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "7.800"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2019-06-11 02:45",
+      "matchId": "1053984",
+      "league": "欧洲杯预",
+      "home": "比利时",
+      "away": "苏格兰",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.060",
+        "score_result": "3:0",
+        "score_odds": "5.200",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.370"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2019-06-11 02:45",
+      "matchId": "1053983",
+      "league": "欧洲杯预",
+      "home": "俄罗斯",
+      "away": "塞浦路斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.080",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.180",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "5.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.420"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2019-06-11 02:45",
+      "matchId": "1054137",
+      "league": "欧洲杯预",
+      "home": "白俄罗斯",
+      "away": "北爱尔兰",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.170",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "0:1",
+        "score_odds": "5.250",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2019-06-11 02:45",
+      "matchId": "1054136",
+      "league": "欧洲杯预",
+      "home": "德国",
+      "away": "爱沙尼亚",
+      "result": {
+        "half": "5-0",
+        "full": "8-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "3",
+        "handicap_odds": "1.610",
+        "score_result": "胜其他",
+        "score_odds": "2.950",
+        "goal_result": "7+",
+        "goal_odds": "4.900",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    },
+    {
+      "num": "周二011",
+      "match_time": "2019-06-11 02:45",
+      "matchId": "1053987",
+      "league": "欧洲杯预",
+      "home": "希腊",
+      "away": "亚美尼亚",
+      "result": {
+        "half": "0-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "7.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.560",
+        "score_result": "2:3",
+        "score_odds": "80.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "11.500"
+      }
+    },
+    {
+      "num": "周二012",
+      "match_time": "2019-06-11 02:45",
+      "matchId": "1053986",
+      "league": "欧洲杯预",
+      "home": "意大利",
+      "away": "波黑",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.150",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-3",
+        "half_full_odds": "30.000"
+      }
+    }
+  ]
+}

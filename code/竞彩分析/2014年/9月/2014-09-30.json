@@ -1,0 +1,128 @@
+{
+  "time": "2014-09-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-0_4050",
+        "handicap": "0_3_312",
+        "halfFull": "11_33_810",
+        "size": "0_2_2345"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-0_2-1_28350",
+        "handicap": "0_3_1_1232",
+        "halfFull": "11_33_33_2754",
+        "size": "0_2_3_8324"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-1_5250",
+        "handicap": "0_1_632",
+        "halfFull": "11_33_1530",
+        "size": "0_3_2485"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-0_2-1_28350",
+        "handicap": "0_3_1_1232",
+        "halfFull": "11_33_33_2754",
+        "size": "0_2_3_8324"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2014-09-30 16:00",
+      "matchId": "760847",
+      "league": "亚运男",
+      "home": "伊拉克亚足",
+      "away": "朝鲜亚足",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2014-09-30 19:00",
+      "matchId": "760848",
+      "league": "亚运男",
+      "home": "韩国亚足",
+      "away": "泰国亚足",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.260",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.950",
+        "score_result": "2:0",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2014-09-30 23:15",
+      "matchId": "752241",
+      "league": "亚冠杯",
+      "home": "阿布扎比艾因",
+      "away": "利雅得希拉尔",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.130",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.400"
+      }
+    }
+  ]
+}

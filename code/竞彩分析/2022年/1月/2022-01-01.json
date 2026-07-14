@@ -1,0 +1,164 @@
+{
+  "time": "2022-01-01",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_1-2_24500",
+        "handicap": "3_1_1206",
+        "halfFull": "33_30_5256",
+        "size": "4_3_1551"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_1-2_0-1_171500",
+        "handicap": "3_1_1_4043",
+        "halfFull": "33_30_10_21812",
+        "size": "4_3_1_9693"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_1-2_0-1_2-3_3773000",
+        "handicap": "3_1_1_1_15041",
+        "halfFull": "33_30_10_00_76343",
+        "size": "4_3_1_5_106631"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_2-3_77000",
+        "handicap": "3_1_1264",
+        "halfFull": "33_00_1021",
+        "size": "4_5_5170"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_1-2_0-1_2-3_3773000",
+        "handicap": "3_1_1_1_15041",
+        "halfFull": "33_30_10_00_76343",
+        "size": "4_3_1_5_106631"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2022-01-01 16:45",
+      "matchId": "1157260",
+      "league": "澳超",
+      "home": "阿德莱德联",
+      "away": "惠灵顿凤凰",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.790",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.400",
+        "score_result": "4:0",
+        "score_odds": "35.000",
+        "goal_result": "4",
+        "goal_odds": "4.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.920"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2022-01-01 20:30",
+      "matchId": "1136063",
+      "league": "英超",
+      "home": "阿森纳",
+      "away": "曼彻斯特城",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.550",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-0",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2022-01-01 23:00",
+      "matchId": "1136072",
+      "league": "英超",
+      "home": "沃特福德",
+      "away": "托特纳姆热刺",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "6.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.150"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2022-01-01 01:30",
+      "matchId": "1136066",
+      "league": "英超",
+      "home": "水晶宫",
+      "away": "西汉姆联",
+      "result": {
+        "half": "0-3",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.030",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.720",
+        "score_result": "2:3",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.500"
+      }
+    }
+  ]
+}

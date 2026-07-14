@@ -1,0 +1,354 @@
+{
+  "time": "2012-01-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_4-1_37500",
+        "handicap": "3_3_427",
+        "halfFull": "13_33_1886",
+        "size": "3_5_3900"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_4-1_1-1_202500",
+        "handicap": "3_3_1_1346",
+        "halfFull": "13_33_11_8866",
+        "size": "3_5_2_12480"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_4-1_1-1_0-0_1721250",
+        "handicap": "3_3_1_1_4039",
+        "halfFull": "13_33_11_11_39899",
+        "size": "3_5_2_0_106080"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_0_17775",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_0_3_30573",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_0_3_1_105479",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_1_0_3_1_3_170876",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_4-1_8250",
+        "handicap": "3_3_281",
+        "halfFull": "13_13_1886",
+        "size": "3_5_2301"
+      },
+      "team": "001_037"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_4-1_3-1_4-1_3506250",
+        "handicap": "3_3_3_3_885",
+        "halfFull": "13_33_13_13_27599",
+        "size": "3_5_4_5_101244"
+      },
+      "team": "001_002_036_037"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2012-01-22 14:00",
+      "matchId": "195637",
+      "league": "澳A联",
+      "home": "悉尼FC",
+      "away": "黄金海岸联",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2012-01-22 16:30",
+      "matchId": "195636",
+      "league": "澳A联",
+      "home": "珀斯光荣",
+      "away": "墨尔本胜利",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "4:1",
+        "score_odds": "50.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2012-01-22 19:00",
+      "matchId": "189121",
+      "league": "西甲",
+      "home": "奥萨苏纳",
+      "away": "瓦伦西亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "1:1",
+        "score_odds": "5.400",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2012-01-22 19:30",
+      "matchId": "190990",
+      "league": "意甲",
+      "home": "博洛尼亚",
+      "away": "帕尔玛",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.000",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2012-01-22 19:30",
+      "matchId": "189661",
+      "league": "荷甲",
+      "home": "维迪斯",
+      "away": "NEC尼美根",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.400",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "4.400",
+        "score_result": "0:1",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "4.600",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.200"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2012-01-22 21:30",
+      "matchId": "181789",
+      "league": "英超",
+      "home": "曼城",
+      "away": "热刺",
+      "result": {
+        "half": "0-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "3:2",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2012-01-22 21:30",
+      "matchId": "189660",
+      "league": "荷甲",
+      "home": "阿尔克马尔",
+      "away": "阿贾克斯",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2012-01-22 21:30",
+      "matchId": "189663",
+      "league": "荷甲",
+      "home": "格罗宁根",
+      "away": "赫拉克莱斯",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.620",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.620",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "0-3",
+        "half_full_odds": "20.000"
+      }
+    },
+    {
+      "num": "周日036",
+      "match_time": "2012-01-22 04:15",
+      "matchId": "191388",
+      "league": "葡超",
+      "home": "本菲卡",
+      "away": "基维森特",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.400",
+        "score_result": "3:1",
+        "score_odds": "8.500",
+        "goal_result": "4",
+        "goal_odds": "4.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周日037",
+      "match_time": "2012-01-22 04:30",
+      "matchId": "189125",
+      "league": "西甲",
+      "home": "皇家马德里",
+      "away": "毕尔巴鄂",
+      "result": {
+        "half": "1-1",
+        "full": "4-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "4:1",
+        "score_odds": "11.000",
+        "goal_result": "5",
+        "goal_odds": "5.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    }
+  ]
+}

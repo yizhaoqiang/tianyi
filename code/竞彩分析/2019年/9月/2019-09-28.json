@@ -1,0 +1,354 @@
+{
+  "time": "2019-09-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_3-3_90000",
+        "handicap": "3_0_509",
+        "halfFull": "33_01_3769",
+        "size": "4_6_9450"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_3-3_3-0_1890000",
+        "handicap": "3_0_3_2698",
+        "halfFull": "33_01_33_14326",
+        "size": "4_6_3_33547"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_3-3_3-0_2-2_22680000",
+        "handicap": "3_0_3_0_5181",
+        "halfFull": "33_01_33_01_243542",
+        "size": "4_6_3_4_174446"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_16840",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_0_31828",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_0_3_58563",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_0_1_0_3_3_138795",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-0_12750",
+        "handicap": "3_0_911",
+        "halfFull": "33_11_1537",
+        "size": "4_0_3825"
+      },
+      "team": "001_061"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_3-3_3-1_0-0_9945000",
+        "handicap": "3_0_3_0_3544",
+        "halfFull": "33_01_03_11_499524",
+        "size": "4_6_4_0_461868"
+      },
+      "team": "001_002_060_061"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2019-09-28 13:00",
+      "matchId": "1076413",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.800",
+        "score_result": "3:1",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2019-09-28 13:00",
+      "matchId": "1076420",
+      "league": "J联赛",
+      "home": "鸟栖沙岩",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.340",
+        "score_result": "3:3",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "21.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2019-09-28 13:00",
+      "matchId": "1053234",
+      "league": "J2联赛",
+      "home": "新泻天鹅",
+      "away": "水户蜀葵",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.300",
+        "score_result": "3:0",
+        "score_odds": "21.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2019-09-28 13:00",
+      "matchId": "1054546",
+      "league": "K联赛",
+      "home": "大邱FC",
+      "away": "济州联",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.920",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2019-09-28 13:00",
+      "matchId": "1054545",
+      "league": "K联赛",
+      "home": "蔚山现代",
+      "away": "城南FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2019-09-28 14:00",
+      "matchId": "1076415",
+      "league": "J联赛",
+      "home": "鹿岛鹿角",
+      "away": "札幌冈萨多",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.890",
+        "score_result": "1:1",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.800",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2019-09-28 14:00",
+      "matchId": "1053233",
+      "league": "J2联赛",
+      "home": "柏太阳神",
+      "away": "东京绿茵",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.840",
+        "score_result": "3:0",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.710"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2019-09-28 15:00",
+      "matchId": "1054547",
+      "league": "K联赛",
+      "home": "全北现代",
+      "away": "水原三星",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.370",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.970"
+      }
+    },
+    {
+      "num": "周六060",
+      "match_time": "2019-09-28 04:30",
+      "matchId": "1066730",
+      "league": "葡超",
+      "home": "法马利康",
+      "away": "比兰尼塞斯",
+      "result": {
+        "half": "0-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.900",
+        "score_result": "3:1",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.750",
+        "half_full_result": "0-3",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周六061",
+      "match_time": "2019-09-28 06:00",
+      "matchId": "1058282",
+      "league": "巴西甲",
+      "home": "弗拉门戈",
+      "away": "圣保罗",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.730",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    }
+  ]
+}

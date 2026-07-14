@@ -1,0 +1,354 @@
+{
+  "time": "2014-12-03",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-0_5950",
+        "handicap": "0_3_588",
+        "halfFull": "00_33_1272",
+        "size": "1_2_1073"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_2-0_2-0_65450",
+        "handicap": "0_3_3_3588",
+        "halfFull": "00_33_33_4833",
+        "size": "1_2_2_3058"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-0_2-0_5-1_8181250",
+        "handicap": "0_3_3_3_19018",
+        "halfFull": "00_33_33_33_16434",
+        "size": "1_2_2_6_64219"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_3_28146",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_3_0_140734",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_3_0_0_189991",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_3_0_0_0_302085",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_1-1_4593",
+        "handicap": "0_0_264",
+        "halfFull": "00_31_7950",
+        "size": "1_2_1036"
+      },
+      "team": "001_021"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_2-0_1-0_1-1_165558",
+        "handicap": "0_3_1_0_2877",
+        "halfFull": "00_33_33_31_48081",
+        "size": "1_2_1_2_9764"
+      },
+      "team": "001_002_020_021"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2014-12-03 16:30",
+      "matchId": "705675",
+      "league": "澳超",
+      "home": "西悉尼漫步者",
+      "away": "布里斯班狮吼",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.810",
+        "score_result": "0:1",
+        "score_odds": "8.750",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2014-12-03 22:00",
+      "matchId": "751990",
+      "league": "意大利杯",
+      "home": "亚特兰大",
+      "away": "阿韦利诺",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.700",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.250",
+        "score_result": "2:0",
+        "score_odds": "6.800",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2014-12-03 01:00",
+      "matchId": "751994",
+      "league": "意大利杯",
+      "home": "恩波利",
+      "away": "热那亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "6.100",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "2.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2014-12-03 02:00",
+      "matchId": "702649",
+      "league": "法甲",
+      "home": "甘冈",
+      "away": "卡昂",
+      "result": {
+        "half": "2-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.340",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.300",
+        "score_result": "5:1",
+        "score_odds": "125.000",
+        "goal_result": "6",
+        "goal_odds": "21.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.400"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2014-12-03 02:00",
+      "matchId": "702671",
+      "league": "法甲",
+      "home": "梅斯",
+      "away": "波尔多",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.900"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2014-12-03 02:00",
+      "matchId": "702668",
+      "league": "法甲",
+      "home": "蒙彼利埃",
+      "away": "圣埃蒂安",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.000",
+        "score_result": "0:2",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "2.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2014-12-03 02:00",
+      "matchId": "702665",
+      "league": "法甲",
+      "home": "尼斯",
+      "away": "雷恩",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2014-12-03 02:00",
+      "matchId": "702662",
+      "league": "法甲",
+      "home": "巴斯蒂亚",
+      "away": "伊维恩",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.590",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-0",
+        "half_full_odds": "36.000"
+      }
+    },
+    {
+      "num": "周三020",
+      "match_time": "2014-12-03 05:00",
+      "matchId": "762180",
+      "league": "国王杯",
+      "home": "格拉纳达CF",
+      "away": "科尔多瓦",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.810",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:0",
+        "score_odds": "5.300",
+        "goal_result": "1",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.520"
+      }
+    },
+    {
+      "num": "周三021",
+      "match_time": "2014-12-03 08:15",
+      "matchId": "764667",
+      "league": "南俱杯",
+      "home": "麦德林国民竞技",
+      "away": "河床",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.460",
+        "score_result": "1:1",
+        "score_odds": "5.250",
+        "goal_result": "2",
+        "goal_odds": "2.800",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "time": "2015-02-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-2_4675",
+        "handicap": "0_0_216",
+        "halfFull": "11_00_1332",
+        "size": "0_3_1952"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_1-2_2-1_32725",
+        "handicap": "0_0_1_702",
+        "halfFull": "11_00_33_2863",
+        "size": "0_3_3_6443"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-2_2-1_4-0_556325",
+        "handicap": "0_0_1_3_1600",
+        "halfFull": "11_00_33_33_5011",
+        "size": "0_3_3_4_38659"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_4-0_9350",
+        "handicap": "0_3_364",
+        "halfFull": "11_33_630",
+        "size": "0_4_3300"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_1-2_2-1_4-0_556325",
+        "handicap": "0_0_1_3_1600",
+        "halfFull": "11_00_33_33_5011",
+        "size": "0_3_3_4_38659"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2015-02-12 02:45",
+      "matchId": "768962",
+      "league": "法国杯",
+      "home": "梅斯",
+      "away": "布雷斯特",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "0:0",
+        "score_odds": "5.500",
+        "goal_result": "0",
+        "goal_odds": "5.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2015-02-12 05:30",
+      "matchId": "770462",
+      "league": "巴圣联",
+      "home": "皮拉西卡巴",
+      "away": "伊图阿诺",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.430",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.350",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2015-02-12 06:15",
+      "matchId": "769499",
+      "league": "解放者杯",
+      "home": "蒙得维的亚国民",
+      "away": "巴勒斯坦人",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2015-02-12 08:45",
+      "matchId": "769500",
+      "league": "解放者杯",
+      "home": "拉普拉塔大学生",
+      "away": "德尔瓦耶独立",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.280",
+        "score_result": "4:0",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.750"
+      }
+    }
+  ]
+}

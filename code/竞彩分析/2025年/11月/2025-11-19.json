@@ -1,0 +1,164 @@
+{
+  "time": "2025-11-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_2-0_16000",
+        "handicap": "0_3_1738",
+        "halfFull": "11_13_3847",
+        "size": "0_2_5360"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_2-0_2-1_200000",
+        "handicap": "0_3_3_2850",
+        "halfFull": "11_13_33_24816",
+        "size": "0_2_3_20368"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-0_2-1_1-1_1280000",
+        "handicap": "0_3_3_0_4988",
+        "halfFull": "11_13_33_31_347429",
+        "size": "0_2_3_2_76380"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_1-1_10240",
+        "handicap": "0_0_668",
+        "halfFull": "11_31_11970",
+        "size": "0_2_6000"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_2-0_2-1_1-1_1280000",
+        "handicap": "0_3_3_0_4988",
+        "halfFull": "11_13_33_31_347429",
+        "size": "0_2_3_2_76380"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2025-11-19 06:30",
+      "matchId": "1288399",
+      "league": "巴西甲",
+      "home": "帕梅拉斯",
+      "away": "维多利亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.820",
+        "score_result": "0:0",
+        "score_odds": "16.000",
+        "goal_result": "0",
+        "goal_odds": "16.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.550"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2025-11-19 08:30",
+      "matchId": "1288373",
+      "league": "巴西甲",
+      "home": "格雷米奥",
+      "away": "达伽马",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.550",
+        "score_result": "2:0",
+        "score_odds": "10.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2025-11-19 08:30",
+      "matchId": "1288367",
+      "league": "巴西甲",
+      "home": "弗鲁米嫩",
+      "away": "弗拉门戈",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.640",
+        "score_result": "2:1",
+        "score_odds": "12.500",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "6.450"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2025-11-19 08:30",
+      "matchId": "1288370",
+      "league": "巴西甲",
+      "home": "桑托斯",
+      "away": "米拉索尔",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.750",
+        "score_result": "1:1",
+        "score_odds": "6.400",
+        "goal_result": "2",
+        "goal_odds": "3.750",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    }
+  ]
+}

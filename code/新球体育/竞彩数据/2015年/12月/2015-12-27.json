@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2015-12-27 14:00",
+    "matchId": "1141874",
+    "league": "澳超",
+    "home": "墨尔本胜利",
+    "away": "珀斯光荣",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.31",
+        "d": "4.60",
+        "l": "7.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.03",
+        "d": "3.60",
+        "l": "2.80"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.60",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.80",
+      "score_result": "1:1",
+      "score_odds": "8.50",
+      "goal_result": "2",
+      "goal_odds": "3.75",
+      "half_full_result": "3-1",
+      "half_full_odds": "16.00"
+    }
+  },
+  {
+    "num": "周日002",
+    "match_time": "2015-12-27 16:00",
+    "matchId": "1141873",
+    "league": "澳超",
+    "home": "布里斯班狮吼",
+    "away": "墨尔本城",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.00",
+        "d": "3.50",
+        "l": "2.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.85",
+        "d": "4.05",
+        "l": "1.56"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.00",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.85",
+      "score_result": "3:1",
+      "score_odds": "16.00",
+      "goal_result": "4",
+      "goal_odds": "4.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.50"
+    }
+  },
+  {
+    "num": "周日003",
+    "match_time": "2015-12-27 22:00",
+    "matchId": "1133433",
+    "league": "苏超",
+    "home": "哈茨",
+    "away": "凯尔特人",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.80",
+        "d": "4.05",
+        "l": "1.42"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.40",
+        "d": "3.50",
+        "l": "2.34"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.05",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.40",
+      "score_result": "2:2",
+      "score_odds": "15.00",
+      "goal_result": "4",
+      "goal_odds": "4.80",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.20"
+    }
+  },
+  {
+    "num": "周日004",
+    "match_time": "2015-12-28 00:30",
+    "matchId": "1131506",
+    "league": "英冠",
+    "home": "诺丁汉森林",
+    "away": "利兹联",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.97",
+        "d": "3.10",
+        "l": "3.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.30",
+        "d": "3.55",
+        "l": "1.63"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.10",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.63",
+      "score_result": "1:1",
+      "score_odds": "6.20",
+      "goal_result": "2",
+      "goal_odds": "3.05",
+      "half_full_result": "3-1",
+      "half_full_odds": "15.00"
+    }
+  }
+]

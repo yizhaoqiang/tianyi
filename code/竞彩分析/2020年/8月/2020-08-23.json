@@ -1,0 +1,272 @@
+{
+  "time": "2020-08-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-0_10350",
+        "handicap": "1_3_612",
+        "halfFull": "10_11_2343",
+        "size": "1_0_6555"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_0-0_2-1_72450",
+        "handicap": "1_3_1_1928",
+        "halfFull": "10_11_33_5858",
+        "size": "1_0_3_25236"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-0_2-1_1-2_1231650",
+        "handicap": "1_3_1_0_4397",
+        "halfFull": "10_11_33_10_82022",
+        "size": "1_0_3_3_98423"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_1_14731",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_1_3_77341",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_0_1_3_0_119879",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-3_45000",
+        "handicap": "1_0_604",
+        "halfFull": "10_10_3706",
+        "size": "1_3_3040"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-0_2-0_0-3_2716875",
+        "handicap": "1_3_3_0_4982",
+        "halfFull": "10_11_33_10_58165",
+        "size": "1_0_2_3_66074"
+      },
+      "team": "001_025_029_030"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2020-08-23 03:00",
+      "matchId": "1109908",
+      "league": "欧冠",
+      "home": "巴黎圣日尔曼",
+      "away": "拜仁慕尼黑",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "0:1",
+        "score_odds": "15.000",
+        "goal_result": "1",
+        "goal_odds": "9.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.450"
+      }
+    },
+    {
+      "num": "周日025",
+      "match_time": "2020-08-23 03:00",
+      "matchId": "1100009",
+      "league": "巴西甲",
+      "home": "瓦斯科达伽马",
+      "away": "格雷米奥",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.570",
+        "score_result": "0:0",
+        "score_odds": "6.900",
+        "goal_result": "0",
+        "goal_odds": "6.900",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周日026",
+      "match_time": "2020-08-23 03:00",
+      "matchId": "1099942",
+      "league": "巴西甲",
+      "home": "帕尔梅拉斯",
+      "away": "桑托斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周日027",
+      "match_time": "2020-08-23 03:00",
+      "matchId": "1100010",
+      "league": "巴西甲",
+      "home": "布拉干蒂诺RB",
+      "away": "科里蒂巴",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.280",
+        "score_result": "1:2",
+        "score_odds": "17.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日028",
+      "match_time": "2020-08-23 06:00",
+      "matchId": "1099943",
+      "league": "巴西甲",
+      "home": "累西腓体育",
+      "away": "圣保罗",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "0:1",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.250"
+      }
+    },
+    {
+      "num": "周日029",
+      "match_time": "2020-08-23 07:00",
+      "matchId": "1100012",
+      "league": "巴西甲",
+      "home": "塞阿拉",
+      "away": "巴伊亚",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.170",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.250",
+        "score_result": "2:0",
+        "score_odds": "8.750",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周日030",
+      "match_time": "2020-08-23 10:00",
+      "matchId": "1107144",
+      "league": "美职",
+      "home": "波特兰伐木工",
+      "away": "西雅图海湾人",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "0:3",
+        "score_odds": "30.000",
+        "goal_result": "3",
+        "goal_odds": "3.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.800"
+      }
+    }
+  ]
+}

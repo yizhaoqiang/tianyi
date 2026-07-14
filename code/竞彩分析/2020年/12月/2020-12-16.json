@@ -1,0 +1,354 @@
+{
+  "time": "2020-12-16",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-1_9500",
+        "handicap": "3_0_287",
+        "halfFull": "03_00_10080",
+        "size": "4_1_2037"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_0-1_2-3_199500",
+        "handicap": "3_0_0_499",
+        "halfFull": "03_00_00_59472",
+        "size": "4_1_5_14768"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-1_2-3_1-2_1546125",
+        "handicap": "3_0_0_1_1849",
+        "halfFull": "03_00_00_10_285465",
+        "size": "4_1_5_3_58334"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_1_0_6934",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_1_0_0_13314",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_1_0_0_0_27960",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_1_0_0_0_3_44457",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_3-0_19950",
+        "handicap": "3_3_868",
+        "halfFull": "03_33_6750",
+        "size": "4_3_1491"
+      },
+      "team": "001_060"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-1_2-1_3-0_1645875",
+        "handicap": "3_0_1_3_5294",
+        "halfFull": "03_00_33_33_151200",
+        "size": "4_1_3_3_29648"
+      },
+      "team": "001_002_055_056"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2020-12-16 18:00",
+      "matchId": "1098158",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "3:1",
+        "score_odds": "9.500",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "0-3",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2020-12-16 18:00",
+      "matchId": "1098202",
+      "league": "J联赛",
+      "home": "广岛三箭",
+      "away": "柏太阳神",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.120",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.670",
+        "score_result": "0:1",
+        "score_odds": "10.000",
+        "goal_result": "1",
+        "goal_odds": "4.850",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.600"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2020-12-16 18:00",
+      "matchId": "1098164",
+      "league": "J联赛",
+      "home": "清水鼓动",
+      "away": "仙台七夕",
+      "result": {
+        "half": "1-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.740",
+        "score_result": "2:3",
+        "score_odds": "21.000",
+        "goal_result": "5",
+        "goal_odds": "7.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.900"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2020-12-16 18:00",
+      "matchId": "1098162",
+      "league": "J联赛",
+      "home": "湘南海洋",
+      "away": "大分三神",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.190",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:2",
+        "score_odds": "7.750",
+        "goal_result": "3",
+        "goal_odds": "3.950",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2020-12-16 18:00",
+      "matchId": "1098207",
+      "league": "J联赛",
+      "home": "横滨FC",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.750",
+        "score_result": "0:2",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2020-12-16 18:00",
+      "matchId": "1098213",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.920",
+        "score_result": "1:2",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.500"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2020-12-16 18:00",
+      "matchId": "1098142",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.100",
+        "score_result": "0:2",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.930"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2020-12-16 18:00",
+      "matchId": "1098184",
+      "league": "J2联赛",
+      "home": "北九州向日葵",
+      "away": "山形山神",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.930",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.590",
+        "score_result": "2:0",
+        "score_odds": "15.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周三055",
+      "match_time": "2020-12-16 08:30",
+      "matchId": "1087796",
+      "league": "巴西甲",
+      "home": "戈亚尼亚竞技",
+      "away": "弗鲁米嫩塞",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.290",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周三056",
+      "match_time": "2020-12-16 08:30",
+      "matchId": "1087789",
+      "league": "巴西甲",
+      "home": "圣保罗",
+      "away": "米内罗竞技",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.240",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "5.050",
+        "score_result": "3:0",
+        "score_odds": "21.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.750"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2012-11-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-1_3600",
+        "handicap": "3_0_271",
+        "halfFull": "33_00_598",
+        "size": "1_1_1680"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_0-1_2-3_144000",
+        "handicap": "3_0_0_1439",
+        "halfFull": "33_00_00_4903",
+        "size": "1_1_5_16800"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_0-1_2-3_4-0_2016000",
+        "handicap": "3_0_0_3_1770",
+        "halfFull": "33_00_00_33_8336",
+        "size": "1_1_5_4_87360"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_3_3753",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_3_1_12574",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_3_1_1_39611",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_3_1_1_3_51890",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_0-1_5100",
+        "handicap": "3_0_605",
+        "halfFull": "33_10_1950",
+        "size": "1_1_1400"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_0-1_4-2_0-1_1836000",
+        "handicap": "3_0_3_0_1663",
+        "halfFull": "33_00_33_10_12109",
+        "size": "1_1_6_1_135240"
+      },
+      "team": "001_002_026_027"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2012-11-08 01:00",
+      "matchId": "570786",
+      "league": "欧洲联赛",
+      "home": "安郅马哈奇卡拉",
+      "away": "利物浦",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.730",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.730",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2012-11-08 01:00",
+      "matchId": "570800",
+      "league": "欧洲联赛",
+      "home": "纳夫兹",
+      "away": "喀山红宝石",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.570",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2012-11-08 02:00",
+      "matchId": "570787",
+      "league": "欧洲联赛",
+      "home": "乌迪内斯",
+      "away": "年轻人",
+      "result": {
+        "half": "0-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.300",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "5.300",
+        "score_result": "2:3",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.200"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2012-11-08 02:00",
+      "matchId": "570774",
+      "league": "欧洲联赛",
+      "home": "比尔森",
+      "away": "特拉维夫夏普尔",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.230",
+        "score_result": "4:0",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.700"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2012-11-08 02:00",
+      "matchId": "570781",
+      "league": "欧洲联赛",
+      "home": "费内巴切",
+      "away": "AEL利马索尔",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.120",
+        "score_result": "2:0",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2012-11-08 02:00",
+      "matchId": "570779",
+      "league": "欧洲联赛",
+      "home": "马赛",
+      "away": "门兴格拉德巴赫",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2012-11-08 02:00",
+      "matchId": "570785",
+      "league": "欧洲联赛",
+      "home": "布鲁日",
+      "away": "纽卡斯尔联",
+      "result": {
+        "half": "2-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "2:2",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2012-11-08 02:00",
+      "matchId": "570789",
+      "league": "欧洲联赛",
+      "home": "波尔多",
+      "away": "马里迪莫",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.310",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周四026",
+      "match_time": "2012-11-08 08:45",
+      "matchId": "576352",
+      "league": "南俱杯",
+      "home": "老虎竞技",
+      "away": "波特诺山丘",
+      "result": {
+        "half": "2-0",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.750",
+        "score_result": "4:2",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "23.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周四027",
+      "match_time": "2012-11-08 10:30",
+      "matchId": "576432",
+      "league": "美职",
+      "home": "皇家盐湖城",
+      "away": "西雅图海湾人",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.500",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2017-05-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_3-0_13000",
+        "handicap": "0_3_368",
+        "halfFull": "00_33_1050",
+        "size": "1_3_2450"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_3-0_1-2_91000",
+        "handicap": "0_3_1_1272",
+        "halfFull": "00_33_00_2047",
+        "size": "1_3_3_8942"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_3-0_1-2_0-1_1001000",
+        "handicap": "0_3_1_0_2074",
+        "halfFull": "00_33_00_00_8599",
+        "size": "1_3_3_1_48289"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_0_6639",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_0_1_21245",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_0_1_3_57363",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_1_0_0_1_3_3_157750",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_2-1_14000",
+        "handicap": "0_1_787",
+        "halfFull": "00_33_1820",
+        "size": "1_3_2415"
+      },
+      "team": "001_023"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_3-0_1-2_2-1_819000",
+        "handicap": "0_3_0_1_1841",
+        "halfFull": "00_33_00_33_13650",
+        "size": "1_3_3_3_33810"
+      },
+      "team": "001_002_022_023"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2017-05-12 00:30",
+      "matchId": "950156",
+      "league": "荷甲",
+      "home": "埃门",
+      "away": "瓦尔韦克",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.350",
+        "score_result": "0:1",
+        "score_odds": "20.000",
+        "goal_result": "1",
+        "goal_odds": "7.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2017-05-12 00:30",
+      "matchId": "905292",
+      "league": "俄超",
+      "home": "莫斯科中央陆军",
+      "away": "图拉兵工厂",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.120",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.570",
+        "score_result": "3:0",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.500"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2017-05-12 01:00",
+      "matchId": "929783",
+      "league": "瑞典超",
+      "home": "埃斯基尔斯蒂纳",
+      "away": "北雪平",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:2",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.950"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2017-05-12 01:00",
+      "matchId": "928339",
+      "league": "挪超",
+      "home": "奥勒松",
+      "away": "瓦勒伦加",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.920",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.630",
+        "score_result": "0:1",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "5.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2017-05-12 02:30",
+      "matchId": "875704",
+      "league": "法乙",
+      "home": "阿雅克肖GFCO",
+      "away": "朗斯",
+      "result": {
+        "half": "0-2",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.680",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.200",
+        "score_result": "0:4",
+        "score_odds": "29.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.550"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2017-05-12 02:30",
+      "matchId": "875703",
+      "league": "法乙",
+      "home": "布尔格",
+      "away": "布雷斯特",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.390",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:2",
+        "score_odds": "6.750",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.180"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2017-05-12 02:30",
+      "matchId": "875705",
+      "league": "法乙",
+      "home": "尼奥尔",
+      "away": "斯特拉斯堡",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.700",
+        "score_result": "2:2",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.450"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2017-05-12 02:30",
+      "matchId": "875709",
+      "league": "法乙",
+      "home": "特鲁瓦",
+      "away": "兰斯",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.750",
+        "score_result": "2:0",
+        "score_odds": "7.750",
+        "goal_result": "2",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周五022",
+      "match_time": "2017-05-12 08:15",
+      "matchId": "906245",
+      "league": "阿甲",
+      "home": "圣胡安圣马丁",
+      "away": "戈多伊克鲁斯",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.940",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "1:2",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周五023",
+      "match_time": "2017-05-12 09:00",
+      "matchId": "929137",
+      "league": "美职",
+      "home": "休斯敦迪纳摩",
+      "away": "温哥华白帽",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.630",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    }
+  ]
+}

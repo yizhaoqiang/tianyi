@@ -1,0 +1,38 @@
+[
+  {
+    "num": "周五101",
+    "match_time": "2022-12-17 04:00",
+    "matchId": "2224903",
+    "league": "英冠",
+    "home": "伯明翰",
+    "away": "雷丁",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.93",
+        "d": "2.95",
+        "l": "3.55"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.40",
+        "d": "3.25",
+        "l": "1.66"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.93",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.25",
+      "score_result": "3:2",
+      "score_odds": "35.00",
+      "goal_result": "5",
+      "goal_odds": "15.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.25"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+{
+  "time": "2019-02-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_0-0_29400",
+        "handicap": "1_0_630",
+        "halfFull": "10_11_3120",
+        "size": "5_0_13300"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_0-0_0-0_499800",
+        "handicap": "1_0_3_1349",
+        "halfFull": "10_11_11_19968",
+        "size": "5_0_0_226100"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_0-0_35700",
+        "handicap": "1_3_813",
+        "halfFull": "10_11_3328",
+        "size": "5_0_16150"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_0-0_0-0_499800",
+        "handicap": "1_0_3_1349",
+        "halfFull": "10_11_11_19968",
+        "size": "5_0_0_226100"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2019-02-19 03:45",
+      "matchId": "1051748",
+      "league": "英冠",
+      "home": "女王公园巡游者",
+      "away": "西布罗姆维奇",
+      "result": {
+        "half": "1-1",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.010",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "2:3",
+        "score_odds": "21.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2019-02-19 04:00",
+      "matchId": "1048944",
+      "league": "欧冠",
+      "home": "利物浦",
+      "away": "拜仁慕尼黑",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.660",
+        "score_result": "0:0",
+        "score_odds": "14.000",
+        "goal_result": "0",
+        "goal_odds": "14.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2019-02-19 04:00",
+      "matchId": "1048938",
+      "league": "欧冠",
+      "home": "里昂",
+      "away": "巴塞罗那",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.140",
+        "score_result": "0:0",
+        "score_odds": "17.000",
+        "goal_result": "0",
+        "goal_odds": "17.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.400"
+      }
+    }
+  ]
+}

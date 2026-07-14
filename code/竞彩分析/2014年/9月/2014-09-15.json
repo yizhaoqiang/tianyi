@@ -1,0 +1,354 @@
+{
+  "time": "2014-09-15",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-0_16000",
+        "handicap": "3_3_525",
+        "halfFull": "01_13_15400",
+        "size": "4_1_1725"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_1-0_0-7_288000",
+        "handicap": "3_3_0_982",
+        "halfFull": "01_13_00_27720",
+        "size": "4_1_7+_39675"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-0_0-7_3-0_3744000",
+        "handicap": "3_3_0_3_2849",
+        "halfFull": "01_13_00_33_76230",
+        "size": "4_1_7+_3_144813"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_4189",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_0_18431",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_0_3_22486",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_0_3_0_110184",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-0_9200",
+        "handicap": "3_1_951",
+        "halfFull": "01_13_8140",
+        "size": "4_1_1587"
+      },
+      "team": "001_020"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_1-0_2-2_1-0_1104000",
+        "handicap": "3_3_0_1_2747",
+        "halfFull": "01_13_31_13_797720",
+        "size": "4_1_4_1_38683"
+      },
+      "team": "001_002_019_020"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2014-09-15 13:00",
+      "matchId": "759050",
+      "league": "亚运女",
+      "home": "约旦女足",
+      "away": "中华台北女足",
+      "result": {
+        "half": "1-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "3.020",
+        "score_result": "2:2",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "4.600",
+        "half_full_result": "0-1",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2014-09-15 16:00",
+      "matchId": "756590",
+      "league": "亚运男",
+      "home": "孟加拉国亚足",
+      "away": "阿富汗亚足",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.740",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "3.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2014-09-15 16:00",
+      "matchId": "756592",
+      "league": "亚运男",
+      "home": "东帝汶亚足",
+      "away": "印度尼西亚亚足",
+      "result": {
+        "half": "0-3",
+        "full": "0-7",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "1.870",
+        "score_result": "负其他",
+        "score_odds": "18.000",
+        "goal_result": "7+",
+        "goal_odds": "23.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.800"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2014-09-15 16:00",
+      "matchId": "756595",
+      "league": "亚运男",
+      "home": "朝鲜亚足",
+      "away": "中国亚足",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.610",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.900",
+        "score_result": "3:0",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2014-09-15 16:00",
+      "matchId": "756593",
+      "league": "亚运男",
+      "home": "阿联酋亚足",
+      "away": "印度亚足",
+      "result": {
+        "half": "3-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.100",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "5:0",
+        "score_odds": "16.000",
+        "goal_result": "5",
+        "goal_odds": "6.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.450"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2014-09-15 16:00",
+      "matchId": "756597",
+      "league": "亚运男",
+      "home": "伊朗亚足",
+      "away": "越南亚足",
+      "result": {
+        "half": "0-2",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "12.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "4.400",
+        "score_result": "1:4",
+        "score_odds": "200.000",
+        "goal_result": "5",
+        "goal_odds": "8.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2014-09-15 19:00",
+      "matchId": "756594",
+      "league": "亚运男",
+      "home": "泰国亚足",
+      "away": "马尔代夫亚足",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.030",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.220",
+        "score_result": "2:0",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "4.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2014-09-15 19:00",
+      "matchId": "756591",
+      "league": "亚运男",
+      "home": "乌兹别克斯坦亚足",
+      "away": "中国香港亚足",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "6.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "4.900",
+        "score_result": "1:1",
+        "score_odds": "10.250",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "9.500"
+      }
+    },
+    {
+      "num": "周一019",
+      "match_time": "2014-09-15 03:00",
+      "matchId": "705892",
+      "league": "英超",
+      "home": "赫尔城",
+      "away": "西汉姆联",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.660",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "6.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周一020",
+      "match_time": "2014-09-15 07:30",
+      "matchId": "715903",
+      "league": "阿甲",
+      "home": "纽维尔老男孩",
+      "away": "奥林匹奥",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.480",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "1:0",
+        "score_odds": "4.600",
+        "goal_result": "1",
+        "goal_odds": "3.450",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.700"
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "time": "2019-06-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-2_7000",
+        "handicap": "3_0_301",
+        "halfFull": "01_10_11400",
+        "size": "2_3_1168"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-2_5-2_490000",
+        "handicap": "3_0_3_560",
+        "halfFull": "01_10_33_20064",
+        "size": "2_3_7+_22192"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_5-2_39200",
+        "handicap": "3_3_269",
+        "halfFull": "01_33_2112",
+        "size": "2_7+_6080"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_1-2_5-2_490000",
+        "handicap": "3_0_3_560",
+        "halfFull": "01_10_33_20064",
+        "size": "2_3_7+_22192"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2019-06-06 02:45",
+      "matchId": "1060043",
+      "league": "欧国联",
+      "home": "荷兰",
+      "away": "英格兰",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.050",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.450",
+        "score_result": "1:1",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "0-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2019-06-06 07:00",
+      "matchId": "1059426",
+      "league": "巴西杯",
+      "home": "桑托斯",
+      "away": "米内罗竞技",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.080",
+        "score_result": "1:2",
+        "score_odds": "12.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.500"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2019-06-06 07:00",
+      "matchId": "1052053",
+      "league": "美职",
+      "home": "纽约城",
+      "away": "辛辛那提FC",
+      "result": {
+        "half": "3-1",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.860",
+        "score_result": "5:2",
+        "score_odds": "70.000",
+        "goal_result": "7+",
+        "goal_odds": "19.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.760"
+      }
+    }
+  ]
+}

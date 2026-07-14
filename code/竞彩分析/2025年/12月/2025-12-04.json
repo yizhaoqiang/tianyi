@@ -1,0 +1,200 @@
+{
+  "time": "2025-12-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-1_7000",
+        "handicap": "1_0_944",
+        "halfFull": "13_11_3229",
+        "size": "3_2_1548"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_1-1_1-0_57750",
+        "handicap": "1_0_3_1491",
+        "halfFull": "13_11_13_23417",
+        "size": "3_2_1_6346"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-1_1-0_2-2_866250",
+        "handicap": "1_0_3_0_2759",
+        "halfFull": "13_11_13_31_351262",
+        "size": "3_2_1_4_36494"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_0_3_4083",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-0_5600",
+        "handicap": "1_3_473",
+        "halfFull": "13_13_2279",
+        "size": "3_1_1260"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-1_2-2_1-0_840000",
+        "handicap": "1_0_0_3_2584",
+        "halfFull": "13_11_31_13_290699",
+        "size": "3_2_4_1_31153"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2025-12-04 01:00",
+      "matchId": "1314462",
+      "league": "意大利杯",
+      "home": "博洛尼亚",
+      "away": "帕尔马",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2025-12-04 04:00",
+      "matchId": "1295873",
+      "league": "英超",
+      "home": "曼联",
+      "away": "西汉姆联",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.950",
+        "score_result": "1:1",
+        "score_odds": "10.000",
+        "goal_result": "2",
+        "goal_odds": "4.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2025-12-04 04:00",
+      "matchId": "1314461",
+      "league": "意大利杯",
+      "home": "拉齐奥",
+      "away": "AC米兰",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.190",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "1:0",
+        "score_odds": "8.250",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.250"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2025-12-04 06:30",
+      "matchId": "1288402",
+      "league": "巴西甲",
+      "home": "克鲁塞罗",
+      "away": "博塔弗戈",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "5.750",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2025-12-04 18:00",
+      "matchId": "1315769",
+      "league": "K联赛",
+      "home": "富川FC",
+      "away": "水原FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.940",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "1:0",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.000"
+      }
+    }
+  ]
+}

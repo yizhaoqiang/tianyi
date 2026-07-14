@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周三052",
+    "match_time": "2014-07-03 08:30",
+    "matchId": "942738",
+    "league": "美职业",
+    "home": "芝加哥火焰",
+    "away": "多伦多FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.88",
+        "d": "3.40",
+        "l": "3.35"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.65",
+        "d": "3.70",
+        "l": "1.71"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.40",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.71",
+      "score_result": "1:1",
+      "score_odds": "6.00",
+      "goal_result": "2",
+      "goal_odds": "3.40",
+      "half_full_result": "0-1",
+      "half_full_odds": "15.00"
+    }
+  },
+  {
+    "num": "周三053",
+    "match_time": "2014-07-03 10:30",
+    "matchId": "942739",
+    "league": "美职业",
+    "home": "圣何塞地震",
+    "away": "美国芝华士",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.80",
+        "d": "3.30",
+        "l": "3.77"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.55",
+        "d": "3.50",
+        "l": "1.78"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.77",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.78",
+      "score_result": "0:1",
+      "score_odds": "9.00",
+      "goal_result": "1",
+      "goal_odds": "4.25",
+      "half_full_result": "1-0",
+      "half_full_odds": "8.25"
+    }
+  }
+]

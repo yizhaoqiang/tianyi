@@ -1,0 +1,354 @@
+{
+  "time": "2025-06-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_3-2_17500",
+        "handicap": "0_1_656",
+        "halfFull": "01_03_42500",
+        "size": "2_5_2907"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_3-2_1-1_119000",
+        "handicap": "0_1_3_1293",
+        "halfFull": "01_03_01_616250",
+        "size": "2_5_2_9593"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-2_1-1_0-0_1309000",
+        "handicap": "0_1_3_3_2974",
+        "halfFull": "01_03_01_11_3851562",
+        "size": "2_5_2_0_105524"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_8804",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_3_21043",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_3_3_47979",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_3_0_3_3_1_199113",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_6-0_16800",
+        "handicap": "0_3_397",
+        "halfFull": "01_33_3128",
+        "size": "2_6_4896"
+      },
+      "team": "001_039"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_3-2_1-1_6-0_3780000",
+        "handicap": "0_1_3_3_3297",
+        "halfFull": "01_03_11_33_527850",
+        "size": "2_5_2_6_190699"
+      },
+      "team": "001_002_012_013"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2025-06-17 18:30",
+      "matchId": "1284125",
+      "league": "K联赛",
+      "home": "首尔FC",
+      "away": "江原FC",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.020",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.060",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2025-06-17 18:30",
+      "matchId": "1284126",
+      "league": "K联赛",
+      "home": "全北现代",
+      "away": "水原FC",
+      "result": {
+        "half": "0-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "3:2",
+        "score_odds": "25.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2025-06-17 18:30",
+      "matchId": "1284127",
+      "league": "K联赛",
+      "home": "大邱FC",
+      "away": "浦项制铁",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.680",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.970",
+        "score_result": "1:1",
+        "score_odds": "6.800",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.500"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2025-06-17 00:00",
+      "matchId": "1280509",
+      "league": "世俱杯",
+      "home": "弗鲁米嫩",
+      "away": "多特蒙德",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.300",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2025-06-17 00:00",
+      "matchId": "1293409",
+      "league": "U21欧洲杯",
+      "home": "格鲁吉21",
+      "away": "葡萄牙21",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "2.960",
+        "score_result": "0:4",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "4.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.670"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2025-06-17 00:00",
+      "matchId": "1293410",
+      "league": "U21欧洲杯",
+      "home": "法国21",
+      "away": "波兰21",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.390",
+        "score_result": "4:1",
+        "score_odds": "13.000",
+        "goal_result": "5",
+        "goal_odds": "6.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.510"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2025-06-17 03:00",
+      "matchId": "1280503",
+      "league": "世俱杯",
+      "home": "河床",
+      "away": "浦和红钻",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.370",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.280",
+        "score_result": "3:1",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.150"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2025-06-17 03:00",
+      "matchId": "1280387",
+      "league": "U21欧洲杯",
+      "home": "罗马尼21",
+      "away": "斯洛伐21",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.260",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.150",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周二012",
+      "match_time": "2025-06-17 09:00",
+      "matchId": "1280504",
+      "league": "世俱杯",
+      "home": "蒙特雷",
+      "away": "国际米兰",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.300",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.550",
+        "score_result": "1:1",
+        "score_odds": "9.000",
+        "goal_result": "2",
+        "goal_odds": "4.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.750"
+      }
+    },
+    {
+      "num": "周二013",
+      "match_time": "2025-06-17 10:30",
+      "matchId": "1291274",
+      "league": "金杯赛",
+      "home": "加拿大",
+      "away": "洪都拉斯",
+      "result": {
+        "half": "2-0",
+        "full": "6-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.270",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.970",
+        "score_result": "胜其他",
+        "score_odds": "24.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.840"
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "time": "2012-11-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_0-0_5600",
+        "handicap": "1_1_1043",
+        "halfFull": "31_11_7480",
+        "size": "2_0_2800"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-1_0-0_2-2_61600",
+        "handicap": "1_1_1_3443",
+        "halfFull": "31_11_11_39644",
+        "size": "2_0_4_15120"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-0_2-2_1-1_338800",
+        "handicap": "1_1_1_1_11018",
+        "halfFull": "31_11_11_01_713592",
+        "size": "2_0_4_2_46872"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-1_1-1_3850",
+        "handicap": "1_1_1184",
+        "halfFull": "31_01_30600",
+        "size": "2_2_1085"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-1_0-0_2-2_1-1_338800",
+        "handicap": "1_1_1_1_11018",
+        "halfFull": "31_11_11_01_713592",
+        "size": "2_0_4_2_46872"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2012-11-12 03:15",
+      "matchId": "208523",
+      "league": "德乙",
+      "home": "圣保利",
+      "away": "波鸿",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "3-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2012-11-12 03:30",
+      "matchId": "207832",
+      "league": "法乙",
+      "home": "朗斯",
+      "away": "卡昂",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.820",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "2.820",
+        "score_result": "0:0",
+        "score_odds": "8.000",
+        "goal_result": "0",
+        "goal_odds": "8.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2012-11-12 03:45",
+      "matchId": "576931",
+      "league": "足总杯",
+      "home": "AFC温布尔登",
+      "away": "约克城",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2012-11-12 04:15",
+      "matchId": "212972",
+      "league": "葡超",
+      "home": "马里迪莫",
+      "away": "塞图巴尔",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "1:1",
+        "score_odds": "5.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "18.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周四001",
+    "match_time": "2023-05-26 02:00",
+    "matchId": "2383437",
+    "league": "世青杯",
+    "home": "乌拉圭U20",
+    "away": "英格兰U20",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.53",
+        "d": "3.05",
+        "l": "2.40"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.41",
+        "d": "4.05",
+        "l": "5.45"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.40",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "4.05",
+      "score_result": "2:3",
+      "score_odds": "35.00",
+      "goal_result": "5",
+      "goal_odds": "13.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2023-05-26 03:00",
+    "matchId": "2213850",
+    "league": "英超",
+    "home": "曼彻斯特联",
+    "away": "切尔西",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.52",
+        "d": "3.80",
+        "l": "4.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.75",
+        "d": "3.30",
+        "l": "2.12"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "4-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.52",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.75",
+      "score_result": "4:1",
+      "score_odds": "21.00",
+      "goal_result": "5",
+      "goal_odds": "9.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.28"
+    }
+  }
+]

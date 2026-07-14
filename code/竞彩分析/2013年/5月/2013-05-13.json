@@ -1,0 +1,331 @@
+{
+  "time": "2013-05-13",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "7-1_4-1_162000",
+        "handicap": "3_3_379",
+        "halfFull": "33_03_6815",
+        "size": "7+_5_23400"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "7-1_4-1_0-1_1296000",
+        "handicap": "3_3_0_1260",
+        "halfFull": "33_03_10_47705",
+        "size": "7+_5_1_86580"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "7-1_4-1_0-1_1-2_10368000",
+        "handicap": "3_3_0_0_2244",
+        "halfFull": "33_03_10_00_131188",
+        "size": "7+_5_1_3_320346"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_3792",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_0_11453",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_0_0_50969",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_0_0_1_234459",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "7-1_1-0_14850",
+        "handicap": "3_3_261",
+        "halfFull": "33_13_963",
+        "size": "7+_1_6300"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "7-1_4-1_2-2_1-0_13365000",
+        "handicap": "3_3_1_3_2952",
+        "halfFull": "33_03_31_13_502946",
+        "size": "7+_5_4_1_401310"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2013-05-13 00:30",
+      "matchId": "580020",
+      "league": "挪超",
+      "home": "奥勒松",
+      "away": "利勒斯特罗姆",
+      "result": {
+        "half": "3-1",
+        "full": "7-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.550",
+        "score_result": "胜其他",
+        "score_odds": "27.000",
+        "goal_result": "7+",
+        "goal_odds": "18.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.350"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2013-05-13 01:00",
+      "matchId": "581151",
+      "league": "瑞典超",
+      "home": "布鲁马波卡纳",
+      "away": "耶夫勒",
+      "result": {
+        "half": "0-1",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.450",
+        "score_result": "4:1",
+        "score_odds": "60.000",
+        "goal_result": "5",
+        "goal_odds": "13.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "29.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2013-05-13 01:00",
+      "matchId": "581021",
+      "league": "瑞典超",
+      "home": "厄斯特什",
+      "away": "奥特维达堡",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.320",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.320",
+        "score_result": "0:1",
+        "score_odds": "8.000",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2013-05-13 01:00",
+      "matchId": "580026",
+      "league": "挪超",
+      "home": "赫纳福斯",
+      "away": "罗森博格",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.780",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2013-05-13 01:07",
+      "matchId": "581024",
+      "league": "瑞典超",
+      "home": "赫尔辛堡",
+      "away": "赫根",
+      "result": {
+        "half": "1-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.690",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.690",
+        "score_result": "5:0",
+        "score_odds": "80.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周一006",
+      "match_time": "2013-05-13 02:30",
+      "matchId": "208051",
+      "league": "法乙",
+      "home": "卡昂",
+      "away": "南特",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.020",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.020",
+        "score_result": "0:1",
+        "score_odds": "7.200",
+        "goal_result": "1",
+        "goal_odds": "3.600",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2013-05-13 02:45",
+      "matchId": "603432",
+      "league": "英冠",
+      "home": "布赖顿",
+      "away": "水晶宫",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.450",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "4.450",
+        "score_result": "0:2",
+        "score_odds": "21.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2013-05-13 04:00",
+      "matchId": "209064",
+      "league": "西甲",
+      "home": "皇家社会",
+      "away": "格拉纳达CF",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.600",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "4.600",
+        "score_result": "2:2",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "4.900",
+        "half_full_result": "3-1",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周一009",
+      "match_time": "2013-05-13 08:30",
+      "matchId": "211275",
+      "league": "阿甲",
+      "home": "拉普拉塔大学生",
+      "away": "圣菲联合",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.690",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.690",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.100"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "num": "周四003",
+    "match_time": "2020-10-16 02:00",
+    "matchId": "1884727",
+    "league": "荷乙",
+    "home": "邓伯什",
+    "away": "阿尔梅勒城",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.00",
+        "d": "4.35",
+        "l": "1.42"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.36",
+        "d": "3.70",
+        "l": "2.25"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.35",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "2.36",
+      "score_result": "1:1",
+      "score_odds": "9.50",
+      "goal_result": "2",
+      "goal_odds": "4.50",
+      "half_full_result": "0-1",
+      "half_full_odds": "16.00"
+    }
+  },
+  {
+    "num": "周四001",
+    "match_time": "2020-10-16 07:00",
+    "matchId": "1858735",
+    "league": "巴西甲",
+    "home": "弗拉门戈",
+    "away": "布拉干蒂诺RB",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.43",
+        "d": "3.95",
+        "l": "5.50"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.39",
+        "d": "3.40",
+        "l": "2.34"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.95",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.34",
+      "score_result": "1:1",
+      "score_odds": "7.25",
+      "goal_result": "2",
+      "goal_odds": "3.90",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.80"
+    }
+  },
+  {
+    "num": "周四002",
+    "match_time": "2020-10-16 10:00",
+    "matchId": "1880489",
+    "league": "墨西联",
+    "home": "圣路易斯竞技",
+    "away": "克雷塔罗",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.12",
+        "d": "3.20",
+        "l": "2.00"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.59",
+        "d": "3.65",
+        "l": "4.25"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "3.12",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.59",
+      "score_result": "2:1",
+      "score_odds": "9.50",
+      "goal_result": "3",
+      "goal_odds": "3.40",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.00"
+    }
+  }
+]

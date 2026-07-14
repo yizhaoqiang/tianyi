@@ -1,0 +1,354 @@
+{
+  "time": "2013-06-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-1_4875",
+        "handicap": "3_0_232",
+        "halfFull": "11_10_2579",
+        "size": "0_1_2775"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_0-1_1-3_78000",
+        "handicap": "3_0_0_837",
+        "halfFull": "11_10_10_12383",
+        "size": "0_1_4_16094"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-1_1-3_2-2_1092000",
+        "handicap": "3_0_0_3_1314",
+        "halfFull": "11_10_10_31_185759",
+        "size": "0_1_4_4_99789"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_2564",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_1_8846",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_1_3_16807",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_0_1_3_3_34456",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_3-2_19500",
+        "handicap": "3_3_247",
+        "halfFull": "11_03_12469",
+        "size": "0_5_7875"
+      },
+      "team": "001_027"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-1_1-1_3-2_747825",
+        "handicap": "3_0_3_3_572",
+        "halfFull": "11_10_31_03_1122299",
+        "size": "0_1_2_5_94696"
+      },
+      "team": "001_002_026_027"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2013-06-29 17:00",
+      "matchId": "591709",
+      "league": "J2联赛",
+      "home": "富山胜利",
+      "away": "冈山绿雉",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.650",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2013-06-29 17:00",
+      "matchId": "591687",
+      "league": "J2联赛",
+      "home": "松本山雅",
+      "away": "横滨FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.410",
+        "score_result": "0:1",
+        "score_odds": "6.500",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2013-06-29 17:00",
+      "matchId": "591689",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "山形山神",
+      "result": {
+        "half": "1-1",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.930",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.600",
+        "score_result": "1:3",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2013-06-29 17:00",
+      "matchId": "591723",
+      "league": "J2联赛",
+      "home": "枥木SC",
+      "away": "京都不死鸟",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.570",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "6.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2013-06-29 17:00",
+      "matchId": "591700",
+      "league": "J2联赛",
+      "home": "长崎航海",
+      "away": "福冈黄蜂",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2013-06-29 18:00",
+      "matchId": "591688",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "鸟取希望",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2013-06-29 18:00",
+      "matchId": "591719",
+      "league": "J2联赛",
+      "home": "岐阜FC",
+      "away": "北九州向日葵",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.900",
+        "score_result": "3:1",
+        "score_odds": "32.000",
+        "goal_result": "4",
+        "goal_odds": "6.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2013-06-29 18:00",
+      "matchId": "591765",
+      "league": "J2联赛",
+      "home": "大阪钢巴",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "2:0",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.900"
+      }
+    },
+    {
+      "num": "周六026",
+      "match_time": "2013-06-29 10:30",
+      "matchId": "589021",
+      "league": "美职",
+      "home": "美国芝华士",
+      "away": "新英格兰革命",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.640",
+        "score_result": "1:1",
+        "score_odds": "5.900",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周六027",
+      "match_time": "2013-06-29 10:30",
+      "matchId": "589022",
+      "league": "美职",
+      "home": "圣何塞地震",
+      "away": "洛杉矶银河",
+      "result": {
+        "half": "0-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.500",
+        "score_result": "3:2",
+        "score_odds": "26.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "0-3",
+        "half_full_odds": "29.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周六177",
+    "match_time": "2019-02-03 11:05",
+    "matchId": "1651382",
+    "league": "墨西联",
+    "home": "蒂华纳",
+    "away": "托卢卡",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.45",
+        "d": "3.00",
+        "l": "2.58"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.85",
+        "d": "4.02",
+        "l": "1.41"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.45",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "5.85",
+      "score_result": "2:0",
+      "score_odds": "10.50",
+      "goal_result": "2",
+      "goal_odds": "3.15",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.95"
+    }
+  },
+  {
+    "num": "周日101",
+    "match_time": "2019-02-03 14:00",
+    "matchId": "1584841",
+    "league": "澳超",
+    "home": "悉尼FC",
+    "away": "墨尔本城",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.77",
+        "d": "3.35",
+        "l": "3.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.45",
+        "d": "3.50",
+        "l": "1.81"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.77",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.45",
+      "score_result": "2:0",
+      "score_odds": "8.25",
+      "goal_result": "2",
+      "goal_odds": "3.20",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.55"
+    }
+  }
+]

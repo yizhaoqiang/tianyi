@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2020-03-15 13:20",
+    "matchId": "1783970",
+    "league": "澳超",
+    "home": "惠灵顿凤凰",
+    "away": "墨尔本胜利",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.65",
+        "d": "3.60",
+        "l": "3.85"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.05",
+        "d": "3.40",
+        "l": "1.90"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.65",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.05",
+      "score_result": "3:0",
+      "score_odds": "13.00",
+      "goal_result": "3",
+      "goal_odds": "3.20",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.45"
+    }
+  },
+  {
+    "num": "周日002",
+    "match_time": "2020-03-15 15:20",
+    "matchId": "1783969",
+    "league": "澳超",
+    "home": "阿德莱德联",
+    "away": "纽卡斯尔喷气机",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.08",
+        "d": "3.50",
+        "l": "2.65"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.00",
+        "d": "4.10",
+        "l": "1.53"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.65",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.53",
+      "score_result": "0:3",
+      "score_odds": "30.00",
+      "goal_result": "3",
+      "goal_odds": "3.30",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.10"
+    }
+  }
+]

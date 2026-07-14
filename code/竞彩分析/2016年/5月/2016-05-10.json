@@ -1,0 +1,164 @@
+{
+  "time": "2016-05-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_3-3_104000",
+        "handicap": "3_0_226",
+        "halfFull": "33_01_5159",
+        "size": "5_6_12250"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_3-3_1-1_644800",
+        "handicap": "3_0_0_394",
+        "halfFull": "33_01_11_23220",
+        "size": "5_6_2_37975"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_3-3_1-1_0-2_4836000",
+        "handicap": "3_0_0_0_1556",
+        "halfFull": "33_01_11_00_67338",
+        "size": "5_6_2_2_117722"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_0-2_19500",
+        "handicap": "3_0_600",
+        "halfFull": "33_00_1247",
+        "size": "5_2_2712"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_3-3_1-1_0-2_4836000",
+        "handicap": "3_0_0_0_1556",
+        "halfFull": "33_01_11_00_67338",
+        "size": "5_6_2_2_117722"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2016-05-10 02:45",
+      "matchId": "865157",
+      "league": "英超",
+      "home": "西汉姆联",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "1-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "3:2",
+        "score_odds": "26.000",
+        "goal_result": "5",
+        "goal_odds": "8.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2016-05-10 02:45",
+      "matchId": "870287",
+      "league": "苏超",
+      "home": "邓迪联",
+      "away": "帕尔蒂克",
+      "result": {
+        "half": "0-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "3:3",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "14.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2016-05-10 08:30",
+      "matchId": "872695",
+      "league": "巴西杯",
+      "home": "阿瓦伊",
+      "away": "布拉干蒂诺",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.740",
+        "score_result": "1:1",
+        "score_odds": "6.200",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2016-05-10 08:30",
+      "matchId": "873159",
+      "league": "巴西杯",
+      "home": "隆德里纳",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.950",
+        "score_result": "0:2",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.900"
+      }
+    }
+  ]
+}

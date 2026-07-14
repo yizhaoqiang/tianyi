@@ -1,0 +1,354 @@
+{
+  "time": "2020-10-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-0_6365",
+        "handicap": "0_0_311",
+        "halfFull": "10_11_4000",
+        "size": "1_0_2680"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-1_0-0_4-1_254600",
+        "handicap": "0_0_3_485",
+        "halfFull": "10_11_33_18000",
+        "size": "1_0_5_17688"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-0_4-1_1-1_1654900",
+        "handicap": "0_0_3_0_650",
+        "halfFull": "10_11_33_11_90900",
+        "size": "1_0_5_2_58370"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_897",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_0_1203",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_0_3_5113",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_0_0_3_3_8999",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-1_0-2_16150",
+        "handicap": "0_0_323",
+        "halfFull": "10_10_7500",
+        "size": "1_2_1260"
+      },
+      "team": "001_063"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-1_0-0_3-2_0-2_3137944",
+        "handicap": "0_0_1_0_1710",
+        "halfFull": "10_11_33_10_87000",
+        "size": "1_0_5_2_118187"
+      },
+      "team": "001_002_062_063"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周六001",
+      "match_time": "2020-10-17 13:00",
+      "matchId": "1097553",
+      "league": "J2联赛",
+      "home": "德岛漩涡",
+      "away": "甲府风林",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.970",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周六002",
+      "match_time": "2020-10-17 13:00",
+      "matchId": "1097793",
+      "league": "J2联赛",
+      "home": "东京绿茵",
+      "away": "枥木SC",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.980",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.580",
+        "score_result": "0:0",
+        "score_odds": "6.700",
+        "goal_result": "0",
+        "goal_odds": "6.700",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周六003",
+      "match_time": "2020-10-17 14:00",
+      "matchId": "1097745",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "横滨水手",
+      "result": {
+        "half": "1-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.600",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.560",
+        "score_result": "4:1",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "6.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周六004",
+      "match_time": "2020-10-17 14:00",
+      "matchId": "1097791",
+      "league": "J2联赛",
+      "home": "北九州向日葵",
+      "away": "长崎航海",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.340",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.050"
+      }
+    },
+    {
+      "num": "周六005",
+      "match_time": "2020-10-17 14:00",
+      "matchId": "1098017",
+      "league": "J2联赛",
+      "home": "千叶市原",
+      "away": "町田泽维亚",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "0:0",
+        "score_odds": "7.250",
+        "goal_result": "0",
+        "goal_odds": "7.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周六006",
+      "match_time": "2020-10-17 15:30",
+      "matchId": "1117864",
+      "league": "K联赛",
+      "home": "城南FC",
+      "away": "首尔FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.340",
+        "score_result": "0:1",
+        "score_odds": "6.100",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周六007",
+      "match_time": "2020-10-17 17:30",
+      "matchId": "1097811",
+      "league": "J2联赛",
+      "home": "琉球FC",
+      "away": "松本山雅",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.250",
+        "score_result": "2:0",
+        "score_odds": "10.000",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周六008",
+      "match_time": "2020-10-17 19:00",
+      "matchId": "1107359",
+      "league": "德乙",
+      "home": "不伦瑞克",
+      "away": "波鸿",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.520",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.760",
+        "score_result": "2:1",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.750"
+      }
+    },
+    {
+      "num": "周六062",
+      "match_time": "2020-10-17 08:00",
+      "matchId": "1100823",
+      "league": "墨联",
+      "home": "瓜达拉哈拉",
+      "away": "阿特拉斯",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "3:2",
+        "score_odds": "29.000",
+        "goal_result": "5",
+        "goal_odds": "14.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周六063",
+      "match_time": "2020-10-17 10:00",
+      "matchId": "1100824",
+      "league": "墨联",
+      "home": "蓝十字",
+      "away": "老虎大学",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.640",
+        "score_result": "0:2",
+        "score_odds": "17.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    }
+  ]
+}

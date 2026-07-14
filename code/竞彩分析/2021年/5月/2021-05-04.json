@@ -1,0 +1,128 @@
+{
+  "time": "2021-05-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_0-0_28800",
+        "handicap": "1_3_482",
+        "halfFull": "33_11_928",
+        "size": "5_0_12000"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_0-0_2-0_273600",
+        "handicap": "1_3_3_1293",
+        "halfFull": "33_11_33_2413",
+        "size": "5_0_2_49800"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_2-0_22800",
+        "handicap": "1_3_911",
+        "halfFull": "33_33_473",
+        "size": "5_2_4150"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_0-0_2-0_273600",
+        "handicap": "1_3_3_1293",
+        "halfFull": "33_11_33_2413",
+        "size": "5_0_2_49800"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2021-05-04 14:00",
+      "matchId": "1125211",
+      "league": "J联赛",
+      "home": "川崎前锋",
+      "away": "名古屋鲸八",
+      "result": {
+        "half": "1-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "3:2",
+        "score_odds": "24.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.820"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2021-05-04 02:15",
+      "matchId": "1130346",
+      "league": "英冠",
+      "home": "卢顿",
+      "away": "罗瑟汉姆",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.280",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.420",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2021-05-04 03:00",
+      "matchId": "1132269",
+      "league": "欧冠",
+      "home": "曼彻斯特城",
+      "away": "巴黎圣日尔曼",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.680",
+        "score_result": "2:0",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "4.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.600"
+      }
+    }
+  ]
+}

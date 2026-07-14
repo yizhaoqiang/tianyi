@@ -1,0 +1,79 @@
+{
+  "time": "2019-03-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_2-0_17550",
+        "handicap": "1_1_1046",
+        "halfFull": "33_33_294",
+        "size": "5_2_6300"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_2-0_17550",
+        "handicap": "1_1_1046",
+        "halfFull": "33_33_294",
+        "size": "5_2_6300"
+      },
+      "team": "001_002"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2019-03-27 06:15",
+      "matchId": "1056164",
+      "league": "巴西杯",
+      "home": "沙佩科恩斯",
+      "away": "克里西乌马",
+      "result": {
+        "half": "2-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.050",
+        "score_result": "3:2",
+        "score_odds": "39.000",
+        "goal_result": "5",
+        "goal_odds": "18.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.300"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2019-03-27 08:30",
+      "matchId": "1056418",
+      "league": "解放者杯",
+      "home": "克鲁塞罗",
+      "away": "拉腊",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.430",
+        "score_result": "2:0",
+        "score_odds": "4.500",
+        "goal_result": "2",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.280"
+      }
+    }
+  ]
+}

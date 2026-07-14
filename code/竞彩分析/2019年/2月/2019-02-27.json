@@ -1,0 +1,308 @@
+{
+  "time": "2019-02-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-1_3375",
+        "handicap": "3_1_676",
+        "halfFull": "13_00_701",
+        "size": "2_1_1669"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_0-1_5-1_97875",
+        "handicap": "3_1_3_1218",
+        "halfFull": "13_00_33_1192",
+        "size": "2_1_6_17529"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-1_5-1_1-0_1125562",
+        "handicap": "3_1_3_0_3337",
+        "halfFull": "13_00_33_13_4708",
+        "size": "2_1_6_1_166532"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_3_15686",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_3_3_47058",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_3_3_0_67293",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_0_3_3_0_0_290035",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-3_12000",
+        "handicap": "3_0_870",
+        "halfFull": "13_10_2137",
+        "size": "2_3_1055"
+      },
+      "team": "001_008"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-1_3-3_0-3_4050000",
+        "handicap": "3_1_0_0_4170",
+        "halfFull": "13_00_11_10_21984",
+        "size": "2_1_6_3_89485"
+      },
+      "team": "001_002_007_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2019-02-27 01:30",
+      "matchId": "1052248",
+      "league": "法国杯",
+      "home": "雷恩",
+      "away": "奥尔良",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.020",
+        "score_result": "2:0",
+        "score_odds": "5.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.750"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2019-02-27 02:30",
+      "matchId": "1051895",
+      "league": "德乙",
+      "home": "奥厄",
+      "away": "科隆",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.340",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "0:1",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "5.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.870"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2019-02-27 03:45",
+      "matchId": "1034957",
+      "league": "英超",
+      "home": "阿森纳",
+      "away": "伯恩茅斯",
+      "result": {
+        "half": "2-1",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.800",
+        "score_result": "5:1",
+        "score_odds": "29.000",
+        "goal_result": "6",
+        "goal_odds": "10.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.700"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2019-02-27 04:00",
+      "matchId": "1034966",
+      "league": "英超",
+      "home": "曼彻斯特城",
+      "away": "西汉姆联",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.740",
+        "score_result": "1:0",
+        "score_odds": "11.500",
+        "goal_result": "1",
+        "goal_odds": "9.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2019-02-27 04:00",
+      "matchId": "1034962",
+      "league": "英超",
+      "home": "切尔西",
+      "away": "托特纳姆热刺",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.180",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.700",
+        "score_result": "2:0",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.150"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2019-02-27 04:00",
+      "matchId": "1034965",
+      "league": "英超",
+      "home": "利物浦",
+      "away": "沃特福德",
+      "result": {
+        "half": "2-0",
+        "full": "5-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.140",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "3.000",
+        "score_result": "5:0",
+        "score_odds": "19.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.550"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2019-02-27 04:00",
+      "matchId": "1051742",
+      "league": "意大利杯",
+      "home": "佛罗伦萨",
+      "away": "亚特兰大",
+      "result": {
+        "half": "2-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "3:3",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2019-02-27 04:00",
+      "matchId": "1051757",
+      "league": "国王杯",
+      "home": "皇家马德里",
+      "away": "巴塞罗那",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.230",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.310",
+        "score_result": "0:3",
+        "score_odds": "24.000",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.700"
+      }
+    }
+  ]
+}

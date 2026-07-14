@@ -1,0 +1,354 @@
+{
+  "time": "2020-11-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_1-0_43200",
+        "handicap": "3_1_497",
+        "halfFull": "33_13_1997",
+        "size": "4_1_1739"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_1-0_2-1_432000",
+        "handicap": "3_1_3_850",
+        "halfFull": "33_13_13_13383",
+        "size": "4_1_3_5914"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_1-0_2-1_1-2_3132000",
+        "handicap": "3_1_3_1_3063",
+        "halfFull": "33_13_13_00_41488",
+        "size": "4_1_3_3_21882"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_3_4165",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_3_1_13956",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_3_1_1_46054",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_3_1_3_1_1_0_71385",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_1-3_176000",
+        "handicap": "3_0_256",
+        "halfFull": "33_00_2350",
+        "size": "4_4_2450"
+      },
+      "team": "001_042"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_1-0_1-0_1-3_5940000",
+        "handicap": "3_1_1_0_2746",
+        "halfFull": "33_13_13_00_36953",
+        "size": "4_1_1_4_52185"
+      },
+      "team": "001_002_041_042"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2020-11-29 12:00",
+      "matchId": "1098060",
+      "league": "J2联赛",
+      "home": "琉球FC",
+      "away": "东京绿茵",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.880",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.600",
+        "score_result": "4:0",
+        "score_odds": "80.000",
+        "goal_result": "4",
+        "goal_odds": "4.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2020-11-29 13:00",
+      "matchId": "1097969",
+      "league": "J2联赛",
+      "home": "福冈黄蜂",
+      "away": "大宫松鼠",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.770",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.110",
+        "score_result": "1:0",
+        "score_odds": "5.400",
+        "goal_result": "1",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.250"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2020-11-29 13:00",
+      "matchId": "1097959",
+      "league": "J2联赛",
+      "home": "爱媛FC",
+      "away": "水户蜀葵",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.220",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.710",
+        "score_result": "2:1",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.700"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2020-11-29 13:00",
+      "matchId": "1097955",
+      "league": "J2联赛",
+      "home": "千叶市原",
+      "away": "磐田喜悦",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.920",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:2",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2020-11-29 13:00",
+      "matchId": "1098065",
+      "league": "J2联赛",
+      "home": "松本山雅",
+      "away": "京都不死鸟",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.360",
+        "score_result": "0:0",
+        "score_odds": "8.250",
+        "goal_result": "0",
+        "goal_odds": "8.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2020-11-29 13:00",
+      "matchId": "1098057",
+      "league": "J2联赛",
+      "home": "金泽塞维根",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "1-3",
+        "full": "3-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "负其他",
+        "score_odds": "50.000",
+        "goal_result": "7+",
+        "goal_odds": "29.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.430"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2020-11-29 14:00",
+      "matchId": "1098147",
+      "league": "J联赛",
+      "home": "大阪樱花",
+      "away": "横滨FC",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.450",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "1:0",
+        "score_odds": "5.750",
+        "goal_result": "1",
+        "goal_odds": "4.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2020-11-29 15:00",
+      "matchId": "1097973",
+      "league": "J2联赛",
+      "home": "町田泽维亚",
+      "away": "群马温泉",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.320",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "0:3",
+        "score_odds": "40.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.700"
+      }
+    },
+    {
+      "num": "周日041",
+      "match_time": "2020-11-29 04:00",
+      "matchId": "1114205",
+      "league": "葡超",
+      "home": "布拉加",
+      "away": "法伦斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周日042",
+      "match_time": "2020-11-29 04:00",
+      "matchId": "1121690",
+      "league": "美职",
+      "home": "奥兰多城",
+      "away": "新英格兰革命",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.920",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.600",
+        "score_result": "1:3",
+        "score_odds": "22.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.000"
+      }
+    }
+  ]
+}

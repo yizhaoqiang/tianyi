@@ -1,0 +1,354 @@
+{
+  "time": "2013-08-29",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_2-4_150000",
+        "handicap": "3_0_458",
+        "halfFull": "33_00_1730",
+        "size": "3_6_5400"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_2-4_0-1_1650000",
+        "handicap": "3_0_0_756",
+        "halfFull": "33_00_10_12110",
+        "size": "3_6_1_25920"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_2-4_0-1_2-2_36300000",
+        "handicap": "3_0_0_0_2835",
+        "halfFull": "33_00_10_11_96880",
+        "size": "3_6_1_4_119232"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_5614",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_0_21052",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_0_0_54736",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_0_0_0_3_91410",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-0_8250",
+        "handicap": "3_3_390",
+        "halfFull": "33_13_1730",
+        "size": "3_1_1620"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_2-4_2-0_1-0_11220000",
+        "handicap": "3_0_3_3_3296",
+        "halfFull": "33_00_33_13_46710",
+        "size": "3_6_2_1_76545"
+      },
+      "team": "001_002_023_024"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2013-08-29 23:00",
+      "matchId": "644180",
+      "league": "欧洲联赛",
+      "home": "喀山红宝石",
+      "away": "莫尔德",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.230",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.790",
+        "score_result": "3:0",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.730"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2013-08-29 23:00",
+      "matchId": "644193",
+      "league": "欧洲联赛",
+      "home": "莫斯科斯巴达",
+      "away": "圣加仑",
+      "result": {
+        "half": "1-3",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.560",
+        "score_result": "2:4",
+        "score_odds": "200.000",
+        "goal_result": "6",
+        "goal_odds": "15.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2013-08-29 00:00",
+      "matchId": "644183",
+      "league": "欧洲联赛",
+      "home": "北西兰",
+      "away": "埃尔夫斯堡",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.650",
+        "score_result": "0:1",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "4.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2013-08-29 00:00",
+      "matchId": "644188",
+      "league": "欧洲联赛",
+      "home": "斯图加特",
+      "away": "里耶卡",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.750",
+        "score_result": "2:2",
+        "score_odds": "22.000",
+        "goal_result": "4",
+        "goal_odds": "4.600",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2013-08-29 01:00",
+      "matchId": "644196",
+      "league": "欧洲联赛",
+      "home": "希腊人竞技",
+      "away": "聚尔特瓦雷赫姆",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.980",
+        "score_result": "1:2",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.800"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2013-08-29 01:00",
+      "matchId": "644189",
+      "league": "欧洲联赛",
+      "home": "圣埃蒂安",
+      "away": "埃斯比约",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "9.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.750",
+        "score_result": "0:1",
+        "score_odds": "23.000",
+        "goal_result": "1",
+        "goal_odds": "5.800",
+        "half_full_result": "1-0",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2013-08-29 01:00",
+      "matchId": "644201",
+      "league": "欧洲联赛",
+      "home": "阿尔克马尔",
+      "away": "阿特罗米托斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.650",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.600",
+        "score_result": "0:2",
+        "score_odds": "30.000",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "1-0",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2013-08-29 01:00",
+      "matchId": "644191",
+      "league": "欧洲联赛",
+      "home": "利贝雷茨",
+      "away": "乌迪内斯",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.670",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周四023",
+      "match_time": "2013-08-29 08:50",
+      "matchId": "633843",
+      "league": "南俱杯",
+      "home": "萨斯菲尔德",
+      "away": "贝尔格拉诺",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.720",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.300",
+        "score_result": "2:0",
+        "score_odds": "6.800",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.700"
+      }
+    },
+    {
+      "num": "周四024",
+      "match_time": "2013-08-29 10:00",
+      "matchId": "625634",
+      "league": "中北美冠",
+      "home": "阿拉胡埃伦斯",
+      "away": "墨西哥美洲",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.180",
+        "score_result": "1:0",
+        "score_odds": "11.000",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "10.000"
+      }
+    }
+  ]
+}

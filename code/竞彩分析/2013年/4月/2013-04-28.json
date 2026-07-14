@@ -1,0 +1,354 @@
+{
+  "time": "2013-04-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_1-1_16200",
+        "handicap": "0_1_1080",
+        "halfFull": "30_11_18800",
+        "size": "4_2_2170"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-3_1-1_3-3_1296000",
+        "handicap": "0_1_1_3510",
+        "halfFull": "30_11_11_80840",
+        "size": "4_2_6_54250"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_1-1_3-3_2-2_22032000",
+        "handicap": "0_1_1_1_11056",
+        "halfFull": "30_11_11_01_1293440",
+        "size": "4_2_6_4_379750"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_1_3_43120",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_1_3_1_150921",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_1_3_1_0_347118",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_1_1_3_1_0_1_2048001",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_1-1_15660",
+        "handicap": "0_1_1005",
+        "halfFull": "30_11_18800",
+        "size": "4_2_2170"
+      },
+      "team": "001_055"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_1-1_1-1_1-1_563760",
+        "handicap": "0_1_1_1_13567",
+        "halfFull": "30_11_01_11_1590480",
+        "size": "4_2_2_2_22199"
+      },
+      "team": "001_002_054_055"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2013-04-28 12:00",
+      "matchId": "591445",
+      "league": "J2联赛",
+      "home": "札幌冈萨多",
+      "away": "熊本深红",
+      "result": {
+        "half": "1-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.000",
+        "score_result": "1:3",
+        "score_odds": "27.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2013-04-28 12:00",
+      "matchId": "591457",
+      "league": "J2联赛",
+      "home": "岐阜FC",
+      "away": "山形山神",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.600",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2013-04-28 12:00",
+      "matchId": "591453",
+      "league": "J2联赛",
+      "home": "京都不死鸟",
+      "away": "千叶市原",
+      "result": {
+        "half": "2-2",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "3:3",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "25.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2013-04-28 12:00",
+      "matchId": "591459",
+      "league": "J2联赛",
+      "home": "水户蜀葵",
+      "away": "横滨FC",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.150",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2013-04-28 12:00",
+      "matchId": "591460",
+      "league": "J2联赛",
+      "home": "草津温泉",
+      "away": "德岛漩涡",
+      "result": {
+        "half": "0-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "3.900",
+        "score_result": "4:1",
+        "score_odds": "125.000",
+        "goal_result": "5",
+        "goal_odds": "16.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2013-04-28 15:00",
+      "matchId": "591465",
+      "league": "J联赛",
+      "home": "仙台维加泰",
+      "away": "鸟栖沙岩",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2013-04-28 15:00",
+      "matchId": "591668",
+      "league": "J2联赛",
+      "home": "福冈黄蜂",
+      "away": "松本山雅",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.300",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.300",
+        "score_result": "0:1",
+        "score_odds": "6.000",
+        "goal_result": "1",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2013-04-28 15:00",
+      "matchId": "591638",
+      "league": "J2联赛",
+      "home": "大阪钢巴",
+      "away": "鸟取希望",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.900",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "5.900",
+        "score_result": "1:1",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "4.200",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周日054",
+      "match_time": "2013-04-28 05:00",
+      "matchId": "588988",
+      "league": "美职",
+      "home": "休斯顿迪纳摩",
+      "away": "科罗拉多急流",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "1:1",
+        "score_odds": "6.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-1",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周日055",
+      "match_time": "2013-04-28 07:15",
+      "matchId": "211252",
+      "league": "阿甲",
+      "home": "河床",
+      "away": "基尔梅斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "1:1",
+        "score_odds": "5.800",
+        "goal_result": "2",
+        "goal_odds": "3.100",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    }
+  ]
+}

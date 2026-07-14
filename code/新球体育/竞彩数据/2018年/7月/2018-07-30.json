@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2018-07-30 19:30",
+    "matchId": "1570632",
+    "league": "国际冠军杯",
+    "home": "巴黎圣日耳曼",
+    "away": "马德里竞技",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.90",
+        "d": "3.20",
+        "l": "2.00"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.54",
+        "d": "3.80",
+        "l": "4.05"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-2",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.90",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.54",
+      "score_result": "3:2",
+      "score_odds": "22.00",
+      "goal_result": "5",
+      "goal_odds": "7.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "5.35"
+    }
+  },
+  {
+    "num": "周一005",
+    "match_time": "2018-07-30 23:00",
+    "matchId": "1558950",
+    "league": "俄超",
+    "home": "乌法",
+    "away": "莫斯科火车头",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.00",
+        "d": "2.78",
+        "l": "1.82"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.68",
+        "d": "3.15",
+        "l": "4.05"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.78",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.68",
+      "score_result": "0:0",
+      "score_odds": "5.20",
+      "goal_result": "0",
+      "goal_odds": "5.20",
+      "half_full_result": "1-1",
+      "half_full_odds": "3.35"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2018-07-31 01:00",
+    "matchId": "1489214",
+    "league": "瑞典超",
+    "home": "特雷勒堡",
+    "away": "哈马比",
+    "finish_odds": {
+      "wdl": {
+        "w": "6.10",
+        "d": "4.20",
+        "l": "1.32"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.49",
+        "d": "3.34",
+        "l": "2.18"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.32",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "2.18",
+      "score_result": "1:3",
+      "score_odds": "9.50",
+      "goal_result": "4",
+      "goal_odds": "4.60",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.97"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2018-07-31 02:45",
+    "matchId": "1553810",
+    "league": "法乙",
+    "home": "布雷斯特",
+    "away": "梅斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.88",
+        "d": "3.10",
+        "l": "3.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.00",
+        "d": "3.45",
+        "l": "1.62"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.30",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.62",
+      "score_result": "0:1",
+      "score_odds": "8.50",
+      "goal_result": "1",
+      "goal_odds": "4.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.55"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2018-07-31 07:00",
+    "matchId": "1509929",
+    "league": "巴西甲",
+    "home": "巴伊亚",
+    "away": "米内罗竞技",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.18",
+        "d": "3.05",
+        "l": "2.68"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.05",
+        "d": "3.81",
+        "l": "1.43"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.43",
+      "score_result": "2:2",
+      "score_odds": "11.00",
+      "goal_result": "4",
+      "goal_odds": "5.50",
+      "half_full_result": "0-1",
+      "half_full_odds": "15.00"
+    }
+  }
+]

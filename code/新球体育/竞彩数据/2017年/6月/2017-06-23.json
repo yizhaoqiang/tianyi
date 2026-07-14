@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2017-06-24 02:45",
+    "matchId": "1356864",
+    "league": "欧青U21",
+    "home": "北马其顿U21",
+    "away": "葡萄牙U21",
+    "finish_odds": {
+      "wdl": {
+        "w": "17.00",
+        "d": "8.50",
+        "l": "1.05"
+      },
+      "handicap": {
+        "line": "2",
+        "w": "2.80",
+        "d": "4.00",
+        "l": "1.92"
+      }
+    },
+    "result": {
+      "half": "1-2",
+      "full": "2-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.05",
+      "handicap": "+2",
+      "handicap_result": "1",
+      "handicap_odds": "4.00",
+      "score_result": "2:4",
+      "score_odds": "34.00",
+      "goal_result": "6",
+      "goal_odds": "8.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.28"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2017-06-24 02:45",
+    "matchId": "1356863",
+    "league": "欧青U21",
+    "home": "塞尔维亚U21",
+    "away": "西班牙U21",
+    "finish_odds": {
+      "wdl": {
+        "w": "7.25",
+        "d": "4.75",
+        "l": "1.28"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.88",
+        "d": "3.45",
+        "l": "2.03"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.28",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.45",
+      "score_result": "0:1",
+      "score_odds": "7.00",
+      "goal_result": "1",
+      "goal_odds": "5.80",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.80"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2017-06-24 08:05",
+    "matchId": "1344240",
+    "league": "美职业",
+    "home": "多伦多FC",
+    "away": "新英格兰革命",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.39",
+        "d": "4.30",
+        "l": "5.65"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.28",
+        "d": "3.50",
+        "l": "2.47"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.39",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.28",
+      "score_result": "2:0",
+      "score_odds": "8.00",
+      "goal_result": "2",
+      "goal_odds": "3.85",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.00"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2017-06-24 09:05",
+    "matchId": "1344241",
+    "league": "美职业",
+    "home": "休斯敦迪纳摩",
+    "away": "达拉斯FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.99",
+        "d": "3.35",
+        "l": "3.05"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.20",
+        "d": "3.75",
+        "l": "1.60"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.35",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.60",
+      "score_result": "1:1",
+      "score_odds": "6.00",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "3-1",
+      "half_full_odds": "13.00"
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2017-01-01 13:00",
+    "matchId": "1337594",
+    "league": "日皇杯",
+    "home": "鹿岛鹿角",
+    "away": "川崎前锋",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.22",
+        "d": "2.90",
+        "l": "3.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.25",
+        "d": "3.75",
+        "l": "1.49"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.49",
+      "score_result": "1:1",
+      "score_odds": "5.60",
+      "goal_result": "2",
+      "goal_odds": "2.90",
+      "half_full_result": "3-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周日002",
+    "match_time": "2017-01-01 14:35",
+    "matchId": "1251526",
+    "league": "澳超",
+    "home": "惠灵顿凤凰",
+    "away": "阿德莱德联",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.07",
+        "d": "3.25",
+        "l": "2.95"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.08",
+        "d": "3.85",
+        "l": "1.60"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.25",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.60",
+      "score_result": "0:0",
+      "score_odds": "17.00",
+      "goal_result": "0",
+      "goal_odds": "17.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.60"
+    }
+  },
+  {
+    "num": "周日003",
+    "match_time": "2017-01-01 16:50",
+    "matchId": "1251527",
+    "league": "澳超",
+    "home": "西悉尼流浪者",
+    "away": "珀斯光荣",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.42",
+        "d": "4.05",
+        "l": "5.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.62",
+        "d": "3.02",
+        "l": "2.40"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.05",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.40",
+      "score_result": "1:1",
+      "score_odds": "8.00",
+      "goal_result": "2",
+      "goal_odds": "3.10",
+      "half_full_result": "0-1",
+      "half_full_odds": "17.00"
+    }
+  },
+  {
+    "num": "周日004",
+    "match_time": "2017-01-01 21:30",
+    "matchId": "1247846",
+    "league": "英超",
+    "home": "沃特福德",
+    "away": "托特纳姆热刺",
+    "finish_odds": {
+      "wdl": {
+        "w": "6.50",
+        "d": "4.16",
+        "l": "1.36"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.65",
+        "d": "2.72",
+        "l": "2.60"
+      }
+    },
+    "result": {
+      "half": "0-3",
+      "full": "1-4",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.36",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "2.60",
+      "score_result": "1:4",
+      "score_odds": "23.00",
+      "goal_result": "5",
+      "goal_odds": "10.00",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.05"
+    }
+  },
+  {
+    "num": "周日005",
+    "match_time": "2017-01-01 23:59",
+    "matchId": "1247837",
+    "league": "英超",
+    "home": "阿森纳",
+    "away": "水晶宫",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.19",
+        "d": "5.65",
+        "l": "9.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.80",
+        "d": "3.25",
+        "l": "3.75"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.19",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.80",
+      "score_result": "2:0",
+      "score_odds": "6.50",
+      "goal_result": "2",
+      "goal_odds": "3.45",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.65"
+    }
+  }
+]

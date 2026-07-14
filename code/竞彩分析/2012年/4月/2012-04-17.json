@@ -1,0 +1,354 @@
+{
+  "time": "2012-04-17",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-2_17000",
+        "handicap": "0_3_411",
+        "halfFull": "10_33_1275",
+        "size": "3_5_2720"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_3-2_3-0_153000",
+        "handicap": "0_3_3_625",
+        "halfFull": "10_33_33_2613",
+        "size": "3_5_3_10608"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-2_3-0_3-1_1989000",
+        "handicap": "0_3_3_3_1250",
+        "halfFull": "10_33_33_33_7579",
+        "size": "3_5_3_4_53040"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_4939",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_1_16052",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_1_0_40935",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_3_3_1_1_0_3_54443",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_2-1_8000",
+        "handicap": "0_3_706",
+        "halfFull": "10_33_2700",
+        "size": "3_3_1480"
+      },
+      "team": "001_026"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-2_3-0_2-1_1768000",
+        "handicap": "0_3_3_3_1721",
+        "halfFull": "10_33_33_33_12163",
+        "size": "3_5_3_3_39249"
+      },
+      "team": "001_002_025_026"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2012-04-17 17:30",
+      "matchId": "199344",
+      "league": "亚冠杯",
+      "home": "布里斯班狮吼",
+      "away": "蔚山现代",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.140",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.140",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2012-04-17 18:00",
+      "matchId": "199369",
+      "league": "亚冠杯",
+      "home": "全北现代",
+      "away": "武里南联",
+      "result": {
+        "half": "2-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.310",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.310",
+        "score_result": "3:2",
+        "score_odds": "17.000",
+        "goal_result": "5",
+        "goal_odds": "6.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.700"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2012-04-17 18:30",
+      "matchId": "199345",
+      "league": "亚冠杯",
+      "home": "FC东京",
+      "away": "北京国安",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.520",
+        "score_result": "3:0",
+        "score_odds": "9.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2012-04-17 19:30",
+      "matchId": "199368",
+      "league": "亚冠杯",
+      "home": "广州恒大",
+      "away": "柏太阳神",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.000",
+        "score_result": "3:1",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2012-04-17 20:30",
+      "matchId": "199320",
+      "league": "亚冠杯",
+      "home": "佩鲁济",
+      "away": "阿尔加拉法",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2012-04-17 23:05",
+      "matchId": "199296",
+      "league": "亚冠杯",
+      "home": "班尼亚斯",
+      "away": "伊蒂哈德",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2012-04-17 23:59",
+      "matchId": "199297",
+      "league": "亚冠杯",
+      "home": "多哈艾阿拉比",
+      "away": "棉农",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.550",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.000"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2012-04-17 01:50",
+      "matchId": "199321",
+      "league": "亚冠杯",
+      "home": "阿尔希拉尔",
+      "away": "阿尔沙巴柏",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.330",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周二025",
+      "match_time": "2012-04-17 09:30",
+      "matchId": "197469",
+      "league": "解放者杯",
+      "home": "玻利瓦尔",
+      "away": "卡托利卡",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.860",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.860",
+        "score_result": "3:0",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.650"
+      }
+    },
+    {
+      "num": "周二026",
+      "match_time": "2012-04-17 09:30",
+      "matchId": "197470",
+      "league": "解放者杯",
+      "home": "巴兰基利亚青年",
+      "away": "艾斯潘诺拉",
+      "result": {
+        "half": "2-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.250",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    }
+  ]
+}

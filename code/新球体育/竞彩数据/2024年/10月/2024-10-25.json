@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2024-10-26 00:30",
+    "matchId": "2607639",
+    "league": "德乙",
+    "home": "科隆",
+    "away": "帕德博恩",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.45",
+        "d": "4.50",
+        "l": "4.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.45",
+        "d": "3.50",
+        "l": "2.30"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "4.60",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.30",
+      "score_result": "1:2",
+      "score_odds": "16.00",
+      "goal_result": "3",
+      "goal_odds": "4.10",
+      "half_full_result": "1-0",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2024-10-26 00:30",
+    "matchId": "2606955",
+    "league": "意甲",
+    "home": "乌迪内斯",
+    "away": "卡利亚里",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.89",
+        "d": "3.22",
+        "l": "3.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.25",
+        "d": "3.35",
+        "l": "1.68"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.89",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.25",
+      "score_result": "2:0",
+      "score_odds": "9.00",
+      "goal_result": "2",
+      "goal_odds": "3.05",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.30"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2024-10-26 02:30",
+    "matchId": "2607312",
+    "league": "德甲",
+    "home": "美因茨",
+    "away": "门兴格拉德巴赫",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.19",
+        "d": "3.40",
+        "l": "2.64"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.50",
+        "d": "4.15",
+        "l": "1.50"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.40",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.50",
+      "score_result": "1:1",
+      "score_odds": "7.50",
+      "goal_result": "2",
+      "goal_odds": "4.25",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.35"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2024-10-26 03:00",
+    "matchId": "2590985",
+    "league": "英超",
+    "home": "莱斯特城",
+    "away": "诺丁汉森林",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.03",
+        "d": "2.95",
+        "l": "2.17"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.51",
+        "d": "3.80",
+        "l": "4.90"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.17",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "4.90",
+      "score_result": "1:3",
+      "score_odds": "18.00",
+      "goal_result": "4",
+      "goal_odds": "6.10",
+      "half_full_result": "1-0",
+      "half_full_odds": "5.55"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2024-10-26 03:00",
+    "matchId": "2596720",
+    "league": "西甲",
+    "home": "西班牙人",
+    "away": "塞维利亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.06",
+        "d": "3.00",
+        "l": "2.13"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.53",
+        "d": "3.70",
+        "l": "4.90"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.13",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "4.90",
+      "score_result": "0:2",
+      "score_odds": "10.50",
+      "goal_result": "2",
+      "goal_odds": "3.15",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.00"
+    }
+  }
+]

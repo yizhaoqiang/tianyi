@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周二001",
+    "match_time": "2020-07-29 01:30",
+    "matchId": "1763768",
+    "league": "意甲",
+    "home": "帕尔马",
+    "away": "亚特兰大",
+    "finish_odds": {
+      "wdl": {
+        "w": "6.00",
+        "d": "4.53",
+        "l": "1.34"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.70",
+        "d": "3.65",
+        "l": "2.02"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.34",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.65",
+      "score_result": "1:2",
+      "score_odds": "7.75",
+      "goal_result": "3",
+      "goal_odds": "3.40",
+      "half_full_result": "3-0",
+      "half_full_odds": "20.00"
+    }
+  },
+  {
+    "num": "周二002",
+    "match_time": "2020-07-29 03:45",
+    "matchId": "1763769",
+    "league": "意甲",
+    "home": "国际米兰",
+    "away": "那不勒斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.87",
+        "d": "3.40",
+        "l": "3.27"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.60",
+        "d": "3.70",
+        "l": "1.70"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.87",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.60",
+      "score_result": "2:0",
+      "score_odds": "10.00",
+      "goal_result": "2",
+      "goal_odds": "3.80",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.00"
+    }
+  },
+  {
+    "num": "周二003",
+    "match_time": "2020-07-29 08:00",
+    "matchId": "1883102",
+    "league": "美职业",
+    "home": "哥伦布机员",
+    "away": "明尼苏达联",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.88",
+        "d": "3.30",
+        "l": "3.35"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.75",
+        "d": "3.60",
+        "l": "1.68"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.30",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.68",
+      "score_result": "1:1",
+      "score_odds": "6.60",
+      "goal_result": "2",
+      "goal_odds": "3.75",
+      "half_full_result": "0-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周二004",
+    "match_time": "2020-07-29 10:30",
+    "matchId": "1883509",
+    "league": "美职业",
+    "home": "波特兰伐木者",
+    "away": "辛辛那提",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.66",
+        "d": "3.60",
+        "l": "3.95"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.02",
+        "d": "3.45",
+        "l": "1.93"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.60",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.93",
+      "score_result": "1:1",
+      "score_odds": "6.75",
+      "goal_result": "2",
+      "goal_odds": "3.80",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.20"
+    }
+  }
+]

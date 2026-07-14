@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2013-07-26 18:00",
+    "matchId": "877137",
+    "league": "球会友谊",
+    "home": "大阪樱花",
+    "away": "曼彻斯特联",
+    "finish_odds": {
+      "wdl": {
+        "w": "7.70",
+        "d": "5.50",
+        "l": "1.23"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "3.65",
+        "d": "3.65",
+        "l": "1.75"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "5.50",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "3.65",
+      "score_result": "2:2",
+      "score_odds": "14.00",
+      "goal_result": "4",
+      "goal_odds": "4.10",
+      "half_full_result": "3-1",
+      "half_full_odds": "20.00"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2013-07-26 18:30",
+    "matchId": "877138",
+    "league": "球会友谊",
+    "home": "浦和红钻",
+    "away": "阿森纳",
+    "finish_odds": {
+      "wdl": {
+        "w": "8.00",
+        "d": "5.35",
+        "l": "1.23"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "3.60",
+        "d": "3.70",
+        "l": "1.75"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.23",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.70",
+      "score_result": "1:2",
+      "score_odds": "7.50",
+      "goal_result": "3",
+      "goal_odds": "4.00",
+      "half_full_result": "1-0",
+      "half_full_odds": "3.90"
+    }
+  },
+  {
+    "num": "周五003",
+    "match_time": "2013-07-27 00:30",
+    "matchId": "853920",
+    "league": "德乙",
+    "home": "比勒菲尔德",
+    "away": "柏林联合",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.42",
+        "d": "3.20",
+        "l": "2.52"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.43",
+        "d": "4.35",
+        "l": "5.25"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.20",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.43",
+      "score_result": "1:1",
+      "score_odds": "6.00",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "0-1",
+      "half_full_odds": "15.00"
+    }
+  },
+  {
+    "num": "周五004",
+    "match_time": "2013-07-27 00:30",
+    "matchId": "853916",
+    "league": "德乙",
+    "home": "亚伦",
+    "away": "菲尔特",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.35",
+        "d": "3.20",
+        "l": "1.95"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.70",
+        "d": "3.75",
+        "l": "3.80"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.95",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.80",
+      "score_result": "0:2",
+      "score_odds": "8.00",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.00"
+    }
+  },
+  {
+    "num": "周五005",
+    "match_time": "2013-07-27 02:30",
+    "matchId": "853912",
+    "league": "德乙",
+    "home": "凯泽斯劳滕",
+    "away": "因戈尔施塔特",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.37",
+        "d": "4.00",
+        "l": "6.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.17",
+        "d": "3.40",
+        "l": "2.75"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.37",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.17",
+      "score_result": "3:1",
+      "score_odds": "11.00",
+      "goal_result": "4",
+      "goal_odds": "5.30",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.00"
+    }
+  }
+]

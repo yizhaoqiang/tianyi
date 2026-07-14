@@ -1,0 +1,354 @@
+{
+  "time": "2013-04-09",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_0-0_15600",
+        "handicap": "1_1_1259",
+        "halfFull": "01_11_8250",
+        "size": "4_0_6630"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-2_0-0_2-2_218400",
+        "handicap": "1_1_1_4029",
+        "halfFull": "01_11_11_37949",
+        "size": "4_0_4_41769"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_0-0_2-2_2-1_1638000",
+        "handicap": "1_1_1_3_8865",
+        "halfFull": "01_11_11_03_1138499",
+        "size": "4_0_4_3_171252"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_3_0_12677",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_3_0_3_36763",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_3_0_3_0_137863",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_1_1_3_0_3_0_3_245397",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-2_1-2_12000",
+        "handicap": "1_0_1259",
+        "halfFull": "01_10_12000",
+        "size": "4_3_2039"
+      },
+      "team": "001_021"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-2_0-0_3-1_1-2_1872000",
+        "handicap": "1_1_3_0_7675",
+        "halfFull": "01_11_33_10_161700",
+        "size": "4_0_4_3_153816"
+      },
+      "team": "001_002_020_021"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2013-04-09 18:00",
+      "matchId": "580407",
+      "league": "亚冠杯",
+      "home": "全北现代",
+      "away": "浦和红钻",
+      "result": {
+        "half": "0-2",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:2",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.100",
+        "half_full_result": "0-1",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2013-04-09 18:00",
+      "matchId": "583519",
+      "league": "亚冠杯",
+      "home": "柏太阳神",
+      "away": "水原三星",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2013-04-09 19:00",
+      "matchId": "580418",
+      "league": "亚冠杯",
+      "home": "棉农",
+      "away": "莱赫维亚",
+      "result": {
+        "half": "1-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "",
+        "handicap_result": "1",
+        "handicap_odds": "3.200",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "6.300",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2013-04-09 19:30",
+      "matchId": "580409",
+      "league": "亚冠杯",
+      "home": "贵州人和",
+      "away": "中央海岸水手",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.200",
+        "score_result": "2:1",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "0-3",
+        "half_full_odds": "30.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2013-04-09 20:00",
+      "matchId": "580405",
+      "league": "亚冠杯",
+      "home": "蒙通联",
+      "away": "广州恒大",
+      "result": {
+        "half": "0-2",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "1.430",
+        "score_result": "1:4",
+        "score_odds": "19.000",
+        "goal_result": "5",
+        "goal_odds": "9.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.000"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2013-04-09 23:40",
+      "matchId": "580416",
+      "league": "亚冠杯",
+      "home": "赖扬",
+      "away": "阿布扎比艾因",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.900",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.900",
+        "score_result": "2:1",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "1-3",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2013-04-09 00:30",
+      "matchId": "580406",
+      "league": "亚冠杯",
+      "home": "德黑兰独立",
+      "away": "利雅得希拉尔",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.750",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.750",
+        "score_result": "0:1",
+        "score_odds": "9.500",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2013-04-09 01:00",
+      "matchId": "592975",
+      "league": "亚冠杯",
+      "home": "达曼伊蒂法克",
+      "away": "迪拜沙巴布",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.780",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.780",
+        "score_result": "4:1",
+        "score_odds": "30.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周二020",
+      "match_time": "2013-04-09 08:30",
+      "matchId": "590456",
+      "league": "解放者杯",
+      "home": "老虎竞技",
+      "away": "水晶体育",
+      "result": {
+        "half": "1-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.670",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.450"
+      }
+    },
+    {
+      "num": "周二021",
+      "match_time": "2013-04-09 08:30",
+      "matchId": "590742",
+      "league": "解放者杯",
+      "home": "托利马体育",
+      "away": "圣菲独立",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.650",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.650",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2022-09-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_2-0_15950",
+        "handicap": "1_3_1008",
+        "halfFull": "30_33_5625",
+        "size": "5_2_3600"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_2-0_2-1_115637",
+        "handicap": "1_3_1_3346",
+        "halfFull": "30_33_13_25312",
+        "size": "5_2_3_12960"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_2-0_2-1_3-1_3469125",
+        "handicap": "1_3_1_3_4785",
+        "halfFull": "30_33_13_13_151875",
+        "size": "5_2_3_4_106920"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_3_3_8614",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_3_3_0_24033",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_3_3_0_0_97334",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_3_1_3_3_0_0_3_161575",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_1-2_17050",
+        "handicap": "1_1_1440",
+        "halfFull": "30_00_9000",
+        "size": "5_3_3500"
+      },
+      "team": "001_030"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-3_2-0_0-1_1-2_1606962",
+        "handicap": "1_3_1_1_16329",
+        "halfFull": "30_33_00_00_39690",
+        "size": "5_2_1_3_122850"
+      },
+      "team": "001_002_029_030"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2022-09-18 14:00",
+      "matchId": "1161361",
+      "league": "K联赛",
+      "home": "水原三星",
+      "away": "全北现代",
+      "result": {
+        "half": "1-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:3",
+        "score_odds": "22.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2022-09-18 14:00",
+      "matchId": "1161359",
+      "league": "K联赛",
+      "home": "蔚山现代",
+      "away": "水原FC",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.800",
+        "score_result": "2:0",
+        "score_odds": "7.250",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2022-09-18 18:00",
+      "matchId": "1161810",
+      "league": "J联赛",
+      "home": "神户胜利",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.840",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.320",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.600",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2022-09-18 18:00",
+      "matchId": "1162244",
+      "league": "J2联赛",
+      "home": "大宫松鼠",
+      "away": "枥木SC",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.020",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.430",
+        "score_result": "3:1",
+        "score_odds": "30.000",
+        "goal_result": "4",
+        "goal_odds": "8.250",
+        "half_full_result": "1-3",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2022-09-18 18:30",
+      "matchId": "1176440",
+      "league": "意甲",
+      "home": "乌迪内斯",
+      "away": "国际米兰",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.660",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.800",
+        "score_result": "3:1",
+        "score_odds": "27.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "1-3",
+        "half_full_odds": "8.800"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2022-09-18 19:00",
+      "matchId": "1171478",
+      "league": "英超",
+      "home": "布伦特",
+      "away": "阿森纳",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.790",
+        "score_result": "0:3",
+        "score_odds": "13.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.350"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2022-09-18 19:00",
+      "matchId": "1172199",
+      "league": "法甲",
+      "home": "兰斯",
+      "away": "摩纳哥",
+      "result": {
+        "half": "0-0",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.010",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.050",
+        "score_result": "0:3",
+        "score_odds": "18.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "1-0",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2022-09-18 19:30",
+      "matchId": "1174579",
+      "league": "德乙",
+      "home": "菲尔特",
+      "away": "帕德博恩",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.920",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.660",
+        "score_result": "2:1",
+        "score_odds": "9.250",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.850"
+      }
+    },
+    {
+      "num": "周日029",
+      "match_time": "2022-09-18 02:45",
+      "matchId": "1172196",
+      "league": "法甲",
+      "home": "里昂",
+      "away": "巴黎圣曼",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "0:1",
+        "score_odds": "13.000",
+        "goal_result": "1",
+        "goal_odds": "9.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.960"
+      }
+    },
+    {
+      "num": "周日030",
+      "match_time": "2022-09-18 03:00",
+      "matchId": "1176042",
+      "league": "西甲",
+      "home": "马竞",
+      "away": "皇马",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.120",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "1:2",
+        "score_odds": "7.750",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.600"
+      }
+    }
+  ]
+}

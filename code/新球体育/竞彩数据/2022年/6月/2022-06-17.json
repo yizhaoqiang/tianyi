@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2022-06-17 18:00",
+    "matchId": "2141210",
+    "league": "韩K联",
+    "home": "金泉尚武",
+    "away": "水原FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.79",
+        "d": "3.30",
+        "l": "3.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.55",
+        "d": "3.55",
+        "l": "1.74"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.60",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.74",
+      "score_result": "0:1",
+      "score_odds": "12.50",
+      "goal_result": "1",
+      "goal_odds": "5.75",
+      "half_full_result": "1-0",
+      "half_full_odds": "8.50"
+    }
+  },
+  {
+    "num": "周五002",
+    "match_time": "2022-06-17 18:30",
+    "matchId": "2141209",
+    "league": "韩K联",
+    "home": "浦项制铁",
+    "away": "江原FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.78",
+        "d": "3.05",
+        "l": "4.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.62",
+        "d": "3.35",
+        "l": "1.77"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.78",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.62",
+      "score_result": "3:1",
+      "score_odds": "16.00",
+      "goal_result": "4",
+      "goal_odds": "7.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.92"
+    }
+  }
+]

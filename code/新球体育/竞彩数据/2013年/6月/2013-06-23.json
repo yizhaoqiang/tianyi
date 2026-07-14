@@ -1,0 +1,938 @@
+[
+  {
+    "num": "周日001",
+    "match_time": "2013-06-23 17:00",
+    "matchId": "851200",
+    "league": "日联杯",
+    "home": "鹿岛鹿角",
+    "away": "横滨水手",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.28",
+        "d": "3.30",
+        "l": "2.62"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.60",
+        "d": "4.05",
+        "l": "1.53"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.62",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.53",
+      "score_result": "0:2",
+      "score_odds": "14.00",
+      "goal_result": "2",
+      "goal_odds": "3.40",
+      "half_full_result": "0-0",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周日002",
+    "match_time": "2013-06-23 17:00",
+    "matchId": "851201",
+    "league": "日联杯",
+    "home": "川崎前锋",
+    "away": "仙台维加泰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.95",
+        "d": "3.60",
+        "l": "3.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.65",
+        "d": "3.80",
+        "l": "1.72"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.95",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.80",
+      "score_result": "2:1",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.10"
+    }
+  },
+  {
+    "num": "周日003",
+    "match_time": "2013-06-23 18:00",
+    "matchId": "851202",
+    "league": "日联杯",
+    "home": "大阪樱花",
+    "away": "浦和红钻",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.00",
+        "d": "3.45",
+        "l": "2.00"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.67",
+        "d": "3.85",
+        "l": "3.85"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.00",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.85",
+      "score_result": "0:2",
+      "score_odds": "11.00",
+      "goal_result": "2",
+      "goal_odds": "3.60",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.30"
+    }
+  },
+  {
+    "num": "周日004",
+    "match_time": "2013-06-23 18:00",
+    "matchId": "851203",
+    "league": "日联杯",
+    "home": "广岛三箭",
+    "away": "柏太阳神",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.90",
+        "d": "3.45",
+        "l": "3.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.55",
+        "d": "3.75",
+        "l": "1.75"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.25",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.75",
+      "score_result": "1:2",
+      "score_odds": "9.50",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "1-0",
+      "half_full_odds": "7.30"
+    }
+  },
+  {
+    "num": "周日005",
+    "match_time": "2013-06-23 21:00",
+    "matchId": "813569",
+    "league": "瑞典超",
+    "home": "阿特维达堡",
+    "away": "西里安斯卡FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.60",
+        "d": "3.55",
+        "l": "4.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.80",
+        "d": "3.50",
+        "l": "2.10"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.60",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.50",
+      "score_result": "1:0",
+      "score_odds": "6.50",
+      "goal_result": "1",
+      "goal_odds": "4.60",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周日006",
+    "match_time": "2013-06-23 21:30",
+    "matchId": "815375",
+    "league": "挪超",
+    "home": "特罗姆瑟",
+    "away": "利勒斯特罗姆",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.38",
+        "d": "4.25",
+        "l": "6.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.16",
+        "d": "3.60",
+        "l": "2.65"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.38",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.16",
+      "score_result": "2:0",
+      "score_odds": "7.00",
+      "goal_result": "2",
+      "goal_odds": "3.75",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周日007",
+    "match_time": "2013-06-23 22:00",
+    "matchId": "846942",
+    "league": "世青杯",
+    "home": "新西兰U20",
+    "away": "乌兹别克斯坦U20",
+    "finish_odds": {
+      "wdl": {
+        "w": "5.50",
+        "d": "3.65",
+        "l": "1.50"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.32",
+        "d": "3.40",
+        "l": "2.55"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.50",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "2.55",
+      "score_result": "0:3",
+      "score_odds": "9.50",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.20"
+    }
+  },
+  {
+    "num": "周日008",
+    "match_time": "2013-06-23 23:00",
+    "matchId": "846936",
+    "league": "世青杯",
+    "home": "智利U20",
+    "away": "埃及U20",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.74",
+        "d": "3.45",
+        "l": "3.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.20",
+        "d": "3.60",
+        "l": "1.90"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.74",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "2:1",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.75",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.60"
+    }
+  },
+  {
+    "num": "周日009",
+    "match_time": "2013-06-23 23:30",
+    "matchId": "813568",
+    "league": "瑞典超",
+    "home": "哈尔姆斯塔德",
+    "away": "赫根",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.65",
+        "d": "3.20",
+        "l": "1.87"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.78",
+        "d": "3.75",
+        "l": "3.45"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.87",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "3.45",
+      "score_result": "0:2",
+      "score_odds": "8.50",
+      "goal_result": "2",
+      "goal_odds": "3.20",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.30"
+    }
+  },
+  {
+    "num": "周日010",
+    "match_time": "2013-06-23 23:30",
+    "matchId": "813566",
+    "league": "瑞典超",
+    "home": "卡尔马",
+    "away": "赫尔辛堡",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.15",
+        "d": "3.45",
+        "l": "1.69"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.98",
+        "d": "3.75",
+        "l": "2.90"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.45",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.98",
+      "score_result": "1:1",
+      "score_odds": "6.30",
+      "goal_result": "2",
+      "goal_odds": "3.35",
+      "half_full_result": "3-1",
+      "half_full_odds": "13.00"
+    }
+  },
+  {
+    "num": "周日011",
+    "match_time": "2013-06-23 23:59",
+    "matchId": "815372",
+    "league": "挪超",
+    "home": "奥勒松",
+    "away": "维京",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.98",
+        "d": "3.40",
+        "l": "3.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.75",
+        "d": "3.90",
+        "l": "1.68"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.98",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.90",
+      "score_result": "2:1",
+      "score_odds": "7.50",
+      "goal_result": "3",
+      "goal_odds": "3.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.30"
+    }
+  },
+  {
+    "num": "周日012",
+    "match_time": "2013-06-23 23:59",
+    "matchId": "815369",
+    "league": "挪超",
+    "home": "桑德尼斯",
+    "away": "松达尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.83",
+        "d": "3.35",
+        "l": "3.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.45",
+        "d": "3.60",
+        "l": "1.82"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.60",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.82",
+      "score_result": "1:3",
+      "score_odds": "30.00",
+      "goal_result": "4",
+      "goal_odds": "5.60",
+      "half_full_result": "0-0",
+      "half_full_odds": "6.20"
+    }
+  },
+  {
+    "num": "周日013",
+    "match_time": "2013-06-23 23:59",
+    "matchId": "815374",
+    "league": "挪超",
+    "home": "侯尼霍斯",
+    "away": "奥德",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.35",
+        "d": "3.25",
+        "l": "2.56"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.55",
+        "d": "4.15",
+        "l": "1.52"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.25",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.52",
+      "score_result": "1:1",
+      "score_odds": "6.30",
+      "goal_result": "2",
+      "goal_odds": "3.40",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.00"
+    }
+  },
+  {
+    "num": "周日014",
+    "match_time": "2013-06-24 01:00",
+    "matchId": "846941",
+    "league": "世青杯",
+    "home": "乌拉圭U20",
+    "away": "克罗地亚U20",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.90",
+        "d": "3.30",
+        "l": "3.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.80",
+        "d": "3.65",
+        "l": "1.72"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.40",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.72",
+      "score_result": "0:1",
+      "score_odds": "9.50",
+      "goal_result": "1",
+      "goal_odds": "4.50",
+      "half_full_result": "0-0",
+      "half_full_odds": "5.70"
+    }
+  },
+  {
+    "num": "周日015",
+    "match_time": "2013-06-24 01:00",
+    "matchId": "815373",
+    "league": "挪超",
+    "home": "海于格松",
+    "away": "布兰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.68",
+        "d": "3.70",
+        "l": "3.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.92",
+        "d": "3.75",
+        "l": "1.96"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.68",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.75",
+      "score_result": "2:1",
+      "score_odds": "7.00",
+      "goal_result": "3",
+      "goal_odds": "3.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.55"
+    }
+  },
+  {
+    "num": "周日016",
+    "match_time": "2013-06-24 02:00",
+    "matchId": "846935",
+    "league": "世青杯",
+    "home": "英格兰U20",
+    "away": "伊拉克U20",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.38",
+        "d": "4.10",
+        "l": "6.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.18",
+        "d": "3.45",
+        "l": "2.70"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "4.10",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.70",
+      "score_result": "2:2",
+      "score_odds": "15.00",
+      "goal_result": "4",
+      "goal_odds": "5.50",
+      "half_full_result": "3-1",
+      "half_full_odds": "20.00"
+    }
+  },
+  {
+    "num": "周日017",
+    "match_time": "2013-06-24 02:15",
+    "matchId": "772614",
+    "league": "阿甲",
+    "home": "纽维尔老男孩",
+    "away": "阿根廷青年人",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.65",
+        "d": "3.30",
+        "l": "4.65"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.95",
+        "d": "3.40",
+        "l": "2.06"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "4.65",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.06",
+      "score_result": "0:1",
+      "score_odds": "10.00",
+      "goal_result": "1",
+      "goal_odds": "3.90",
+      "half_full_result": "1-0",
+      "half_full_odds": "10.00"
+    }
+  },
+  {
+    "num": "周日018",
+    "match_time": "2013-06-24 02:15",
+    "matchId": "772617",
+    "league": "阿甲",
+    "home": "河床",
+    "away": "圣胡安圣马丁",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.08",
+        "d": "3.15",
+        "l": "3.10"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.10",
+        "d": "3.80",
+        "l": "1.64"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.08",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.10",
+      "score_result": "3:1",
+      "score_odds": "20.00",
+      "goal_result": "4",
+      "goal_odds": "7.25",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.10"
+    }
+  },
+  {
+    "num": "周日019",
+    "match_time": "2013-06-24 02:15",
+    "matchId": "772623",
+    "league": "阿甲",
+    "home": "萨斯菲尔德",
+    "away": "拉费尔拿",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.95",
+        "d": "2.90",
+        "l": "3.75"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.90",
+        "d": "3.65",
+        "l": "1.70"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "2-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.95",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.65",
+      "score_result": "2:1",
+      "score_odds": "7.50",
+      "goal_result": "3",
+      "goal_odds": "4.05",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.50"
+    }
+  },
+  {
+    "num": "周日020",
+    "match_time": "2013-06-24 03:00",
+    "matchId": "845794",
+    "league": "洲际杯",
+    "home": "尼日利亚",
+    "away": "西班牙",
+    "finish_odds": {
+      "wdl": {
+        "w": "16.00",
+        "d": "6.00",
+        "l": "1.12"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "4.90",
+        "d": "3.70",
+        "l": "1.55"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.12",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "1.55",
+      "score_result": "0:3",
+      "score_odds": "6.00",
+      "goal_result": "3",
+      "goal_odds": "3.70",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.50"
+    }
+  },
+  {
+    "num": "周日022",
+    "match_time": "2013-06-24 04:30",
+    "matchId": "772621",
+    "league": "阿甲",
+    "home": "萨兰迪兵工厂",
+    "away": "全男孩竞技",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.78",
+        "d": "3.10",
+        "l": "4.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.40",
+        "d": "3.45",
+        "l": "1.87"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.78",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.40",
+      "score_result": "4:0",
+      "score_odds": "35.00",
+      "goal_result": "4",
+      "goal_odds": "6.90",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.80"
+    }
+  },
+  {
+    "num": "周日023",
+    "match_time": "2013-06-24 05:00",
+    "matchId": "772616",
+    "league": "阿甲",
+    "home": "圣洛伦索",
+    "away": "拉努斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.15",
+        "d": "2.85",
+        "l": "3.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.50",
+        "d": "3.70",
+        "l": "1.60"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.85",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.60",
+      "score_result": "2:2",
+      "score_odds": "16.00",
+      "goal_result": "4",
+      "goal_odds": "7.50",
+      "half_full_result": "0-1",
+      "half_full_odds": "15.00"
+    }
+  },
+  {
+    "num": "周日024",
+    "match_time": "2013-06-24 05:00",
+    "matchId": "831485",
+    "league": "美职业",
+    "home": "费城联合",
+    "away": "纽约红牛",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.45",
+        "d": "3.25",
+        "l": "2.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.80",
+        "d": "4.30",
+        "l": "1.48"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.45",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.80",
+      "score_result": "3:0",
+      "score_odds": "24.00",
+      "goal_result": "3",
+      "goal_odds": "3.65",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.90"
+    }
+  },
+  {
+    "num": "周日025",
+    "match_time": "2013-06-24 07:25",
+    "matchId": "831486",
+    "league": "美职业",
+    "home": "波特兰伐木者",
+    "away": "科罗拉多急流",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.55",
+        "d": "3.60",
+        "l": "5.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.67",
+        "d": "3.45",
+        "l": "2.20"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.55",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.67",
+      "score_result": "3:0",
+      "score_odds": "11.00",
+      "goal_result": "3",
+      "goal_odds": "3.65",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.25"
+    }
+  },
+  {
+    "num": "周日026",
+    "match_time": "2013-06-24 08:30",
+    "matchId": "772620",
+    "league": "阿甲",
+    "home": "戈多伊克鲁斯",
+    "away": "博卡青年",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.98",
+        "d": "2.95",
+        "l": "3.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.95",
+        "d": "3.60",
+        "l": "1.70"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.95",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.70",
+      "score_result": "1:1",
+      "score_odds": "5.60",
+      "goal_result": "2",
+      "goal_odds": "3.15",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周日027",
+    "match_time": "2013-06-24 11:00",
+    "matchId": "831487",
+    "league": "美职业",
+    "home": "美国芝华士",
+    "away": "洛杉矶银河",
+    "finish_odds": {
+      "wdl": {
+        "w": "7.60",
+        "d": "4.50",
+        "l": "1.30"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "3.05",
+        "d": "3.55",
+        "l": "1.96"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.30",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.55",
+      "score_result": "0:1",
+      "score_odds": "6.70",
+      "goal_result": "1",
+      "goal_odds": "5.50",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.80"
+    }
+  }
+]

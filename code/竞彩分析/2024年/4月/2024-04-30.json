@@ -1,0 +1,79 @@
+{
+  "time": "2024-04-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-0_12350",
+        "handicap": "0_0_716",
+        "halfFull": "00_11_2012",
+        "size": "2_0_3610"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-0_12350",
+        "handicap": "0_0_716",
+        "halfFull": "00_11_2012",
+        "size": "2_0_3610"
+      },
+      "team": "001_002"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2024-04-30 18:30",
+      "matchId": "1246932",
+      "league": "K联赛",
+      "home": "水原FC",
+      "away": "首尔FC",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.420",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.350",
+        "score_result": "0:2",
+        "score_odds": "13.000",
+        "goal_result": "2",
+        "goal_odds": "3.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.150"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2024-04-30 18:30",
+      "matchId": "1246931",
+      "league": "K联赛",
+      "home": "大田市民",
+      "away": "金泉尚武",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.080",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.340",
+        "score_result": "0:0",
+        "score_odds": "9.500",
+        "goal_result": "0",
+        "goal_odds": "9.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.850"
+      }
+    }
+  ]
+}

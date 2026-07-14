@@ -1,0 +1,354 @@
+{
+  "time": "2013-12-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_1-5_130000",
+        "handicap": "1_0_867",
+        "halfFull": "13_00_924",
+        "size": "5_6_14950"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_1-5_3-0_1235000",
+        "handicap": "1_0_3_2256",
+        "halfFull": "13_00_33_2032",
+        "size": "5_6_3_56062"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_1-5_3-0_1-1_8892000",
+        "handicap": "1_0_3_0_4399",
+        "halfFull": "13_00_33_11_13721",
+        "size": "5_6_3_2_252281"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_0_0_8271",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_0_0_3_16128",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_0_0_3_0_39514",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_3_0_0_3_0_0_138302",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_2-0_21450",
+        "handicap": "1_0_1127",
+        "halfFull": "13__385",
+        "size": "5_2_8970"
+      },
+      "team": "001_024"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_1-5_0-2_2-0_69712500",
+        "handicap": "1_0_0_0_12194",
+        "halfFull": "13_00_10__20328",
+        "size": "5_6_2_2_454779"
+      },
+      "team": "001_002_023_024"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2013-12-18 00:00",
+      "matchId": "663563",
+      "league": "法联杯",
+      "home": "里昂",
+      "away": "兰斯",
+      "result": {
+        "half": "0-0",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.400",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "3:2",
+        "score_odds": "26.000",
+        "goal_result": "5",
+        "goal_odds": "11.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2013-12-18 00:30",
+      "matchId": "667064",
+      "league": "世俱杯",
+      "home": "开罗阿赫利",
+      "away": "蒙特雷",
+      "result": {
+        "half": "1-4",
+        "full": "1-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.550",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.670",
+        "score_result": "1:5",
+        "score_odds": "50.000",
+        "goal_result": "6",
+        "goal_odds": "13.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.400"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2013-12-18 01:45",
+      "matchId": "663562",
+      "league": "法联杯",
+      "home": "尼斯",
+      "away": "索肖",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.470",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.600",
+        "score_result": "3:0",
+        "score_odds": "9.500",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.200"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2013-12-18 01:45",
+      "matchId": "663224",
+      "league": "荷兰杯",
+      "home": "阿尔克马尔",
+      "away": "海伦芬",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "1:1",
+        "score_odds": "7.200",
+        "goal_result": "2",
+        "goal_odds": "4.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.750"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2013-12-18 02:30",
+      "matchId": "663700",
+      "league": "国王杯",
+      "home": "阿尔梅里亚",
+      "away": "拉斯帕尔马斯",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.880",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.350"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2013-12-18 02:30",
+      "matchId": "663694",
+      "league": "国王杯",
+      "home": "皇家社会",
+      "away": "阿尔赫西拉斯",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.950",
+        "score_result": "4:0",
+        "score_odds": "9.000",
+        "goal_result": "4",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.300"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2013-12-18 02:30",
+      "matchId": "663690",
+      "league": "国王杯",
+      "home": "马德里竞技",
+      "away": "圣安德鲁",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "0",
+        "handicap_odds": "2.450",
+        "score_result": "2:1",
+        "score_odds": "11.500",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "0-3",
+        "half_full_odds": "26.000"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2013-12-18 02:30",
+      "matchId": "663703",
+      "league": "国王杯",
+      "home": "皇家贝蒂斯",
+      "away": "莱里达",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "5.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.500",
+        "score_result": "2:2",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "4.400",
+        "half_full_result": "3-1",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周三023",
+      "match_time": "2013-12-18 04:30",
+      "matchId": "663704",
+      "league": "国王杯",
+      "home": "塞维利亚",
+      "away": "桑坦德竞技",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "12.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "4.050",
+        "score_result": "0:2",
+        "score_odds": "65.000",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "22.000"
+      }
+    },
+    {
+      "num": "周三024",
+      "match_time": "2013-12-18 04:30",
+      "matchId": "663673",
+      "league": "国王杯",
+      "home": "皇家马德里",
+      "away": "哈蒂瓦奥林匹克",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-3",
+        "handicap_result": "0",
+        "handicap_odds": "3.470",
+        "score_result": "2:0",
+        "score_odds": "8.250",
+        "goal_result": "2",
+        "goal_odds": "7.800",
+        "half_full_result": "",
+        "half_full_odds": "-"
+      }
+    }
+  ]
+}

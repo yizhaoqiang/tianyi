@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周五001",
+    "match_time": "2024-06-15 03:00",
+    "matchId": "2505974",
+    "league": "欧洲杯",
+    "home": "德国",
+    "away": "苏格兰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.17",
+        "d": "5.65",
+        "l": "9.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.67",
+        "d": "3.65",
+        "l": "3.75"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "5-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.17",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.67",
+      "score_result": "5:1",
+      "score_odds": "40.00",
+      "goal_result": "6",
+      "goal_odds": "16.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.70"
+    }
+  },
+  {
+    "num": "周五101",
+    "match_time": "2024-06-15 08:40",
+    "matchId": "2511873",
+    "league": "美职业",
+    "home": "纽约城",
+    "away": "哥伦布机员",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.92",
+        "d": "3.35",
+        "l": "3.12"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.92",
+        "d": "3.65",
+        "l": "1.64"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "2-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "3.12",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.64",
+      "score_result": "2:3",
+      "score_odds": "23.00",
+      "goal_result": "5",
+      "goal_odds": "8.50",
+      "half_full_result": "3-0",
+      "half_full_odds": "28.00"
+    }
+  }
+]

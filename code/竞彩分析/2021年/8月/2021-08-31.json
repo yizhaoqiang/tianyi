@@ -1,0 +1,128 @@
+{
+  "time": "2021-08-31",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-1_7012",
+        "handicap": "1_0_631",
+        "halfFull": "10_10_4687",
+        "size": "3_1_1581"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_0-1_4-1_561000",
+        "handicap": "1_0_3_1086",
+        "halfFull": "10_10_33_27187",
+        "size": "3_1_5_17391"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_4-1_66000",
+        "handicap": "1_3_696",
+        "halfFull": "10_33_3625",
+        "size": "3_5_3740"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_0-1_4-1_561000",
+        "handicap": "1_0_3_1086",
+        "halfFull": "10_10_33_27187",
+        "size": "3_1_5_17391"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2021-08-31 02:00",
+      "matchId": "1153673",
+      "league": "英锦赛",
+      "home": "伯顿",
+      "away": "米尔顿凯恩斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.700",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "4.050",
+        "score_result": "1:2",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.250"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2021-08-31 02:00",
+      "matchId": "1153628",
+      "league": "英锦赛",
+      "home": "什鲁斯伯里",
+      "away": "克鲁",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.080",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "4.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2021-08-31 02:00",
+      "matchId": "1153703",
+      "league": "英锦赛",
+      "home": "剑桥联",
+      "away": "牛津联",
+      "result": {
+        "half": "2-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "4:1",
+        "score_odds": "80.000",
+        "goal_result": "5",
+        "goal_odds": "11.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.800"
+      }
+    }
+  ]
+}

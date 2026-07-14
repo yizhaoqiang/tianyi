@@ -1,0 +1,354 @@
+{
+  "time": "2017-06-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_1-3_50000",
+        "handicap": "1_0_1658",
+        "halfFull": "13_30_12950",
+        "size": "5_4_6375"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-2_1-3_1-0_212500",
+        "handicap": "1_0_1_5058",
+        "halfFull": "13_30_13_49210",
+        "size": "5_4_1_21037"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_1-3_1-0_1-0_1062500",
+        "handicap": "1_0_1_1_15428",
+        "halfFull": "13_30_13_13_194379",
+        "size": "5_4_1_1_86253"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_3_23759",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_3_3_48706",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_3_3_1_189956",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_1_1_3_3_1_1_759826",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-2_3-0_13500",
+        "handicap": "1_3_458",
+        "halfFull": "13_33_525",
+        "size": "5_3_2975"
+      },
+      "team": "001_011"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-2_1-3_0-0_3-0_1890000",
+        "handicap": "1_0_0_3_5449",
+        "halfFull": "13_30_11_33_84589",
+        "size": "5_4_0_3_156187"
+      },
+      "team": "001_011_006_007"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2017-06-08 18:00",
+      "matchId": "870526",
+      "league": "世亚预",
+      "home": "澳大利亚",
+      "away": "沙特",
+      "result": {
+        "half": "2-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.100",
+        "score_result": "3:2",
+        "score_odds": "25.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周四011",
+      "match_time": "2017-06-08 19:00",
+      "matchId": "952438",
+      "league": "U20世界杯",
+      "home": "意大利U20",
+      "away": "英格兰U20",
+      "result": {
+        "half": "1-0",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.220",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "5.350",
+        "score_result": "1:3",
+        "score_odds": "20.000",
+        "goal_result": "4",
+        "goal_odds": "7.500",
+        "half_full_result": "3-0",
+        "half_full_odds": "35.000"
+      }
+    },
+    {
+      "num": "周四012",
+      "match_time": "2017-06-08 01:45",
+      "matchId": "952304",
+      "league": "阿根廷杯",
+      "home": "奥林匹奥",
+      "away": "西部铁路",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.650",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.050",
+        "score_result": "1:0",
+        "score_odds": "4.250",
+        "goal_result": "1",
+        "goal_odds": "3.300",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.800"
+      }
+    },
+    {
+      "num": "周四008",
+      "match_time": "2017-06-08 05:00",
+      "matchId": "950916",
+      "league": "友谊赛",
+      "home": "秘鲁",
+      "away": "巴拉圭",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.050",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.950"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2017-06-08 06:30",
+      "matchId": "944763",
+      "league": "巴西甲",
+      "home": "戈亚尼亚竞技",
+      "away": "庞特普雷塔",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.010",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "3:0",
+        "score_odds": "30.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2017-06-08 06:30",
+      "matchId": "944767",
+      "league": "巴西甲",
+      "home": "圣保罗",
+      "away": "维多利亚",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.270",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "2:0",
+        "score_odds": "5.250",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2017-06-08 08:00",
+      "matchId": "944765",
+      "league": "巴西甲",
+      "home": "巴伊亚",
+      "away": "克鲁塞罗",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.350",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "1:0",
+        "score_odds": "6.250",
+        "goal_result": "1",
+        "goal_odds": "3.700",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.600"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2017-06-08 08:00",
+      "matchId": "916458",
+      "league": "世中北美预",
+      "home": "美国",
+      "away": "特立尼达和多巴哥",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.050",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "4.000",
+        "score_result": "2:0",
+        "score_odds": "5.100",
+        "goal_result": "2",
+        "goal_odds": "3.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2017-06-08 10:00",
+      "matchId": "916460",
+      "league": "世中北美预",
+      "home": "哥斯达黎加",
+      "away": "巴拿马",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.220",
+        "score_result": "0:0",
+        "score_odds": "7.000",
+        "goal_result": "0",
+        "goal_odds": "7.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周四007",
+      "match_time": "2017-06-08 10:00",
+      "matchId": "916461",
+      "league": "世中北美预",
+      "home": "墨西哥",
+      "away": "洪都拉斯",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.080",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "3:0",
+        "score_odds": "5.400",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.420"
+      }
+    }
+  ]
+}

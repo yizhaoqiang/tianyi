@@ -1,0 +1,331 @@
+{
+  "time": "2023-02-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-1_9787",
+        "handicap": "3_1_717",
+        "halfFull": "33_00_1739",
+        "size": "3_1_2021"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_0-1_1-2_244687",
+        "handicap": "3_1_0_1212",
+        "halfFull": "33_00_00_19129",
+        "size": "3_1_3_7074"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-1_1-2_0-0_2079843",
+        "handicap": "3_1_0_3_1709",
+        "halfFull": "33_00_00_11_84167",
+        "size": "3_1_3_0_60132"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_7351",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_3_23967",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_3_0_36429",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_3_3_3_0_0_74681",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_2-1_11962",
+        "handicap": "3_0_393",
+        "halfFull": "33_33_1535",
+        "size": "3_3_1405"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-1_0-3_2-1_524854",
+        "handicap": "3_1_0_0_2824",
+        "halfFull": "33_00_00_33_4041",
+        "size": "3_1_3_3_28034"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2023-02-28 01:30",
+      "matchId": "1176602",
+      "league": "意甲",
+      "home": "克雷莫纳",
+      "away": "罗马",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "2:1",
+        "score_odds": "14.500",
+        "goal_result": "3",
+        "goal_odds": "3.850",
+        "half_full_result": "3-3",
+        "half_full_odds": "9.250"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2023-02-28 03:15",
+      "matchId": "1207754",
+      "league": "足总杯",
+      "home": "斯托克城",
+      "away": "布赖顿",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "0:1",
+        "score_odds": "6.750",
+        "goal_result": "1",
+        "goal_odds": "5.250",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.880"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2023-02-28 03:30",
+      "matchId": "1208173",
+      "league": "足总杯",
+      "home": "莱切斯特",
+      "away": "布莱克本",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "7.400",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.690",
+        "score_result": "1:2",
+        "score_odds": "25.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "11.000"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2023-02-28 03:45",
+      "matchId": "1208441",
+      "league": "英冠",
+      "home": "普雷斯顿",
+      "away": "考文垂",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.410",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2023-02-28 03:45",
+      "matchId": "1208953",
+      "league": "足总杯",
+      "home": "富勒姆",
+      "away": "利兹联",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.300",
+        "score_result": "2:0",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2023-02-28 03:45",
+      "matchId": "1176605",
+      "league": "意甲",
+      "home": "尤文图斯",
+      "away": "都灵",
+      "result": {
+        "half": "2-2",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.260",
+        "score_result": "4:2",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "40.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.500"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2023-02-28 04:00",
+      "matchId": "1204349",
+      "league": "英冠",
+      "home": "卢顿",
+      "away": "米尔沃尔",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.830",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "2:2",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "8.250",
+        "half_full_result": "0-1",
+        "half_full_odds": "17.500"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2023-02-28 04:00",
+      "matchId": "1207753",
+      "league": "足总杯",
+      "home": "布城",
+      "away": "曼城",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "2.050",
+        "score_result": "0:3",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.400"
+      }
+    },
+    {
+      "num": "周二009",
+      "match_time": "2023-02-28 04:10",
+      "matchId": "1208991",
+      "league": "法国杯",
+      "home": "里昂",
+      "away": "格勒诺布",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.190",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.920",
+        "score_result": "2:1",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.660"
+      }
+    }
+  ]
+}

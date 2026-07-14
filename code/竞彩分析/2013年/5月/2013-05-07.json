@@ -1,0 +1,125 @@
+{
+  "time": "2013-05-07",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-3_1-0_28800",
+        "handicap": "0_3_546",
+        "halfFull": "30_33_5827",
+        "size": "5_1_6500"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-3_1-0_0-1_662400",
+        "handicap": "0_3_0_5077",
+        "halfFull": "30_33_10_104904",
+        "size": "5_1_1_42900"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2013-05-07 02:45",
+      "matchId": "205663",
+      "league": "英超",
+      "home": "维冈竞技",
+      "away": "斯旺西",
+      "result": {
+        "half": "1-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "4.200",
+        "score_result": "2:3",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "10.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "31.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2013-05-07 02:45",
+      "matchId": "601722",
+      "league": "英超",
+      "home": "曼彻斯特城",
+      "away": "西布罗姆维奇",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.300",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.300",
+        "score_result": "1:0",
+        "score_odds": "7.200",
+        "goal_result": "1",
+        "goal_odds": "6.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.880"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2013-05-07 02:45",
+      "matchId": "213853",
+      "league": "意甲",
+      "home": "罗马",
+      "away": "切沃",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "9.300",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "9.300",
+        "score_result": "0:1",
+        "score_odds": "23.000",
+        "goal_result": "1",
+        "goal_odds": "6.600",
+        "half_full_result": "1-0",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2013-05-07 02:55",
+      "matchId": "602225",
+      "league": "法国杯",
+      "home": "特鲁瓦",
+      "away": "波尔多",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周一001",
+    "match_time": "2014-11-11 03:15",
+    "matchId": "996723",
+    "league": "德乙",
+    "home": "慕尼黑1860",
+    "away": "杜塞尔多夫",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.70",
+        "d": "3.30",
+        "l": "2.22"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.50",
+        "d": "4.00",
+        "l": "4.70"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "2.22",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "4.00",
+      "score_result": "0:1",
+      "score_odds": "7.25",
+      "goal_result": "1",
+      "goal_odds": "4.10",
+      "half_full_result": "0-0",
+      "half_full_odds": "3.20"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2014-11-11 03:30",
+    "matchId": "990920",
+    "league": "法乙",
+    "home": "南锡",
+    "away": "基迪尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.58",
+        "d": "3.35",
+        "l": "5.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.88",
+        "d": "3.30",
+        "l": "2.09"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.58",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.88",
+      "score_result": "3:1",
+      "score_odds": "12.00",
+      "goal_result": "4",
+      "goal_odds": "5.20",
+      "half_full_result": "1-3",
+      "half_full_odds": "3.75"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2014-11-11 04:00",
+    "matchId": "1068211",
+    "league": "英足总杯",
+    "home": "哈瓦特",
+    "away": "普雷斯顿",
+    "finish_odds": {
+      "wdl": {
+        "w": "7.00",
+        "d": "4.70",
+        "l": "1.30"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "2.93",
+        "d": "3.60",
+        "l": "1.96"
+      }
+    },
+    "result": {
+      "half": "0-2",
+      "full": "0-3",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.30",
+      "handicap": "+1",
+      "handicap_result": "0",
+      "handicap_odds": "1.96",
+      "score_result": "0:3",
+      "score_odds": "8.00",
+      "goal_result": "3",
+      "goal_odds": "3.25",
+      "half_full_result": "0-0",
+      "half_full_odds": "1.75"
+    }
+  },
+  {
+    "num": "周一004",
+    "match_time": "2014-11-11 04:00",
+    "matchId": "1007467",
+    "league": "葡超",
+    "home": "里奥阿维",
+    "away": "科英布拉大学",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.64",
+        "d": "3.35",
+        "l": "4.65"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.25",
+        "d": "3.15",
+        "l": "1.99"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.64",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.25",
+      "score_result": "3:0",
+      "score_odds": "13.00",
+      "goal_result": "3",
+      "goal_odds": "3.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.30"
+    }
+  },
+  {
+    "num": "周一005",
+    "match_time": "2014-11-11 07:30",
+    "matchId": "1000004",
+    "league": "阿甲",
+    "home": "纽维尔老男孩",
+    "away": "圣洛伦索",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.98",
+        "d": "2.90",
+        "l": "3.65"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.45",
+        "d": "3.45",
+        "l": "1.63"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.98",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "4.45",
+      "score_result": "3:1",
+      "score_odds": "20.00",
+      "goal_result": "4",
+      "goal_odds": "6.75",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.95"
+    }
+  }
+]

@@ -1,0 +1,354 @@
+{
+  "time": "2016-08-23",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_0-0_6937",
+        "handicap": "3_0_308",
+        "halfFull": "11_11_2730",
+        "size": "0_0_6937"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-0_0-0_2-5_5550000",
+        "handicap": "3_0_0_715",
+        "halfFull": "11_11_00_27300",
+        "size": "0_0_7+_166500"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-0_2-5_2-0_66600000",
+        "handicap": "3_0_0_3_5474",
+        "halfFull": "11_11_00_33_120120",
+        "size": "0_0_7+_2_482850"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_19160",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_3_86221",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_3_0_164682",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_3_1_3_0_0_265139",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-0_3-1_11100",
+        "handicap": "3_3_423",
+        "halfFull": "11_13_2205",
+        "size": "0_4_4995"
+      },
+      "team": "001_043"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-0_0-0_3-0_3-1_1665000",
+        "handicap": "3_0_3_3_4041",
+        "halfFull": "11_11_33_13_41850",
+        "size": "0_0_3_4_131118"
+      },
+      "team": "001_002_042_043"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2016-08-23 19:30",
+      "matchId": "875911",
+      "league": "亚冠杯",
+      "home": "上海上港",
+      "away": "全北现代",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.550",
+        "score_result": "0:0",
+        "score_odds": "9.250",
+        "goal_result": "0",
+        "goal_odds": "9.250",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.250"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2016-08-23 23:30",
+      "matchId": "875909",
+      "league": "亚冠杯",
+      "home": "阿布扎比艾因",
+      "away": "塔什干火车头",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.400",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.990",
+        "score_result": "0:0",
+        "score_odds": "7.500",
+        "goal_result": "0",
+        "goal_odds": "7.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.200"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2016-08-23 00:30",
+      "matchId": "906632",
+      "league": "法联杯",
+      "home": "勒阿弗尔",
+      "away": "沙托鲁",
+      "result": {
+        "half": "1-3",
+        "full": "2-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "6.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.320",
+        "score_result": "2:5",
+        "score_odds": "800.000",
+        "goal_result": "7+",
+        "goal_odds": "24.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "10.000"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2016-08-23 00:30",
+      "matchId": "906628",
+      "league": "法联杯",
+      "home": "欧塞尔",
+      "away": "斯特拉斯堡",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "7.650",
+        "score_result": "2:0",
+        "score_odds": "12.000",
+        "goal_result": "2",
+        "goal_odds": "2.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2016-08-23 00:30",
+      "matchId": "906629",
+      "league": "法联杯",
+      "home": "克莱蒙",
+      "away": "克雷泰伊",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2016-08-23 00:30",
+      "matchId": "906627",
+      "league": "法联杯",
+      "home": "索肖",
+      "away": "布雷斯特",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.010",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.500",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.350"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2016-08-23 00:30",
+      "matchId": "906631",
+      "league": "法联杯",
+      "home": "朗斯",
+      "away": "巴黎FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.910",
+        "score_result": "0:0",
+        "score_odds": "8.500",
+        "goal_result": "0",
+        "goal_odds": "8.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.700"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2016-08-23 00:30",
+      "matchId": "906630",
+      "league": "法联杯",
+      "home": "奥尔良",
+      "away": "拉瓦勒",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.670",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "0:0",
+        "score_odds": "6.000",
+        "goal_result": "0",
+        "goal_odds": "6.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周二042",
+      "match_time": "2016-08-23 10:00",
+      "matchId": "885245",
+      "league": "中北美冠",
+      "home": "温哥华白帽",
+      "away": "堪萨斯城竞技",
+      "result": {
+        "half": "2-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.240",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.800",
+        "score_result": "3:0",
+        "score_odds": "20.000",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周二043",
+      "match_time": "2016-08-23 10:00",
+      "matchId": "889154",
+      "league": "墨西哥杯",
+      "home": "蓝十字",
+      "away": "瓜达拉哈拉大学",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.520",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.730",
+        "score_result": "3:1",
+        "score_odds": "12.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    }
+  ]
+}

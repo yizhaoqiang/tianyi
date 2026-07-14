@@ -1,0 +1,236 @@
+{
+  "time": "2021-11-11",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-1_4480",
+        "handicap": "1_0_490",
+        "halfFull": "30_31_59400",
+        "size": "3_2_1221"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-1_0-0_53759",
+        "handicap": "1_0_0_1276",
+        "halfFull": "30_31_11_445500",
+        "size": "3_2_0_14651"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_0-0_0-1_284927",
+        "handicap": "1_0_0_1_3752",
+        "halfFull": "30_31_11_00_819720",
+        "size": "3_2_0_1_66666"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_1_3_6980",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_1_3_1_20452",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-0_4000",
+        "handicap": "1_1_946",
+        "halfFull": "30_13_10230",
+        "size": "3_1_1554"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-1_3-0_1-0_173600",
+        "handicap": "1_0_3_1_2675",
+        "halfFull": "30_31_33_13_313038",
+        "size": "3_2_3_1_17179"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2021-11-11 20:00",
+      "matchId": "1150563",
+      "league": "世亚预",
+      "home": "黎巴嫩",
+      "away": "伊朗",
+      "result": {
+        "half": "1-0",
+        "full": "1-2",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.230",
+        "score_result": "1:2",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "3-0",
+        "half_full_odds": "33.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2021-11-11 23:00",
+      "matchId": "1150592",
+      "league": "世亚预",
+      "home": "中国",
+      "away": "阿曼",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "1:1",
+        "score_odds": "5.600",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2021-11-11 03:45",
+      "matchId": "1122613",
+      "league": "世欧预",
+      "home": "罗马尼亚",
+      "away": "冰岛",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.600",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.500"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2021-11-11 03:45",
+      "matchId": "1122404",
+      "league": "世欧预",
+      "home": "希腊",
+      "away": "西班牙",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.250",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "2.940",
+        "score_result": "0:1",
+        "score_odds": "5.300",
+        "goal_result": "1",
+        "goal_odds": "4.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.840"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2021-11-11 06:00",
+      "matchId": "1134801",
+      "league": "巴西甲",
+      "home": "弗拉门戈",
+      "away": "巴伊亚",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.860",
+        "score_result": "3:0",
+        "score_odds": "7.750",
+        "goal_result": "3",
+        "goal_odds": "3.350",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.700"
+      }
+    },
+    {
+      "num": "周四006",
+      "match_time": "2021-11-11 08:30",
+      "matchId": "1082182",
+      "league": "世南美预",
+      "home": "巴西",
+      "away": "哥伦比亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "2.930",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.100"
+      }
+    }
+  ]
+}

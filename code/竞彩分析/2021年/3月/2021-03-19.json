@@ -1,0 +1,354 @@
+{
+  "time": "2021-03-19",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_2-2_57500",
+        "handicap": "0_0_316",
+        "halfFull": "00_01_11200",
+        "size": "4_4_3200"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-3_2-2_0-0_747500",
+        "handicap": "0_0_3_458",
+        "halfFull": "00_01_11_58800",
+        "size": "4_4_0_41600"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_2-2_0-0_1-1_6166875",
+        "handicap": "0_0_3_0_1118",
+        "halfFull": "00_01_11_11_485100",
+        "size": "4_4_0_2_187200"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_4977",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_3_11946",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_3_3_22100",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_1_3_3_3_47074",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-3_2-0_37500",
+        "handicap": "0_3_790",
+        "halfFull": "00_13_3360",
+        "size": "4_2_1888"
+      },
+      "team": "001_012"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-3_2-2_0-4_2-0_12937500",
+        "handicap": "0_0_0_3_3508",
+        "halfFull": "00_01_00_13_117600",
+        "size": "4_4_4_2_55696"
+      },
+      "team": "001_002_011_012"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2021-03-19 00:00",
+      "matchId": "1103606",
+      "league": "俄超",
+      "home": "喀山红宝石",
+      "away": "莫斯科希姆基",
+      "result": {
+        "half": "1-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "5.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.080",
+        "score_result": "1:3",
+        "score_odds": "50.000",
+        "goal_result": "4",
+        "goal_odds": "6.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2021-03-19 01:30",
+      "matchId": "1107551",
+      "league": "德乙",
+      "home": "帕德博恩",
+      "away": "卡尔斯鲁厄",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "2:2",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "5.000",
+        "half_full_result": "0-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2021-03-19 03:00",
+      "matchId": "1105162",
+      "league": "荷甲",
+      "home": "海伦芬",
+      "away": "特温特",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.150",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.450",
+        "score_result": "0:0",
+        "score_odds": "13.000",
+        "goal_result": "0",
+        "goal_odds": "13.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.250"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2021-03-19 03:00",
+      "matchId": "1102862",
+      "league": "荷乙",
+      "home": "格拉夫夏普",
+      "away": "SBV精英",
+      "result": {
+        "half": "1-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.440",
+        "score_result": "1:1",
+        "score_odds": "8.250",
+        "goal_result": "2",
+        "goal_odds": "4.500",
+        "half_full_result": "1-1",
+        "half_full_odds": "8.250"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2021-03-19 03:00",
+      "matchId": "1102867",
+      "league": "荷乙",
+      "home": "福伦丹",
+      "away": "布雷达",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.460",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "4.450",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2021-03-19 03:00",
+      "matchId": "1102861",
+      "league": "荷乙",
+      "home": "前进之鹰",
+      "away": "多德勒支",
+      "result": {
+        "half": "3-0",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.400",
+        "score_result": "5:1",
+        "score_odds": "24.000",
+        "goal_result": "6",
+        "goal_odds": "11.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.520"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2021-03-19 03:00",
+      "matchId": "1102866",
+      "league": "荷乙",
+      "home": "特尔斯达",
+      "away": "罗达JC",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.560",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.850",
+        "score_result": "3:1",
+        "score_odds": "26.000",
+        "goal_result": "4",
+        "goal_odds": "4.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "8.250"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2021-03-19 03:00",
+      "matchId": "1102864",
+      "league": "荷乙",
+      "home": "奥斯",
+      "away": "奈梅亨",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.700",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.130",
+        "score_result": "2:1",
+        "score_odds": "12.000",
+        "goal_result": "3",
+        "goal_odds": "3.100",
+        "half_full_result": "0-3",
+        "half_full_odds": "34.000"
+      }
+    },
+    {
+      "num": "周五011",
+      "match_time": "2021-03-19 04:00",
+      "matchId": "1101498",
+      "league": "法甲",
+      "home": "圣埃蒂安",
+      "away": "摩纳哥",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.570",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.920",
+        "score_result": "0:4",
+        "score_odds": "30.000",
+        "goal_result": "4",
+        "goal_odds": "5.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.500"
+      }
+    },
+    {
+      "num": "周五012",
+      "match_time": "2021-03-19 04:30",
+      "matchId": "1114347",
+      "league": "葡超",
+      "home": "吉维森特",
+      "away": "葡萄牙国民",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.800",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    }
+  ]
+}

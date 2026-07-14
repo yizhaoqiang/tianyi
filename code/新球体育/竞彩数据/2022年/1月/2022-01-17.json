@@ -1,0 +1,146 @@
+[
+  {
+    "num": "周一004",
+    "match_time": "2022-01-17 23:59",
+    "matchId": "2127786",
+    "league": "非洲杯",
+    "home": "布基纳法索",
+    "away": "埃塞俄比亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.43",
+        "d": "3.40",
+        "l": "6.85"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.60",
+        "d": "3.05",
+        "l": "2.35"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.40",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.35",
+      "score_result": "1:1",
+      "score_odds": "6.25",
+      "goal_result": "2",
+      "goal_odds": "3.10",
+      "half_full_result": "3-1",
+      "half_full_odds": "20.00"
+    }
+  },
+  {
+    "num": "周一001",
+    "match_time": "2022-01-18 01:30",
+    "matchId": "2053527",
+    "league": "意甲",
+    "home": "AC米兰",
+    "away": "斯佩齐亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.17",
+        "d": "5.40",
+        "l": "10.00"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "3.03",
+        "d": "3.55",
+        "l": "1.90"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-2",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "10.00",
+      "handicap": "-2",
+      "handicap_result": "0",
+      "handicap_odds": "1.90",
+      "score_result": "1:2",
+      "score_odds": "28.00",
+      "goal_result": "3",
+      "goal_odds": "3.25",
+      "half_full_result": "3-0",
+      "half_full_odds": "80.00"
+    }
+  },
+  {
+    "num": "周一002",
+    "match_time": "2022-01-18 03:45",
+    "matchId": "2053531",
+    "league": "意甲",
+    "home": "佛罗伦萨",
+    "away": "热那亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.29",
+        "d": "4.30",
+        "l": "7.60"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.03",
+        "d": "3.35",
+        "l": "2.88"
+      }
+    },
+    "result": {
+      "half": "3-0",
+      "full": "胜其他",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.29",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "2.03",
+      "score_result": "胜其他",
+      "score_odds": "26.00",
+      "goal_result": "6",
+      "goal_odds": "16.00",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.88"
+    }
+  },
+  {
+    "num": "周一003",
+    "match_time": "2022-01-18 04:15",
+    "matchId": "2046657",
+    "league": "葡超",
+    "home": "朴迪莫伦斯",
+    "away": "吉马良斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.47",
+        "d": "2.95",
+        "l": "2.53"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "6.20",
+        "d": "3.87",
+        "l": "1.39"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.95",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.39",
+      "score_result": "1:1",
+      "score_odds": "5.75",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "0-1",
+      "half_full_odds": "13.50"
+    }
+  }
+]

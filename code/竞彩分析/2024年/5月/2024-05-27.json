@@ -1,0 +1,128 @@
+{
+  "time": "2024-05-27",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-4_5-2_2100000",
+        "handicap": "0_3_621",
+        "halfFull": "00_13_2736",
+        "size": "4_7+_14550"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-4_5-2_0-3_75600000",
+        "handicap": "0_3_0_1000",
+        "halfFull": "00_13_00_14367",
+        "size": "4_7+_3_50197"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-4_0-3_432000",
+        "handicap": "0_0_281",
+        "halfFull": "00_00_3228",
+        "size": "4_3_1673"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-4_5-2_0-3_75600000",
+        "handicap": "0_3_0_1000",
+        "halfFull": "00_13_00_14367",
+        "size": "4_7+_3_50197"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2024-05-27 01:00",
+      "matchId": "1242364",
+      "league": "瑞典超",
+      "home": "北雪平",
+      "away": "韦纳穆",
+      "result": {
+        "half": "0-1",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.750",
+        "score_result": "0:4",
+        "score_odds": "120.000",
+        "goal_result": "4",
+        "goal_odds": "4.850",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.150"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2024-05-27 01:10",
+      "matchId": "1242361",
+      "league": "瑞典超",
+      "home": "索尔纳",
+      "away": "哥德堡",
+      "result": {
+        "half": "1-1",
+        "full": "5-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.550",
+        "score_result": "5:2",
+        "score_odds": "175.000",
+        "goal_result": "7+",
+        "goal_odds": "30.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.450"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2024-05-27 02:30",
+      "matchId": "1256416",
+      "league": "德甲",
+      "home": "杜塞多夫",
+      "away": "波鸿",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.980",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.610",
+        "score_result": "0:3",
+        "score_odds": "36.000",
+        "goal_result": "3",
+        "goal_odds": "3.450",
+        "half_full_result": "0-0",
+        "half_full_odds": "5.250"
+      }
+    }
+  ]
+}

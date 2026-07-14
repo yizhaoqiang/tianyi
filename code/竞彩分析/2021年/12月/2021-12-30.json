@@ -1,0 +1,200 @@
+{
+  "time": "2021-12-30",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-6_33000",
+        "handicap": "1_0_979",
+        "halfFull": "03_00_6300",
+        "size": "3_6_7789"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_0-6_0-1_280500",
+        "handicap": "1_0_0_1664",
+        "halfFull": "03_00_00_40950",
+        "size": "3_6_1_32717"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-6_0-1_3-1_2524500",
+        "handicap": "1_0_0_3_3078",
+        "halfFull": "03_00_00_33_70434",
+        "size": "3_6_1_4_137415"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_3_10622",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_3-1_10725",
+        "handicap": "1_3_1228",
+        "halfFull": "03_33_7756",
+        "size": "3_4_1967"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_0-6_3-1_3-1_3861000",
+        "handicap": "1_0_3_3_6248",
+        "halfFull": "03_00_33_33_30015",
+        "size": "3_6_4_4_157046"
+      },
+      "team": "001_002_005_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2021-12-30 01:00",
+      "matchId": "1146136",
+      "league": "葡超",
+      "home": "费雷拉",
+      "away": "圣克拉拉",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.200",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.560",
+        "score_result": "2:1",
+        "score_odds": "8.250",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "0-3",
+        "half_full_odds": "28.000"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2021-12-30 03:00",
+      "matchId": "1146142",
+      "league": "葡超",
+      "home": "阿罗卡",
+      "away": "布拉加",
+      "result": {
+        "half": "0-3",
+        "full": "0-6",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.530",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.750",
+        "score_result": "负其他",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "19.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2021-12-30 03:45",
+      "matchId": "1137069",
+      "league": "英冠",
+      "home": "诺丁汉森林",
+      "away": "哈德斯菲尔德",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.700",
+        "score_result": "0:1",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "4.200",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周四005",
+      "match_time": "2021-12-30 04:15",
+      "matchId": "1136060",
+      "league": "英超",
+      "home": "曼彻斯特联",
+      "away": "伯恩利",
+      "result": {
+        "half": "3-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.850",
+        "score_result": "3:1",
+        "score_odds": "9.000",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.720"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2021-12-30 05:00",
+      "matchId": "1146135",
+      "league": "葡超",
+      "home": "波尔图",
+      "away": "本菲卡",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.670",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.450",
+        "score_result": "3:1",
+        "score_odds": "13.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.770"
+      }
+    }
+  ]
+}

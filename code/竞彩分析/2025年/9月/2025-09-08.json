@@ -1,0 +1,216 @@
+{
+  "time": "2025-09-08",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_2-0_24650",
+        "handicap": "3_3_482",
+        "halfFull": "33_33_1467",
+        "size": "3_2_1365"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_2-0_0-3_862750",
+        "handicap": "3_3_0_700",
+        "halfFull": "33_33_00_7045",
+        "size": "3_2_3_5118"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_2-0_0-3_4-0_8196125",
+        "handicap": "3_3_0_3_1526",
+        "halfFull": "33_33_00_33_9722",
+        "size": "3_2_3_4_21498"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_3189",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_3_7367",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_3_0_10683",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_3_3_3_0_3_23289",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_4-0_8075",
+        "handicap": "3_3_455",
+        "halfFull": "33_33_247",
+        "size": "3_4_1365"
+      },
+      "team": "001_012"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_2-0_0-3_4-0_8196125",
+        "handicap": "3_3_0_3_1526",
+        "halfFull": "33_33_00_33_9722",
+        "size": "3_2_3_4_21498"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2025-09-08 02:45",
+      "matchId": "1280694",
+      "league": "世欧预",
+      "home": "瑞士",
+      "away": "斯洛文尼",
+      "result": {
+        "half": "3-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.280",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.090",
+        "score_result": "3:0",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.790"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2025-09-08 02:45",
+      "matchId": "1280693",
+      "league": "世欧预",
+      "home": "科索沃",
+      "away": "瑞典",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "4.980",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.310",
+        "score_result": "2:0",
+        "score_odds": "29.000",
+        "goal_result": "2",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "8.200"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2025-09-08 02:45",
+      "matchId": "1280718",
+      "league": "世欧预",
+      "home": "希腊",
+      "away": "丹麦",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.450",
+        "score_result": "0:3",
+        "score_odds": "35.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.800"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2025-09-08 02:45",
+      "matchId": "1280874",
+      "league": "世欧预",
+      "home": "克罗地亚",
+      "away": "黑山",
+      "result": {
+        "half": "1-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.100",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.180",
+        "score_result": "4:0",
+        "score_odds": "9.500",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.380"
+      }
+    }
+  ]
+}

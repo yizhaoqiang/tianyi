@@ -1,0 +1,200 @@
+{
+  "time": "2019-03-26",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_3-3_32000",
+        "handicap": "1_0_430",
+        "halfFull": "33_31_2897",
+        "size": "1_6_8189"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_3-3_3-3_2560000",
+        "handicap": "1_0_0_593",
+        "halfFull": "33_31_31_34776",
+        "size": "1_6_6_212939"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_3-3_3-3_4-1_46080000",
+        "handicap": "1_0_0_3_1335",
+        "halfFull": "33_31_31_33_46947",
+        "size": "1_6_6_5_1809989"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "1_0_0_3_0_2604",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-2_7200",
+        "handicap": "1_0_551",
+        "halfFull": "33_31_3311",
+        "size": "1_4_2205"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-0_3-3_4-1_2-2_10368000",
+        "handicap": "1_0_3_0_1887",
+        "halfFull": "33_31_33_31_62596",
+        "size": "1_6_5_4_487305"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2019-03-26 03:45",
+      "matchId": "1053942",
+      "league": "欧洲杯预",
+      "home": "爱尔兰",
+      "away": "格鲁吉亚",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "2.830",
+        "score_result": "1:0",
+        "score_odds": "4.000",
+        "goal_result": "1",
+        "goal_odds": "3.150",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.070"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2019-03-26 03:45",
+      "matchId": "1053941",
+      "league": "欧洲杯预",
+      "home": "瑞士",
+      "away": "丹麦",
+      "result": {
+        "half": "1-0",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.870",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.520",
+        "score_result": "3:3",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "26.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2019-03-26 03:45",
+      "matchId": "1053944",
+      "league": "欧洲杯预",
+      "home": "挪威",
+      "away": "瑞典",
+      "result": {
+        "half": "1-0",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.750",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.380",
+        "score_result": "3:3",
+        "score_odds": "80.000",
+        "goal_result": "6",
+        "goal_odds": "26.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "12.000"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2019-03-26 03:45",
+      "matchId": "1053943",
+      "league": "欧洲杯预",
+      "home": "罗马尼亚",
+      "away": "法罗群岛",
+      "result": {
+        "half": "3-1",
+        "full": "4-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "4:1",
+        "score_odds": "18.000",
+        "goal_result": "5",
+        "goal_odds": "8.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.350"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2019-03-26 03:45",
+      "matchId": "1053940",
+      "league": "欧洲杯预",
+      "home": "波黑",
+      "away": "希腊",
+      "result": {
+        "half": "2-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.950",
+        "score_result": "2:2",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "7.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "16.000"
+      }
+    }
+  ]
+}

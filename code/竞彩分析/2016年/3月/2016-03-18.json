@@ -1,0 +1,354 @@
+{
+  "time": "2016-03-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-0_10200",
+        "handicap": "3_3_551",
+        "halfFull": "03_11_6930",
+        "size": "4_0_2856"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_0-0_0-4_408000",
+        "handicap": "3_3_0_2232",
+        "halfFull": "03_11_00_20789",
+        "size": "4_0_4_17136"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-0_0-4_2-2_6528000",
+        "handicap": "3_3_0_0_4375",
+        "halfFull": "03_11_00_01_332639",
+        "size": "4_0_4_4_94247"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_21003",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_0_37176",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_0_0_85135",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_0_0_3_0_0_3_361825",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-0_15000",
+        "handicap": "3_0_577",
+        "halfFull": "03_11_9180",
+        "size": "4_0_4200"
+      },
+      "team": "001_036"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_0-0_1-1_0-0_714000",
+        "handicap": "3_3_0_0_1315",
+        "halfFull": "03_11_11_11_173180",
+        "size": "4_0_2_0_95676"
+      },
+      "team": "001_002_035_036"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2016-03-18 16:40",
+      "matchId": "802966",
+      "league": "澳超",
+      "home": "墨尔本城",
+      "away": "布里斯班狮吼",
+      "result": {
+        "half": "0-1",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.750",
+        "score_result": "3:1",
+        "score_odds": "15.000",
+        "goal_result": "4",
+        "goal_odds": "4.200",
+        "half_full_result": "0-3",
+        "half_full_odds": "18.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2016-03-18 22:00",
+      "matchId": "799126",
+      "league": "俄超",
+      "home": "阿姆卡尔",
+      "away": "罗斯托夫",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "0:0",
+        "score_odds": "6.800",
+        "goal_result": "0",
+        "goal_odds": "6.800",
+        "half_full_result": "1-1",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2016-03-18 00:30",
+      "matchId": "799125",
+      "league": "俄超",
+      "home": "安郅马哈奇卡拉",
+      "away": "莫斯科斯巴达",
+      "result": {
+        "half": "0-2",
+        "full": "0-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "4.050",
+        "score_result": "0:4",
+        "score_odds": "40.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2016-03-18 01:30",
+      "matchId": "800969",
+      "league": "德乙",
+      "home": "海登海姆",
+      "away": "FSV法兰克福",
+      "result": {
+        "half": "0-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.450",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.960",
+        "score_result": "2:2",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.500",
+        "half_full_result": "0-1",
+        "half_full_odds": "16.000"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2016-03-18 01:30",
+      "matchId": "800917",
+      "league": "德乙",
+      "home": "柏林联合",
+      "away": "不伦瑞克",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.220",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.800",
+        "score_result": "3:1",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2016-03-18 01:30",
+      "matchId": "800924",
+      "league": "德乙",
+      "home": "帕德博恩",
+      "away": "杜伊斯堡",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.770",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2016-03-18 02:00",
+      "matchId": "846788",
+      "league": "挪超",
+      "home": "特罗姆瑟",
+      "away": "斯达",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.290",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2016-03-18 03:00",
+      "matchId": "795962",
+      "league": "法乙",
+      "home": "阿雅克肖",
+      "away": "尼奥尔",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.910",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.250",
+        "score_result": "2:0",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.600"
+      }
+    },
+    {
+      "num": "周五035",
+      "match_time": "2016-03-18 09:30",
+      "matchId": "848597",
+      "league": "墨联",
+      "home": "克雷塔罗",
+      "away": "美洲虎",
+      "result": {
+        "half": "0-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.550",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.350",
+        "half_full_result": "1-1",
+        "half_full_odds": "4.900"
+      }
+    },
+    {
+      "num": "周五036",
+      "match_time": "2016-03-18 11:30",
+      "matchId": "848595",
+      "league": "墨联",
+      "home": "蒂华纳",
+      "away": "托卢卡",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.540",
+        "score_result": "0:0",
+        "score_odds": "10.000",
+        "goal_result": "0",
+        "goal_odds": "10.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.100"
+      }
+    }
+  ]
+}

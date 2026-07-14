@@ -1,0 +1,354 @@
+{
+  "time": "2024-09-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-2_18000",
+        "handicap": "3_0_412",
+        "halfFull": "13_10_3981",
+        "size": "2_2_1496"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_0-2_6-2_252000",
+        "handicap": "3_0_3_891",
+        "halfFull": "13_10_33_8161",
+        "size": "2_2_7+_16461"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-2_6-2_2-1_2016000",
+        "handicap": "3_0_3_1_3431",
+        "halfFull": "13_10_33_03_204039",
+        "size": "2_2_7+_3_61730"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_1_3_5079",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_1_3_0_9650",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_1_3_0_3_14765",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_3_1_3_0_3_0_29087",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_4-0_23250",
+        "handicap": "3_3_695",
+        "halfFull": "13_33_1296",
+        "size": "2_4_1885"
+      },
+      "team": "001_023"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_0-2_1-1_4-0_3627000",
+        "handicap": "3_0_3_3_2529",
+        "halfFull": "13_10_31_33_192891",
+        "size": "2_2_2_4_22028"
+      },
+      "team": "001_002_022_023"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周日001",
+      "match_time": "2024-09-22 13:00",
+      "matchId": "1248695",
+      "league": "J2联赛",
+      "home": "长崎航海",
+      "away": "群马温泉",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.280",
+        "score_result": "2:0",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "4.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.550"
+      }
+    },
+    {
+      "num": "周日002",
+      "match_time": "2024-09-22 15:30",
+      "matchId": "1247059",
+      "league": "K联赛",
+      "home": "光州FC",
+      "away": "济州联",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.810",
+        "score_result": "0:2",
+        "score_odds": "24.000",
+        "goal_result": "2",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.750"
+      }
+    },
+    {
+      "num": "周日003",
+      "match_time": "2024-09-22 17:30",
+      "matchId": "1248275",
+      "league": "J联赛",
+      "home": "广岛三箭",
+      "away": "横滨水手",
+      "result": {
+        "half": "3-2",
+        "full": "6-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.380",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.160",
+        "score_result": "胜其他",
+        "score_odds": "14.000",
+        "goal_result": "7+",
+        "goal_odds": "11.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周日004",
+      "match_time": "2024-09-22 18:30",
+      "matchId": "1268970",
+      "league": "意甲",
+      "home": "佛罗伦萨",
+      "away": "拉齐奥",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.220",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.850",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "0-3",
+        "half_full_odds": "25.000"
+      }
+    },
+    {
+      "num": "周日005",
+      "match_time": "2024-09-22 19:00",
+      "matchId": "1264375",
+      "league": "英冠",
+      "home": "普雷斯顿",
+      "away": "布莱克本",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.100",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.480",
+        "score_result": "0:0",
+        "score_odds": "11.000",
+        "goal_result": "0",
+        "goal_odds": "11.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周日006",
+      "match_time": "2024-09-22 20:00",
+      "matchId": "1242460",
+      "league": "瑞典超",
+      "home": "埃夫斯堡",
+      "away": "哈马比",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.900",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "0:0",
+        "score_odds": "23.000",
+        "goal_result": "0",
+        "goal_odds": "23.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "6.750"
+      }
+    },
+    {
+      "num": "周日007",
+      "match_time": "2024-09-22 20:30",
+      "matchId": "1243001",
+      "league": "挪超",
+      "home": "布兰",
+      "away": "博德闪耀",
+      "result": {
+        "half": "3-0",
+        "full": "4-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.550",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.530",
+        "score_result": "4:1",
+        "score_odds": "45.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周日008",
+      "match_time": "2024-09-22 21:00",
+      "matchId": "1260158",
+      "league": "英超",
+      "home": "布赖顿",
+      "away": "诺丁汉",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.970",
+        "score_result": "2:2",
+        "score_odds": "14.000",
+        "goal_result": "4",
+        "goal_odds": "5.650",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周日022",
+      "match_time": "2024-09-22 03:00",
+      "matchId": "1259791",
+      "league": "西甲",
+      "home": "巴列卡诺",
+      "away": "马竞",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.010",
+        "score_result": "1:1",
+        "score_odds": "6.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-1",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周日023",
+      "match_time": "2024-09-22 06:15",
+      "matchId": "1244276",
+      "league": "美职",
+      "home": "费城",
+      "away": "华盛顿",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.710",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.050",
+        "score_result": "4:0",
+        "score_odds": "31.000",
+        "goal_result": "4",
+        "goal_odds": "4.600",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.850"
+      }
+    }
+  ]
+}

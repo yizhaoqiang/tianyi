@@ -1,0 +1,74 @@
+[
+  {
+    "num": "周二002",
+    "match_time": "2014-07-02 00:00",
+    "matchId": "990754",
+    "league": "世界杯",
+    "home": "阿根廷",
+    "away": "瑞士",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.39",
+        "d": "3.90",
+        "l": "6.75"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.28",
+        "d": "3.45",
+        "l": "2.50"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.50",
+      "score_result": "0:0",
+      "score_odds": "10.50",
+      "goal_result": "0",
+      "goal_odds": "10.50",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.80"
+    }
+  },
+  {
+    "num": "周二003",
+    "match_time": "2014-07-02 04:00",
+    "matchId": "991668",
+    "league": "世界杯",
+    "home": "比利时",
+    "away": "美国",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.86",
+        "d": "3.10",
+        "l": "3.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.75",
+        "d": "3.55",
+        "l": "1.73"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.10",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.73",
+      "score_result": "0:0",
+      "score_odds": "6.50",
+      "goal_result": "0",
+      "goal_odds": "6.50",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.50"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+{
+  "time": "2017-06-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_2-0_2425",
+        "handicap": "1_3_938",
+        "halfFull": "13_33_878",
+        "size": "1_2_979"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_2-0_1-0_12125",
+        "handicap": "1_3_1_3048",
+        "halfFull": "13_33_13_3207",
+        "size": "1_2_1_4802"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-0_1-0_2500",
+        "handicap": "1_1_1137",
+        "halfFull": "13_13_1733",
+        "size": "1_1_1715"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-0_2-0_1-0_12125",
+        "handicap": "1_3_1_3048",
+        "halfFull": "13_33_13_3207",
+        "size": "1_2_1_4802"
+      },
+      "team": "001_002_003"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2017-06-12 00:00",
+      "matchId": "950950",
+      "league": "友谊赛",
+      "home": "白俄罗斯",
+      "away": "新西兰",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.500",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "3.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.750"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2017-06-12 00:45",
+      "matchId": "870509",
+      "league": "世亚预",
+      "home": "伊朗",
+      "away": "乌兹别克斯坦",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.680",
+        "score_result": "2:0",
+        "score_odds": "4.850",
+        "goal_result": "2",
+        "goal_odds": "2.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2017-06-12 07:00",
+      "matchId": "944778",
+      "league": "巴西甲",
+      "home": "格雷米奥",
+      "away": "巴伊亚",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.320",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:0",
+        "score_odds": "5.000",
+        "goal_result": "1",
+        "goal_odds": "4.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.650"
+      }
+    }
+  ]
+}

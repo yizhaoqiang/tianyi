@@ -1,0 +1,272 @@
+{
+  "time": "2018-05-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_4-2_72000",
+        "handicap": "3_3_1125",
+        "halfFull": "13_13_1892",
+        "size": "4_6_10800"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-1_4-2_2-1_612000",
+        "handicap": "3_3_1_4277",
+        "halfFull": "13_13_33_6527",
+        "size": "4_6_3_43200"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_4-2_2-1_2-2_14688000",
+        "handicap": "3_3_1_0_11634",
+        "halfFull": "13_13_33_31_137075",
+        "size": "4_6_3_4_250560"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_0_1_41883",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_0_1_0_77064",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_3_1_0_1_0_0_193433",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-1_0-0_13950",
+        "handicap": "3_0_1054",
+        "halfFull": "13_11_2332",
+        "size": "4_0_5231"
+      },
+      "team": "001_007"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-1_4-2_0-2_0-0_10602000",
+        "handicap": "3_3_0_0_5198",
+        "halfFull": "13_13_10_11_82226",
+        "size": "4_6_2_0_276210"
+      },
+      "team": "001_002_005_008"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2018-05-28 22:00",
+      "matchId": "1024221",
+      "league": "英乙",
+      "home": "考文垂",
+      "away": "埃克塞特城",
+      "result": {
+        "half": "0-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.950",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.200",
+        "score_result": "3:1",
+        "score_odds": "18.000",
+        "goal_result": "4",
+        "goal_odds": "6.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2018-05-28 01:00",
+      "matchId": "1002903",
+      "league": "挪超",
+      "home": "萨尔普斯堡",
+      "away": "斯塔贝克",
+      "result": {
+        "half": "1-1",
+        "full": "4-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.510",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.680",
+        "score_result": "4:2",
+        "score_odds": "40.000",
+        "goal_result": "6",
+        "goal_odds": "16.000",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.300"
+      }
+    },
+    {
+      "num": "周一007",
+      "match_time": "2018-05-28 02:15",
+      "matchId": "1024313",
+      "league": "友谊赛",
+      "home": "土耳其",
+      "away": "伊朗",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.310",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.800",
+        "score_result": "2:1",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.450"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2018-05-28 02:45",
+      "matchId": "1023275",
+      "league": "友谊赛",
+      "home": "葡萄牙",
+      "away": "突尼斯",
+      "result": {
+        "half": "2-1",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.050",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.720",
+        "score_result": "2:2",
+        "score_odds": "24.000",
+        "goal_result": "4",
+        "goal_odds": "5.800",
+        "half_full_result": "3-1",
+        "half_full_odds": "21.000"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2018-05-28 03:00",
+      "matchId": "1011709",
+      "league": "友谊赛",
+      "home": "法国",
+      "away": "爱尔兰",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.110",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:0",
+        "score_odds": "4.750",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.410"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2018-05-28 08:00",
+      "matchId": "1009576",
+      "league": "智利甲",
+      "home": "科洛科洛",
+      "away": "拉卡莱拉联合",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.520",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.840",
+        "score_result": "0:2",
+        "score_odds": "19.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.200"
+      }
+    },
+    {
+      "num": "周一008",
+      "match_time": "2018-05-28 09:00",
+      "matchId": "1020777",
+      "league": "友谊赛",
+      "home": "墨西哥",
+      "away": "威尔士",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.800",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.510",
+        "score_result": "0:0",
+        "score_odds": "7.750",
+        "goal_result": "0",
+        "goal_odds": "7.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.300"
+      }
+    }
+  ]
+}

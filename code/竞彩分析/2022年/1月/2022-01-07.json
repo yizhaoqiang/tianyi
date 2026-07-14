@@ -1,0 +1,128 @@
+{
+  "time": "2022-01-07",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-2_74750",
+        "handicap": "0_3_533",
+        "halfFull": "10_13_14875",
+        "size": "3_5_3569"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_3-2_1-0_747500",
+        "handicap": "0_3_0_1019",
+        "halfFull": "10_13_13_63218",
+        "size": "3_5_1_28916"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-0_11500",
+        "handicap": "0_0_345",
+        "halfFull": "10_13_3718",
+        "size": "3_1_2754"
+      },
+      "team": "001_003"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_3-2_1-0_747500",
+        "handicap": "0_3_0_1019",
+        "halfFull": "10_13_13_63218",
+        "size": "3_5_1_28916"
+      },
+      "team": "001_002_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2022-01-07 01:45",
+      "matchId": "1136500",
+      "league": "荷乙",
+      "home": "海尔蒙特",
+      "away": "多德勒支",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.620",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.810",
+        "score_result": "1:2",
+        "score_odds": "11.500",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "1-0",
+        "half_full_odds": "8.750"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2022-01-07 02:30",
+      "matchId": "1146145",
+      "league": "葡超",
+      "home": "圣克拉拉",
+      "away": "里斯本竞技",
+      "result": {
+        "half": "1-1",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "8.000",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.950",
+        "score_result": "3:2",
+        "score_odds": "65.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "17.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2022-01-07 04:00",
+      "matchId": "1136501",
+      "league": "荷乙",
+      "home": "罗达JC",
+      "away": "马斯特里赫特",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.220",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "1.910",
+        "score_result": "1:0",
+        "score_odds": "10.000",
+        "goal_result": "1",
+        "goal_odds": "8.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.250"
+      }
+    }
+  ]
+}

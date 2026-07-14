@@ -1,0 +1,302 @@
+{
+  "time": "2015-10-28",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-0_2968",
+        "handicap": "3_1_575",
+        "halfFull": "33_13_467",
+        "size": "3_1_1500"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "3-0_1-0_5-0_44531",
+        "handicap": "3_1_3_834",
+        "halfFull": "33_13_33_663",
+        "size": "3_1_5_10500"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_1-0_5-0_2-1_311718",
+        "handicap": "3_1_3_1_2794",
+        "halfFull": "33_13_33_13_2554",
+        "size": "3_1_5_3_37275"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "3-0_1-0_4531",
+        "handicap": "3_1_646",
+        "halfFull": "33_13_601",
+        "size": "3_1_1800"
+      },
+      "team": "001_043"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "3-0_1-0_3-2_1-0_495039",
+        "handicap": "3_1_1_1_8188",
+        "halfFull": "33_13_13_13_11308",
+        "size": "3_1_5_1_64125"
+      },
+      "team": "001_002_042_043"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2015-10-28 16:30",
+      "matchId": "837400",
+      "league": "足总杯",
+      "home": "墨尔本胜利",
+      "away": "休姆城",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.770",
+        "score_result": "3:0",
+        "score_odds": "6.250",
+        "goal_result": "3",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.280"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2015-10-28 21:00",
+      "matchId": "837348",
+      "league": "俄罗斯杯",
+      "home": "乌法",
+      "away": "哈巴罗夫斯克",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.440",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:0",
+        "score_odds": "4.750",
+        "goal_result": "1",
+        "goal_odds": "3.750",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.650"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2015-10-28 00:00",
+      "matchId": "837354",
+      "league": "俄罗斯杯",
+      "home": "圣彼得堡泽尼特",
+      "away": "托斯诺",
+      "result": {
+        "half": "5-0",
+        "full": "5-0",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.450",
+        "score_result": "5:0",
+        "score_odds": "15.000",
+        "goal_result": "5",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.420"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2015-10-28 00:30",
+      "matchId": "837355",
+      "league": "俄罗斯杯",
+      "home": "莫斯科中央陆军",
+      "away": "乌拉尔",
+      "result": {
+        "half": "0-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.430",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.350",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.850"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2015-10-28 01:30",
+      "matchId": "831889",
+      "league": "法联杯",
+      "home": "阿雅克肖GFCO",
+      "away": "甘冈",
+      "result": {
+        "half": "-",
+        "full": "-",
+        "win_draw_lose_result": "延期",
+        "win_draw_lose_odds": "1.000",
+        "handicap": "+1",
+        "handicap_result": "延期",
+        "handicap_odds": "1.000",
+        "score_result": "延期",
+        "score_odds": "1.000",
+        "goal_result": "延期",
+        "goal_odds": "1.000",
+        "half_full_result": "延期",
+        "half_full_odds": "1.000"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2015-10-28 01:30",
+      "matchId": "837350",
+      "league": "俄罗斯杯",
+      "home": "库班",
+      "away": "莫斯科斯巴达",
+      "result": {
+        "half": "1-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.570",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.720",
+        "score_result": "1:0",
+        "score_odds": "8.500",
+        "goal_result": "1",
+        "goal_odds": "3.950",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.100"
+      }
+    },
+    {
+      "num": "周三007",
+      "match_time": "2015-10-28 02:00",
+      "matchId": "828511",
+      "league": "德国杯",
+      "home": "多特蒙德",
+      "away": "帕德博恩",
+      "result": {
+        "half": "3-1",
+        "full": "7-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "3",
+        "handicap_odds": "1.680",
+        "score_result": "胜其他",
+        "score_odds": "5.700",
+        "goal_result": "7+",
+        "goal_odds": "7.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.270"
+      }
+    },
+    {
+      "num": "周三008",
+      "match_time": "2015-10-28 02:00",
+      "matchId": "828509",
+      "league": "德国杯",
+      "home": "弗赖堡",
+      "away": "奥格斯堡",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.850",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "0:3",
+        "score_odds": "30.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周三042",
+      "match_time": "2015-10-28 10:00",
+      "matchId": "840644",
+      "league": "美职",
+      "home": "西雅图海湾人",
+      "away": "洛杉矶银河",
+      "result": {
+        "half": "2-2",
+        "full": "3-2",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.080",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "3:2",
+        "score_odds": "23.000",
+        "goal_result": "5",
+        "goal_odds": "9.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.150"
+      }
+    },
+    {
+      "num": "周三043",
+      "match_time": "2015-10-28 11:15",
+      "matchId": "840280",
+      "league": "墨西哥杯",
+      "home": "莱昂",
+      "away": "阿特拉斯",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.850",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "1:0",
+        "score_odds": "7.250",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.700"
+      }
+    }
+  ]
+}

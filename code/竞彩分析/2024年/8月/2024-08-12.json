@@ -1,0 +1,164 @@
+{
+  "time": "2024-08-12",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_3-3_34125",
+        "handicap": "3_0_743",
+        "halfFull": "33_31_4410",
+        "size": "2_6_3904"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-0_3-3_1-4_2218125",
+        "handicap": "3_0_0_1041",
+        "halfFull": "33_31_00_19183",
+        "size": "2_6_5_41002"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_3-3_1-4_0-1_18299531",
+        "handicap": "3_0_0_1_3852",
+        "halfFull": "33_31_00_00_71938",
+        "size": "2_6_5_1_205012"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_0-1_8043",
+        "handicap": "3_1_1487",
+        "halfFull": "33_00_1181",
+        "size": "2_1_1775"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-0_3-3_1-4_0-1_18299531",
+        "handicap": "3_0_0_1_3852",
+        "halfFull": "33_31_00_00_71938",
+        "size": "2_6_5_1_205012"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2024-08-12 18:00",
+      "matchId": "1248225",
+      "league": "J联赛",
+      "home": "新泻天鹅",
+      "away": "京都",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.920",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.020",
+        "score_result": "2:0",
+        "score_odds": "9.750",
+        "goal_result": "2",
+        "goal_odds": "3.550",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2024-08-12 01:00",
+      "matchId": "1242418",
+      "league": "瑞典超",
+      "home": "哈马比",
+      "away": "布鲁马波",
+      "result": {
+        "half": "3-1",
+        "full": "3-3",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.880",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.850",
+        "score_result": "3:3",
+        "score_odds": "35.000",
+        "goal_result": "6",
+        "goal_odds": "11.000",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2024-08-12 03:00",
+      "matchId": "1264320",
+      "league": "英冠",
+      "home": "卢顿",
+      "away": "伯恩利",
+      "result": {
+        "half": "0-2",
+        "full": "1-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.560",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.400",
+        "score_result": "1:4",
+        "score_odds": "65.000",
+        "goal_result": "5",
+        "goal_odds": "10.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.350"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2024-08-12 03:15",
+      "matchId": "1270051",
+      "league": "葡超",
+      "home": "阿罗卡",
+      "away": "吉马良斯",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.010",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "0:1",
+        "score_odds": "8.250",
+        "goal_result": "1",
+        "goal_odds": "5.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.750"
+      }
+    }
+  ]
+}

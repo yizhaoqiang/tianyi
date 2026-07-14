@@ -1,0 +1,650 @@
+[
+  {
+    "num": "周三001",
+    "match_time": "2018-03-01 00:30",
+    "matchId": "1498324",
+    "league": "意杯",
+    "home": "尤文图斯",
+    "away": "亚特兰大",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.61",
+        "d": "3.30",
+        "l": "4.90"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.12",
+        "d": "3.25",
+        "l": "2.00"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.61",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.25",
+      "score_result": "1:0",
+      "score_odds": "5.00",
+      "goal_result": "1",
+      "goal_odds": "3.65",
+      "half_full_result": "1-3",
+      "half_full_odds": "4.30"
+    }
+  },
+  {
+    "num": "周三003",
+    "match_time": "2018-03-01 01:30",
+    "matchId": "1509732",
+    "league": "荷兰杯",
+    "home": "阿尔克马尔",
+    "away": "特温特",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.20",
+        "d": "5.50",
+        "l": "8.75"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.72",
+        "d": "3.75",
+        "l": "3.55"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.20",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.72",
+      "score_result": "4:0",
+      "score_odds": "13.00",
+      "goal_result": "4",
+      "goal_odds": "3.80",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.55"
+    }
+  },
+  {
+    "num": "周三002",
+    "match_time": "2018-03-01 02:10",
+    "matchId": "1509443",
+    "league": "法国杯",
+    "home": "查布莱",
+    "away": "斯特拉斯堡",
+    "finish_odds": {
+      "wdl": {
+        "w": "4.55",
+        "d": "3.35",
+        "l": "1.64"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.97",
+        "d": "3.30",
+        "l": "3.15"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "4.55",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.97",
+      "score_result": "1:0",
+      "score_odds": "9.25",
+      "goal_result": "1",
+      "goal_odds": "3.95",
+      "half_full_result": "1-3",
+      "half_full_odds": "8.75"
+    }
+  },
+  {
+    "num": "周三004",
+    "match_time": "2018-03-01 02:30",
+    "matchId": "1424859",
+    "league": "西甲",
+    "home": "毕尔巴鄂竞技",
+    "away": "巴伦西亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.65",
+        "d": "3.15",
+        "l": "2.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "6.20",
+        "d": "4.40",
+        "l": "1.35"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.15",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.35",
+      "score_result": "1:1",
+      "score_odds": "6.00",
+      "goal_result": "2",
+      "goal_odds": "3.25",
+      "half_full_result": "0-1",
+      "half_full_odds": "14.00"
+    }
+  },
+  {
+    "num": "周三005",
+    "match_time": "2018-03-01 02:30",
+    "matchId": "1424864",
+    "league": "西甲",
+    "home": "赫塔菲",
+    "away": "拉科鲁尼亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.70",
+        "d": "3.30",
+        "l": "4.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.30",
+        "d": "3.40",
+        "l": "1.88"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.70",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.30",
+      "score_result": "3:0",
+      "score_odds": "14.00",
+      "goal_result": "3",
+      "goal_odds": "3.55",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.70"
+    }
+  },
+  {
+    "num": "周三006",
+    "match_time": "2018-03-01 02:30",
+    "matchId": "1424867",
+    "league": "西甲",
+    "home": "马拉加",
+    "away": "塞维利亚",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.58",
+        "d": "3.20",
+        "l": "1.86"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.72",
+        "d": "3.60",
+        "l": "3.70"
+      }
+    },
+    "result": {
+      "half": "0-1",
+      "full": "0-1",
+      "win_draw_lose_result": "0",
+      "win_draw_lose_odds": "1.86",
+      "handicap": "+1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "0:1",
+      "score_odds": "6.00",
+      "goal_result": "1",
+      "goal_odds": "3.85",
+      "half_full_result": "0-0",
+      "half_full_odds": "2.92"
+    }
+  },
+  {
+    "num": "周三007",
+    "match_time": "2018-03-01 03:45",
+    "matchId": "1509722",
+    "league": "英足总杯",
+    "home": "托特纳姆热刺",
+    "away": "罗奇代尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.67",
+        "d": "4.30",
+        "l": "3.35"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "1.67",
+        "d": "4.30",
+        "l": "3.35"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "胜其他",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "",
+      "handicap": "-2",
+      "handicap_result": "3",
+      "handicap_odds": "1.67",
+      "score_result": "胜其他",
+      "score_odds": "6.00",
+      "goal_result": "7+",
+      "goal_odds": "8.00",
+      "half_full_result": "1-3",
+      "half_full_odds": "3.95"
+    }
+  },
+  {
+    "num": "周三008",
+    "match_time": "2018-03-01 03:45",
+    "matchId": "1498325",
+    "league": "意杯",
+    "home": "拉齐奥",
+    "away": "AC米兰",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.84",
+        "d": "3.30",
+        "l": "3.55"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.56",
+        "d": "3.65",
+        "l": "1.74"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.30",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.74",
+      "score_result": "0:0",
+      "score_odds": "11.00",
+      "goal_result": "0",
+      "goal_odds": "11.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.40"
+    }
+  },
+  {
+    "num": "周三009",
+    "match_time": "2018-03-01 03:45",
+    "matchId": "1509731",
+    "league": "荷兰杯",
+    "home": "费耶诺德",
+    "away": "威廉二世",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.14",
+        "d": "5.95",
+        "l": "12.00"
+      },
+      "handicap": {
+        "line": "-2",
+        "w": "2.72",
+        "d": "4.15",
+        "l": "1.92"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.14",
+      "handicap": "-2",
+      "handicap_result": "3",
+      "handicap_odds": "2.72",
+      "score_result": "3:0",
+      "score_odds": "7.20",
+      "goal_result": "3",
+      "goal_odds": "3.45",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.46"
+    }
+  },
+  {
+    "num": "周三013",
+    "match_time": "2018-03-01 04:05",
+    "matchId": "1509444",
+    "league": "法国杯",
+    "home": "巴黎圣日耳曼",
+    "away": "马赛",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.33",
+        "d": "4.75",
+        "l": "6.00"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.99",
+        "d": "3.80",
+        "l": "2.75"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.33",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.99",
+      "score_result": "3:0",
+      "score_odds": "9.50",
+      "goal_result": "3",
+      "goal_odds": "3.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.70"
+    }
+  },
+  {
+    "num": "周三014",
+    "match_time": "2018-03-01 04:15",
+    "matchId": "1494977",
+    "league": "葡杯",
+    "home": "艾维斯",
+    "away": "卡尔达斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.19",
+        "d": "4.90",
+        "l": "11.80"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.71",
+        "d": "3.60",
+        "l": "3.75"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.19",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.60",
+      "score_result": "1:0",
+      "score_odds": "5.00",
+      "goal_result": "1",
+      "goal_odds": "4.30",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.64"
+    }
+  },
+  {
+    "num": "周三015",
+    "match_time": "2018-03-01 04:30",
+    "matchId": "1424860",
+    "league": "西甲",
+    "home": "马德里竞技",
+    "away": "莱加内斯",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.14",
+        "d": "5.20",
+        "l": "16.75"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "1.68",
+        "d": "3.33",
+        "l": "4.30"
+      }
+    },
+    "result": {
+      "half": "2-0",
+      "full": "4-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.14",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "1.68",
+      "score_result": "4:0",
+      "score_odds": "10.00",
+      "goal_result": "4",
+      "goal_odds": "6.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "1.53"
+    }
+  },
+  {
+    "num": "周三016",
+    "match_time": "2018-03-01 04:30",
+    "matchId": "1424862",
+    "league": "西甲",
+    "home": "埃瓦尔",
+    "away": "比利亚雷亚尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.18",
+        "d": "3.13",
+        "l": "2.85"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.75",
+        "d": "3.85",
+        "l": "1.52"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-0",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "2.18",
+      "handicap": "-1",
+      "handicap_result": "1",
+      "handicap_odds": "3.85",
+      "score_result": "1:0",
+      "score_odds": "6.40",
+      "goal_result": "1",
+      "goal_odds": "3.80",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.35"
+    }
+  },
+  {
+    "num": "周三017",
+    "match_time": "2018-03-01 06:15",
+    "matchId": "1514182",
+    "league": "解放者杯",
+    "home": "乌拉圭民族",
+    "away": "拉普拉塔大学生",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.22",
+        "d": "2.73",
+        "l": "3.20"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "5.30",
+        "d": "3.55",
+        "l": "1.52"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.73",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.52",
+      "score_result": "0:0",
+      "score_odds": "5.40",
+      "goal_result": "0",
+      "goal_odds": "5.40",
+      "half_full_result": "1-1",
+      "half_full_odds": "3.80"
+    }
+  },
+  {
+    "num": "周三018",
+    "match_time": "2018-03-01 08:45",
+    "matchId": "1514158",
+    "league": "解放者杯",
+    "home": "弗拉门戈",
+    "away": "河床",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.88",
+        "d": "3.05",
+        "l": "3.72"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.00",
+        "d": "3.40",
+        "l": "1.71"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "2-2",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.05",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.71",
+      "score_result": "2:2",
+      "score_odds": "15.00",
+      "goal_result": "4",
+      "goal_odds": "6.70",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.60"
+    }
+  },
+  {
+    "num": "周三019",
+    "match_time": "2018-03-01 08:45",
+    "matchId": "1514194",
+    "league": "解放者杯",
+    "home": "百万富翁",
+    "away": "科林蒂安",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.10",
+        "d": "2.90",
+        "l": "3.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "4.75",
+        "d": "3.60",
+        "l": "1.56"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.90",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.56",
+      "score_result": "0:0",
+      "score_odds": "6.00",
+      "goal_result": "0",
+      "goal_odds": "6.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.20"
+    }
+  },
+  {
+    "num": "周三020",
+    "match_time": "2018-03-01 08:45",
+    "matchId": "1514135",
+    "league": "解放者杯",
+    "home": "德芬",
+    "away": "玻利瓦尔",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.69",
+        "d": "3.30",
+        "l": "4.30"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.35",
+        "d": "3.30",
+        "l": "1.90"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.30",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "1.90",
+      "score_result": "1:1",
+      "score_odds": "6.00",
+      "goal_result": "2",
+      "goal_odds": "3.20",
+      "half_full_result": "1-1",
+      "half_full_odds": "5.00"
+    }
+  },
+  {
+    "num": "周三021",
+    "match_time": "2018-03-01 09:00",
+    "matchId": "1488698",
+    "league": "墨西哥杯",
+    "home": "瓦哈卡",
+    "away": "普埃布拉",
+    "finish_odds": {
+      "wdl": {
+        "w": "2.60",
+        "d": "2.90",
+        "l": "2.50"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.41",
+        "d": "4.00",
+        "l": "5.90"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "2.90",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.41",
+      "score_result": "0:0",
+      "score_odds": "7.00",
+      "goal_result": "0",
+      "goal_odds": "7.00",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.50"
+    }
+  }
+]

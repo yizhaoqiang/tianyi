@@ -1,0 +1,182 @@
+[
+  {
+    "num": "周二001",
+    "match_time": "2023-05-09 18:30",
+    "matchId": "2332060",
+    "league": "韩K联",
+    "home": "FC首尔",
+    "away": "光州FC",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.90",
+        "d": "3.30",
+        "l": "3.25"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.80",
+        "d": "3.70",
+        "l": "1.65"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.90",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.80",
+      "score_result": "3:1",
+      "score_odds": "15.00",
+      "goal_result": "4",
+      "goal_odds": "5.60",
+      "half_full_result": "3-3",
+      "half_full_odds": "3.25"
+    }
+  },
+  {
+    "num": "周二002",
+    "match_time": "2023-05-09 18:30",
+    "matchId": "2332061",
+    "league": "韩K联",
+    "home": "大邱FC",
+    "away": "浦项制铁",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.15",
+        "d": "3.00",
+        "l": "2.05"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.56",
+        "d": "3.55",
+        "l": "4.62"
+      }
+    },
+    "result": {
+      "half": "1-1",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.00",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.56",
+      "score_result": "1:1",
+      "score_odds": "6.00",
+      "goal_result": "2",
+      "goal_odds": "3.75",
+      "half_full_result": "1-1",
+      "half_full_odds": "4.90"
+    }
+  },
+  {
+    "num": "周二003",
+    "match_time": "2023-05-10 01:00",
+    "matchId": "2325157",
+    "league": "瑞典超",
+    "home": "韦纳穆",
+    "away": "瓦尔贝里",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.63",
+        "d": "3.35",
+        "l": "4.40"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "3.30",
+        "d": "3.12",
+        "l": "1.94"
+      }
+    },
+    "result": {
+      "half": "2-1",
+      "full": "3-1",
+      "win_draw_lose_result": "3",
+      "win_draw_lose_odds": "1.63",
+      "handicap": "-1",
+      "handicap_result": "3",
+      "handicap_odds": "3.30",
+      "score_result": "3:1",
+      "score_odds": "15.00",
+      "goal_result": "4",
+      "goal_odds": "6.50",
+      "half_full_result": "3-3",
+      "half_full_odds": "2.80"
+    }
+  },
+  {
+    "num": "周二004",
+    "match_time": "2023-05-10 01:00",
+    "matchId": "2325156",
+    "league": "瑞典超",
+    "home": "哈马比",
+    "away": "米亚尔比",
+    "finish_odds": {
+      "wdl": {
+        "w": "1.46",
+        "d": "3.70",
+        "l": "5.45"
+      },
+      "handicap": {
+        "line": "-1",
+        "w": "2.52",
+        "d": "3.40",
+        "l": "2.24"
+      }
+    },
+    "result": {
+      "half": "0-0",
+      "full": "0-0",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.70",
+      "handicap": "-1",
+      "handicap_result": "0",
+      "handicap_odds": "2.24",
+      "score_result": "0:0",
+      "score_odds": "11.50",
+      "goal_result": "0",
+      "goal_odds": "11.50",
+      "half_full_result": "1-1",
+      "half_full_odds": "6.50"
+    }
+  },
+  {
+    "num": "周二005",
+    "match_time": "2023-05-10 03:00",
+    "matchId": "2381685",
+    "league": "欧冠杯",
+    "home": "皇家马德里",
+    "away": "曼彻斯特城",
+    "finish_odds": {
+      "wdl": {
+        "w": "3.05",
+        "d": "3.45",
+        "l": "1.92"
+      },
+      "handicap": {
+        "line": "1",
+        "w": "1.66",
+        "d": "3.75",
+        "l": "3.70"
+      }
+    },
+    "result": {
+      "half": "1-0",
+      "full": "1-1",
+      "win_draw_lose_result": "1",
+      "win_draw_lose_odds": "3.45",
+      "handicap": "+1",
+      "handicap_result": "3",
+      "handicap_odds": "1.66",
+      "score_result": "1:1",
+      "score_odds": "7.25",
+      "goal_result": "2",
+      "goal_odds": "3.90",
+      "half_full_result": "3-1",
+      "half_full_odds": "15.00"
+    }
+  }
+]

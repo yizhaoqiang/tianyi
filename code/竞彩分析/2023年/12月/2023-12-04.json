@@ -1,0 +1,200 @@
+{
+  "time": "2023-12-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_2-1_7409",
+        "handicap": "0_1_923",
+        "halfFull": "33_33_430",
+        "size": "3_3_1368"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_2-1_3-0_251939",
+        "handicap": "0_1_3_1357",
+        "halfFull": "33_33_33_2369",
+        "size": "3_3_3_5338"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_2-1_3-0_1-1_1763579",
+        "handicap": "0_1_3_0_3257",
+        "halfFull": "33_33_33_01_45029",
+        "size": "3_3_3_2_16281"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_1_3_0_1_12217",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_3-1_8287",
+        "handicap": "0_1_948",
+        "halfFull": "33_13_556",
+        "size": "3_4_1443"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_2-1_1-1_3-1_440895",
+        "handicap": "0_1_0_1_8311",
+        "halfFull": "33_33_01_13_32748",
+        "size": "3_3_2_4_16072"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周一001",
+      "match_time": "2023-12-04 00:00",
+      "matchId": "1236674",
+      "league": "亚冠杯",
+      "home": "利雅新月",
+      "away": "纳萨吉",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "0",
+        "handicap_odds": "2.530",
+        "score_result": "2:1",
+        "score_odds": "9.750",
+        "goal_result": "3",
+        "goal_odds": "3.750",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.390"
+      }
+    },
+    {
+      "num": "周一002",
+      "match_time": "2023-12-04 02:00",
+      "matchId": "1236758",
+      "league": "亚冠杯",
+      "home": "吉达联合",
+      "away": "塞帕汉",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.820",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.650",
+        "score_result": "2:1",
+        "score_odds": "7.600",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.100"
+      }
+    },
+    {
+      "num": "周一003",
+      "match_time": "2023-12-04 03:45",
+      "matchId": "1227930",
+      "league": "意甲",
+      "home": "都灵",
+      "away": "亚特兰大",
+      "result": {
+        "half": "1-0",
+        "full": "3-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.800",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.470",
+        "score_result": "3:0",
+        "score_odds": "34.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周一004",
+      "match_time": "2023-12-04 04:00",
+      "matchId": "1219146",
+      "league": "西甲",
+      "home": "塞尔塔",
+      "away": "加的斯",
+      "result": {
+        "half": "0-1",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.720",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.400",
+        "score_result": "1:1",
+        "score_odds": "7.000",
+        "goal_result": "2",
+        "goal_odds": "3.050",
+        "half_full_result": "0-1",
+        "half_full_odds": "19.000"
+      }
+    },
+    {
+      "num": "周一005",
+      "match_time": "2023-12-04 04:15",
+      "matchId": "1228590",
+      "league": "葡超",
+      "home": "里斯本",
+      "away": "吉维森特",
+      "result": {
+        "half": "1-1",
+        "full": "3-1",
+        "win_draw_lose_result": "",
+        "win_draw_lose_odds": "-",
+        "handicap": "-2",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "3:1",
+        "score_odds": "8.500",
+        "goal_result": "4",
+        "goal_odds": "3.850",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.000"
+      }
+    }
+  ]
+}

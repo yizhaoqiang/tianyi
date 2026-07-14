@@ -1,0 +1,354 @@
+{
+  "time": "2017-10-03",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_1-2_16150",
+        "handicap": "0_0_468",
+        "halfFull": "00_10_6600",
+        "size": "3_3_1206"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_1-2_0-1_121125",
+        "handicap": "0_0_1_1754",
+        "halfFull": "00_10_00_19140",
+        "size": "3_3_1_6638"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-2_0-1_0-1_2664750",
+        "handicap": "0_0_1_0_5528",
+        "halfFull": "00_10_00_10_287100",
+        "size": "3_3_1_1_34852"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_1_18796",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_1_0_29321",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_1_0_1_96762",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_1_0_1_0_1_3_199329",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_2-3_76000",
+        "handicap": "0_0_1332",
+        "halfFull": "00_10_23100",
+        "size": "3_5_1768"
+      },
+      "team": "001_015"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_1-2_1-1_2-3_4845000",
+        "handicap": "0_0_0_0_4701",
+        "halfFull": "00_10_31_10_1940400",
+        "size": "3_3_2_5_23222"
+      },
+      "team": "001_002_014_015"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2017-10-03 02:00",
+      "matchId": "978952",
+      "league": "英锦赛",
+      "home": "罗瑟汉姆",
+      "away": "切斯特菲尔德",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "8.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.250",
+        "score_result": "1:2",
+        "score_odds": "19.000",
+        "goal_result": "3",
+        "goal_odds": "3.400",
+        "half_full_result": "0-0",
+        "half_full_odds": "11.000"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2017-10-03 02:30",
+      "matchId": "978931",
+      "league": "英锦赛",
+      "home": "阿克宁顿",
+      "away": "布莱克浦",
+      "result": {
+        "half": "1-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.440",
+        "score_result": "1:2",
+        "score_odds": "8.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2017-10-03 02:30",
+      "matchId": "978940",
+      "league": "英锦赛",
+      "home": "克鲁",
+      "away": "奥德汉姆",
+      "result": {
+        "half": "0-1",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.900",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.750",
+        "score_result": "0:1",
+        "score_odds": "7.500",
+        "goal_result": "1",
+        "goal_odds": "5.500",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.900"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2017-10-03 02:45",
+      "matchId": "981577",
+      "league": "英锦赛",
+      "home": "布莱克本",
+      "away": "贝里",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "8.250",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.150",
+        "score_result": "0:1",
+        "score_odds": "22.000",
+        "goal_result": "1",
+        "goal_odds": "5.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "15.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2017-10-03 02:45",
+      "matchId": "978927",
+      "league": "英锦赛",
+      "home": "福利特伍德",
+      "away": "莫克姆",
+      "result": {
+        "half": "1-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.410",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.400",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2017-10-03 02:45",
+      "matchId": "978947",
+      "league": "英锦赛",
+      "home": "沃尔索尔",
+      "away": "考文垂",
+      "result": {
+        "half": "1-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.560",
+        "score_result": "2:2",
+        "score_odds": "11.000",
+        "goal_result": "4",
+        "goal_odds": "5.300",
+        "half_full_result": "3-1",
+        "half_full_odds": "10.500"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2017-10-03 02:45",
+      "matchId": "978965",
+      "league": "英锦赛",
+      "home": "斯肯索普",
+      "away": "格里姆斯比",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.420",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.300",
+        "score_result": "2:1",
+        "score_odds": "6.500",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.200"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2017-10-03 02:45",
+      "matchId": "978970",
+      "league": "英锦赛",
+      "home": "朴次茅斯",
+      "away": "克劳利",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.330",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.060",
+        "score_result": "3:1",
+        "score_odds": "10.000",
+        "goal_result": "4",
+        "goal_odds": "4.800",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.850"
+      }
+    },
+    {
+      "num": "周二014",
+      "match_time": "2017-10-03 02:45",
+      "matchId": "979013",
+      "league": "英锦赛",
+      "home": "彼得堡联",
+      "away": "北安普敦",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.150",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.450",
+        "score_result": "1:1",
+        "score_odds": "7.500",
+        "goal_result": "2",
+        "goal_odds": "3.700",
+        "half_full_result": "3-1",
+        "half_full_odds": "14.000"
+      }
+    },
+    {
+      "num": "周二015",
+      "match_time": "2017-10-03 07:00",
+      "matchId": "929403",
+      "league": "美职",
+      "home": "亚特兰大联",
+      "away": "明尼苏达联",
+      "result": {
+        "half": "0-0",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "10.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "4.100",
+        "score_result": "2:3",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "5.200",
+        "half_full_result": "1-0",
+        "half_full_odds": "21.000"
+      }
+    }
+  ]
+}

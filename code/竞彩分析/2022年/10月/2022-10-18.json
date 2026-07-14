@@ -1,0 +1,200 @@
+{
+  "time": "2022-10-18",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_0-0_23800",
+        "handicap": "3_0_688",
+        "halfFull": "33_11_1526",
+        "size": "4_0_6300"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "4-0_0-0_0-2_523600",
+        "handicap": "3_0_0_1467",
+        "halfFull": "33_11_00_12595",
+        "size": "4_0_2_22680"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_0-0_0-2_1-1_3534300",
+        "handicap": "3_0_0_0_3741",
+        "halfFull": "33_11_00_31_302296",
+        "size": "4_0_2_2_66906"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_0_0_0_1_12908",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "4-0_2-1_13600",
+        "handicap": "3_1_752",
+        "halfFull": "33_03_5319",
+        "size": "4_3_1755"
+      },
+      "team": "001_005"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "4-0_0-0_1-1_2-1_1285200",
+        "handicap": "3_0_0_1_6060",
+        "halfFull": "33_11_31_03_989334",
+        "size": "4_0_2_3_72481"
+      },
+      "team": "001_002_004_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2022-10-18 00:00",
+      "matchId": "1196087",
+      "league": "德国杯",
+      "home": "莱红牛",
+      "away": "汉堡",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.360",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "2.180",
+        "score_result": "4:0",
+        "score_odds": "17.000",
+        "goal_result": "4",
+        "goal_odds": "4.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.970"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2022-10-18 02:30",
+      "matchId": "1171520",
+      "league": "英超",
+      "home": "布赖顿",
+      "away": "诺丁汉",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "4.700",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "3.160",
+        "score_result": "0:0",
+        "score_odds": "14.000",
+        "goal_result": "0",
+        "goal_odds": "14.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "7.750"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2022-10-18 03:00",
+      "matchId": "1175506",
+      "league": "英冠",
+      "home": "西布罗姆",
+      "away": "布城",
+      "result": {
+        "half": "0-2",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.600",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.130",
+        "score_result": "0:2",
+        "score_odds": "22.000",
+        "goal_result": "2",
+        "goal_odds": "3.600",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.250"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2022-10-18 03:00",
+      "matchId": "1176081",
+      "league": "西甲",
+      "home": "马竞",
+      "away": "巴列卡诺",
+      "result": {
+        "half": "1-0",
+        "full": "1-1",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.860",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.550",
+        "score_result": "1:1",
+        "score_odds": "6.750",
+        "goal_result": "2",
+        "goal_odds": "2.950",
+        "half_full_result": "3-1",
+        "half_full_odds": "24.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2022-10-18 03:15",
+      "matchId": "1171523",
+      "league": "英超",
+      "home": "水晶宫",
+      "away": "狼队",
+      "result": {
+        "half": "0-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.000",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:1",
+        "score_odds": "8.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "0-3",
+        "half_full_odds": "27.000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "time": "2020-07-10",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-0_15750",
+        "handicap": "0_3_685",
+        "halfFull": "10_13_3780",
+        "size": "2_2_1071"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_2-0_1-2_299250",
+        "handicap": "0_3_0_1775",
+        "halfFull": "10_13_10_49140",
+        "size": "2_2_3_3909"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-0_1-2_0-2_5985000",
+        "handicap": "0_3_0_0_3372",
+        "halfFull": "10_13_10_10_466830",
+        "size": "2_2_3_2_12704"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_6948",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_1_20288",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_1_3_81559",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_0_0_1_3_3_124785",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_1-5_90000",
+        "handicap": "0_0_476",
+        "halfFull": "10_00_1890",
+        "size": "2_6_4725"
+      },
+      "team": "001_009"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_2-0_2-0_1-5_5433750",
+        "handicap": "0_3_3_0_3355",
+        "halfFull": "10_13_33_00_16023",
+        "size": "2_2_2_6_64259"
+      },
+      "team": "001_002_008_009"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2020-07-10 18:00",
+      "matchId": "1097894",
+      "league": "J2联赛",
+      "home": "冈山绿雉",
+      "away": "北九州向日葵",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.980",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.490",
+        "score_result": "0:2",
+        "score_odds": "15.000",
+        "goal_result": "2",
+        "goal_odds": "3.150",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2020-07-10 18:30",
+      "matchId": "1093270",
+      "league": "K联赛",
+      "home": "釜山偶像",
+      "away": "首尔FC",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.140",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.600",
+        "score_result": "2:0",
+        "score_odds": "10.500",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周五003",
+      "match_time": "2020-07-10 00:00",
+      "matchId": "1094962",
+      "league": "葡超",
+      "home": "吉马良斯",
+      "away": "吉维森特",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "7.000",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.590",
+        "score_result": "1:2",
+        "score_odds": "19.000",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-0",
+        "half_full_odds": "13.000"
+      }
+    },
+    {
+      "num": "周五004",
+      "match_time": "2020-07-10 01:00",
+      "matchId": "1096812",
+      "league": "英冠",
+      "home": "哈德斯菲尔德",
+      "away": "卢顿",
+      "result": {
+        "half": "0-0",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.300",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "0:2",
+        "score_odds": "20.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.500"
+      }
+    },
+    {
+      "num": "周五005",
+      "match_time": "2020-07-10 01:30",
+      "matchId": "1095624",
+      "league": "西甲",
+      "home": "皇家社会",
+      "away": "格拉纳达CF",
+      "result": {
+        "half": "0-2",
+        "full": "2-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.950",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.060",
+        "score_result": "2:3",
+        "score_odds": "40.000",
+        "goal_result": "5",
+        "goal_odds": "12.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周五006",
+      "match_time": "2020-07-10 02:15",
+      "matchId": "1094963",
+      "league": "葡超",
+      "home": "里斯本竞技",
+      "away": "圣克拉拉",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.350",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "2.920",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.500",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周五007",
+      "match_time": "2020-07-10 03:15",
+      "matchId": "1096806",
+      "league": "英冠",
+      "home": "富勒姆",
+      "away": "加的夫城",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.910",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "4.020",
+        "score_result": "2:0",
+        "score_odds": "8.000",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.000"
+      }
+    },
+    {
+      "num": "周五008",
+      "match_time": "2020-07-10 04:00",
+      "matchId": "1095631",
+      "league": "西甲",
+      "home": "皇家马德里",
+      "away": "阿拉维斯",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.130",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.530",
+        "score_result": "2:0",
+        "score_odds": "5.750",
+        "goal_result": "2",
+        "goal_odds": "4.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.570"
+      }
+    },
+    {
+      "num": "周五009",
+      "match_time": "2020-07-10 04:30",
+      "matchId": "1094964",
+      "league": "葡超",
+      "home": "费雷拉",
+      "away": "布拉加",
+      "result": {
+        "half": "0-3",
+        "full": "1-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.690",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "3.200",
+        "score_result": "1:5",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "15.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.700"
+      }
+    }
+  ]
+}

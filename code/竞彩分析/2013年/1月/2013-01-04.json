@@ -1,0 +1,79 @@
+{
+  "time": "2013-01-04",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-2_8500",
+        "handicap": "3_0_516",
+        "halfFull": "33_00_1292",
+        "size": "2_3_1326"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-0_1-2_8500",
+        "handicap": "3_0_516",
+        "halfFull": "33_00_1292",
+        "size": "2_3_1326"
+      },
+      "team": "001_002"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周五001",
+      "match_time": "2013-01-04 03:45",
+      "matchId": "212675",
+      "league": "英甲",
+      "home": "沃尔索尔",
+      "away": "朴次茅斯",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.750",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.750",
+        "score_result": "2:0",
+        "score_odds": "8.500",
+        "goal_result": "2",
+        "goal_odds": "3.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.750"
+      }
+    },
+    {
+      "num": "周五002",
+      "match_time": "2013-01-04 04:30",
+      "matchId": "208900",
+      "league": "西甲",
+      "home": "萨拉戈萨",
+      "away": "皇家贝蒂斯",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.950",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.950",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "0-0",
+        "half_full_odds": "4.700"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "generated_at": "2026-05-27",
+  "total_matches": 4,
+  "parlays": [
+    {
+      "type": "胜平负",
+      "combo_odds": 3.4,
+      "combo_hit_rate": 0.25,
+      "hit": true,
+      "legs": [
+        {
+          "label": "周三002",
+          "result_key": "胜",
+          "hit": true,
+          "result": "1:0"
+        },
+        {
+          "label": "周三001",
+          "result_key": "胜",
+          "hit": true,
+          "result": "1:0"
+        }
+      ]
+    },
+    {
+      "type": "让球",
+      "combo_odds": 13.03,
+      "combo_hit_rate": 0.11,
+      "hit": false,
+      "legs": [
+        {
+          "label": "周三006",
+          "result_key": "胜",
+          "hit": false,
+          "result": "0:1-让负",
+          "handicap": "-1"
+        },
+        {
+          "label": "周三002",
+          "result_key": "胜",
+          "hit": false,
+          "result": "1:0-让平",
+          "handicap": "-1"
+        }
+      ]
+    },
+    {
+      "type": "让球",
+      "combo_odds": 13.03,
+      "combo_hit_rate": 0.11
+    }
+  ],
+  "matches": [
+    {
+      "match_index": 2,
+      "match_num": "",
+      "league": "解放者杯",
+      "team": "佩纳罗尔-圣菲独立",
+      "result": "全0:1--半0:1--负--让负--1--单--负负",
+      "result_key": "胜(0)",
+      "checked": false
+    },
+    {
+      "match_index": 3,
+      "match_num": "",
+      "league": "解放者杯",
+      "team": "德尔瓦耶独立-罗萨里奥",
+      "result": "全1:0--半0:0--胜--让平--1--单--平胜",
+      "result_key": "胜(1)",
+      "checked": true
+    },
+    {
+      "match_index": 1,
+      "match_num": "",
+      "league": "解放者杯",
+      "team": "科林蒂安-普拉腾斯",
+      "result": "全0:2--半0:1--负--让负--2--双--负负",
+      "result_key": "负(1)",
+      "checked": true
+    },
+    {
+      "match_index": 4,
+      "match_num": "",
+      "league": "欧协联",
+      "team": "水晶宫-巴列卡诺",
+      "result": "全1:0--半0:0--胜--让平--1--单--平胜",
+      "result_key": "负(0)",
+      "checked": false
+    }
+  ]
+}

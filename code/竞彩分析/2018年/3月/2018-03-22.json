@@ -1,0 +1,164 @@
+{
+  "time": "2018-03-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-6_1-0_33000",
+        "handicap": "0_1_854",
+        "halfFull": "00_13_707",
+        "size": "6_1_12179"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-6_1-0_3-5_396000",
+        "handicap": "0_1_1_3333",
+        "halfFull": "00_13_10_2616",
+        "size": "6_1_7+_170519"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-6_1-0_3-5_2-0_2059200",
+        "handicap": "0_1_1_3_6233",
+        "halfFull": "00_13_10_33_4317",
+        "size": "6_1_7+_2_545664"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-6_2-0_31200",
+        "handicap": "0_3_491",
+        "halfFull": "00_33_338",
+        "size": "6_2_8960"
+      },
+      "team": "001_004"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-6_1-0_3-5_2-0_2059200",
+        "handicap": "0_1_1_3_6233",
+        "halfFull": "00_13_10_33_4317",
+        "size": "6_1_7+_2_545664"
+      },
+      "team": "001_002_003_004"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周四001",
+      "match_time": "2018-03-22 19:35",
+      "matchId": "1016606",
+      "league": "友谊赛",
+      "home": "中国",
+      "away": "威尔士",
+      "result": {
+        "half": "0-4",
+        "full": "0-6",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.460",
+        "handicap": "+1",
+        "handicap_result": "0",
+        "handicap_odds": "2.630",
+        "score_result": "负其他",
+        "score_odds": "60.000",
+        "goal_result": "6",
+        "goal_odds": "28.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "2.050"
+      }
+    },
+    {
+      "num": "周四002",
+      "match_time": "2018-03-22 03:00",
+      "matchId": "1011708",
+      "league": "友谊赛",
+      "home": "丹麦",
+      "away": "巴拿马",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.190",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.250",
+        "score_result": "1:0",
+        "score_odds": "5.500",
+        "goal_result": "1",
+        "goal_odds": "4.350",
+        "half_full_result": "1-3",
+        "half_full_odds": "3.450"
+      }
+    },
+    {
+      "num": "周四003",
+      "match_time": "2018-03-22 03:45",
+      "matchId": "999468",
+      "league": "U21欧预",
+      "home": "北爱尔兰U21",
+      "away": "西班牙U21",
+      "result": {
+        "half": "2-2",
+        "full": "3-5",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.100",
+        "handicap": "+2",
+        "handicap_result": "1",
+        "handicap_odds": "3.900",
+        "score_result": "负其他",
+        "score_odds": "12.000",
+        "goal_result": "7+",
+        "goal_odds": "14.000",
+        "half_full_result": "1-0",
+        "half_full_odds": "3.700"
+      }
+    },
+    {
+      "num": "周四004",
+      "match_time": "2018-03-22 07:00",
+      "matchId": "1017468",
+      "league": "巴圣联",
+      "home": "科林蒂安",
+      "away": "布拉干蒂诺",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.240",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.870",
+        "score_result": "2:0",
+        "score_odds": "5.200",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.650"
+      }
+    }
+  ]
+}

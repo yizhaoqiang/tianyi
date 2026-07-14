@@ -1,0 +1,236 @@
+{
+  "time": "2015-10-07",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_1-2_5437",
+        "handicap": "3_1_488",
+        "halfFull": "13_00_1575",
+        "size": "3_3_1332"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "2-1_1-2_1-2_54375",
+        "handicap": "3_1_0_825",
+        "halfFull": "13_00_10_11025",
+        "size": "3_3_3_4729"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-2_1-2_1-0_489375",
+        "handicap": "3_1_0_1_3260",
+        "halfFull": "13_00_10_13_60637",
+        "size": "3_3_3_1_24120"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_1_1_11737",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "3_1_0_1_1_0_21126",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "2-1_0-0_8700",
+        "handicap": "3_0_237",
+        "halfFull": "13_11_2700",
+        "size": "3_0_4380"
+      },
+      "team": "001_006"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "2-1_1-2_2-1_0-0_443700",
+        "handicap": "3_1_1_0_3164",
+        "halfFull": "13_00_33_11_18711",
+        "size": "3_3_3_0_55954"
+      },
+      "team": "001_002_005_006"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周三001",
+      "match_time": "2015-10-07 18:00",
+      "matchId": "832404",
+      "league": "日联杯",
+      "home": "新泻天鹅",
+      "away": "大阪钢巴",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.020",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "1.320",
+        "score_result": "2:1",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.000"
+      }
+    },
+    {
+      "num": "周三002",
+      "match_time": "2015-10-07 18:00",
+      "matchId": "832402",
+      "league": "日联杯",
+      "home": "神户胜利船",
+      "away": "鹿岛鹿角",
+      "result": {
+        "half": "0-2",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.920",
+        "handicap": "+1",
+        "handicap_result": "1",
+        "handicap_odds": "3.700",
+        "score_result": "1:2",
+        "score_odds": "7.500",
+        "goal_result": "3",
+        "goal_odds": "3.650",
+        "half_full_result": "0-0",
+        "half_full_odds": "3.150"
+      }
+    },
+    {
+      "num": "周三003",
+      "match_time": "2015-10-07 02:45",
+      "matchId": "832000",
+      "league": "英锦赛",
+      "home": "斯蒂文尼奇",
+      "away": "达根汉姆",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.350",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.690",
+        "score_result": "1:2",
+        "score_odds": "10.000",
+        "goal_result": "3",
+        "goal_odds": "3.550",
+        "half_full_result": "1-0",
+        "half_full_odds": "7.000"
+      }
+    },
+    {
+      "num": "周三004",
+      "match_time": "2015-10-07 07:00",
+      "matchId": "833912",
+      "league": "智利杯",
+      "home": "奥达科斯意大利人",
+      "away": "西班牙联合",
+      "result": {
+        "half": "0-0",
+        "full": "1-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.100",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.950",
+        "score_result": "1:0",
+        "score_odds": "9.000",
+        "goal_result": "1",
+        "goal_odds": "5.100",
+        "half_full_result": "1-3",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周三005",
+      "match_time": "2015-10-07 07:30",
+      "matchId": "767520",
+      "league": "美职",
+      "home": "纽约红牛",
+      "away": "蒙特利尔冲击",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.500",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.600",
+        "score_result": "2:1",
+        "score_odds": "6.800",
+        "goal_result": "3",
+        "goal_odds": "3.500",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.200"
+      }
+    },
+    {
+      "num": "周三006",
+      "match_time": "2015-10-07 10:00",
+      "matchId": "767757",
+      "league": "美职",
+      "home": "温哥华白帽",
+      "away": "达拉斯FC",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.500",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.800",
+        "score_result": "0:0",
+        "score_odds": "12.000",
+        "goal_result": "0",
+        "goal_odds": "12.000",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "time": "2012-03-06",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_0-3_110000",
+        "handicap": "0_0_1428",
+        "halfFull": "00_00_3900",
+        "size": "2_3_1221"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "0-2_0-3_2-1_770000",
+        "handicap": "0_0_3_2256",
+        "halfFull": "00_00_33_8775",
+        "size": "2_3_3_5006"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-3_2-1_1-2_11550000",
+        "handicap": "0_0_3_0_10832",
+        "halfFull": "00_00_33_00_74587",
+        "size": "2_3_3_3_19023"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_3_22206",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_3_0_59958",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_3_0_3_194865",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_0_3_0_3_0_3_3_300092",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "0-2_2-4_220000",
+        "handicap": "0_0_1116",
+        "halfFull": "00_30_26000",
+        "size": "2_6_6600"
+      },
+      "team": "001_041"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "0-2_0-3_1-3_2-4_319000000",
+        "handicap": "0_0_0_0_14531",
+        "halfFull": "00_00_00_30_936000",
+        "size": "2_3_4_6_146519"
+      },
+      "team": "001_002_041_005"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2012-03-06 17:30",
+      "matchId": "199338",
+      "league": "亚冠杯",
+      "home": "布里斯班狮吼",
+      "away": "FC东京",
+      "result": {
+        "half": "0-1",
+        "full": "0-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.710",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.710",
+        "score_result": "0:2",
+        "score_odds": "22.000",
+        "goal_result": "2",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2012-03-06 18:00",
+      "matchId": "199326",
+      "league": "亚冠杯",
+      "home": "大阪飞脚",
+      "away": "浦项制铁",
+      "result": {
+        "half": "0-2",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.850",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.850",
+        "score_result": "0:3",
+        "score_odds": "50.000",
+        "goal_result": "3",
+        "goal_odds": "3.700",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二003",
+      "match_time": "2012-03-06 18:30",
+      "matchId": "199339",
+      "league": "亚冠杯",
+      "home": "蔚山现代",
+      "away": "北京国安",
+      "result": {
+        "half": "2-0",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.580",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.580",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "4.100",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.250"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2012-03-06 20:00",
+      "matchId": "199327",
+      "league": "亚冠杯",
+      "home": "本尤德科",
+      "away": "阿德莱德联",
+      "result": {
+        "half": "0-1",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "4.800",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "4.800",
+        "score_result": "1:2",
+        "score_odds": "15.000",
+        "goal_result": "3",
+        "goal_odds": "3.800",
+        "half_full_result": "0-0",
+        "half_full_odds": "8.500"
+      }
+    },
+    {
+      "num": "周二006",
+      "match_time": "2012-03-06 22:50",
+      "matchId": "199290",
+      "league": "亚冠杯",
+      "home": "班尼亚斯",
+      "away": "多哈艾阿拉比",
+      "result": {
+        "half": "1-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "2.050",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "2.050",
+        "score_result": "2:0",
+        "score_odds": "9.500",
+        "goal_result": "2",
+        "goal_odds": "3.200",
+        "half_full_result": "3-3",
+        "half_full_odds": "3.300"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2012-03-06 23:20",
+      "matchId": "199279",
+      "league": "亚冠杯",
+      "home": "阿尔拉扬",
+      "away": "埃斯特格拉尔",
+      "result": {
+        "half": "0-0",
+        "full": "0-1",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "2.700",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "2.700",
+        "score_result": "0:1",
+        "score_odds": "7.000",
+        "goal_result": "1",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "6.500"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2012-03-06 01:30",
+      "matchId": "183957",
+      "league": "法甲",
+      "home": "伊维恩",
+      "away": "马赛",
+      "result": {
+        "half": "2-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "3.250",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "3.250",
+        "score_result": "2:0",
+        "score_odds": "16.000",
+        "goal_result": "2",
+        "goal_odds": "3.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "5.300"
+      }
+    },
+    {
+      "num": "周二009",
+      "match_time": "2012-03-06 01:35",
+      "matchId": "199291",
+      "league": "亚冠杯",
+      "home": "伊蒂哈德",
+      "away": "棉农",
+      "result": {
+        "half": "2-0",
+        "full": "4-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.540",
+        "handicap": "",
+        "handicap_result": "3",
+        "handicap_odds": "1.540",
+        "score_result": "4:0",
+        "score_odds": "16.000",
+        "goal_result": "4",
+        "goal_odds": "5.400",
+        "half_full_result": "3-3",
+        "half_full_odds": "2.100"
+      }
+    },
+    {
+      "num": "周二041",
+      "match_time": "2012-03-06 11:00",
+      "matchId": "199270",
+      "league": "中北美冠",
+      "home": "莫雷利亚",
+      "away": "蒙特雷",
+      "result": {
+        "half": "0-2",
+        "full": "1-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.380",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.380",
+        "score_result": "1:3",
+        "score_odds": "29.000",
+        "goal_result": "4",
+        "goal_odds": "6.000",
+        "half_full_result": "0-0",
+        "half_full_odds": "6.000"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2012-03-06 20:00",
+      "matchId": "199278",
+      "league": "亚冠杯",
+      "home": "纳萨夫",
+      "away": "亚吉拉",
+      "result": {
+        "half": "2-1",
+        "full": "2-4",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.010",
+        "handicap": "",
+        "handicap_result": "0",
+        "handicap_odds": "3.010",
+        "score_result": "2:4",
+        "score_odds": "100.000",
+        "goal_result": "6",
+        "goal_odds": "20.000",
+        "half_full_result": "3-0",
+        "half_full_odds": "40.000"
+      }
+    }
+  ]
+}

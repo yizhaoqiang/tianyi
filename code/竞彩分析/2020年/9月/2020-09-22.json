@@ -1,0 +1,308 @@
+{
+  "time": "2020-09-22",
+  "content": [
+    {
+      "type": {
+        "order": "F2",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_3-1_57500",
+        "handicap": "0_3_427",
+        "halfFull": "10_33_8100",
+        "size": "3_4_2047"
+      },
+      "team": "001_002"
+    },
+    {
+      "type": {
+        "order": "F3",
+        "count": "3"
+      },
+      "result": {
+        "score": "1-2_3-1_2-2_661250",
+        "handicap": "0_3_0_654",
+        "halfFull": "10_33_11_43740",
+        "size": "3_4_4_11773"
+      },
+      "team": "001_002_003"
+    },
+    {
+      "type": {
+        "order": "F4",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-1_2-2_5-1_23143750",
+        "handicap": "0_3_0_3_1170",
+        "halfFull": "10_33_11_33_72171",
+        "size": "3_4_4_6_176596"
+      },
+      "team": "001_002_003_004"
+    },
+    {
+      "type": {
+        "order": "F5",
+        "count": "5"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_1_4039",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005"
+    },
+    {
+      "type": {
+        "order": "F6",
+        "count": "6"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_1_0_8401",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006"
+    },
+    {
+      "type": {
+        "order": "F7",
+        "count": "7"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_1_0_3_26549",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007"
+    },
+    {
+      "type": {
+        "order": "F8",
+        "count": "8"
+      },
+      "result": {
+        "score": "-",
+        "handicap": "0_3_0_3_1_0_3_0_71151",
+        "halfFull": "-",
+        "size": "-"
+      },
+      "team": "001_002_003_004_005_006_007_008"
+    },
+    {
+      "type": {
+        "order": "FL",
+        "count": "2"
+      },
+      "result": {
+        "score": "1-2_0-3_8337",
+        "handicap": "0_0_509",
+        "halfFull": "10_00_1404",
+        "size": "3_3_1287"
+      },
+      "team": "001_008"
+    },
+    {
+      "type": {
+        "order": "FL2",
+        "count": "4"
+      },
+      "result": {
+        "score": "1-2_3-1_2-0_0-3_4585625",
+        "handicap": "0_3_3_0_3620",
+        "halfFull": "10_33_13_00_56862",
+        "size": "3_4_2_3_28378"
+      },
+      "team": "001_007_005_010"
+    }
+  ],
+  "matches": [
+    {
+      "num": "周二001",
+      "match_time": "2020-09-22 00:45",
+      "matchId": "1102618",
+      "league": "荷乙",
+      "home": "SBV精英",
+      "away": "特尔斯达",
+      "result": {
+        "half": "0-0",
+        "full": "1-2",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "3.550",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.900",
+        "score_result": "1:2",
+        "score_odds": "11.500",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-0",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周二007",
+      "match_time": "2020-09-22 02:00",
+      "matchId": "1117614",
+      "league": "英联杯",
+      "home": "纽波特郡",
+      "away": "沃特福德",
+      "result": {
+        "half": "2-0",
+        "full": "3-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "5.400",
+        "handicap": "+1",
+        "handicap_result": "3",
+        "handicap_odds": "2.250",
+        "score_result": "3:1",
+        "score_odds": "50.000",
+        "goal_result": "4",
+        "goal_odds": "5.250",
+        "half_full_result": "3-3",
+        "half_full_odds": "9.000"
+      }
+    },
+    {
+      "num": "周二008",
+      "match_time": "2020-09-22 02:00",
+      "matchId": "1117615",
+      "league": "英联杯",
+      "home": "西布罗姆维奇",
+      "away": "布伦特福德",
+      "result": {
+        "half": "0-0",
+        "full": "2-2",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.200",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "1.530",
+        "score_result": "2:2",
+        "score_odds": "11.500",
+        "goal_result": "4",
+        "goal_odds": "5.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.400"
+      }
+    },
+    {
+      "num": "周二009",
+      "match_time": "2020-09-22 02:30",
+      "matchId": "1117616",
+      "league": "英联杯",
+      "home": "西汉姆联",
+      "away": "赫尔城",
+      "result": {
+        "half": "2-0",
+        "full": "5-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.210",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "1.790",
+        "score_result": "5:1",
+        "score_odds": "35.000",
+        "goal_result": "6",
+        "goal_odds": "15.000",
+        "half_full_result": "3-3",
+        "half_full_odds": "1.650"
+      }
+    },
+    {
+      "num": "周二002",
+      "match_time": "2020-09-22 03:00",
+      "matchId": "1117427",
+      "league": "欧冠",
+      "home": "克拉斯诺达尔",
+      "away": "塞萨洛尼基",
+      "result": {
+        "half": "1-1",
+        "full": "2-1",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.880",
+        "handicap": "-1",
+        "handicap_result": "1",
+        "handicap_odds": "3.450",
+        "score_result": "2:1",
+        "score_odds": "7.000",
+        "goal_result": "3",
+        "goal_odds": "3.900",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.400"
+      }
+    },
+    {
+      "num": "周二004",
+      "match_time": "2020-09-22 03:00",
+      "matchId": "1117536",
+      "league": "欧冠",
+      "home": "布拉格斯拉维亚",
+      "away": "中日德兰",
+      "result": {
+        "half": "0-0",
+        "full": "0-0",
+        "win_draw_lose_result": "1",
+        "win_draw_lose_odds": "3.530",
+        "handicap": "-1",
+        "handicap_result": "0",
+        "handicap_odds": "2.080",
+        "score_result": "0:0",
+        "score_odds": "8.750",
+        "goal_result": "0",
+        "goal_odds": "8.750",
+        "half_full_result": "1-1",
+        "half_full_odds": "5.500"
+      }
+    },
+    {
+      "num": "周二005",
+      "match_time": "2020-09-22 03:00",
+      "matchId": "1102619",
+      "league": "荷乙",
+      "home": "登博思",
+      "away": "马斯特里赫特",
+      "result": {
+        "half": "0-0",
+        "full": "2-0",
+        "win_draw_lose_result": "3",
+        "win_draw_lose_odds": "1.740",
+        "handicap": "-1",
+        "handicap_result": "3",
+        "handicap_odds": "3.160",
+        "score_result": "2:0",
+        "score_odds": "11.000",
+        "goal_result": "2",
+        "goal_odds": "4.200",
+        "half_full_result": "1-3",
+        "half_full_odds": "4.500"
+      }
+    },
+    {
+      "num": "周二010",
+      "match_time": "2020-09-22 03:15",
+      "matchId": "1117619",
+      "league": "英联杯",
+      "home": "卢顿",
+      "away": "曼彻斯特联",
+      "result": {
+        "half": "0-1",
+        "full": "0-3",
+        "win_draw_lose_result": "0",
+        "win_draw_lose_odds": "1.180",
+        "handicap": "+2",
+        "handicap_result": "0",
+        "handicap_odds": "2.680",
+        "score_result": "0:3",
+        "score_odds": "7.250",
+        "goal_result": "3",
+        "goal_odds": "3.300",
+        "half_full_result": "0-0",
+        "half_full_odds": "1.560"
+      }
+    }
+  ]
+}
