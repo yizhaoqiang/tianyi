@@ -4,6 +4,16 @@ __pycache__/
 *.pyo
 *.egg-info/
 
+# Virtual environments
+venv/
+.venv/
+ocr_venv/
+*/ocr_venv/
+
+# Database files (recreatable)
+*.sqlite
+*.sqlite3
+
 # IDE
 .idea/AugmentWebviewStateStore.xml
 
@@ -12,3 +22,7 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Large generated files
+code/ddd.html
+code/sss.html

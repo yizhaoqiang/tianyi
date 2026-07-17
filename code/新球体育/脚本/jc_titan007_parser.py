@@ -48,6 +48,12 @@ ssl_context = ssl.create_default_context()
 ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
+# 绕过系统代理（HTTP_PROXY/HTTPS_PROXY），直连 titan007
+_no_proxy_opener = urllib.request.build_opener(
+    urllib.request.ProxyHandler({}),
+    urllib.request.HTTPSHandler(context=ssl_context),
+)
+
 
 # ── 工具函数 ─────────────────────────────────────────────
 def parse_time(s: str):
@@ -232,7 +238,7 @@ def fetch(url: str) -> str:
         }
     )
     try:
-        with urllib.request.urlopen(req, timeout=15, context=ssl_context) as resp:
+        with _no_proxy_opener.open(req, timeout=15) as resp:
             return resp.read().decode("utf-8")
     except urllib.error.URLError as e:
         raise RuntimeError(f"请求失败: {e}") from e
@@ -254,7 +260,7 @@ def fetch_odds_jc() -> Dict[str, Dict]:
         }
     )
     try:
-        with urllib.request.urlopen(req, timeout=15, context=ssl_context) as resp:
+        with _no_proxy_opener.open(req, timeout=15) as resp:
             raw = resp.read().decode("utf-8")
     except urllib.error.URLError as e:
         raise RuntimeError(f"获取赔率失败: {e}") from e
@@ -478,6 +484,8 @@ def main():
     
     if match_data_list:
         import recommend
+        # 先回填历史推荐文件的命中标记（比赛结果已出但未标记的）
+        recommend.backfill_hit_status()
         recommend.run_from_matches(match_data_list)
     else:
         print("⚠️  没有可用的赔率数据，跳过推荐生成")

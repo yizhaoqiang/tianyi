@@ -758,7 +758,8 @@ def fetch_today_matches(target_date=None):
         import requests
         from bs4 import BeautifulSoup
 
-        resp = requests.get(url, headers=headers, timeout=15)
+        resp = requests.get(url, headers=headers, timeout=15,
+                             proxies={"http": None, "https": None})
         resp.encoding = "gb2312"
     except ImportError:
         print("错误: 需要 requests 和 beautifulsoup4 库")

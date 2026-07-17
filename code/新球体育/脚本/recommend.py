@@ -87,6 +87,63 @@ def display_wdl_rk(rk, bet_type):
     return rk
 
 
+def build_reverse_parlay(parlay_type, rk1_display, rk2_display, bet_odds1=None, bet_odds2=None, hit1=None, hit2=None):
+    """构建反向2串1字符串（parlay级别），含覆盖投注平均回报率。
+
+    格式: '选项1--选项2(avg_return)'
+    展示全部反向选项，赔率按覆盖投注计算：
+      - N种组合各投10元，总投入 = 10×N
+      - 平均回报率 = sum(所有组合赔率) / N²
+    """
+    _rk_map = {"胜": "3", "平": "1", "负": "0"}
+
+    def _get_candidates(rk_display):
+        if parlay_type == "胜平负":
+            return {"胜": ["负"], "负": ["胜"], "平": ["胜", "负"]}.get(rk_display, [])
+        return {"胜": ["平", "负"], "负": ["平", "胜"], "平": ["胜", "负"]}.get(rk_display, [])
+
+    cand1 = _get_candidates(rk1_display)
+    cand2 = _get_candidates(rk2_display)
+    if not cand1 or not cand2:
+        return ""
+
+    # 展示全部反选项: "平+负--平+负"
+    opt_display1 = "+".join(cand1)
+    opt_display2 = "+".join(cand2)
+    num_combos = len(cand1) * len(cand2)
+
+    # 覆盖投注：计算所有子组合赔率，取平均值
+    combo_odds_list = []
+    for c1 in cand1:
+        for c2 in cand2:
+            o1 = (bet_odds1 or {}).get(_rk_map.get(c1, c1), 0)
+            o2 = (bet_odds2 or {}).get(_rk_map.get(c2, c2), 0)
+            if o1 > 0 and o2 > 0:
+                combo_odds_list.append(o1 * o2)
+
+    # 平均回报率 = 各投10元/组合, 总投入10×N, 命中得10×odds, 回报=odds/N
+    avg_return = None
+    if combo_odds_list:
+        avg_return = sum(combo_odds_list) / len(combo_odds_list) / num_combos
+
+    # 反向命中判断
+    rev_hit = None
+    if hit1 is False and hit2 is False:
+        rev_hit = True
+    elif hit1 is True or hit2 is True:
+        rev_hit = False
+
+    result = f"{opt_display1}--{opt_display2}"
+    if avg_return:
+        result += f"({avg_return:.2f})"
+    if rev_hit is True:
+        result += "(1)"
+    elif rev_hit is False:
+        result += "(0)"
+
+    return result
+
+
 def get_odds_bucket(bet_type, odds):
     """根据赔率值返回对应的分桶标签"""
     if not odds or odds <= 0:
@@ -588,6 +645,36 @@ def recommend_bet_type(conn, league, handicap, home, away, bet_type, input_odds,
         if rrow and rrow["sample_count"] >= 20:
             recent_hit_map[rk] = rrow["hit_rate"]
             recent_sample_map[rk] = rrow["sample_count"]
+
+    # === 近一年平局/让平占比（替代全量历史数据） ===
+    recent_draw_rates = {}
+    recent_draw_total = 0
+    try:
+        if bet_type in ("wdl", "handicap"):
+            result_col = "wdl_result" if bet_type == "wdl" else "handicap_result"
+            sql = f"""
+                SELECT {result_col} AS rk, COUNT(*) AS cnt
+                FROM matches
+                WHERE is_valid=1 AND wdl_result!='' AND {result_col}!=''
+                  AND match_date >= date('now', '-365 days')
+            """
+            params = []
+            if league:
+                sql += " AND league=?"
+                params.append(league)
+            if handicap:
+                sql += " AND handicap=?"
+                params.append(handicap)
+            sql += " GROUP BY rk"
+            rows = conn.execute(sql, params).fetchall()
+            total = sum(r[1] for r in rows) if rows else 0
+            if total >= 5:
+                for r in rows:
+                    recent_draw_rates[r[0]] = r[1] / total
+                recent_draw_total = total
+    except Exception:
+        pass
+
     def compute_weighted_prob(rk):
         overall_n = ho_sample.get(rk, 0) + ao_sample.get(rk, 0)
         overall_p = ((ho_hit.get(rk, 0) * ho_sample.get(rk, 0)) + (ao_hit.get(rk, 0) * ao_sample.get(rk, 0))) / (overall_n or 1)
@@ -654,10 +741,51 @@ def recommend_bet_type(conn, league, handicap, home, away, bet_type, input_odds,
                     adj = 1.0 - (haf - 0.5) * 0.25  # 主胜方向的补集
                     final_p = final_p * max(0.88, min(1.12, adj))
 
+        # === 球队近况胜率微调 ===
+        if bet_type in ("wdl", "handicap"):
+            if rk == "3" and home_form_info.get("reliable"):
+                # 主场胜率可靠 → 调整主胜概率
+                rate = home_form_info.get("rate", 50) / 100.0
+                adj = 1.0 + (rate - 0.5) * 0.3  # ±15%
+                final_p = final_p * max(0.85, min(1.15, adj))
+                weighted.append(("team_form_home", rate, home_form_info.get("total", 0), 0.05))
+            elif rk == "0" and away_form_info.get("reliable"):
+                rate = away_form_info.get("rate", 50) / 100.0
+                adj = 1.0 + (rate - 0.5) * 0.3
+                final_p = final_p * max(0.85, min(1.15, adj))
+                weighted.append(("team_form_away", rate, away_form_info.get("total", 0), 0.05))
+            if rk in ("3", "0") and not home_form_info.get("reliable") and not away_form_info.get("reliable"):
+                # 主客场都不够可靠 → 用总胜率微调
+                home_rate = home_form_info.get("rate") or 50
+                away_rate = away_form_info.get("rate") or 50
+                avg_rate = (home_rate + away_rate) / 200.0  # 平均胜率/100
+                adj = 1.0 + (avg_rate - 0.5) * 0.2  # ±10%
+                final_p = final_p * max(0.90, min(1.10, adj))
+                weighted.append(("team_form_overall", avg_rate, home_form_info.get("total", 0) + away_form_info.get("total", 0), 0.03))
+
+        # === 平局/让平增信：基于近一年数据 ===
+        if rk == "1" and bet_type in ("handicap", "wdl") and recent_draw_rates:
+            rp_hit = recent_draw_rates.get("1", 0)
+            rw_hit = recent_draw_rates.get("3", 0)
+            rl_hit = recent_draw_rates.get("0", 0)
+            rp_sample = recent_draw_total
+            # 平局/让平 hit_rate 高于胜和负，且样本≥5
+            if rp_hit > rw_hit and rp_hit > rl_hit and rp_sample >= 5:
+                boost = 1.10
+                final_p = min(1.0, final_p * boost)
+                tag = "handicap_draw_dominant" if bet_type == "handicap" else "wdl_draw_dominant"
+                label = "让平" if bet_type == "handicap" else "平局"
+                weighted.append((tag, rp_hit, rp_sample, 0.05))
+                print(f"  [{label}增信] {label}{rp_hit:.0%} > 胜{rw_hit:.0%} > 负{rl_hit:.0%} (近一年{rp_sample}场)")
+
         return final_p, weighted
 
     # ===== 逐年统计数据 =====
     yearly_insights = get_yearly_stats_insights(conn, home, away, league)
+
+    # ===== 球队近况胜率分析（影响推荐） =====
+    home_form_info = get_team_form_analysis(conn, home, "home")
+    away_form_info = get_team_form_analysis(conn, away, "away")
     results = []
     for rk, odds in input_odds.items():
         if not odds or odds <= 0:
@@ -915,7 +1043,8 @@ def fetch_today_matches(target_date=None):
         import requests
         from bs4 import BeautifulSoup
 
-        resp = requests.get(url, headers=headers, timeout=15)
+        resp = requests.get(url, headers=headers, timeout=15,
+                             proxies={"http": None, "https": None})
         resp.encoding = "gb2312"
     except ImportError:
         print("错误: 需要 requests 和 beautifulsoup4 库")
@@ -1504,7 +1633,7 @@ def _fuzzy_match(name_a, name_b):
 
 # ============ 条件推导（基于WDL+Handicap） ============
 
-def recommend_conditional_derived(conn, league, handicap, wdl_pick_key, hc_pick_key, min_sample=20):
+def recommend_conditional_derived(conn, league, handicap, wdl_pick_key, hc_pick_key, home=None, away=None, min_sample=20):
     """
     基于预测的胜平负+让球结果，分析历史条件分布，推导比分/进球数/半全场推荐。
     查询逻辑：
@@ -1562,6 +1691,50 @@ def recommend_conditional_derived(conn, league, handicap, wdl_pick_key, hc_pick_
             derived[bt_key] = {"name": bt_name, "level": None, "items": []}
             continue
 
+        # === 比分专用：融合球队历史比分分布，比分比进球数更具可信 ===
+        if bt_key == "score" and home and away:
+            team_rows = _query_team_score_distribution(
+                conn, home, away, league, handicap, wdl_pick_key, hc_rk=hc_pick_key
+            )
+            if team_rows:
+                team_total = sum(r["cnt"] for r in team_rows)
+                global_total = sum(r["cnt"] for r in rows)
+                if team_total >= 10 and global_total >= 20:
+                    # 球队权重 0.6, 全局权重 0.4
+                    team_weight, global_weight = 0.6, 0.4
+                    merged = {}
+                    # 先加载全局数据
+                    for r in rows:
+                        merged[r["rk"]] = {
+                            "score": global_weight * r["cnt"],
+                            "cnt": r["cnt"],
+                            "avg_odds": r["avg_odds"],
+                        }
+                    # 叠加球队数据（权重更高）
+                    for r in team_rows:
+                        rk = r["rk"]
+                        team_odds = r.get("avg_odds") or 0
+                        if rk in merged:
+                            merged[rk]["score"] += team_weight * r["cnt"]
+                            merged[rk]["cnt"] += r["cnt"]
+                            if merged[rk]["avg_odds"] and team_odds:
+                                merged[rk]["avg_odds"] = (merged[rk]["avg_odds"] + team_odds) / 2
+                            elif team_odds:
+                                merged[rk]["avg_odds"] = team_odds
+                        else:
+                            merged[rk] = {
+                                "score": team_weight * r["cnt"],
+                                "cnt": r["cnt"],
+                                "avg_odds": team_odds,
+                            }
+                    # 按融合评分重排序
+                    sorted_rows = sorted(merged.items(), key=lambda x: x[1]["score"], reverse=True)
+                    rows = [
+                        {"rk": rk, "cnt": info["cnt"], "avg_odds": info["avg_odds"]}
+                        for rk, info in sorted_rows
+                    ]
+                    level_name = f"{level_name or '全局'} + 球队历史"
+
         total = sum(r["cnt"] for r in rows)
         items = []
         for r in rows:
@@ -1609,6 +1782,72 @@ def _query_conditional(conn, result_col, odds_col, league, handicap, wdl_rk, hc_
         return [{"rk": row[0], "cnt": row[1], "avg_odds": row[2]} for row in cursor]
     except Exception:
         return None
+
+
+def _query_team_score_distribution(conn, home, away, league, handicap, wdl_rk, hc_rk=None):
+    """查询主客队各自历史比分分布，用于增强比分推荐的可信度。
+
+    主队视角：主队出场且 wdl_rk 发生时的比分分布
+    客队视角：客队出场且对应 wdl_rk 发生时的比分分布
+    融合两队的分布，主队权重 0.6，客队权重 0.4。
+    """
+    def _score_dist(team, side, result_key):
+        where = ["is_valid = 1", "wdl_result = ?", "score_result != ''"]
+        params = [result_key]
+        if side == "home":
+            where.append("home = ?")
+        else:
+            where.append("away = ?")
+        params.append(team)
+        if league:
+            where.append("league = ?")
+            params.append(league)
+        if handicap:
+            where.append("handicap = ?")
+            params.append(handicap)
+        if hc_rk is not None:
+            where.append("handicap_result = ?")
+            params.append(hc_rk)
+        try:
+            cursor = conn.execute(f"""
+                SELECT score_result AS rk, COUNT(*) AS cnt, AVG(score_odds) AS avg_odds
+                FROM matches
+                WHERE {' AND '.join(where)}
+                GROUP BY rk ORDER BY cnt DESC LIMIT 6
+            """, params)
+            return [{"rk": row[0], "cnt": row[1], "avg_odds": row[2]} for row in cursor]
+        except Exception:
+            return []
+
+    away_rk_map = {"3": "0", "1": "1", "0": "3"}
+    away_wdl_rk = away_rk_map.get(wdl_rk, wdl_rk)
+
+    home_dist = _score_dist(home, "home", wdl_rk)
+    away_dist = _score_dist(away, "away", away_wdl_rk)
+
+    if not home_dist and not away_dist:
+        return None
+
+    merged = {}
+    for d in home_dist:
+        merged[d["rk"]] = {"score": 0.6 * d["cnt"], "cnt": d["cnt"], "avg_odds": d["avg_odds"]}
+    for d in away_dist:
+        if d["rk"] in merged:
+            merged[d["rk"]]["score"] += 0.4 * d["cnt"]
+            merged[d["rk"]]["cnt"] += d["cnt"]
+            if merged[d["rk"]]["avg_odds"]:
+                merged[d["rk"]]["avg_odds"] = (merged[d["rk"]]["avg_odds"] + d["avg_odds"]) / 2
+            else:
+                merged[d["rk"]]["avg_odds"] = d["avg_odds"]
+        else:
+            merged[d["rk"]] = {"score": 0.4 * d["cnt"], "cnt": d["cnt"], "avg_odds": d["avg_odds"]}
+
+    sorted_merged = sorted(merged.items(), key=lambda x: x[1]["score"], reverse=True)
+    entries = [{"rk": rk, "cnt": info["cnt"], "avg_odds": info["avg_odds"]}
+               for rk, info in sorted_merged]
+
+    total_sample = sum(d["cnt"] for d in merged.values())
+    return entries if total_sample >= 10 else None
 
 
 def pick_coherent_pair(wdl_results, hc_results, handicap_line):
@@ -1820,7 +2059,7 @@ def fetch_and_store_panlu(conn, sid):
     url = f"https://bf.titan007.com/panlu/{sid}.htm"
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=15) as resp:
+        with urllib.request.build_opener(urllib.request.ProxyHandler({})).open(req, timeout=15) as resp:
             html = resp.read().decode("gbk", errors="replace")
     except Exception:
         # 记录失败状态
@@ -1999,6 +2238,175 @@ def get_team_over_under(conn, team_id, num_matches=8):
     }
 
 
+def get_team_recent_win_rate(conn, team_name, last_n=10, max_days=365):
+    """查询球队近N场总胜率（限最近max_days天内）。
+
+    从 matches 表查该队最近 N 场比赛（仅限一年内的数据），
+    统计赢球场次占比。主场赢: wdl_result='3', 客场赢: wdl_result='0'。
+    只取有意义的时间范围数据，避免多年前的比赛干扰判断。
+    """
+    if not team_name:
+        return None
+    try:
+        rows = conn.execute("""
+            SELECT wdl_result, home FROM matches
+            WHERE (home=? OR away=?) AND is_valid=1 AND wdl_result!=''
+              AND match_date >= date('now', '-' || ? || ' days')
+            ORDER BY match_date DESC LIMIT ?
+        """, (team_name, team_name, max_days, last_n)).fetchall()
+        wins = 0
+        for r in rows:
+            is_home = (r[1] == team_name)
+            if (is_home and r[0] == "3") or (not is_home and r[0] == "0"):
+                wins += 1
+        total = len(rows)
+        if total == 0:
+            return None
+        return round(wins / total * 100)
+    except Exception:
+        return None
+
+
+def get_team_form_analysis(conn, team_name, scope="home", last_n=10, max_days=365):
+    """分析球队近况：返回胜率及可靠性判断。
+
+    scope="home": 主队 → 主场场次≥总场次一半则用主场胜率，否则总胜率
+    scope="away": 客队 → 客场场次≥总场次一半则用客场胜率，否则总胜率
+    """
+    if not team_name:
+        return {"rate": None, "reliable": False, "source": "none"}
+    try:
+        rows = conn.execute("""
+            SELECT wdl_result, home FROM matches
+            WHERE (home=? OR away=?) AND is_valid=1 AND wdl_result!=''
+              AND match_date >= date('now', '-' || ? || ' days')
+            ORDER BY match_date DESC LIMIT ?
+        """, (team_name, team_name, max_days, last_n)).fetchall()
+        total = len(rows)
+        if total == 0:
+            return {"rate": None, "reliable": False, "source": "none"}
+
+        home_games = sum(1 for r in rows if r[1] == team_name)
+        away_games = total - home_games
+        home_wins = sum(1 for r in rows if r[1] == team_name and r[0] == "3")
+        away_wins = sum(1 for r in rows if r[1] != team_name and r[0] == "0")
+        total_wins = home_wins + away_wins
+
+        overall_rate = round(total_wins / total * 100) if total > 0 else None
+        home_rate = round(home_wins / home_games * 100) if home_games > 0 else None
+        away_rate = round(away_wins / away_games * 100) if away_games > 0 else None
+
+        half = total / 2
+        if scope == "home" and home_games >= half:
+            return {"rate": home_rate, "reliable": True, "source": "home",
+                    "home_games": home_games, "away_games": away_games, "total": total}
+        elif scope == "away" and away_games >= half:
+            return {"rate": away_rate, "reliable": True, "source": "away",
+                    "home_games": home_games, "away_games": away_games, "total": total}
+        else:
+            return {"rate": overall_rate, "reliable": True, "source": "overall",
+                    "home_games": home_games, "away_games": away_games, "total": total}
+    except Exception:
+        return {"rate": None, "reliable": False, "source": "none"}
+
+
+def analyze_upset_tendency(conn, home, away, league, current_odds):
+    """分析主客队爆冷倾向：大热必死 + 以弱胜强
+
+    从 team_patterns 中提取主客队历史表现，与当前赔率对比，
+    识别出"看似很强但爱输球"和"看似很弱但总能赢"的球队。
+
+    Args:
+        conn: 数据库连接
+        home: 主队名
+        away: 客队名
+        league: 联赛名
+        current_odds: dict {result_key: odds}, 当前 WDL 赔率, 如 {'3':1.5,'1':3.5,'0':6.0}
+
+    Returns:
+        dict: {adjust_away_win: float, adjust_home_win: float, notes: [str]}
+    """
+    home_odds = current_odds.get("3", 0)  # 主胜赔率
+    away_odds = current_odds.get("0", 0)  # 客胜赔率
+
+    result = {
+        "adjust_away_win": 0,   # 客胜命中率调整量（>0 表示调高客胜）
+        "adjust_home_win": 0,   # 主胜命中率调整量（>0 表示调高主胜）
+        "notes": [],
+    }
+
+    # ========== 1. 主队"大热必死"检测 ==========
+    # 条件：当前主胜赔率低（被看好），但主队历史主场/总体胜率低
+    if home_odds > 0 and home_odds < 2.0:
+        hh = query_team_patterns(conn, "home", home, "wdl", league=league)
+        ho = query_team_patterns(conn, "overall", home, "wdl")
+        hh_idx = {d["result_key"]: d for d in hh}
+        ho_idx = {d["result_key"]: d for d in ho}
+
+        hh3 = hh_idx.get("3")
+        hh0 = hh_idx.get("0")
+        ho3 = ho_idx.get("3")
+
+        if hh3 and hh0 and hh3.get("sample_count", 0) >= 15:
+            # 主场胜率<40% 且 主场输球率>25% = 主场虫
+            home_weak = hh3["hit_rate"] < 0.40 and hh0["hit_rate"] > 0.25
+            # 整体也印证：总体胜率<45%
+            overall_weak = ho3 and ho3.get("sample_count", 0) >= 20 and ho3["hit_rate"] < 0.45
+
+            if home_weak and overall_weak:
+                # 客胜保底提升：按主队历史输球率推算
+                boost = min(0.12, max(0.05, hh0["hit_rate"] * 0.25))
+                result["adjust_away_win"] = boost
+                result["notes"].append(
+                    f"主队{home}[大热必死] 胜率{hh3['hit_rate']:.0%}但赔率{home_odds:.2f}, "
+                    f"历史输球率{hh0['hit_rate']:.0%} → 客胜+{boost:.0%}"
+                )
+
+    # ========== 2. 客队"以弱胜强"检测 ==========
+    # 条件：当前客胜赔率高（不被看好），但客队历史客场胜率不低
+    if away_odds > 0 and away_odds > 2.5:
+        aa = query_team_patterns(conn, "away", away, "wdl", league=league)
+        ao = query_team_patterns(conn, "overall", away, "wdl")
+        aa_idx = {d["result_key"]: d for d in aa}
+        ao_idx = {d["result_key"]: d for d in ao}
+
+        aa3 = aa_idx.get("3")
+        ao3 = ao_idx.get("3")
+
+        if aa3 and aa3.get("sample_count", 0) >= 15:
+            # 历史客场胜率>28% (对于弱定位来说异常高)
+            away_strong = aa3["hit_rate"] > 0.28
+            # 且历史客场赢球时赔率均值>2.5 = 一直是弱定位
+            always_underdog = aa3["avg_odds"] > 2.5
+            # 整体也印证
+            overall_strong = ao3 and ao3.get("sample_count", 0) >= 20 and ao3["hit_rate"] > 0.30
+
+            if away_strong and always_underdog and overall_strong:
+                boost = min(0.12, max(0.05, (aa3["hit_rate"] - 0.22) * 0.4))
+                result["adjust_away_win"] = max(result["adjust_away_win"], boost)
+                result["notes"].append(
+                    f"客队{away}[以弱胜强] 客场胜率{aa3['hit_rate']:.0%}(赔率均值{aa3['avg_odds']:.2f}), "
+                    f"当前赔率{away_odds:.2f} → 客胜+{boost:.0%}"
+                )
+
+    # ========== 3. 主队"以弱胜强"检测（主队升班马/黑马） ==========
+    # 条件：当前主胜赔率不算太低（不被特别看好），但主场胜率不低
+    if home_odds > 0 and home_odds > 2.0:
+        hh = query_team_patterns(conn, "home", home, "wdl", league=league)
+        hh_idx = {d["result_key"]: d for d in hh}
+        hh3 = hh_idx.get("3")
+        if hh3 and hh3.get("sample_count", 0) >= 15:
+            if hh3["hit_rate"] > 0.35 and hh3["avg_odds"] > 2.0:
+                boost = min(0.10, max(0.05, (hh3["hit_rate"] - 0.28) * 0.35))
+                result["adjust_home_win"] = boost
+                result["notes"].append(
+                    f"主队{home}[主场黑马] 主场胜率{hh3['hit_rate']:.0%}(赔率均值{hh3['avg_odds']:.2f}), "
+                    f"当前赔率{home_odds:.2f} → 主胜+{boost:.0%}"
+                )
+
+    return result
+
+
 def process_match(conn, match_data):
     """处理单场比赛，生成推荐，并返回本场最稳候选用于串关"""
     league = match_data.get("league", "")
@@ -2009,6 +2417,7 @@ def process_match(conn, match_data):
 
     # === 抓取盘路数据，分析球队近况 ===
     home_form = away_form = None
+    hw = aw = 0
     home_id = away_id = None
     sid = match_data.get("sid")
     if sid:
@@ -2092,6 +2501,30 @@ def process_match(conn, match_data):
             if old_top != new_top:
                 all_best = [(bt, name, all_results.get(bt, {}).get("results", [None])[0])
                            for bt, name, _ in all_best]
+
+    # === 爆冷倾向检测：大热必死 / 以弱胜强 ===
+    if "wdl" in all_results and all_results["wdl"].get("results"):
+        wdl_odds_from_input = bet_odds.get("wdl", {})
+        if wdl_odds_from_input:
+            upset = analyze_upset_tendency(conn, home, away, league, wdl_odds_from_input)
+            if upset["adjust_away_win"] > 0 or upset["adjust_home_win"] > 0:
+                wdl_results = all_results["wdl"]["results"]
+                old_top = wdl_results[0]["result_key"]
+                for r in wdl_results:
+                    if r["result_key"] == "0":  # 客胜
+                        r["hit_rate"] = min(1.0, r["hit_rate"] + upset["adjust_away_win"])
+                    elif r["result_key"] == "3":  # 主胜
+                        r["hit_rate"] = min(1.0, r["hit_rate"] + upset["adjust_home_win"])
+                wdl_results.sort(key=lambda x: x["hit_rate"], reverse=True)
+                all_results["wdl"]["results"] = wdl_results
+                new_top = wdl_results[0]["result_key"]
+                for note in upset["notes"]:
+                    print(f"  ⚡ {note}")
+                # 无论 top pick 是否变化，都更新 all_best 确保数据一致性
+                all_best = [(bt, name, all_results.get(bt, {}).get("results", [None])[0])
+                           for bt, name, _ in all_best]
+                if old_top != new_top:
+                    print(f"  → 推荐从{old_top}调整为{new_top}")
 
     # === 跨玩法一致性检查：WDL vs Handicap ===
     adj_handicap, adj_desc, is_inconsistent = check_wdl_handicap_consistency(
@@ -2214,7 +2647,8 @@ def process_match(conn, match_data):
     if wdl_pick:
         derived = recommend_conditional_derived(
             conn, league, handicap,
-            wdl_pick["result_key"], None
+            wdl_pick["result_key"], None,
+            home=home, away=away
         )
 
     # === 根据球队大小球倾向调整进球数/比分 ===
@@ -2385,6 +2819,7 @@ def process_match(conn, match_data):
         "match_label": match_data.get("match_label", ""),
         "match_date_full": match_data.get("match_date_full", ""),
         "match_num": match_data.get("match_num", ""),
+        "bet_odds": bet_odds,  # 原始赔率数据，供回填team时使用
         "same_match_parlays": same_match_parlays,
         "all_wdl_results": wdl_results[:3] if wdl_results else [],
         "all_hc_results": hc_results[:3] if hc_results else [],
@@ -2609,7 +3044,7 @@ def run_from_matches(matches_data):
     print(f"  全部 {len(matches_data)} 场比赛推荐完成")
     print(f"{'━' * 70}")
 
-    save_recommendation_results(parlay_candidates, parlay_summary)
+    save_recommendation_results(parlay_candidates, parlay_summary, conn)
 
     conn.close()
 
@@ -2630,10 +3065,16 @@ def _build_parlay_summary(parlay_candidates, print_results=True):
         reverse=True,
     )
 
-    leg1, leg2 = pick_best_pair(parlay_candidates, pick_field="pick", same_league_penalty=0.20)
+    # WDL 串关：只选有 WDL 赔率的比赛
+    wdl_pool = [c for c in parlay_candidates if (c.get("bet_odds") or {}).get("wdl")]
+    if print_results:
+        print(f"  [WDL池] 总{len(parlay_candidates)}场, 有WDL赔率{len(wdl_pool)}场")
+    if len(wdl_pool) < 2:
+        wdl_pool = parlay_candidates  # fallback
+    leg1, leg2 = pick_best_pair(wdl_pool, pick_field="pick", same_league_penalty=0.20)
     if not leg1 or not leg2:
-        leg1, leg2 = parlay_candidates[0], parlay_candidates[1]
-
+        leg1, leg2 = wdl_pool[0] if len(wdl_pool) > 0 else (parlay_candidates[0] if parlay_candidates else None), \
+                     wdl_pool[1] if len(wdl_pool) > 1 else (parlay_candidates[1] if len(parlay_candidates) > 1 else None)
     handicap_candidates = [x for x in parlay_candidates if x.get("handicap_pick")]
     h1 = h2 = None
     if len(handicap_candidates) >= 2:
@@ -2665,7 +3106,7 @@ def _build_parlay_summary(parlay_candidates, print_results=True):
                 replace_main = in_main and (not in_hc or main_score <= hc_score)
                 replace_hc = in_hc and (not in_main or hc_score < main_score)
                 if replace_main:
-                    pool = [x for x in parlay_candidates if x.get("match_index") not in selected_ids and not is_cross_play_conflict(x)]
+                    pool = [x for x in parlay_candidates if x.get("match_index") not in selected_ids and not is_cross_play_conflict(x) and (x.get("bet_odds") or {}).get("wdl")]
                     if pool:
                         pool.sort(key=lambda x: (x["pick"].get("confidence_score", 0), x["pick"].get("hit_rate", 0), x["pick"].get("current_odds", 0)), reverse=True)
                         rep = pool[0]
@@ -2719,22 +3160,29 @@ def _build_parlay_summary(parlay_candidates, print_results=True):
 
     # 只有两场都开了胜平负才生成"胜平负"串子
     if leg1.get("bet_type") == "wdl" and leg2.get("bet_type") == "wdl":
-        parlay_summary.append({
+        rk1 = display_wdl_rk(leg1["pick"]["result_key"], leg1.get("bet_type", ""))
+        rk2 = display_wdl_rk(leg2["pick"]["result_key"], leg2.get("bet_type", ""))
+        wdl_parlay = {
             "type": "胜平负",
             "combo_odds": round(combo_odds, 2),
             "combo_hit_rate": round(combo_hit, 2),
             "hit": _parlay_hit([{"hit": l1_hit}, {"hit": l2_hit}]),
             "legs": [
                 {"label": leg1.get("match_label", ""),
-                 "result_key": display_wdl_rk(leg1["pick"]["result_key"], leg1.get("bet_type", "")), "hit": l1_hit,
+                 "result_key": rk1, "hit": l1_hit,
                  "team": f"{leg1.get('home', '')}-{leg1.get('away', '')}",
                  "result": leg1.get("result", None)},
                 {"label": leg2.get("match_label", ""),
-                 "result_key": display_wdl_rk(leg2["pick"]["result_key"], leg2.get("bet_type", "")), "hit": l2_hit,
+                 "result_key": rk2, "hit": l2_hit,
                  "team": f"{leg2.get('home', '')}-{leg2.get('away', '')}",
                  "result": leg2.get("result", None)},
             ],
-        })
+        }
+        bet_o1 = (leg1.get("bet_odds") or {}).get("wdl", {})
+        bet_o2 = (leg2.get("bet_odds") or {}).get("wdl", {})
+        rev_str = build_reverse_parlay("胜平负", rk1, rk2, bet_o1, bet_o2, l1_hit, l2_hit)
+        wdl_parlay["reverse"] = rev_str
+        parlay_summary.append(wdl_parlay)
 
     if h1 and h2:
         p1 = h1["handicap_pick"]["pick"]
@@ -2748,24 +3196,31 @@ def _build_parlay_summary(parlay_candidates, print_results=True):
             print(f"  3) 第{h1['match_index']}场 {h1['league']} {h1['home']} vs {h1['away']} | 让球 -> {p1['result_key']}({p1['description']})")
             print(f"  4) 第{h2['match_index']}场 {h2['league']} {h2['home']} vs {h2['away']} | 让球 -> {p2['result_key']}({p2['description']})")
             print(f"  让球组合赔率: {ho1*ho2:.2f}")
-        parlay_summary.append({
+        hc_rk1 = display_wdl_rk(p1["result_key"], "handicap")
+        hc_rk2 = display_wdl_rk(p2["result_key"], "handicap")
+        hc_parlay = {
             "type": "让球",
             "combo_odds": round(ho1 * ho2, 2),
             "combo_hit_rate": round(p1.get("hit_rate", 0) * p2.get("hit_rate", 0), 2),
             "hit": _parlay_hit([{"hit": h1_hit}, {"hit": h2_hit}]),
             "legs": [
                 {"label": h1.get("match_label", ""),
-                 "result_key": display_wdl_rk(p1["result_key"], "handicap"), "hit": h1_hit,
+                 "result_key": hc_rk1, "hit": h1_hit,
                  "team": f"{h1.get('home', '')}-{h1.get('away', '')}",
                  "handicap": h1.get("handicap", ""),
                  "result": h1.get("result", None)},
                 {"label": h2.get("match_label", ""),
-                 "result_key": display_wdl_rk(p2["result_key"], "handicap"), "hit": h2_hit,
+                 "result_key": hc_rk2, "hit": h2_hit,
                  "team": f"{h2.get('home', '')}-{h2.get('away', '')}",
                  "handicap": h2.get("handicap", ""),
                  "result": h2.get("result", None)},
             ],
-        })
+        }
+        bet_o1 = (h1.get("bet_odds") or {}).get("handicap", {})
+        bet_o2 = (h2.get("bet_odds") or {}).get("handicap", {})
+        rev_str = build_reverse_parlay("让球", hc_rk1, hc_rk2, bet_o1, bet_o2, h1_hit, h2_hit)
+        hc_parlay["reverse"] = rev_str
+        parlay_summary.append(hc_parlay)
 
     return parlay_summary
 
@@ -2817,9 +3272,14 @@ def run_from_file(filepath):
             reverse=True,
         )
 
-        leg1, leg2 = pick_best_pair(parlay_candidates, pick_field="pick", same_league_penalty=0.20)
+        # WDL 串关：只选有 WDL 赔率的比赛
+        wdl_pool = [c for c in parlay_candidates if (c.get("bet_odds") or {}).get("wdl")]
+        if len(wdl_pool) < 2:
+            wdl_pool = parlay_candidates
+        leg1, leg2 = pick_best_pair(wdl_pool, pick_field="pick", same_league_penalty=0.20)
         if not leg1 or not leg2:
-            leg1, leg2 = parlay_candidates[0], parlay_candidates[1]
+            leg1, leg2 = wdl_pool[0] if len(wdl_pool) > 0 else (parlay_candidates[0] if parlay_candidates else None), \
+                         wdl_pool[1] if len(wdl_pool) > 1 else (parlay_candidates[1] if len(parlay_candidates) > 1 else None)
 
         handicap_candidates = [x for x in parlay_candidates if x.get("handicap_pick")]
         h1 = h2 = None
@@ -2857,7 +3317,7 @@ def run_from_file(filepath):
                     replace_hc = in_hc and (not in_main or hc_score < main_score)
 
                     if replace_main:
-                        pool = [x for x in parlay_candidates if x.get("match_index") not in selected_ids and not is_cross_play_conflict(x)]
+                        pool = [x for x in parlay_candidates if x.get("match_index") not in selected_ids and not is_cross_play_conflict(x) and (x.get("bet_odds") or {}).get("wdl")]
                         if pool:
                             pool.sort(key=lambda x: (
                                 x["pick"].get("confidence_score", 0),
@@ -2947,28 +3407,29 @@ def run_from_file(filepath):
 
         # 只有两场都开了胜平负才生成"胜平负"串子
         if leg1.get("bet_type") == "wdl" and leg2.get("bet_type") == "wdl":
-            parlay_summary.append({
+            rk1 = display_wdl_rk(leg1["pick"]["result_key"], leg1.get("bet_type", ""))
+            rk2 = display_wdl_rk(leg2["pick"]["result_key"], leg2.get("bet_type", ""))
+            wdl_parlay = {
                 "type": "胜平负",
                 "combo_odds": round(combo_odds, 2),
                 "combo_hit_rate": round(combo_hit, 2),
                 "hit": _parlay_hit([{"hit": l1_hit}, {"hit": l2_hit}]),
                 "legs": [
-                    {
-                        "label": leg1.get("match_label", ""),
-                        "result_key": display_wdl_rk(leg1["pick"]["result_key"], leg1.get("bet_type", "")),
-                        "hit": l1_hit,
-                        "team": f"{leg1.get('home', '')}-{leg1.get('away', '')}",
-                        "result": leg1.get("result", None),
-                    },
-                    {
-                        "label": leg2.get("match_label", ""),
-                        "result_key": display_wdl_rk(leg2["pick"]["result_key"], leg2.get("bet_type", "")),
-                        "hit": l2_hit,
-                        "team": f"{leg2.get('home', '')}-{leg2.get('away', '')}",
-                        "result": leg2.get("result", None),
-                    },
+                    {"label": leg1.get("match_label", ""),
+                     "result_key": rk1, "hit": l1_hit,
+                     "team": f"{leg1.get('home', '')}-{leg1.get('away', '')}",
+                     "result": leg1.get("result", None)},
+                    {"label": leg2.get("match_label", ""),
+                     "result_key": rk2, "hit": l2_hit,
+                     "team": f"{leg2.get('home', '')}-{leg2.get('away', '')}",
+                     "result": leg2.get("result", None)},
                 ],
-            })
+            }
+            bet_o1 = (leg1.get("bet_odds") or {}).get("wdl", {})
+            bet_o2 = (leg2.get("bet_odds") or {}).get("wdl", {})
+            rev_str = build_reverse_parlay("胜平负", rk1, rk2, bet_o1, bet_o2, l1_hit, l2_hit)
+            wdl_parlay["reverse"] = rev_str
+            parlay_summary.append(wdl_parlay)
 
 
         if h1 and h2:
@@ -2998,7 +3459,9 @@ def run_from_file(filepath):
             print(f"  组合命中率(独立近似): {hcombo_hit:.1%}")
             h1_hit = _get_hit(h1, "handicap", p1["result_key"])
             h2_hit = _get_hit(h2, "handicap", p2["result_key"])
-            parlay_summary.append({
+            hc_rk1 = display_wdl_rk(p1["result_key"], "handicap")
+            hc_rk2 = display_wdl_rk(p2["result_key"], "handicap")
+            hc_parlay = {
                 "type": "让球",
                 "combo_odds": round(hcombo_odds, 2),
                 "combo_hit_rate": round(hcombo_hit, 2),
@@ -3006,22 +3469,25 @@ def run_from_file(filepath):
                 "legs": [
                     {
                     "label": h1.get("match_label", ""),
-                    "result_key": display_wdl_rk(p1["result_key"], "handicap"),
-                    "hit": h1_hit,
+                    "result_key": hc_rk1, "hit": h1_hit,
                     "team": f"{h1.get('home', '')}-{h1.get('away', '')}",
                     "handicap": h1.get("handicap", ""),
                     "result": h1.get("result", None),
                 },
                 {
                     "label": h2.get("match_label", ""),
-                    "result_key": display_wdl_rk(p2["result_key"], "handicap"),
-                    "hit": h2_hit,
+                    "result_key": hc_rk2, "hit": h2_hit,
                     "team": f"{h2.get('home', '')}-{h2.get('away', '')}",
                     "handicap": h2.get("handicap", ""),
                     "result": h2.get("result", None),
                 },
                 ],
-            })
+            }
+            bet_o1 = (h1.get("bet_odds") or {}).get("handicap", {})
+            bet_o2 = (h2.get("bet_odds") or {}).get("handicap", {})
+            rev_str = build_reverse_parlay("让球", hc_rk1, hc_rk2, bet_o1, bet_o2, h1_hit, h2_hit)
+            hc_parlay["reverse"] = rev_str
+            parlay_summary.append(hc_parlay)
 
 
 
@@ -3075,7 +3541,7 @@ def run_from_file(filepath):
     print(f"{'━' * 70}")
 
     # 保存推荐结果到文件
-    save_recommendation_results(parlay_candidates, parlay_summary)
+    save_recommendation_results(parlay_candidates, parlay_summary, conn)
 
     conn.close()
 
@@ -3241,14 +3707,12 @@ def backfill_hit_status():
                     hit_val = actual_val == rk_val if actual_val else None
                     updated_hits[bt] = hit_val
 
-                # 设置 checked（wdl命中为主）
+                # 设置 checked（只要找到实际赛果就标记为已验证）
                 if m.get("checked") is None:
                     wdl_hit = updated_hits.get("wdl")
                     hc_hit = updated_hits.get("handicap")
-                    if wdl_hit is not None:
-                        m["checked"] = wdl_hit
-                    elif hc_hit is not None:
-                        m["checked"] = hc_hit
+                    if wdl_hit is not None or hc_hit is not None:
+                        m["checked"] = True  # 已校验赛果
 
                 # 回填格式化结果
                 m["result"] = format_match_result(result)
@@ -3278,93 +3742,128 @@ def backfill_hit_status():
 
                 m["result_key"] = "--".join(new_parts)
             else:
-                m["checked"] = None
-                m["result"] = None
+                # 日期已过但找不到赛果 → 标记为无效（取消/延期）
+                try:
+                    match_date = datetime.strptime(date_str, "%Y-%m-%d")
+                    if match_date.date() < datetime.now().date():
+                        m["checked"] = True
+                        m["result"] = "无效"
+                    else:
+                        m["checked"] = None
+                        m["result"] = None
+                except ValueError:
+                    m["checked"] = None
+                    m["result"] = None
             changed = True
 
         # ===== 回填串关（parlays）的命中标记 =====
+        # ===== 回填串关（parlays）的命中标记 =====
         parlays = data.get("parlays", [])
         if parlays and actual_matches:
-            # 构建 label → actual match 映射（label 如 "周五086"）
-            actual_by_label = {}
-            for am in actual_matches:
-                num = am.get("num", "")
-                actual_by_label[num] = am
+            try:
+                # 构建 label → actual match 映射（label 如 "周五086"）
+                actual_by_label = {}
+                for am in actual_matches:
+                    num = am.get("num", "")
+                    actual_by_label[num] = am
 
-            parlay_changed = False
-            for sp in parlays:
-                legs = sp.get("legs", [])
-                # 检查是否需要回填（若有 leg 缺 result 字段也需要处理）
-                all_done = all(
-                    leg.get("hit") is not None and leg.get("result") is not None
-                    for leg in legs
-                )
-                if all_done:
-                    continue
-                leg_hits = []
-                for leg in legs:
-                    # 如果 hit 和 result 都已填好则跳过
-                    if leg.get("hit") is not None and leg.get("result") is not None:
-                        leg_hits.append(leg["hit"])
+                parlay_changed = False
+                for sp in parlays:
+                    legs = sp.get("legs", [])
+                    if not legs:
                         continue
-                    # 用 label（如"周五086"）匹配实际比赛结果
-                    label = leg.get("label", "") or f"周五{leg.get('match_num', '')}" if leg.get("match_num") else ""
-                    # 从串关类型反推 bet_type（已不在 leg 中存储）
-                    bt = "handicap" if sp.get("type") == "让球" else "wdl"
-                    rk = leg.get("result_key", "")
-                    actual_match = actual_by_label.get(label)
-                    if not actual_match:
-                        # 尝试只用数字部分匹配
-                        mn = str(leg.get("match_num", ""))
-                        for k, v in actual_by_label.items():
-                            if k.endswith(mn) and mn:
-                                actual_match = v
-                                break
-                    if actual_match:
-                        result = actual_match.get("result", {})
-                        # 回填比分到 leg
-                        if leg.get("result") is None:
-                            if bt == "handicap":
-                                # 让球结果格式: "1:0-让平"
-                                score = result.get("score_result", "")
-                                hc_rk = result.get("handicap_result", "")
-                                hc_desc = {"3": "让胜", "1": "让平", "0": "让负"}.get(hc_rk, "")
-                                leg["result"] = f"{score}-{hc_desc}" if score and hc_desc else (score or None)
-                                # 补充 handicap 值（让几球）
-                                if leg.get("handicap") is None:
-                                    leg["handicap"] = result.get("handicap", "")
-                            else:
-                                score = result.get("score_result", "")
-                                leg["result"] = score or None
-                        # 如果 hit 未填，则计算
-                        if leg.get("hit") is None:
-                            bt_to_key = {"wdl": "win_draw_lose_result", "handicap": "handicap_result"}
-                            actual_val = result.get(bt_to_key.get(bt, ""), "")
-                            # WDL 展示 key（胜/平/负）反转为内部 key（3/1/0）做命中比较
-                            if rk in ("胜", "平", "负"):
-                                rk = {"胜": "3", "平": "1", "负": "0"}[rk]
-                            leg["hit"] = actual_val == rk if actual_val else None
-                        leg_hits.append(leg["hit"] if leg["hit"] is not None else True)
+                    # 检查是否需要回填（若有 leg 缺 result 字段也需要处理）
+                    all_done = all(
+                        leg.get("hit") is not None and leg.get("result") is not None
+                        for leg in legs
+                    )
+                    if all_done:
+                        continue
+                    leg_hits = []
+                    for leg in legs:
+                        # 如果 hit 和 result 都已填好则跳过
+                        if leg.get("hit") is not None and leg.get("result") is not None:
+                            leg_hits.append(leg["hit"])
+                            continue
+                        # 用 label（如"周五086"）匹配实际比赛结果
+                        label = leg.get("label", "") or (f"周五{leg.get('match_num', '')}" if leg.get("match_num") else "")
+                        # 从串关类型反推 bet_type（已不在 leg 中存储）
+                        bt = "handicap" if sp.get("type") == "让球" else "wdl"
+                        rk = leg.get("result_key", "")
+                        actual_match = actual_by_label.get(label)
+                        if not actual_match:
+                            # 尝试只用数字部分匹配
+                            mn = str(leg.get("match_num", ""))
+                            for k, v in actual_by_label.items():
+                                if k.endswith(mn) and mn:
+                                    actual_match = v
+                                    break
+                        if actual_match:
+                            result = actual_match.get("result", {})
+                            # 回填比分到 leg
+                            if leg.get("result") is None:
+                                if bt == "handicap":
+                                    # 让球结果格式: "1:0-让平"
+                                    score = result.get("score_result", "")
+                                    hc_rk = result.get("handicap_result", "")
+                                    hc_desc = {"3": "让胜", "1": "让平", "0": "让负"}.get(hc_rk, "")
+                                    leg["result"] = f"{score}-{hc_desc}" if score and hc_desc else (score or None)
+                                    # 补充 handicap 值（让几球）
+                                    if leg.get("handicap") is None:
+                                        leg["handicap"] = result.get("handicap", "")
+                                else:
+                                    score = result.get("score_result", "")
+                                    leg["result"] = score or None
+                            # 如果 hit 未填，则计算
+                            if leg.get("hit") is None:
+                                bt_to_key = {"wdl": "win_draw_lose_result", "handicap": "handicap_result"}
+                                actual_val = result.get(bt_to_key.get(bt, ""), "")
+                                # WDL 展示 key（胜/平/负）反转为内部 key（3/1/0）做命中比较
+                                if rk in ("胜", "平", "负"):
+                                    rk = {"胜": "3", "平": "1", "负": "0"}[rk]
+                                leg["hit"] = actual_val == rk if actual_val else None
+                            leg_hits.append(leg["hit"] if leg["hit"] is not None else True)
+                            parlay_changed = True
+                        else:
+                            # 找不到实际赛果 → 标记为无效（取消/延期）
+                            try:
+                                match_date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+                                if match_date_obj.date() < datetime.now().date():
+                                    if leg.get("result") is None:
+                                        leg["result"] = "无效"
+                                    parlay_changed = True
+                            except ValueError:
+                                pass
+                            leg_hits.append(None)
+                    if leg_hits and any(h is not None for h in leg_hits):
+                        if all(h is True for h in leg_hits):
+                            sp["hit"] = True
+                        elif any(h is False for h in leg_hits):
+                            sp["hit"] = False
+                        else:
+                            sp["hit"] = None
                         parlay_changed = True
-                    else:
-                        leg_hits.append(None)
-                if leg_hits and any(h is not None for h in leg_hits):
-                    if all(h is True for h in leg_hits):
-                        sp["hit"] = True
-                    elif any(h is False for h in leg_hits):
-                        sp["hit"] = False
-                    else:
-                        sp["hit"] = None
-                    parlay_changed = True
-            if parlay_changed:
-                changed = True
+                if parlay_changed:
+                    changed = True
+            except Exception as e:
+                print(f"  ⚠ parlays回填异常({os.path.basename(fp)}): {e}")
 
         if changed:
             with open(fp, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
-            hit_count = sum(1 for m in matches if m.get("checked") is True)
-            miss_count = sum(1 for m in matches if m.get("checked") is False)
-            print(f"  ✓ 命中回填: {os.path.basename(fp)} 命中{hit_count} 未命中{miss_count}")
+            # 从 result_key 第一段统计推荐命中/未命中（eg: 负(1) 或 胜(0)）
+            hit_count = 0
+            miss_count = 0
+            for m in matches:
+                rk = m.get("result_key", "")
+                if rk and "(" in rk:
+                    first_seg = rk.split("--")[0].strip()
+                    if first_seg.endswith("(1)"):
+                        hit_count += 1
+                    elif first_seg.endswith("(0)"):
+                        miss_count += 1
+            verified_count = sum(1 for m in matches if m.get("checked") is True)
+            print(f"  ✓ 命中回填: {os.path.basename(fp)} 已校验{verified_count}场 命中{hit_count} 未命中{miss_count}")
 
     print(f"  推荐结果命中检查完成 ({len(result_files)} 个文件)")
 
@@ -3447,7 +3946,7 @@ def build_simplified_result_key(pc):
     return "--".join(parts)
 
 
-def save_recommendation_results(parlay_candidates, parlay_summary):
+def save_recommendation_results(parlay_candidates, parlay_summary, conn=None):
     """将推荐结果保存到 推荐结果/YYYY-MM-DD.json"""
     if not parlay_candidates and not parlay_summary:
         return
@@ -3468,11 +3967,35 @@ def save_recommendation_results(parlay_candidates, parlay_summary):
         pick = pc.get("pick", {})
         rk_str = build_simplified_result_key(pc)
 
+        bet_odds = pc.get("bet_odds", {})
+        wdl_odds = bet_odds.get("wdl", {})
+        if wdl_odds:
+            odds_str = "({:.2f} {:.2f} {:.2f})".format(
+                wdl_odds.get("3", 0), wdl_odds.get("1", 0), wdl_odds.get("0", 0)
+            )
+        else:
+            odds_str = ""
+
+        # 球队近10场胜率
+        home_win_rate = None
+        away_win_rate = None
+        if conn:
+            home_form = get_team_form_analysis(conn, pc.get("home", ""), "home")
+            away_form = get_team_form_analysis(conn, pc.get("away", ""), "away")
+            home_win_rate = home_form.get("rate") if home_form.get("reliable") else None
+            away_win_rate = away_form.get("rate") if away_form.get("reliable") else None
+
+        home_name = pc.get("home", "")
+        away_name = pc.get("away", "")
+        home_part = f"{home_name}({home_win_rate}%)" if home_win_rate is not None else home_name
+        away_part = f"{away_name}({away_win_rate}%)" if away_win_rate is not None else away_name
+        team_str = f"{home_part}-{away_part}{odds_str}"
+
         match_results.append({
             "match_index": pc.get("match_index", ""),
             "match_num": str(pc.get("match_num", "")),
             "league": pc.get("league", ""),
-            "team": f"{pc.get('home', '')}-{pc.get('away', '')}",
+            "team": team_str,
             "result": None,
             "result_key": rk_str,
             "checked": None,
@@ -3619,6 +4142,16 @@ if __name__ == "__main__":
                     print(f"错误: 文件不存在 ({filepath})")
                 else:
                     run_from_file(filepath)
+        elif arg == "--today":
+            # 自动拉取当日竞彩数据并生成推荐
+            print("正在获取今日竞彩比赛数据 ...")
+            try:
+                from jc_titan007_parser import main as parser_main
+                parser_main()
+            except ImportError:
+                print("错误: 无法加载 jc_titan007_parser（缺少依赖或文件不存在）")
+            except Exception as e:
+                print(f"错误: 获取数据失败 ({e})")
         else:
             # 直接传文件路径
             if os.path.exists(arg):
@@ -3627,15 +4160,16 @@ if __name__ == "__main__":
                 print(f"错误: 文件不存在 ({arg})")
                 print("用法: python3 recommend.py --file input.txt")
     else:
-        # 无参数时提示用户使用方法
-        print("推荐器需要传入比赛数据，用法:")
-        print("  python3 recommend.py --file <txt文件>     从文本文件读取")
-        print("  python3 recommend.py                      交互式输入")
-        print()
-        print("注意: 定时任务中由 jc_titan007_parser 自动调用，无需手动传参。")
-        print("进入交互模式? (输入 y 确认，其他键退出)")
-        choice = input("> ").strip().lower()
-        if choice == "y":
-            interactive()
-        else:
-            print("已退出。")
+        # 无参数时自动拉取今日数据
+        print("正在自动获取今日竞彩比赛数据 ...")
+        try:
+            from jc_titan007_parser import main as parser_main
+            parser_main()
+        except ImportError:
+            print("错误: 无法加载 jc_titan007_parser，请确保在同目录下")
+            print()
+            print("推荐器需要传入比赛数据，用法:")
+            print("  python3 recommend.py --file <txt文件>     从文本文件读取")
+            print("  python3 recommend.py --today              自动拉取今日竞彩数据")
+        except Exception as e:
+            print(f"错误: 获取数据失败 ({e})")

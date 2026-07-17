@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-07-17",
+  "total_matches": 8,
+  "parlays": [
+    {
+      "type": "胜平负",
+      "combo_odds": 6.02,
+      "combo_hit_rate": 0.22,
+      "hit": null,
+      "legs": [
+        {
+          "label": "周五201",
+          "result_key": "平",
+          "hit": null,
+          "team": "哥德堡-布洛马波卡纳",
+          "result": null
+        },
+        {
+          "label": "周五206",
+          "result_key": "胜",
+          "hit": null,
+          "team": "米拉索-格雷米奥",
+          "result": null
+        }
+      ],
+      "reverse": "胜+负--负(5.43)"
+    },
+    {
+      "type": "让球",
+      "combo_odds": 6.59,
+      "combo_hit_rate": 0.26,
+      "hit": null,
+      "legs": [
+        {
+          "label": "周五205",
+          "result_key": "胜",
+          "hit": null,
+          "team": "弗鲁米嫩塞-布拉干蒂诺RB",
+          "handicap": "-1",
+          "result": null
+        },
+        {
+          "label": "周五203",
+          "result_key": "胜",
+          "hit": null,
+          "team": "博德闪耀-腓特烈斯塔",
+          "handicap": "-2",
+          "result": null
+        }
+      ],
+      "reverse": "平+负--平+负(2.17)"
+    }
+  ],
+  "matches": [
+    {
+      "match_index": 8,
+      "match_num": "208",
+      "league": "美职业",
+      "team": "洛杉矶银河(83%)-洛杉矶FC(33%)(2.95 3.55 1.97)",
+      "result": null,
+      "result_key": "胜--让负--3球--胜胜--[1:0 2:1 2:0]",
+      "checked": null
+    },
+    {
+      "match_index": 6,
+      "match_num": "206",
+      "league": "巴西甲",
+      "team": "米拉索(50%)-格雷米奥(20%)(1.72 3.20 4.25)",
+      "result": null,
+      "result_key": "胜--让胜--1球--胜胜--[1:0 2:1 2:0]",
+      "checked": null
+    },
+    {
+      "match_index": 3,
+      "match_num": "203",
+      "league": "挪超",
+      "team": "博德闪耀(80%)-腓特烈斯塔(33%)",
+      "result": null,
+      "result_key": "胜--让胜",
+      "checked": null
+    },
+    {
+      "match_index": 1,
+      "match_num": "201",
+      "league": "瑞典超",
+      "team": "哥德堡(0%)-布洛马波卡纳(40%)(1.87 3.50 3.24)",
+      "result": null,
+      "result_key": "平--让胜--2球--平平--[1:1 0:0 2:2]",
+      "checked": null
+    },
+    {
+      "match_index": 4,
+      "match_num": "204",
+      "league": "巴西甲",
+      "team": "巴伊亚(80%)-沙佩科恩斯(1.29 4.70 7.10)",
+      "result": null,
+      "result_key": "平--让负--2球--平平--[1:1 0:0 2:2]",
+      "checked": null
+    },
+    {
+      "match_index": 5,
+      "match_num": "205",
+      "league": "巴西甲",
+      "team": "弗鲁米嫩塞(80%)-布拉干蒂诺RB(17%)(1.66 3.40 4.30)",
+      "result": null,
+      "result_key": "平--让胜--2球--平平--[1:1 0:0 2:2]",
+      "checked": null
+    },
+    {
+      "match_index": 2,
+      "match_num": "202",
+      "league": "瑞典超",
+      "team": "米亚尔比(50%)-瓦斯特拉斯(67%)(1.61 3.75 4.15)",
+      "result": null,
+      "result_key": "平--让胜--2球--平平--[1:1 0:0 2:2]",
+      "checked": null
+    },
+    {
+      "match_index": 7,
+      "match_num": "207",
+      "league": "美职业",
+      "team": "纳什威尔SC(100%)-亚特兰大联(20%)(1.34 4.45 6.30)",
+      "result": null,
+      "result_key": "负--让负--2球--负负--[0:1 1:2 0:2]",
+      "checked": null
+    }
+  ]
+}

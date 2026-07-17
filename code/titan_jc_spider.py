@@ -29,8 +29,8 @@ import requests
 
 BASE_DIR = "/Users/yzq/Desktop/sports_db/code/新球体育/竞彩数据"
 BASE_RESULT_URL = "https://jc.titan007.com/handle/JcResult.aspx"
-START_DATE = "2026-07-14"
-END_DATE = "2026-07-14"
+START_DATE = "2026-07-17"
+END_DATE = "2026-07-17"
 
 SLEEP_BETWEEN_DATES_SEC = (2.0, 4.0)
 MAX_RETRIES = 3
@@ -66,10 +66,12 @@ def sleep_rand(rng):
 def request_text(url):
     for i in range(1, MAX_RETRIES + 1):
         try:
-            r = requests.get(url, timeout=REQUEST_TIMEOUT, headers={
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
-                "Referer": "https://jc.titan007.com/",
-            })
+            r = requests.get(url, timeout=REQUEST_TIMEOUT,
+                              proxies={"http": None, "https": None},
+                              headers={
+                                  "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
+                                  "Referer": "https://jc.titan007.com/",
+                              })
             r.raise_for_status()
             return r.text.strip()
         except Exception as e:
