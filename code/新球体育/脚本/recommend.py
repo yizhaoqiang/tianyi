@@ -32,9 +32,10 @@ import urllib.request
 import urllib.error
 from datetime import datetime
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = "/Users/yzq/Desktop/sports_db/code/新球体育/竞彩数据"
-TRANSFORMED_DIR = "/Users/yzq/Desktop/sports_db/code/新球体育/联赛数据/转化数据"
-RESULT_DIR = "/Users/yzq/Desktop/sports_db/code/新球体育/推荐结果"
+BASE_DIR = os.path.dirname(SCRIPT_DIR)  # /Users/jojo/Desktop/TianyiSport/code/新球体育
+DATA_DIR = os.path.join(BASE_DIR, "竞彩数据")
+TRANSFORMED_DIR = os.path.join(BASE_DIR, "联赛数据", "转化数据")
+RESULT_DIR = os.path.join(BASE_DIR, "推荐结果")
 DB_PATH = os.path.join(SCRIPT_DIR, "pattern_db.sqlite")
 # ============ 玩法映射 ============
 WDL_MAP = {"3": "主胜", "1": "平局", "0": "客胜"}
@@ -3407,8 +3408,12 @@ def run_from_file(filepath):
 
         # 只有两场都开了胜平负才生成"胜平负"串子
         if leg1.get("bet_type") == "wdl" and leg2.get("bet_type") == "wdl":
-            rk1 = display_wdl_rk(leg1["pick"]["result_key"], leg1.get("bet_type", ""))
-            rk2 = display_wdl_rk(leg2["pick"]["result_key"], leg2.get("bet_type", ""))
+            rk1_raw = display_wdl_rk(leg1["pick"]["result_key"], leg1.get("bet_type", ""))
+            rk2_raw = display_wdl_rk(leg2["pick"]["result_key"], leg2.get("bet_type", ""))
+            # 翻转WDL方向：胜↔负，平不动
+            _wdl_rev = {"胜": "负", "负": "胜"}
+            rk1 = _wdl_rev.get(rk1_raw, rk1_raw)
+            rk2 = _wdl_rev.get(rk2_raw, rk2_raw)
             wdl_parlay = {
                 "type": "胜平负",
                 "combo_odds": round(combo_odds, 2),
@@ -3461,6 +3466,10 @@ def run_from_file(filepath):
             h2_hit = _get_hit(h2, "handicap", p2["result_key"])
             hc_rk1 = display_wdl_rk(p1["result_key"], "handicap")
             hc_rk2 = display_wdl_rk(p2["result_key"], "handicap")
+            # 让球串关同样翻转方向
+            _wdl_rev = {"胜": "负", "负": "胜"}
+            hc_rk1 = _wdl_rev.get(hc_rk1, hc_rk1)
+            hc_rk2 = _wdl_rev.get(hc_rk2, hc_rk2)
             hc_parlay = {
                 "type": "让球",
                 "combo_odds": round(hcombo_odds, 2),
@@ -3586,7 +3595,7 @@ def format_match_result(result):
 
 
 def backfill_hit_status():
-    """扫描推荐结果文件，为未标记命中的比赛补充命中标记"""
+    """扫描推荐结果文件，为未标记命中的比赛补充命中标记（按比赛编号 match_num 匹配）"""
     if not os.path.isdir(RESULT_DIR):
         return
     today_str = datetime.now().strftime("%Y-%m-%d")
@@ -3603,7 +3612,7 @@ def backfill_hit_status():
         matches = data.get("matches", [])
         if not matches:
             continue
-        # 检查是否所有命中标记都已填充（matches 和 parlays 都要查）
+        # 检查是否所有命中标记都已填充
         matches_all_done = all(
             m.get("checked") is not None and m.get("result") is not None
             for m in matches
@@ -3615,38 +3624,70 @@ def backfill_hit_status():
 
         # 从文件名取日期
         date_str = fname.replace(".json", "")
-        # 构造竞彩数据路径
+        for prefix in ("正-", "反-"):
+            if date_str.startswith(prefix):
+                date_str = date_str[len(prefix):]
+                break
         try:
             dt = datetime.strptime(date_str, "%Y-%m-%d")
             jc_path = os.path.join(DATA_DIR, f"{dt.year}年", f"{dt.month}月", f"{date_str}.json")
         except ValueError:
             jc_path = ""
 
-        actual_matches = []
+        # 加载竞彩数据，按 match_num 建立索引（提取数字部分，如 "周日204" → "204"）
+        actual_by_num = {}
         if jc_path and os.path.exists(jc_path):
             try:
                 with open(jc_path, "r", encoding="utf-8") as f:
-                    actual_matches = json.load(f)
+                    for am in json.load(f):
+                        num = am.get("num", "")
+                        digits = "".join(ch for ch in num if ch.isdigit())
+                        if digits:
+                            actual_by_num[digits] = am
             except Exception:
                 pass
 
+        # 反查映射表
+        REV_WDL = {"胜": "3", "平": "1", "负": "0"}
+        REV_HC = {"让胜": "3", "让平": "1", "让负": "0"}
+        REV_HF = {v: k for k, v in SHORT_HF_MAP.items()}
+        REV_GOAL = {v: k for k, v in GOAL_MAP.items()}
+
+        def _parse_segment(seg):
+            """解析单个 result_key segment，返回 (bet_type, internal_rk) 或 None"""
+            seg = seg.strip()
+            if not seg:
+                return None
+            if seg.startswith("["):
+                scores = seg.strip("[]").split()
+                return ("score", scores[0] if scores else "")
+            plain = seg.split("(")[0] if "(" in seg else seg
+            if plain in REV_HC:
+                return ("handicap", REV_HC[plain])
+            if plain in REV_GOAL:
+                return ("goal", REV_GOAL[plain])
+            if plain in REV_HF:
+                return ("half_full", REV_HF[plain])
+            if plain in REV_WDL:
+                return ("wdl", REV_WDL[plain])
+            return None
+
+        def format_match_result(result):
+            """格式化赛果为 "全:半" 格式"""
+            full = result.get("full", "")
+            half = result.get("half", "")
+            if full or half:
+                return f"{full}({half})"
+            return None
+
         changed = False
         for m in matches:
-            # 如果 checked 和 result 都已填好则跳过
             if m.get("checked") is not None and m.get("result") is not None:
                 continue
-            league = m.get("league", "")
-            team = m.get("team", "")
-            home, away = team.split("-", 1) if "-" in team else (team, "")
 
-            # 在竞彩数据中找匹配的比赛
-            found = None
-            for am in actual_matches:
-                if (am.get("league", "") == league
-                        and _fuzzy_match(am.get("home", ""), home)
-                        and _fuzzy_match(am.get("away", ""), away)):
-                    found = am
-                    break
+            # 按比赛编号匹配
+            mn = str(m.get("match_num", ""))
+            found = actual_by_num.get(mn)
 
             if found:
                 result = found.get("result", {})
@@ -3658,66 +3699,27 @@ def backfill_hit_status():
                     "half_full": result.get("half_full_result", ""),
                 }
 
-                # 从 result_key 解析各玩法推荐
+                # 解析并比对
                 old_rk = m.get("result_key", "")
                 rk_segments = [s.strip() for s in old_rk.split("--")]
-
-                # 反向映射表：展示名 → (bet_type, 内部 result_key)
-                REV_WDL = {"胜": "3", "平": "1", "负": "0"}
-                REV_HC = {"让胜": "3", "让平": "1", "让负": "0"}
-                REV_HF = {v: k for k, v in SHORT_HF_MAP.items()}
-                REV_GOAL = {v: k for k, v in GOAL_MAP.items()}
-
-                def _parse_segment(seg):
-                    """解析单个 result_key segment，返回 (bet_type, internal_rk) 或 None"""
-                    seg = seg.strip()
-                    if not seg:
-                        return None
-                    # 比分段: [2:0 3:0 3:1]
-                    if seg.startswith("["):
-                        scores = seg.strip("[]").split()
-                        return ("score", scores[0] if scores else "")
-                    # 去掉末尾 (1)/(0)
-                    plain = seg.split("(")[0] if "(" in seg else seg
-                    # 让球: 让胜/让平/让负
-                    if plain in REV_HC:
-                        return ("handicap", REV_HC[plain])
-                    # 进球数: 0球/1球/...
-                    if plain in REV_GOAL:
-                        return ("goal", REV_GOAL[plain])
-                    # 半全场: 胜胜/胜负/...
-                    if plain in REV_HF:
-                        return ("half_full", REV_HF[plain])
-                    # 胜平负: 胜/平/负
-                    if plain in REV_WDL:
-                        return ("wdl", REV_WDL[plain])
-                    return None
-
-                # 解析所有 segment
-                parsed = {}
+                updated_hits = {}
                 for seg in rk_segments:
                     p = _parse_segment(seg)
                     if p:
-                        parsed[p[0]] = (p[1], seg)  # bt -> (internal_rk, original_segment)
+                        bt, rk_val = p
+                        actual_val = result_map.get(bt, "")
+                        hit_val = actual_val == rk_val if actual_val else None
+                        updated_hits[bt] = hit_val
 
-                # 比对实际赛果，更新命中
-                updated_hits = {}
-                for bt, (rk_val, seg) in parsed.items():
-                    actual_val = result_map.get(bt, "")
-                    hit_val = actual_val == rk_val if actual_val else None
-                    updated_hits[bt] = hit_val
-
-                # 设置 checked（只要找到实际赛果就标记为已验证）
                 if m.get("checked") is None:
                     wdl_hit = updated_hits.get("wdl")
                     hc_hit = updated_hits.get("handicap")
                     if wdl_hit is not None or hc_hit is not None:
-                        m["checked"] = True  # 已校验赛果
+                        m["checked"] = True
 
-                # 回填格式化结果
                 m["result"] = format_match_result(result)
 
-                # 重建 result_key：checked有值时追加 (1)/(0)，无值时不带括号
+                # 重建 result_key
                 def _hit_suffix(hv):
                     return f"({1 if hv is True else 0})" if hv is not None else ""
 
@@ -3727,22 +3729,18 @@ def backfill_hit_status():
                     if not seg:
                         continue
                     plain = seg.split("(")[0] if "(" in seg else seg
-                    # 比分段特殊处理
                     if seg.startswith("["):
                         hv = updated_hits.get("score")
                         new_parts.append(f"{seg.split(']')[0]}]{_hit_suffix(hv)}")
                     else:
-                        # 查找对应 bet_type
                         p = _parse_segment(seg)
                         if p:
                             hv = updated_hits.get(p[0])
                             new_parts.append(f"{plain}{_hit_suffix(hv)}")
                         else:
                             new_parts.append(seg)
-
                 m["result_key"] = "--".join(new_parts)
             else:
-                # 日期已过但找不到赛果 → 标记为无效（取消/延期）
                 try:
                     match_date = datetime.strptime(date_str, "%Y-%m-%d")
                     if match_date.date() < datetime.now().date():
@@ -3756,102 +3754,64 @@ def backfill_hit_status():
                     m["result"] = None
             changed = True
 
-        # ===== 回填串关（parlays）的命中标记 =====
-        # ===== 回填串关（parlays）的命中标记 =====
+        # ===== 回填串关（parlays） =====
         parlays = data.get("parlays", [])
-        if parlays and actual_matches:
-            try:
-                # 构建 label → actual match 映射（label 如 "周五086"）
-                actual_by_label = {}
-                for am in actual_matches:
-                    num = am.get("num", "")
-                    actual_by_label[num] = am
-
-                parlay_changed = False
-                for sp in parlays:
-                    legs = sp.get("legs", [])
-                    if not legs:
+        if parlays:
+            parlay_changed = False
+            for sp in parlays:
+                legs = sp.get("legs", [])
+                if not legs:
+                    continue
+                all_done = all(
+                    leg.get("hit") is not None and leg.get("result") is not None
+                    for leg in legs
+                )
+                if all_done:
+                    continue
+                leg_hits = []
+                for leg in legs:
+                    if leg.get("hit") is not None and leg.get("result") is not None:
+                        leg_hits.append(leg["hit"])
                         continue
-                    # 检查是否需要回填（若有 leg 缺 result 字段也需要处理）
-                    all_done = all(
-                        leg.get("hit") is not None and leg.get("result") is not None
-                        for leg in legs
-                    )
-                    if all_done:
-                        continue
-                    leg_hits = []
-                    for leg in legs:
-                        # 如果 hit 和 result 都已填好则跳过
-                        if leg.get("hit") is not None and leg.get("result") is not None:
-                            leg_hits.append(leg["hit"])
-                            continue
-                        # 用 label（如"周五086"）匹配实际比赛结果
-                        label = leg.get("label", "") or (f"周五{leg.get('match_num', '')}" if leg.get("match_num") else "")
-                        # 从串关类型反推 bet_type（已不在 leg 中存储）
+                    label = leg.get("label", "")
+                    mn = "".join(ch for ch in label if ch.isdigit())
+                    found_am = actual_by_num.get(mn)
+                    if found_am:
+                        r = found_am.get("result", {})
                         bt = "handicap" if sp.get("type") == "让球" else "wdl"
                         rk = leg.get("result_key", "")
-                        actual_match = actual_by_label.get(label)
-                        if not actual_match:
-                            # 尝试只用数字部分匹配
-                            mn = str(leg.get("match_num", ""))
-                            for k, v in actual_by_label.items():
-                                if k.endswith(mn) and mn:
-                                    actual_match = v
-                                    break
-                        if actual_match:
-                            result = actual_match.get("result", {})
-                            # 回填比分到 leg
-                            if leg.get("result") is None:
-                                if bt == "handicap":
-                                    # 让球结果格式: "1:0-让平"
-                                    score = result.get("score_result", "")
-                                    hc_rk = result.get("handicap_result", "")
-                                    hc_desc = {"3": "让胜", "1": "让平", "0": "让负"}.get(hc_rk, "")
-                                    leg["result"] = f"{score}-{hc_desc}" if score and hc_desc else (score or None)
-                                    # 补充 handicap 值（让几球）
-                                    if leg.get("handicap") is None:
-                                        leg["handicap"] = result.get("handicap", "")
-                                else:
-                                    score = result.get("score_result", "")
-                                    leg["result"] = score or None
-                            # 如果 hit 未填，则计算
-                            if leg.get("hit") is None:
-                                bt_to_key = {"wdl": "win_draw_lose_result", "handicap": "handicap_result"}
-                                actual_val = result.get(bt_to_key.get(bt, ""), "")
-                                # WDL 展示 key（胜/平/负）反转为内部 key（3/1/0）做命中比较
-                                if rk in ("胜", "平", "负"):
-                                    rk = {"胜": "3", "平": "1", "负": "0"}[rk]
-                                leg["hit"] = actual_val == rk if actual_val else None
-                            leg_hits.append(leg["hit"] if leg["hit"] is not None else True)
-                            parlay_changed = True
-                        else:
-                            # 找不到实际赛果 → 标记为无效（取消/延期）
-                            try:
-                                match_date_obj = datetime.strptime(date_str, "%Y-%m-%d")
-                                if match_date_obj.date() < datetime.now().date():
-                                    if leg.get("result") is None:
-                                        leg["result"] = "无效"
-                                    parlay_changed = True
-                            except ValueError:
-                                pass
-                            leg_hits.append(None)
-                    if leg_hits and any(h is not None for h in leg_hits):
-                        if all(h is True for h in leg_hits):
-                            sp["hit"] = True
-                        elif any(h is False for h in leg_hits):
-                            sp["hit"] = False
-                        else:
-                            sp["hit"] = None
-                        parlay_changed = True
-                if parlay_changed:
-                    changed = True
-            except Exception as e:
-                print(f"  ⚠ parlays回填异常({os.path.basename(fp)}): {e}")
+                        rk_val = REV_WDL.get(rk, "")
+                        actual_val = r.get("handicap_result" if bt == "handicap" else "win_draw_lose_result", "")
+                        hit = (actual_val == rk_val) if actual_val else None
+                        leg["hit"] = hit
+                        leg["result"] = r.get("full", "")
+                        if r.get("handicap") and sp.get("type") == "让球":
+                            leg["handicap"] = r.get("handicap", "")
+                        leg_hits.append(hit)
+                    else:
+                        try:
+                            match_date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+                            if match_date_obj.date() < datetime.now().date():
+                                if leg.get("result") is None:
+                                    leg["result"] = "无效"
+                                parlay_changed = True
+                        except ValueError:
+                            pass
+                        leg_hits.append(None)
+                if leg_hits and any(h is not None for h in leg_hits):
+                    if all(h is True for h in leg_hits):
+                        sp["hit"] = True
+                    elif any(h is False for h in leg_hits):
+                        sp["hit"] = False
+                    else:
+                        sp["hit"] = None
+                    parlay_changed = True
+            if parlay_changed:
+                changed = True
 
         if changed:
             with open(fp, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
-            # 从 result_key 第一段统计推荐命中/未命中（eg: 负(1) 或 胜(0)）
             hit_count = 0
             miss_count = 0
             for m in matches:
@@ -3946,13 +3906,76 @@ def build_simplified_result_key(pc):
     return "--".join(parts)
 
 
+def reverse_wdl_result_key(rk_str):
+    """
+    翻转 WDL 方向：胜↔负，半全场反向，比分主客互换。
+    仅在第一段为 胜/负 时翻转，平局不动。
+    """
+    import re as _re
+
+    HF_REVERSE = {
+        "胜胜": "负负", "胜负": "负胜", "胜平": "负平",
+        "平胜": "平负", "平平": "平平", "平负": "平胜",
+        "负胜": "胜负", "负平": "胜平", "负负": "胜胜",
+    }
+    WDL_REVERSE = {"胜": "负", "负": "胜"}
+
+    def _strip_suffix(t):
+        """分离正文和后缀 (1)/(0)"""
+        m = _re.search(r'(\([01]\))$', t)
+        if m:
+            return t[:m.start()], m.group(1)
+        return t, ""
+
+    def _reverse_score_block(text):
+        """翻转比分块: [1:0 2:1] → [0:1 1:2]"""
+        def _rev_score(m):
+            parts = m.group(0).split(":")
+            return f"{parts[1]}:{parts[0]}" if len(parts) == 2 else m.group(0)
+
+        return _re.sub(r'(\d+):(\d+)', _rev_score, text)
+
+    segs = rk_str.split("--")
+    new_segs = []
+
+    # 第一段：WDL
+    first = segs[0].strip() if segs else ""
+    if first:
+        plain, sfx = _strip_suffix(first)
+        rev = WDL_REVERSE.get(plain)
+        if rev:  # 胜→负 或 负→胜
+            new_segs.append(f"{rev}{sfx}")
+            # 翻转之后所有段
+            for seg in segs[1:]:
+                seg = seg.strip()
+                if not seg:
+                    new_segs.append(seg)
+                    continue
+                plain, sfx = _strip_suffix(seg)
+                # 半全场
+                if plain in HF_REVERSE:
+                    new_segs.append(f"{HF_REVERSE[plain]}{sfx}")
+                # 比分块
+                elif plain.startswith("["):
+                    new_segs.append(f"{_reverse_score_block(plain)}{sfx}")
+                else:
+                    new_segs.append(seg)
+            return "--".join(new_segs)
+        else:
+            # 平局，不动
+            return rk_str
+    return rk_str
+
+
 def save_recommendation_results(parlay_candidates, parlay_summary, conn=None):
-    """将推荐结果保存到 推荐结果/YYYY-MM-DD.json"""
+    """将推荐结果保存为 正- 和 反- 两个版本"""
+    import copy as _copy
+
     if not parlay_candidates and not parlay_summary:
         return
     os.makedirs(RESULT_DIR, exist_ok=True)
 
-    # 从比赛数据中取日期（取第一个有效日期），没有则用今天
+    # 从比赛数据中取日期
     date_from_matches = None
     for pc in parlay_candidates:
         d = pc.get("match_date_full", "")
@@ -3960,25 +3983,27 @@ def save_recommendation_results(parlay_candidates, parlay_summary, conn=None):
             date_from_matches = d
             break
     date_str = date_from_matches or datetime.now().strftime("%Y-%m-%d")
-    out_path = os.path.join(RESULT_DIR, f"{date_str}.json")
 
-    match_results = []
+    # ─── 构建正反两个版本的 match_results ───
+    pos_matches = []  # 正-: 原始推荐
+    neg_matches = []  # 反-: 翻转推荐
+
     for pc in parlay_candidates:
         pick = pc.get("pick", {})
-        rk_str = build_simplified_result_key(pc)
+
+        # 正版直接取原始 result_key
+        rk_pos = build_simplified_result_key(pc)
+        # 反版翻转 WDL 方向
+        rk_neg = reverse_wdl_result_key(rk_pos)
 
         bet_odds = pc.get("bet_odds", {})
         wdl_odds = bet_odds.get("wdl", {})
-        if wdl_odds:
-            odds_str = "({:.2f} {:.2f} {:.2f})".format(
-                wdl_odds.get("3", 0), wdl_odds.get("1", 0), wdl_odds.get("0", 0)
-            )
-        else:
-            odds_str = ""
+        odds_str = "({:.2f} {:.2f} {:.2f})".format(
+            wdl_odds.get("3", 0), wdl_odds.get("1", 0), wdl_odds.get("0", 0)
+        ) if wdl_odds else ""
 
         # 球队近10场胜率
-        home_win_rate = None
-        away_win_rate = None
+        home_win_rate = away_win_rate = None
         if conn:
             home_form = get_team_form_analysis(conn, pc.get("home", ""), "home")
             away_form = get_team_form_analysis(conn, pc.get("away", ""), "away")
@@ -3991,26 +4016,62 @@ def save_recommendation_results(parlay_candidates, parlay_summary, conn=None):
         away_part = f"{away_name}({away_win_rate}%)" if away_win_rate is not None else away_name
         team_str = f"{home_part}-{away_part}{odds_str}"
 
-        match_results.append({
+        base = {
             "match_index": pc.get("match_index", ""),
             "match_num": str(pc.get("match_num", "")),
             "league": pc.get("league", ""),
             "team": team_str,
             "result": None,
-            "result_key": rk_str,
             "checked": None,
-        })
+        }
+        pos_matches.append({**base, "result_key": rk_pos})
+        neg_matches.append({**base, "result_key": rk_neg})
 
-    result = {
+    # ─── 构建正反两个版本的 parlays ───
+    # parlay_summary 当前已是反-版本（已翻转）
+    # 正-版本：将 leg result_key 翻回原始方向
+    _wdl_rev = {"胜": "负", "负": "胜"}
+
+    def _reverse_parlay(sp):
+        """对单个 parlay 做 leg result_key 的翻转"""
+        sp_rev = _copy.deepcopy(sp)
+        for leg in sp_rev.get("legs", []):
+            leg["result_key"] = _wdl_rev.get(leg["result_key"], leg["result_key"])
+        return sp_rev
+
+    pos_parlays = [_reverse_parlay(sp) for sp in (parlay_summary or [])]
+    neg_parlays = [_copy.deepcopy(sp) for sp in (parlay_summary or [])]
+
+    # 交换 reverse 字段：正版的 reverse = 反版推荐，反版的 reverse = 正版推荐
+    for pos_sp, neg_sp in zip(pos_parlays, neg_parlays):
+        pos_rev = neg_sp.get("reverse", "")
+        neg_rev = pos_sp.get("reverse", "")
+        pos_sp["reverse"] = pos_rev
+        neg_sp["reverse"] = neg_rev
+
+    # ─── 保存正- 版本 ───
+    pos_path = os.path.join(RESULT_DIR, f"正-{date_str}.json")
+    pos_result = {
         "generated_at": date_str,
-        "total_matches": len(match_results),
-        "parlays": [dict(s) for s in parlay_summary] if parlay_summary else [],
-        "matches": match_results,
+        "total_matches": len(pos_matches),
+        "parlays": pos_parlays,
+        "matches": pos_matches,
     }
+    with open(pos_path, "w", encoding="utf-8") as f:
+        json.dump(pos_result, f, ensure_ascii=False, indent=2)
+    print(f"  ✅ 正版推荐已保存: {pos_path}")
 
-    with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False, indent=2)
-    print(f"  推荐结果已保存: {out_path} ({os.path.getsize(out_path):,} bytes)")
+    # ─── 保存反- 版本 ───
+    neg_path = os.path.join(RESULT_DIR, f"反-{date_str}.json")
+    neg_result = {
+        "generated_at": date_str,
+        "total_matches": len(neg_matches),
+        "parlays": neg_parlays,
+        "matches": neg_matches,
+    }
+    with open(neg_path, "w", encoding="utf-8") as f:
+        json.dump(neg_result, f, ensure_ascii=False, indent=2)
+    print(f"  ✅ 反版推荐已保存: {neg_path}")
 
 
 def interactive():
@@ -4128,6 +4189,38 @@ half_full_0-0=4.80
 # 开头的行是注释，会被忽略。
 """)
 if __name__ == "__main__":
+    # ═══════════════════════════════════════════════
+    # 第一步：通过 jc_titan007_parser 获取数据并更新模式库
+    # ═══════════════════════════════════════════════
+    parser_ok = False
+    try:
+        from jc_titan007_parser import main as parser_main
+        parser_main()
+        parser_ok = True
+    except ImportError:
+        print("⚠ 未找到 jc_titan007_parser（无法自动获取竞彩数据）")
+    except Exception as e:
+        print(f"⚠ 获取数据失败: {e}")
+
+    # 更新模式库（把最新赛果编入 pattern_db）
+    print(f"\n{'=' * 60}")
+    print("更新模式库")
+    print(f"{'=' * 60}")
+    try:
+        from update_pattern_db import main as update_main
+        update_main(force_full=False)
+        print("  ✅ 模式库更新完成")
+    except Exception as e:
+        print(f"  ⚠ 模式库更新失败: {e}")
+
+    # ═══════════════════════════════════════════════
+    # 第二步：按比赛编号回填验证已有推荐
+    # ═══════════════════════════════════════════════
+    print(f"\n{'=' * 60}")
+    print("回填验证推荐结果（按比赛编号匹配）")
+    print(f"{'=' * 60}")
+    backfill_hit_status()
+
     if len(sys.argv) > 1:
         arg = sys.argv[1]
         if arg == "--help" or arg == "-h":
@@ -4143,33 +4236,19 @@ if __name__ == "__main__":
                 else:
                     run_from_file(filepath)
         elif arg == "--today":
-            # 自动拉取当日竞彩数据并生成推荐
-            print("正在获取今日竞彩比赛数据 ...")
-            try:
-                from jc_titan007_parser import main as parser_main
-                parser_main()
-            except ImportError:
-                print("错误: 无法加载 jc_titan007_parser（缺少依赖或文件不存在）")
-            except Exception as e:
-                print(f"错误: 获取数据失败 ({e})")
+            pass  # 已由上方自动执行
         else:
-            # 直接传文件路径
             if os.path.exists(arg):
                 run_from_file(arg)
             else:
                 print(f"错误: 文件不存在 ({arg})")
                 print("用法: python3 recommend.py --file input.txt")
     else:
-        # 无参数时自动拉取今日数据
-        print("正在自动获取今日竞彩比赛数据 ...")
-        try:
-            from jc_titan007_parser import main as parser_main
-            parser_main()
-        except ImportError:
-            print("错误: 无法加载 jc_titan007_parser，请确保在同目录下")
+        if not parser_ok:
             print()
             print("推荐器需要传入比赛数据，用法:")
             print("  python3 recommend.py --file <txt文件>     从文本文件读取")
             print("  python3 recommend.py --today              自动拉取今日竞彩数据")
-        except Exception as e:
-            print(f"错误: 获取数据失败 ({e})")
+            print()
+            print("或者确保 jc_titan007_parser.py 在同目录下")
+            print("=" * 70)

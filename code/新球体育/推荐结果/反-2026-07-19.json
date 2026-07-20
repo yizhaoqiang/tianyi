@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-07-19",
+  "total_matches": 5,
+  "parlays": [
+    {
+      "type": "胜平负",
+      "combo_odds": 10.76,
+      "combo_hit_rate": 0.37,
+      "hit": false,
+      "legs": [
+        {
+          "label": "周日104",
+          "result_key": "胜",
+          "hit": true,
+          "team": "西班牙-阿根廷",
+          "result": "1-0"
+        },
+        {
+          "label": "周日204",
+          "result_key": "胜",
+          "hit": false,
+          "team": "哈尔姆斯塔德-赫根",
+          "result": "0-2"
+        }
+      ],
+      "reverse": "负--负(4.38)"
+    },
+    {
+      "type": "让球",
+      "combo_odds": 11.56,
+      "combo_hit_rate": 0.18,
+      "hit": false,
+      "legs": [
+        {
+          "label": "周日205",
+          "result_key": "胜",
+          "hit": true,
+          "team": "哈马比-代格福什",
+          "handicap": "-2",
+          "result": "4-0"
+        },
+        {
+          "label": "周日104",
+          "result_key": "胜",
+          "hit": false,
+          "team": "西班牙-阿根廷",
+          "handicap": "-1",
+          "result": "1-0"
+        }
+      ],
+      "reverse": "平+负--平+负(1.88)"
+    }
+  ],
+  "matches": [
+    {
+      "match_index": 5,
+      "match_num": "104",
+      "league": "世界杯",
+      "team": "西班牙(50%)-阿根廷(70%)(2.11 2.96 3.15)",
+      "result": "1-0(0-0)",
+      "checked": true,
+      "result_key": "负(0)--让胜(0)--3球(0)--负负(0)--[1:2 0:2 0:1](0)"
+    },
+    {
+      "match_index": 4,
+      "match_num": "206",
+      "league": "芬超",
+      "team": "雅罗(20%)-图尔库国际(40%)(4.45 3.85 1.55)",
+      "result": "0-0(0-0)",
+      "checked": true,
+      "result_key": "负(0)--让负(0)--3球(0)--负负(0)--[1:2 0:1 2:3](0)"
+    },
+    {
+      "match_index": 1,
+      "match_num": "203",
+      "league": "瑞典超",
+      "team": "埃尔夫斯堡(50%)-天狼星(80%)(3.45 3.65 1.77)",
+      "result": "1-3(0-0)",
+      "checked": true,
+      "result_key": "负(1)--让负(1)--3球(0)--负负(0)--[0:1 1:2 0:2](0)"
+    },
+    {
+      "match_index": 2,
+      "match_num": "204",
+      "league": "瑞典超",
+      "team": "哈尔姆斯塔德(20%)-赫根(20%)(5.10 4.70 1.39)",
+      "result": "0-2(0-0)",
+      "checked": true,
+      "result_key": "负(1)--让胜(0)--3球(0)--负负(0)--[0:1 1:2 0:2](1)"
+    },
+    {
+      "match_index": 3,
+      "match_num": "205",
+      "league": "瑞典超",
+      "team": "哈马比(50%)-代格福什(40%)(1.13 6.10 12.50)",
+      "result": "4-0(1-0)",
+      "checked": true,
+      "result_key": "平(0)--让胜(1)--2球(0)--平平(0)--[1:1 0:0 2:2](0)"
+    }
+  ]
+}

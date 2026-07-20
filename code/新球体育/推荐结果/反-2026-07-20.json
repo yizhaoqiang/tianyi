@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-07-20",
+  "total_matches": 4,
+  "parlays": [
+    {
+      "type": "胜平负",
+      "combo_odds": 5.61,
+      "combo_hit_rate": 0.57,
+      "hit": null,
+      "legs": [
+        {
+          "label": "周一201",
+          "result_key": "胜",
+          "hit": null,
+          "team": "TPS土尔库-埃尔维斯",
+          "result": null
+        },
+        {
+          "label": "周一204",
+          "result_key": "胜",
+          "hit": null,
+          "team": "卡尔马-马尔默",
+          "result": null
+        }
+      ],
+      "reverse": "负--负(5.80)"
+    },
+    {
+      "type": "让球",
+      "combo_odds": 14.76,
+      "combo_hit_rate": 0.19,
+      "hit": null,
+      "legs": [
+        {
+          "label": "周一204",
+          "result_key": "胜",
+          "hit": null,
+          "team": "卡尔马-马尔默",
+          "handicap": "-1",
+          "result": null
+        },
+        {
+          "label": "周一203",
+          "result_key": "胜",
+          "hit": null,
+          "team": "奥尔格里特-尤尔加登",
+          "handicap": "1",
+          "result": null
+        }
+      ],
+      "reverse": "平+负--平+负(2.02)"
+    }
+  ],
+  "matches": [
+    {
+      "match_index": 1,
+      "match_num": "201",
+      "league": "芬超",
+      "team": "TPS土尔库(80%)-埃尔维斯(40%)(2.44 3.40 2.35)",
+      "result": null,
+      "checked": null,
+      "result_key": "负--让胜--3球--负负--[1:2 0:1 2:3]"
+    },
+    {
+      "match_index": 2,
+      "match_num": "202",
+      "league": "芬超",
+      "team": "玛丽港(0%)-拉赫蒂(30%)(5.25 4.10 1.44)",
+      "result": null,
+      "checked": null,
+      "result_key": "负--让负--3球--负负--[1:2 0:1 2:3]"
+    },
+    {
+      "match_index": 4,
+      "match_num": "204",
+      "league": "瑞典超",
+      "team": "卡尔马(33%)-马尔默(60%)(2.30 3.45 2.47)",
+      "result": null,
+      "checked": null,
+      "result_key": "负--让胜--3球--负负--[0:2 1:2 0:1]"
+    },
+    {
+      "match_index": 3,
+      "match_num": "203",
+      "league": "瑞典超",
+      "team": "奥尔格里特(40%)-尤尔加登(50%)(6.60 5.25 1.27)",
+      "result": null,
+      "checked": null,
+      "result_key": "负--让胜--3球--负负--[0:1 1:2 0:2]"
+    }
+  ]
+}
