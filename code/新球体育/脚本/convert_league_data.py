@@ -19,8 +19,10 @@ import re
 import json
 import time
 
-INPUT_DIR = "/Users/yzq/Desktop/sports_db/code/新球体育/联赛数据/初始数据"
-OUTPUT_DIR = "/Users/yzq/Desktop/sports_db/code/新球体育/联赛数据/转化数据"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(SCRIPT_DIR)
+INPUT_DIR = os.path.join(BASE_DIR, "联赛数据", "初始数据")
+OUTPUT_DIR = os.path.join(BASE_DIR, "联赛数据", "转化数据")
 
 # ═══════════════════════════════════════
 #  ↓↓↓ 在这里修改运行模式 ↓↓↓

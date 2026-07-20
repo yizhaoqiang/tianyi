@@ -27,7 +27,7 @@ from typing import Dict, List, Tuple
 
 import requests
 
-BASE_DIR = "/Users/yzq/Desktop/sports_db/code/新球体育/竞彩数据"
+BASE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "新球体育", "竞彩数据")
 BASE_RESULT_URL = "https://jc.titan007.com/handle/JcResult.aspx"
 START_DATE = "2026-07-17"
 END_DATE = "2026-07-17"

@@ -1,28 +1,46 @@
-# Python
+# ── Python ──────────────────────────────────
 __pycache__/
 *.pyc
 *.pyo
 *.egg-info/
+dist/
+build/
+*.egg/
 
-# Virtual environments
+# ── Virtual environments ────────────────────
 venv/
 .venv/
+env/
+.env/
 ocr_venv/
 */ocr_venv/
 
-# Database files (recreatable)
+# ── Database (recreatable) ──────────────────
 *.sqlite
 *.sqlite3
 
-# IDE
-.idea/AugmentWebviewStateStore.xml
+# ── Environment / Secrets ───────────────────
+.env
+.env.local
+.env.*.local
 
-# WorkBuddy
+# ── IDE / Editor ────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ── WorkBuddy ───────────────────────────────
 .workbuddy/
 
-# macOS
+# ── macOS ───────────────────────────────────
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
 
-# Large generated files
+# ── Generated / Output ─────────────────────
 code/ddd.html
 code/sss.html

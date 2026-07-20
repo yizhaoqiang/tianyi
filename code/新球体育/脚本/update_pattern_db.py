@@ -19,7 +19,8 @@ from collections import defaultdict
 from datetime import datetime
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = "/Users/yzq/Desktop/sports_db/code/新球体育/竞彩数据"
+BASE_DIR = os.path.dirname(SCRIPT_DIR)  # /Users/jojo/Desktop/TianyiSport/code/新球体育
+DATA_DIR = os.path.join(BASE_DIR, "竞彩数据")
 DB_PATH = os.path.join(SCRIPT_DIR, "pattern_db.sqlite")
 
 # ============ 玩法映射 ============
@@ -358,7 +359,7 @@ def compute_weight(match_date_str, ref_date=None):
 
 # ============ 转化数据解析（无赔率，从比分推导） ==========
 
-TRANSFORMED_DIR = "/Users/yzq/Desktop/sports_db/code/新球体育/联赛数据/转化数据"
+TRANSFORMED_DIR = os.path.join(BASE_DIR, "联赛数据", "转化数据")
 
 HF_CODE_FROM_SCORE = {
     "33": "3-3", "31": "3-1", "30": "3-0",
